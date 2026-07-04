@@ -23,12 +23,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second_brain/12_Private_Collection/Private Collection Commission Split.md",
+                "file": "second_brain/12_Private_Collection/Private Collection Deal Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Private Collection Commission Split"
+              "title": "Private Collection Deal Workflow"
             }
           }
         ],
@@ -215,6 +215,7 @@
   },
   "active": "2f15ee23b12e8b4c",
   "lastOpenFiles": [
+    "second_brain/12_Private_Collection/Private Collection Commission Split.md",
     "second_brain/09_Exports/Dproperty_OS_Business_Plan.md",
     "build_model.py",
     "second_brain/02_Business_Plan/Dproperty OS Business Plan.md.tmp.11916.36362d5b163d",
