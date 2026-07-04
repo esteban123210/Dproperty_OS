@@ -256,7 +256,7 @@ Create inter-franchise referrals, shared developer inventory, Dproperty Select e
 
 **Key model assumptions [VALIDATE]:** 50 units/franchise/yr, 70/30 local/Select mix, ramp 0.5→0.8 over Y1–Y5, ~$40k developer revenue/project, WL blended $12k setup / $1.8k month. Change any on the Assumptions sheet to re-run.
 
-**Sensitivity — commission rate:** if the local commission rate is 0.75% (deferred advisory basis) rather than 5%, Year 5 revenue is **$1.19M vs $1.41M** — the venture survives, because **~76% of revenue is rate-independent** (subscriptions, setup fees, developer revenue, white-label). This is the single most important robustness point in the plan.
+**Sensitivity — commission rate:** the 5%-vs-0.75% question only affects the local royalty line (Dproperty Select is HQ-negotiated at ≥5% by definition). At 0.75% local, the local royalty+fund line falls from ~$126k to ~$19k, so **Year 5 revenue is ~$1.55M vs $1.66M** — the venture barely moves, because **~93% of revenue is rate-independent** (subscriptions, setup fees, developer revenue, Dproperty Select, launch fees). This is the single most important robustness point in the plan.
 
 ## 14. Why EBITDA is negative in Years 1 and 2
 The business requires upfront investment before sufficient recurring revenue exists. Product build, legal structuring, template creation, training academy, implementation capacity, and founder salaries happen before the customer base is mature. The collected-GCI basis also delays early royalty revenue (collection lag + franchise ramp). The model turns EBITDA-positive in Year 3 when platform revenue, developer revenue, and minimum royalty floors begin to cover the fixed operating base.
@@ -309,13 +309,13 @@ This is realistic because the target is not hypergrowth. By Year 5, the plan onl
 | # | Item | Owner | Blocks |
 |---|---|---|---|
 | 1 | Commission rate: 5% vs 0.75% | Fernando / Ernesto | Everything — projections |
-| 2 | Y2 & Y4 revenue + per-year GP/OPEX from Excel model | Esteban | §13 table |
+| 2 | ✅ Built — `Financial_Model.xlsx v0.6` (2026-07-04). Remaining: **owner-validate the OPEX/staffing rows** | Esteban / Owners | §13 EBITDA |
 | 3 | JV contribution / IP split (Dproperty vs Simon entity) | Owners | §2 structure, pitch Slide 12 |
 | 4 | Miguel salary amount | Owners | §2, §15 budget |
 | 5 | Model assumptions: 70/30 mix, 45% ramp, 2-yr lag, $40k/project, floor amount | Esteban | §12, §13 |
 | 6 | Y3–5 staffing plan behind EBITDA range | Esteban | §13 EBITDA |
 | 7 | Minimum royalty floor amount ($750/mo placeholder) | Owners | §5.1 |
-| 8 | **Recalculate Y1–Y5 with $30k/$40k launch fee + Dproperty Select fixed payout** | Esteban | §13 |
+| 8 | ✅ Done — recalculated in model v0.6 with $30k/$40k fee + Select fixed payout | Esteban | §13 |
 | 9 | Definition of "5 successful franchises" (fee step trigger) | Owners | §5.1 |
 | 10 | Does the franchisee pay royalty on Dproperty Select earnings? (default: no) | Owners | §6, §12 |
 | 11 | Confirm Keller Williams benchmark figures (~$35k fee, $150k cash, 6%) | Esteban | §5.1 |

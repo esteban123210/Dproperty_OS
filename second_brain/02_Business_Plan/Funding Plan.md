@@ -17,7 +17,12 @@ This should be positioned as an internal venture budget funded by the existing D
 
 ## Baseline Budget
 
-Approximately $650,000 over 24 months.
+Headline frame: **$650,000 over 24 months**. Actual 24-month cost base including the
+Miguel salary placeholder is **~$734,000** (see Business Plan §15). The model (v0.6)
+shows cumulative EBITDA is negative through Year 2 (~-$358k Y1, ~-$192k Y2), so the
+build-phase funding requirement is roughly this cost base net of early revenue — around
+**$550k–$650k of net cash need across Years 1–2** before the business self-funds from
+Year 3. Confirm against `Dproperty_OS_Financial_Model.xlsx v0.6`.
 
 ## Tranche 1 — $350,000
 
