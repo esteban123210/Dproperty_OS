@@ -67,9 +67,9 @@ Explain launch fee ($30,000 founding / $40,000 after 5 successful franchises), m
 
 Dproperty OS is your operating platform for clients, brokers, projects, deals, documents, projections, training, and reporting.
 
-### 9. How Private Collection Works
+### 9. How Dproperty Select Works
 
-Private Collection is HQ-controlled curated inventory. Franchisees may present it under rules, with a 50/50 gross commission split between HQ and franchise.
+Dproperty Select (formerly Private Collection) is HQ-controlled curated inventory. Franchisees may present it under rules and earn a fixed **2.5% of sale price**; HQ retains the balance of the negotiated commission and keeps any upside above the 5% modelled rate.
 
 ### 10. First 30 Days
 
