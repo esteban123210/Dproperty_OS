@@ -41,13 +41,18 @@ Dproperty gives the franchisee:
 - HQ support.
 - Reporting and accountability.
 
-## Baseline Economics
+## Baseline Economics (revised 2026-07-04)
 
-- Launch fee: $15,000.
+- Launch fee: **$30,000 founding; $40,000 after 5 successful franchises**.
 - OS fee: $1,000/month.
-- Royalty on local GCI: 6%.
-- Brand/network fee: 1.5%.
-- Private Collection: 50/50 gross commission split with HQ.
+- Royalty on **collected** local GCI: 6%.
+- Network & Brand Fund: 1.5% (renamed from brand/network fee).
+- Total on local business: 7.5% on collected GCI.
+- Dproperty Select: **2.5% of sale price** to the franchisee (replaces the 50/50 split).
+
+## Investment Priority
+
+Branded franchises carry investment priority: they are oriented to investors, Dproperty Select access, cross-border investment, and feeding the HQ opportunity funnel. Governing rule: **the Dproperty brand goes where there is investment potential; the system can go anywhere.**
 
 ## First Franchise Package Must Include
 
@@ -60,7 +65,7 @@ Dproperty gives the franchisee:
 - Training academy.
 - CRM setup.
 - Dproperty OS workspace.
-- Private Collection rules.
+- Dproperty Select rules.
 - Legal templates.
 - Reporting templates.
 - Welcome kit.

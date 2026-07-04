@@ -19,9 +19,9 @@ Revenue sources:
 
 - Launch fee.
 - Monthly OS fee.
-- Royalty on local gross commission income.
-- Brand/network marketing fee.
-- Private Collection 50/50 commission split.
+- Royalty on **collected** local gross commission income (6%).
+- Network & Brand Fund (1.5%).
+- Dproperty Select: franchisee earns 2.5% of sale price (HQ keeps the balance + upside).
 - Optional additional services.
 
 Target customer:
@@ -44,7 +44,7 @@ Target customer:
 
 - Existing boutique agency.
 - Wants better systems but wants to keep its own brand.
-- Does not automatically access Dproperty Private Collection.
+- Does not automatically access Dproperty Select; if participating, earns 2.0% of sale price.
 
 ## 3. Developer Sales OS
 

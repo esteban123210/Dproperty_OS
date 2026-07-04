@@ -59,6 +59,8 @@ Growth:
 - $20,000 setup.
 - $2,500/month.
 
+Monthly OS fee is positioned **higher than branded**, because white-label builds no Dproperty brand value. GoHighLevel is resold with margin per client.
+
 ## Strategic Restriction
 
-White-label clients should not automatically receive access to Dproperty Private Collection. That access should remain a differentiator for branded franchises or be offered only under special terms.
+White-label clients do **not** automatically receive access to Dproperty Select (formerly Private Collection). That access remains a differentiator for branded franchises. If a white-label partner participates in a Dproperty Select deal, the payout is **2.0% of sale price** (vs 2.5% for branded) — a deliberate strategic gap. Branded gets the brand and the investment upside; white-label gets the system.
