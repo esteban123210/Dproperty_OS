@@ -96,15 +96,20 @@ Dproperty OS is a real-estate-specific operating platform that includes:
 The franchisee operates under Dproperty. They receive the brand, OS, training, standards, project access, and Private Collection participation.
 
 Pricing:
-- $15,000 launch fee.
+- **Launch fee: $30,000 (founding); $40,000 after 5 successful franchises.** [VALIDATE — define "successful"]
 - $1,000/month OS fee.
 - **6% royalty on COLLECTED gross commission income** (collected-GCI basis, per Decision 2026-07-02).
-- **1.5% brand/network fee on collected GCI.**
+- **1.5% Network & Brand Fund on collected GCI** (renamed from "brand/network fee").
+- **Total on local business: 7.5% on collected GCI.**
 - **Minimum royalty floor: $750/month [VALIDATE — placeholder amount] from month 7, creditable against percentage royalty.**
 - GoHighLevel: resold as a sub-account with margin (no longer "at cost").
-- Private Collection: 50/50 commission split between HQ and franchise, plus 3% royalty and 1% network fee on the franchise half.
+- **Dproperty Select payout to franchisee: 2.5% of sale price** (replaces the former 50/50 split — see §6).
 
-**Collection-basis rationale:** the franchise playbook targets fast-collecting local sales. Deferred LATAM pre-construction commissions route through the HQ-controlled Private Collection rather than the standard royalty line, to protect franchise cash flow and HQ quality control.
+**What the $30k/$40k launch fee covers:** brand-use right, franchise onboarding, Dproperty OS setup, CRM/GoHighLevel setup, pipeline configuration, operating manuals, training/academy, welcome kit, brand assets, sales & presentation templates, reporting structure, Dproperty + Dproperty Select methodology training, first 90-day plan, and HQ launch support. It signals entry into a boutique operating system, not a cheap licence.
+
+**Benchmark basis:** Keller Williams references ~$35k initial fee, 6% royalty on GCI, ~$150k minimum cash to open [VALIDATE]; Engel & Völkers ~$35k (Americas) to €42,500 (Europe) with 3.75%–12.5% royalty. Dproperty lacks their scale but sells a complete system, so $30k founding / $40k mature is defensible.
+
+**Collection-basis rationale:** the franchise playbook targets fast-collecting local sales. Deferred LATAM pre-construction commissions route through the HQ-controlled Dproperty Select rather than the standard royalty line, to protect franchise cash flow and HQ quality control.
 
 ### 5.2 White-label OS
 Boutique agencies keep their own brand but run on Dproperty’s operating system.
@@ -113,7 +118,9 @@ Pricing:
 - Starter: $10,000 setup + $1,500/month.
 - Growth: $20,000 setup + $2,500/month.
 - Enterprise: $50,000+ setup + $5,000+/month.
+- Monthly OS fee positioned **higher than branded**, because white-label builds no Dproperty brand value.
 - Plus GoHighLevel sub-account resale margin per client.
+- **No automatic Dproperty Select access.** If participating: **2.0% of sale price** (vs 2.5% for branded — see §5.4).
 
 ### 5.3 Developer Sales OS
 Developers use Dproperty to train, structure, manage, and monitor project sales.
@@ -125,12 +132,23 @@ Pricing:
 
 Per-project revenue varies widely with project size and sales mix (see the illustrative $15M example in Section 12). For **aggregate five-year projections the model uses a conservative blended assumption of ~$40k of Dproperty revenue per project [MODEL v0.5 / VALIDATE]**, not the high-end single-project illustration.
 
-## 6. Dproperty Private Collection
-Dproperty Private Collection is a controlled HQ-managed portfolio of premium, investor-ready projects. It preserves Dproperty’s existing Panama business and ensures that high-end investor opportunities are handled by senior HQ managers.
+### 5.4 Strategic difference: branded vs white-label
+Branded and white-label are **not the same product with a different logo**. Dproperty branded franchises carry **investment priority**: they are oriented to investors, select-project access, Dproperty Select participation, cross-border investment, high-capacity clients, and feeding the HQ opportunity funnel. White-label focuses on local boutique operation, transactional efficiency, and internal process improvement (CRM, OS, templates, reports, training) with lower access to the select portfolio and lower Dproperty Select upside (2.0% vs 2.5%).
+
+**Governing rule: the Dproperty brand goes where there is investment potential; the system can go anywhere.** This also guides which markets should be branded vs white-label.
+
+## 6. Dproperty Select (formerly Private Collection)
+Dproperty Select is a controlled HQ-managed portfolio of premium, investor-ready projects. It preserves Dproperty’s existing Panama business and ensures that high-end investor opportunities are handled by senior HQ managers.
+
+**Economics (revised 2026-07-04 — replaces the 50/50 split):** HQ pays the originator a **fixed percentage of sale price**, not a share of commission:
+- Branded franchise originator: **2.5% of sale price.**
+- White-label partner originator: **2.0% of sale price.**
+
+**Projection assumption:** always model Dproperty Select at **5% total commission**. If HQ negotiates 6%–8% on a select project, the originator payout stays fixed and **HQ captures the upside** — so projections are never inflated by optimistic commission assumptions. At exactly 5% the branded payout equals the old 50/50 ($7,500 on a $300k unit); above 5% the fixed-percentage structure is strictly better for HQ.
 
 Rule:
-- Local franchise inventory: franchise keeps commission and pays royalty/network fee.
-- Private Collection inventory: HQ and franchise split gross commission 50/50, with HQ maintaining quality control.
+- Local franchise inventory: franchise keeps commission and pays royalty/Network & Brand Fund.
+- Dproperty Select inventory: HQ retains control of developer relationships, materials, pricing, projections and negotiation; the originator earns a fixed % of sale price.
 
 ## 7. Market sizing
 
@@ -211,15 +229,20 @@ Create inter-franchise referrals, shared developer inventory, Private Collection
 
 | Model | Core assumption | Dproperty revenue logic | Example Dproperty revenue |
 |---|---|---|---|
-| Branded franchise - local sale | $300k unit, 5% commission = $15k GCI **[VALIDATE — see §16 rate conflict]** | 6% royalty + 1.5% network fee on collected GCI | $1,125 per unit |
-| Private Collection sale | $300k unit, 5% commission = $15k GCI | 50/50 HQ-franchise split + 3% royalty + 1% network fee on franchise half | HQ $7,800 / franchise $7,200 per unit |
+| Branded franchise - local sale | $300k unit, 5% commission = $15k GCI **[VALIDATE — see §16 rate conflict]** | 6% royalty + 1.5% Network & Brand Fund on collected GCI | $1,125 per unit |
+| Dproperty Select - branded | $300k unit, model at 5% = $15k GCI | Franchisee 2.5% of sale price; HQ keeps remainder; upside >5% to HQ | HQ $7,500 / franchise $7,500 per unit |
+| Dproperty Select - white-label | $300k unit, model at 5% = $15k GCI | Partner 2.0% of sale price; HQ keeps remainder | HQ $9,000 / partner $6,000 per unit |
 | White-label starter | $10k setup + $1.5k/month + GHL resale margin | Platform/implementation revenue + recurring + CRM margin | ~$28k launch-year / ~$18k recurring (+ GHL margin) |
 | Developer Sales OS (illustrative high case) | $15M project, 40 team sales + 10 Dproperty/network sales | 0.5% team + 2.5% network | $135k (single large project — illustrative only) |
 | Developer Sales OS (model blended) | Average project across portfolio | Conservative blended | **~$40k per project [MODEL v0.5]** |
 
 > The $135k figure is an illustrative ceiling for a large project. Aggregate projections in Section 13 use the conservative ~$40k/project blended assumption.
 
-## 13. Five-year financial projection **[MODEL v0.5 — collected-GCI basis]**
+## 13. Five-year financial projection **[MODEL v0.5 — collected-GCI basis] [RECALC — new fee & Select payout]**
+
+> **Recalculation required (2026-07-04):** the figures below predate the $30k/$40k launch
+> fee and the Dproperty Select fixed-payout change. Launch-fee revenue rises; Select
+> revenue mix shifts. Re-run in `Dproperty_OS_Financial_Model.xlsx` before use.
 
 | Year | Branded Franchises EOY | White-label EOY | Developer Projects/Yr | Revenue | EBITDA |
 |---|---:|---:|---:|---:|---:|
