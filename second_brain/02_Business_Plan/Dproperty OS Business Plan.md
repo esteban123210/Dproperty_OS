@@ -20,6 +20,12 @@ tags: [business-plan]
 > are current-model outputs and are marked **[MODEL v0.5]**; unconfirmed items are
 > marked **[VALIDATE]** and listed in the Validation Register (Section 19). This plan is
 > not investor-final until those clear.
+>
+> **Pricing revision (2026-07-04b):** Franchise launch fee raised to a staged **$30k/$40k**;
+> "brand/network fee" renamed **Network & Brand Fund**; **Private Collection renamed
+> Dproperty Select** and moved from a 50/50 gross split to a **fixed % of sale price**
+> (2.5% branded / 2.0% white-label). Projection tables (§13) require recalculation for
+> the new fee and Select payout — flagged **[RECALC]**.
 
 ## 1. Executive summary
 Dproperty OS & Network is a proposed venture that converts Dproperty’s boutique real estate know-how into a scalable operating platform. The venture will serve three customer types: branded franchise operators, white-label boutique agencies, and developers needing professional sales infrastructure.
