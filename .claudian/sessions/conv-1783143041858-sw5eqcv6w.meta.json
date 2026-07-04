@@ -1,0 +1,23 @@
+{
+  "id": "conv-1783143041858-sw5eqcv6w",
+  "providerId": "claude",
+  "title": "Start business plan work session",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783143041859,
+  "updatedAt": 1783143464898,
+  "lastResponseAt": 1783143464898,
+  "sessionId": "b8acbbb3-3042-43de-ae75-2734ab59ce6b",
+  "providerState": {
+    "providerSessionId": "b8acbbb3-3042-43de-ae75-2734ab59ce6b"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 10435,
+    "cacheReadInputTokens": 99231,
+    "contextWindow": 1000000,
+    "contextTokens": 109668,
+    "percentage": 11,
+    "contextWindowIsAuthoritative": true
+  }
+}
