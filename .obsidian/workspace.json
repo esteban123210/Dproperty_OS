@@ -16,23 +16,8 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
-          },
-          {
-            "id": "7ede42d371607666",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "something.md.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "something.md"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -105,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "something.md.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for something.md"
+              "title": "Backlinks"
             }
           },
           {
@@ -124,12 +108,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "something.md.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from something.md"
+              "title": "Outgoing links"
             }
           },
           {
@@ -167,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "something.md.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of something.md"
+              "title": "Outline"
             }
           },
           {
@@ -185,9 +167,19 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
+          },
+          {
+            "id": "0cab61b4f641215e",
+            "type": "leaf",
+            "state": {
+              "type": "claudian-view",
+              "state": {},
+              "icon": "bot",
+              "title": "Claudian"
+            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 6
       }
     ],
     "direction": "horizontal",
@@ -202,11 +194,13 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "7ede42d371607666",
+  "active": "0cab61b4f641215e",
   "lastOpenFiles": [
+    "install.cmd",
     "something.md.md",
     "this is a trial"
   ]
