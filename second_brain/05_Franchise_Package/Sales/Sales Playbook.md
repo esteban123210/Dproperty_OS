@@ -57,9 +57,9 @@ Hi [Name], I wanted to share something I am building/launching with Dproperty. W
 
 Thanks for the interest. The best next step is not to send random listings, but to understand what kind of opportunity would actually make sense for you. We can do a short call and I can explain how Dproperty works.
 
-### Private Collection Introduction
+### Dproperty Select Introduction
 
-Some opportunities are part of Dproperty's Private Collection. These are curated by HQ and handled with a more controlled process because of the nature of the projects and investor relationships.
+Some opportunities are part of Dproperty Select (formerly Private Collection). These are curated by HQ and handled with a more controlled process because of the nature of the projects and investor relationships.
 
 ## Weekly Sales Routine
 

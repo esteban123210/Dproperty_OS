@@ -21,6 +21,27 @@ Last generated: 2026-07-01
 - Upload the latest Excel tracker to ChatGPT when you want this Markdown file regenerated.
 - Use this compact MD file for AI context and quick searching.
 
+## 2026-07-04 Update — Franchise Pricing Restructure & Financial Model
+
+**Decision applied (see Decision Log 2026-07-04):** launch fee $30k/$40k; royalty 6% + Network & Brand Fund 1.5% on **collected** GCI; Private Collection renamed **Dproperty Select** with fixed-% payout (2.5% branded / 2.0% white-label of sale price).
+
+**New deliverable created:**
+- `09_Exports/Dproperty_OS_Financial_Model.xlsx` **v0.6** — formula-driven model (README/Assumptions/Model). Status: Draft, OPEX rows need owner validation. Outputs: Y1 $87k → Y5 $1.66M revenue; EBITDA positive Y3 (~$35k) → Y5 (~$693k).
+
+**Updated this session (Business Plan workstream):**
+- DP-006 Business Plan → v0.9 (In Review). Pricing/Select/model aligned.
+- Pricing Model, Unit Economics, Conservative 5-Year Plan, Funding Plan → v0.6.
+- Strategy: Franchise / White-Label / Private Collection / Business Model Overview → updated.
+- Dproperty Select notes (Guide, Commission Split, Deal Workflow) → v0.6.
+- Franchise Onboarding PDF, Sales Playbook → updated.
+- Decision Log, Open Questions → updated.
+
+**Still needs update (next session):**
+- DP-007 Pitch Deck / `03_Pitch/Pitch_Deck_Content.md` — pricing & revenue slides still show old numbers.
+- AI Handoff Pack (01 Context Brief, 02 Decision Log, 03 Open Questions, 05 Current Priorities, 06 Tracker, 07 Closeout) — sync to 00_Index versions.
+- `09_Exports/Dproperty_OS_Business_Plan.md` — regenerate from canonical (stale hand-copy).
+- **New task:** validate financial model OPEX/staffing; confirm 5% vs 0.75% commission (Fernando/Ernesto).
+
 ## Status Summary
 
 - Not Started: 264

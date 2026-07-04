@@ -4,20 +4,20 @@
   "title": "Start business plan work session",
   "titleGenerationStatus": "success",
   "createdAt": 1783143041859,
-  "updatedAt": 1783146736168,
-  "lastResponseAt": 1783146736168,
+  "updatedAt": 1783187898151,
+  "lastResponseAt": 1783187898151,
   "sessionId": "b8acbbb3-3042-43de-ae75-2734ab59ce6b",
   "providerState": {
     "providerSessionId": "b8acbbb3-3042-43de-ae75-2734ab59ce6b"
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 0,
-    "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1358,
+    "cacheReadInputTokens": 205576,
     "contextWindow": 1000000,
-    "contextTokens": 0,
-    "percentage": 0,
+    "contextTokens": 206936,
+    "percentage": 21,
     "contextWindowIsAuthoritative": true
   }
 }
