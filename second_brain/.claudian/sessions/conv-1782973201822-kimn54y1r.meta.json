@@ -1,0 +1,22 @@
+{
+  "id": "conv-1782973201822-kimn54y1r",
+  "providerId": "claude",
+  "title": "what day is today",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1782973201829,
+  "updatedAt": 1782973322057,
+  "lastResponseAt": 1782973205562,
+  "sessionId": "cfa2d883-adf1-4829-9baf-28cba9fa9942",
+  "providerState": {
+    "providerSessionId": "cfa2d883-adf1-4829-9baf-28cba9fa9942"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 0,
+    "cacheCreationInputTokens": 0,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 0,
+    "percentage": 0
+  }
+}

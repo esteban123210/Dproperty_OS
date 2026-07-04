@@ -1,0 +1,88 @@
+---
+project: Dproperty OS
+title: "ChatGPT - Session Closeout Prompt"
+type: template
+status: Baseline Created
+owner: Esteban
+last_updated: 2026-07-01
+source: ChatGPT baseline vault package
+tags: [template, ai]
+---
+
+# ChatGPT - Session Closeout Prompt
+
+Use this at the end of every work session.
+
+```text
+I am finishing this work session for the Dproperty OS project. Act as my project closeout assistant.
+
+Based on everything we worked on in this session, generate a clear shutdown checklist so I can save everything properly before disconnecting.
+
+Please include:
+
+1. Session Summary
+- What we worked on
+- What was created or changed
+- The main decisions made
+- Any assumptions added or changed
+
+2. Files to Save
+- List every document, file, note, spreadsheet, deck, image, or asset created or updated
+- For each one, tell me:
+  - Recommended file name
+  - Recommended folder path in Obsidian
+  - Recommended folder path in SharePoint/Drive
+  - File type
+  - Current status: draft, needs review, needs design, final, archived
+
+3. Obsidian Updates
+- Which notes I should create or update
+- What should go in the Master Index
+- What should go in the Decision Log
+- What should go in Open Questions
+- What should go in the Source Map
+- Which notes should be linked to each other
+
+4. Deliverables Tracker Updates
+- Which tracker rows should be updated
+- New status for each deliverable
+- Owner
+- Priority
+- Next action
+- Due date if relevant
+- Dependencies
+- File link/location to paste into the tracker
+
+5. External Storage Updates
+- Which files should go into SharePoint/Drive instead of Obsidian
+- Which files should go into Figma, Canva, PowerPoint, Excel, or another tool
+- Which final/heavy files should only be linked from Obsidian
+
+6. Version Control
+- What version number each file should have
+- Whether anything should be renamed
+- Whether an older version should be archived
+
+7. Open Questions
+- Questions that remain unresolved
+- Questions I need to ask the Dproperty owners, legal advisor, designer, developer, or team
+
+8. Next Session Plan
+- The best next task to work on
+- What I should open first next time
+- What context I should paste back into ChatGPT or Claude
+- Any files I should upload next time
+
+9. Final 10-Minute Shutdown Checklist
+- A concise checklist I can follow immediately before closing my laptop
+- Make it practical and ordered step by step
+
+Return the answer in a format that I can paste directly into Obsidian as:
+00_Index/Meeting Notes/YYYY-MM-DD - Work Session Closeout.md
+
+Also include suggested updates for:
+- 00_Index/Decision Log.md
+- 00_Index/Open Questions.md
+- 00_Index/Dproperty OS - Master Index.md
+- Dproperty_OS_Deliverables_Tracker.xlsx
+```
