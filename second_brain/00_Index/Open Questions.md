@@ -44,13 +44,22 @@ This file tracks unresolved issues.
 - How much of Dproperty's existing internal process can be shared with franchisees?
 - What support level is included versus paid extra?
 
-## Private Collection
+## Dproperty Select (formerly Private Collection)
 
-- Which existing Dproperty projects qualify for Private Collection?
+- Which existing Dproperty projects qualify for Dproperty Select?
 - Who approves client registration?
-- What exact steps trigger the 50/50 split?
+- What exact steps trigger the fixed-% payout (2.5% branded / 2.0% white-label of sale price)?
+- **Does the franchisee pay any royalty/Network fee on Dproperty Select earnings? (Default assumption: no.)** [NEW 2026-07-04]
 - What happens if a franchisee introduces a client and HQ closes months later?
 - How are disputes over client ownership handled?
+
+## Pricing & Naming (NEW 2026-07-04)
+
+- Confirm: should "Private Collection" be fully renamed to **Dproperty Select** everywhere, including folder/file names? (Content updated; folders not yet renamed to avoid breaking wikilinks.)
+- How is "5 successful franchises" defined for the $30k → $40k launch-fee step?
+- Confirm the minimum royalty floor amount ($750/mo is a placeholder).
+- Validate the financial model (v0.6) OPEX/staffing rows — currently planning estimates; Year 3 breakeven is thin (~$35k) and depends on them.
+- Confirm Keller Williams benchmark figures used in the pricing rationale (~$35k fee, $150k cash, 6% royalty).
 
 ## White-label
 
@@ -93,5 +102,5 @@ This file tracks unresolved issues.
 - Do they want to build this as an internal tool only, or as a new scalable business?
 - Are they willing to fund a dedicated venture lead salary?
 - Are they open to giving equity in a NewCo?
-- Which existing Dproperty assets can be used in the franchise/Private Collection package?
+- Which existing Dproperty assets can be used in the franchise/Dproperty Select package?
 - Which markets/countries would they want to test first?
