@@ -105,3 +105,38 @@ This note records decisions that should not be re-opened accidentally in future 
 **Impacted Areas:** Ownership & Governance / Founder Pitch
 
 **Status:** Active. OPEN: contribution/IP split between Dproperty and Simon's entity; future-hire dilution mechanism.
+
+## 2026-07-04 — Rename: Private Collection → Dproperty Select
+
+**Decision:** The Private Collection is renamed **Dproperty Select** as the commercial/operating name. "Private Collection" may be referenced as the former name for continuity.
+
+**Reason:** More commercial, brandable name for the curated HQ portfolio.
+
+**Impacted Areas:** Business Plan / Pitch / Strategy / Franchise Package / Private Collection notes / AI Handoff Pack.
+
+**Status:** Active. NOTE: folder `12_Private_Collection/` and file names not yet renamed (renaming breaks wikilinks); content updated to "Dproperty Select." Folder rename is a separate decision.
+
+## 2026-07-04 — Franchise Pricing Restructure
+
+**Decision:**
+- Franchise **launch fee: $30,000 founding, rising to $40,000 after 5 successful franchises** (was $15k).
+- Royalty **6% + Network & Brand Fund 1.5% = 7.5%**, charged on **collected** GCI (not signed).
+- "Brand/network fee" renamed **Network & Brand Fund**.
+- **Dproperty Select payout changed from a 50/50 gross commission split to a fixed % of sale price: 2.5% for branded franchises, 2.0% for white-label.**
+- Dproperty Select projections always modelled at **5% total commission**; any negotiated upside above 5% is retained by HQ.
+
+**Reason:** Benchmarking vs Keller Williams and Engel & Völkers ($30k–$40k is more defensible than $15k for a complete system); collected-GCI basis is fairer and more realistic for LATAM cash flow; fixed-% Select payout is predictable for the franchisee and preserves HQ negotiation upside.
+
+**Impacted Areas:** Business Plan, Pricing Model, Unit Economics, Conservative 5-Year Plan, Funding Plan, Franchise Package, Pitch Deck, Financial Model.
+
+**Status:** Active. BLOCKS: financial projections must be recalculated in `Dproperty_OS_Financial_Model.xlsx`. OPEN: definition of "successful franchise"; whether franchisee pays royalty on Select earnings (default: no).
+
+## 2026-07-04 — Branded vs White-label Strategic Differentiation
+
+**Decision:** Dproperty branded franchises have **investment priority** (investors, select-project access, Dproperty Select, cross-border, HQ funnel) and higher Select upside (2.5%). White-label focuses on local operational efficiency with lower select access and 2.0% Select payout. **Governing rule: the Dproperty brand goes where there is investment potential; the system can go anywhere.**
+
+**Reason:** Branded and white-label must not be the same product with a different logo; the brand should be deployed where it creates strategic investment value.
+
+**Impacted Areas:** Strategy, Business Plan, Pitch, Franchise/White-label positioning.
+
+**Status:** Active.

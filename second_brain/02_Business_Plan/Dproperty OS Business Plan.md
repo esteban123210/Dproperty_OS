@@ -205,7 +205,7 @@ Launch with:
 Focus on Panama, Colombia, Dominican Republic, Mexico, Miami, and Spain through warm networks and developer/broker referrals. The sales playbook prioritises **fast-collecting local sales** to support the collected-GCI royalty model; deferred pre-construction inventory is routed through Private Collection.
 
 ### Phase 4 — Platform/network effects
-Create inter-franchise referrals, shared developer inventory, Private Collection expansion, and benchmark dashboards.
+Create inter-franchise referrals, shared developer inventory, Dproperty Select expansion, and benchmark dashboards.
 
 ## 11. Operating model and governance
 
@@ -291,7 +291,7 @@ Tranche logic: Tranche 1 (~$350k) builds MVP, legal foundation, manuals, pitch, 
 | Developer projects underperform | Monthly minimums creditable against success fees. |
 | White-label clients copy the system | Strong IP, data, template, and reverse-engineering protections. |
 | Operational support burden grows | Build training academy, certification, and customer-success processes early; HQ support cost per franchise still unknown. |
-| Private Collection quality dilution | HQ senior managers retain control of curated inventory. |
+| Dproperty Select quality dilution | HQ senior managers retain control of curated inventory. |
 
 ## 17. Exit strategy
 Potential outcomes:
@@ -301,7 +301,7 @@ Potential outcomes:
 - Long-term cash-flow/dividend business.
 
 ## 18. Strategic conclusion
-This is realistic because the target is not hypergrowth. By Year 5, the plan only assumes five branded franchises, twenty white-label agencies, and fifteen developer projects, reaching ~$1.41M revenue on a conservative collected basis. The business creates a scalable venture while also improving Dproperty’s current operations, protecting Private Collection inventory, and opening a path toward franchise expansion.
+This is realistic because the target is not hypergrowth. By Year 5, the plan only assumes five branded franchises, twenty white-label agencies, and fifteen developer projects, reaching ~$1.41M revenue on a conservative collected basis (pending recalculation for the new fee structure). The business creates a scalable venture while also improving Dproperty’s current operations, protecting Dproperty Select inventory, and opening a path toward franchise expansion.
 
 ## 19. Validation Register (must clear before investor-final v1.0)
 | # | Item | Owner | Blocks |
@@ -313,6 +313,10 @@ This is realistic because the target is not hypergrowth. By Year 5, the plan onl
 | 5 | Model assumptions: 70/30 mix, 45% ramp, 2-yr lag, $40k/project, floor amount | Esteban | §12, §13 |
 | 6 | Y3–5 staffing plan behind EBITDA range | Esteban | §13 EBITDA |
 | 7 | Minimum royalty floor amount ($750/mo placeholder) | Owners | §5.1 |
+| 8 | **Recalculate Y1–Y5 with $30k/$40k launch fee + Dproperty Select fixed payout** | Esteban | §13 |
+| 9 | Definition of "5 successful franchises" (fee step trigger) | Owners | §5.1 |
+| 10 | Does the franchisee pay royalty on Dproperty Select earnings? (default: no) | Owners | §6, §12 |
+| 11 | Confirm Keller Williams benchmark figures (~$35k fee, $150k cash, 6%) | Esteban | §5.1 |
 
 ## References
 - **Real estate software market:** Coherent Market Insights estimates the global real estate software market at USD 15.60B in 2026, reaching USD 39.49B by 2033 at 14.2% CAGR. Source: https://www.coherentmarketinsights.com/industry-reports/real-estate-software-market
@@ -323,5 +327,6 @@ This is realistic because the target is not hypergrowth. By Year 5, the plan onl
 - **GoHighLevel pricing:** GoHighLevel's Pro/SaaS Mode plan is listed at USD 497/month before usage-based costs. Source: https://www.gohighlevel.com/pricing
 - **Engel & Völkers franchise benchmark:** Engel & Völkers Germany lists an initial franchise fee of EUR 42,500, average total investment of EUR 250k-400k, and 12.5% royalty on net commission income. Source: https://www.engelvoelkers.com/de/en/resources/your-ideal-franchisor-in-the-real-estate-sector
 - **Engel & Völkers US benchmark:** Franchise Direct lists Engel & Völkers ongoing royalties at 6% of annual gross revenues up to USD 1M, with minimum annual royalty language. Source: https://www.franchisedirect.com/realestatefranchises/engel-volkers-franchise-05558/ufoc/
+- **Keller Williams benchmark [VALIDATE]:** Referenced initial investment ~USD 183k–337k, ~USD 150k minimum cash to open a Market Center, ~USD 35k initial franchise fee, 6% royalty on gross commission income. Figures to be confirmed against the current KW FDD before pitch use.
 - **Follow Up Boss pricing:** Follow Up Boss real estate CRM pricing starts at USD 69/user/month. Source: https://www.followupboss.com/pricing
 - **BoomTown pricing benchmark:** Software Advice lists BoomTown starting at USD 1,000/month in its comparison dataset. Source: https://www.softwareadvice.com/crm/boomtown-profile/vs/follow-up-boss/
