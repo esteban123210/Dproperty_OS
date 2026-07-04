@@ -1,19 +1,20 @@
 ---
 project: Dproperty OS
-title: "Private Collection Guide"
+title: "Dproperty Select Guide (formerly Private Collection)"
 type: private_collection_note
-status: Baseline Created
+status: In Review
+version: 0.6
 owner: Esteban
-last_updated: 2026-07-01
-source: ChatGPT baseline vault package
-tags: [private-collection]
+last_updated: 2026-07-04
+source: Updated per 2026-07-04 rename + pricing restructure
+tags: [private-collection, dproperty-select]
 ---
 
-# Private Collection Guide
+# Dproperty Select Guide (formerly Private Collection)
 
-## What Is Dproperty Private Collection?
+## What Is Dproperty Select?
 
-Dproperty Private Collection is HQ-controlled curated inventory: selected projects that require a higher degree of quality control, discretion, investor logic, and relationship management.
+Dproperty Select (formerly "Private Collection") is HQ-controlled curated inventory: selected projects that require a higher degree of quality control, discretion, investor logic, and relationship management.
 
 ## Why It Exists
 
@@ -34,24 +35,27 @@ It protects:
 - Projects with HQ/developer agreements.
 - Projects requiring controlled presentation.
 
-## Franchise Access
+## Access
 
-Franchisees may access Private Collection through the approved workflow.
+Branded franchises access Dproperty Select through the approved workflow. White-label partners do **not** get automatic access; if they participate, they earn a lower payout (see below).
 
-## Commission Split
+## Commission (revised 2026-07-04 — replaces 50/50)
 
-- 50/50 gross commission split between HQ and franchise.
-- Reduced royalty/network fee on franchise half.
+The originator earns a fixed % of sale price:
 
-## What Franchisees Cannot Do
+- **Branded franchise: 2.5% of sale price.**
+- **White-label partner: 2.0% of sale price.**
+- Projections always modelled at 5% total commission; upside above 5% retained by HQ.
+
+## What Originators Cannot Do
 
 - Modify approved materials.
 - Create unapproved projections.
-- Negotiate directly with developer.
+- Negotiate directly with the developer.
 - Bypass HQ.
 - Register clients informally.
-- Present Private Collection as unrestricted local inventory.
+- Present Dproperty Select as unrestricted local inventory.
 
 ## Approved Language
 
-"This opportunity is part of Dproperty's Private Collection, which means it is managed directly with HQ and follows a more controlled process."
+"This opportunity is part of Dproperty Select, which means it is managed directly with HQ and follows a more controlled process."

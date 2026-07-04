@@ -1,21 +1,22 @@
 ---
 project: Dproperty OS
-title: "Private Collection Strategy"
+title: "Dproperty Select Strategy (formerly Private Collection)"
 type: strategy_note
-status: Baseline Created
+status: In Review
+version: 0.6
 owner: Esteban
-last_updated: 2026-07-01
-source: ChatGPT baseline vault package
-tags: [strategy]
+last_updated: 2026-07-04
+source: Updated per 2026-07-04 rename + pricing restructure
+tags: [strategy, dproperty-select]
 ---
 
-# Private Collection Strategy
+# Dproperty Select Strategy (formerly Private Collection)
 
-Dproperty Private Collection is the HQ-controlled portfolio of curated premium or strategic inventory.
+Dproperty Select is the HQ-controlled portfolio of curated premium or strategic inventory.
 
 ## Why It Exists
 
-Private Collection protects:
+Dproperty Select protects:
 
 - Quality.
 - Relationships.
@@ -36,26 +37,22 @@ HQ controls:
 - Sensitive negotiation.
 - Final process standards.
 
-## Franchise Access
+## Access & Economics (revised 2026-07-04)
 
-Franchisees can access Private Collection under rules.
+Branded franchises access Dproperty Select under rules and earn a fixed **2.5% of sale price**. White-label partners have no automatic access; if they participate they earn **2.0% of sale price**. HQ retains the balance and keeps any negotiated upside above the 5% modelled commission.
 
-Baseline economics:
-
-- Gross commission split 50/50 between HQ and franchise.
-- Reduced royalty/network fee applies to franchise's half.
-- HQ may control the client handoff/process.
+The old 50/50 gross split is retired: a fixed % of sale price is predictable for the originator and protects HQ's negotiation upside on premium projects.
 
 ## Restrictions
 
-Franchisees cannot:
+Originators cannot:
 
 - Change project materials without approval.
 - Create unapproved projections.
 - Negotiate directly with developers without HQ.
 - Claim client ownership without registration.
-- Represent Private Collection as their own local inventory.
+- Represent Dproperty Select as their own local inventory.
 
 ## Strategic Role
 
-Private Collection is one of the most important moats of the branded franchise system.
+Dproperty Select is one of the most important moats of the branded franchise system, and a core reason branded franchises carry investment priority over white-label (higher Select payout, deeper access).
