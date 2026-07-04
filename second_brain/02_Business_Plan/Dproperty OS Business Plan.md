@@ -32,7 +32,7 @@ Dproperty OS & Network is a proposed venture that converts Dproperty’s boutiqu
 
 The central thesis is that boutique real estate players do not want to become mass-market chains, but they need institutional-grade operations: controlled documents, broker agreements, sales process, projection tools, training, dashboards, compliance, and project intelligence.
 
-The proposed five-year target is deliberately conservative: five branded franchises, twenty white-label agencies, and fifteen developer partnerships/projects. On a **collected-GCI basis [MODEL v0.5]**, revenue reaches approximately **$1.41M** in Year 5, with EBITDA turning positive in **Year 3 (~$324k)** and reaching a **Year 5 range of $600k–$1.0M** (range, not point estimate, because the Year 3–5 staffing plan does not yet exist — see Section 19).
+The proposed five-year target is deliberately conservative: five branded franchises, twenty white-label agencies, and fifteen developer partnerships/projects. On a **collected-GCI basis [MODEL v0.6]**, revenue reaches approximately **$1.66M** in Year 5. EBITDA is negative in Years 1–2 (build phase), turns **positive in Year 3 (~$35k, thin)**, and reaches **~$693k by Year 5**. EBITDA depends on the operating-cost plan, which is currently a set of editable planning estimates in `Dproperty_OS_Financial_Model.xlsx v0.6` — see Section 19.
 
 ## 2. Company structure and ownership
 The venture is sponsored by the two owners — **Luz Adriana** (Dproperty) and **Simon** (Simon’s entity) — with two operating co-founders, **Esteban** and **Miguel**.
@@ -238,21 +238,23 @@ Create inter-franchise referrals, shared developer inventory, Dproperty Select e
 
 > The $135k figure is an illustrative ceiling for a large project. Aggregate projections in Section 13 use the conservative ~$40k/project blended assumption.
 
-## 13. Five-year financial projection **[MODEL v0.5 — collected-GCI basis] [RECALC — new fee & Select payout]**
+## 13. Five-year financial projection **[MODEL v0.6 — collected-GCI basis, new pricing]**
 
-> **Recalculation required (2026-07-04):** the figures below predate the $30k/$40k launch
-> fee and the Dproperty Select fixed-payout change. Launch-fee revenue rises; Select
-> revenue mix shifts. Re-run in `Dproperty_OS_Financial_Model.xlsx` before use.
+> Source: `09_Exports/Dproperty_OS_Financial_Model.xlsx v0.6` (built 2026-07-04). Revenue
+> is formula-driven off the Assumptions sheet. **OPEX rows are editable planning estimates**
+> (not yet owner-validated), so EBITDA below is indicative.
 
-| Year | Branded Franchises EOY | White-label EOY | Developer Projects/Yr | Revenue | EBITDA |
-|---|---:|---:|---:|---:|---:|
-| 1 | 0 | 2 | 1 | $129,000 | Negative |
-| 2 | 1 | 5 | 3 | **[VALIDATE — from model]** | Negative/near-breakeven |
-| 3 | 2 | 10 | 6 | $673,000 | ~+$324,000 |
-| 4 | 3 | 15 | 10 | **[VALIDATE — from model]** | Positive |
-| 5 | 5 | 20 | 15 | ~$1,410,000 | $600k–$1.0M (range) |
+| Year | Branded EOY | WL EOY | Dev Projects/Yr | Revenue | OPEX | EBITDA |
+|---|---:|---:|---:|---:|---:|---:|
+| 1 | 0 | 2 | 1 | $86,800 | $445,000 | ($358,200) |
+| 2 | 1 | 5 | 3 | $317,962 | $510,000 | ($192,038) |
+| 3 | 2 | 10 | 6 | $680,269 | $645,000 | +$35,269 |
+| 4 | 3 | 15 | 10 | $1,092,766 | $805,000 | +$287,766 |
+| 5 | 5 | 20 | 15 | $1,657,800 | $965,000 | +$692,800 |
 
-> **Why some cells are flagged:** the live source of truth is `Dproperty_OS_Financial_Model.xlsx v0.5`. Only Y1, Y3, and Y5 revenue and the Y3/Y5 EBITDA figures were carried into the notes at the 2026-07-02 closeout. Y2 and Y4 revenue, and per-year gross profit/OPEX, must be pulled directly from the Excel model before this table is investor-final. The Year 5 EBITDA is a **range** because the Year 3–5 staffing plan does not yet exist.
+**Revenue mix at Year 5:** developer ($600k), white-label recurring ($378k), Dproperty Select HQ-retained ($360k), local royalty+fund ($126k), WL setup ($60k), launch fees ($60k), OS fees ($48k), GHL margin ($26k).
+
+**Key model assumptions [VALIDATE]:** 50 units/franchise/yr, 70/30 local/Select mix, ramp 0.5→0.8 over Y1–Y5, ~$40k developer revenue/project, WL blended $12k setup / $1.8k month. Change any on the Assumptions sheet to re-run.
 
 **Sensitivity — commission rate:** if the local commission rate is 0.75% (deferred advisory basis) rather than 5%, Year 5 revenue is **$1.19M vs $1.41M** — the venture survives, because **~76% of revenue is rate-independent** (subscriptions, setup fees, developer revenue, white-label). This is the single most important robustness point in the plan.
 
