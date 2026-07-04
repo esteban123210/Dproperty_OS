@@ -1,11 +1,11 @@
 {
   "id": "conv-1783142201331-673fqalli",
   "providerId": "claude",
-  "title": "/login",
+  "title": "whats the day",
   "titleGenerationStatus": "failed",
   "createdAt": 1783142201337,
-  "updatedAt": 1783142203696,
-  "lastResponseAt": 1783142203185,
+  "updatedAt": 1783142443307,
+  "lastResponseAt": 1783142442923,
   "sessionId": "404aabc9-5a24-467d-bf26-0f8dbb3366f1",
   "providerState": {
     "providerSessionId": "404aabc9-5a24-467d-bf26-0f8dbb3366f1"
