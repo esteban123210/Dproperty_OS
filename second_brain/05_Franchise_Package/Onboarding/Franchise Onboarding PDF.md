@@ -44,7 +44,7 @@ You are joining a franchise system that gives you structure, not just a logo. Yo
 - Templates.
 - Project presentation structure.
 - Projection logic.
-- Private Collection access under rules.
+- Dproperty Select access under rules.
 - HQ support.
 - Reporting rhythm.
 
@@ -54,14 +54,14 @@ You are joining a franchise system that gives you structure, not just a logo. Yo
 - Use approved materials.
 - Keep CRM and Dproperty OS updated.
 - Follow client registration rules.
-- Respect Private Collection rules.
+- Respect Dproperty Select rules.
 - Report pipeline and deals.
 - Participate in training.
 - Represent Dproperty with professionalism and discretion.
 
 ### 7. How the Franchise Model Works
 
-Explain launch fee, monthly OS fee, royalties, network fee, local commission, Private Collection commission split, and reporting obligations.
+Explain launch fee ($30,000 founding / $40,000 after 5 successful franchises), monthly OS fee ($1,000), royalty (6%) + Network & Brand Fund (1.5%) on **collected** local GCI, local commission, Dproperty Select payout (2.5% of sale price to the franchisee), and reporting obligations.
 
 ### 8. How Dproperty OS Works
 
