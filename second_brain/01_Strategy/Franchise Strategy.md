@@ -36,7 +36,7 @@ Dproperty gives the franchisee:
 - Client templates.
 - Project presentation structure.
 - Projection tools.
-- Access to Private Collection under rules.
+- Access to Dproperty Select under rules (2.5% of sale price payout).
 - Launch plan.
 - HQ support.
 - Reporting and accountability.
