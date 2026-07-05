@@ -1,23 +1,27 @@
 {
   "id": "conv-1783143041858-sw5eqcv6w",
   "providerId": "claude",
-  "title": "Provide current date",
+  "title": "Provide today's date",
   "titleGenerationStatus": "success",
   "createdAt": 1783143041859,
-  "updatedAt": 1783243727360,
-  "lastResponseAt": 1783243727360,
-  "sessionId": "b8acbbb3-3042-43de-ae75-2734ab59ce6b",
+  "updatedAt": 1783245489237,
+  "lastResponseAt": 1783245489237,
+  "sessionId": "fe9e36ce-417c-4a0f-8ccf-475f6c1bd880",
   "providerState": {
-    "providerSessionId": "b8acbbb3-3042-43de-ae75-2734ab59ce6b"
+    "providerSessionId": "fe9e36ce-417c-4a0f-8ccf-475f6c1bd880",
+    "previousProviderSessionIds": [
+      "b8acbbb3-3042-43de-ae75-2734ab59ce6b"
+    ]
   },
+  "currentNote": "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
   "usage": {
-    "model": "opus",
-    "inputTokens": 2,
-    "cacheCreationInputTokens": 1566,
-    "cacheReadInputTokens": 274039,
-    "contextWindow": 1000000,
-    "contextTokens": 275607,
-    "percentage": 28,
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 5074,
+    "cacheReadInputTokens": 84923,
+    "contextWindow": 200000,
+    "contextTokens": 90007,
+    "percentage": 45,
     "contextWindowIsAuthoritative": true
   }
 }

@@ -11,17 +11,28 @@
             "id": "1bccb9ed072fc5f6",
             "type": "leaf",
             "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
+          },
+          {
+            "id": "af0daac75ec721d1",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
-                "file": "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
+                "file": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Assignments Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01_Project Context Brief"
+              "title": "Assignments Overview"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -168,8 +179,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
@@ -199,28 +210,46 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "brain-atlas:Open atlas": false
     }
   },
-  "active": "1bccb9ed072fc5f6",
+  "active": "af0daac75ec721d1",
   "lastOpenFiles": [
-    "university brain",
-    "second_brain/00_Index/AI Handoff Pack/07_Latest Session Closeout.md.tmp.11916.7524fc4611cc",
-    "second_brain/00_Index/2026-07-05 - Work Session Closeout.md",
-    "second_brain/00_Index/Current Priorities.md.tmp.11916.cb70fd9c8342",
-    "second_brain/02_Business_Plan/Conservative 5-Year Plan.md.tmp.11916.8e2cc912b3d2",
-    "second_brain/02_Business_Plan/Dproperty OS Business Plan.md.tmp.11916.dfb882309adb",
-    "second_brain/02_Business_Plan/Unit Economics.md.tmp.11916.bc0d18cd08e2",
-    "build_model.py",
-    "second_brain/16_Task_Management/Pitch Sprint Roadmap - July 2026.md",
-    "second_brain/01_Strategy/Franchise Strategy.md.tmp.11916.cb7303230699",
-    "second_brain/00_Index/Package Contents Index.md",
-    "second_brain/12_Private_Collection/Private Collection Deal Workflow.md",
-    "second_brain/12_Private_Collection/Private Collection Commission Split.md",
-    "second_brain/09_Exports/Dproperty_OS_Business_Plan.md",
-    "second_brain/02_Business_Plan/Dproperty OS Business Plan.md.tmp.11916.36362d5b163d",
-    "install.cmd",
-    "something.md.md",
-    "this is a trial"
+    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Learning Hooks & Key Concepts.md",
+    "university brain/01_Year_1/Semester_1/Electives.md.tmp.23800.b8500e7306d5",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Team Roles & Video Characters.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Hello Tomorrow Guide.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/01_Program/Daily Schedule.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Site Guides Index.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Assignments Overview.md",
+    "university brain/university brain/01_Year_1/Semester_1/Electives.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/Paris Trip - README.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team",
+    "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments",
+    "university brain/01_Year_1/Semester_1/Paris Trip/01_Program",
+    "university brain/01_Year_1/Semester_1/Paris Trip",
+    "university brain/04_Progress/Reflections & Learnings.md",
+    "university brain/04_Progress/Assignments & Deadlines.md",
+    "university brain/04_Progress/Year 1 Progress.md",
+    "university brain/04_Progress/Grades & Results.md",
+    "university brain/04_Progress/Year 2 Progress.md",
+    "university brain/02_Year_2/Semester_2/Marketing & Sales in the Digital Age.md",
+    "university brain/02_Year_2/Semester_2/The Executive Process.md",
+    "university brain/02_Year_2/Semester_2/Valuation.md",
+    "university brain/02_Year_2/Semester_2/Strategic Analytics.md",
+    "university brain/02_Year_2/Semester_2/Actualysis.md",
+    "university brain/02_Year_2/Capstone/MBA In-Company Thesis Project.md",
+    "university brain/02_Year_2/Semester_1/Electives.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business.md",
+    "university brain/02_Year_2/Semester_1/Ethics, Responsibility and Sustainability.md",
+    "university brain/02_Year_2/Semester_1/Business Negotiations.md",
+    "university brain/01_Year_1/Semester_2/Corporate Finance.md",
+    "university brain/01_Year_1/Semester_2/Purpose-Driven Strategy.md",
+    "university brain/university brain/02_Year_2/Capstone",
+    "university brain/university brain/02_Year_2/Semester_2",
+    "university brain/university brain/02_Year_2/Semester_1"
   ]
 }

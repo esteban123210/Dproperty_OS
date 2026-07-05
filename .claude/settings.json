@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find ./university\\\\ brain -type f -o -type d | head -30)",
+      "Bash(grep -v \"university brain$\")"
+    ]
+  }
+}
