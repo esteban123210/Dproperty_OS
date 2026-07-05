@@ -25,8 +25,9 @@ Last generated: 2026-07-01
 
 **Decision applied (see Decision Log 2026-07-04):** launch fee $30k/$40k; royalty 6% + Network & Brand Fund 1.5% on **collected** GCI; Private Collection renamed **Dproperty Select** with fixed-% payout (2.5% branded / 2.0% white-label of sale price).
 
-**New deliverable created:**
-- `09_Exports/Dproperty_OS_Financial_Model.xlsx` **v0.6** — formula-driven model (README/Assumptions/Model). Status: Draft, OPEX rows need owner validation. Outputs: Y1 $87k → Y5 $1.66M revenue; EBITDA positive Y3 (~$35k) → Y5 (~$693k).
+**New deliverables created:**
+- `09_Exports/Dproperty_OS_Financial_Model.xlsx` **v0.7** — formula-driven model (README/Assumptions/Model + commission-waterfall reference). Status: Draft, OPEX rows need owner validation. Outputs: Y1 $87k → Y5 **$1.59M** revenue; EBITDA positive Y3 (~$15k) → Y5 (~$630k). Local royalty now on gross-into-company after the 50/50 external-advisor split.
+- `16_Task_Management/Pitch Sprint Roadmap - July 2026.md` **v1.0** — 4-week execution plan (Jul 6–Aug 2) to a rehearsal-ready investor pitch; 5 roadmaps + priority order + pitch table.
 
 **Updated this session (Business Plan workstream):**
 - DP-006 Business Plan → v0.9 (In Review). Pricing/Select/model aligned.
