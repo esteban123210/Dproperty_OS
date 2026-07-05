@@ -188,6 +188,22 @@ Create a **video documentary** of your learning journey in Paris.
 - Team learning journey
 - Creative cinematography
 
+### 📽️ Recommended: Team Creative Direction
+
+Your team should read and discuss:
+
+**[[Video Creative Direction - What Is Entrepreneurship|Video Creative Direction]]**
+
+This document provides a complete narrative framework, character development, scene breakdown, and production plan for creating a memorable, analytical, and creative video journal.
+
+**Key elements:**
+- Character archetypes (Narrator, Main Character, Serious Entrepreneur, Messy Entrepreneur, Seasoned Entrepreneur)
+- 6-chapter story structure
+- Visual style guide (Wes-Anderson-inspired Paris aesthetic)
+- Detailed filming checklist
+- Production timeline
+- How to meet all assignment requirements while creating art
+
 ### 🎯 Must-Have Components
 
 #### 1. Footage from 3+ Site Visits
