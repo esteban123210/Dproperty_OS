@@ -3,55 +3,55 @@ project: Dproperty OS
 title: "Unit Economics"
 type: business_plan_note
 status: In Review
-version: 0.6
+version: 0.7
 owner: Esteban
-last_updated: 2026-07-04
-source: Updated per 2026-07-04 franchise pricing restructure
-supersedes: v0.5 baseline (2026-07-01)
+last_updated: 2026-07-05
+source: Updated per 2026-07-05 commission-waterfall clarification
+supersedes: v0.6 (2026-07-04)
 tags: [business-plan, unit-economics]
 ---
 
 # Unit Economics
 
-> **Revision 2026-07-04:** Dproperty Select (formerly Private Collection) moved from a
-> 50/50 gross split to a fixed % of sale price. Launch fee now $30k/$40k. Royalty on
-> collected GCI.
+> **Revision 2026-07-05:** Added the commission waterfall. A 5% commission is charged;
+> HQ shares 50/50 with external advisors; 2.5% enters the company. Royalty is charged on
+> **gross-into-company (the 2.5%)**, not on franchise net — so a franchise cannot lower
+> royalty by inflating agent pay. Dproperty Select remains separate (fixed % of price).
 
 ## Base Sale
 
 - Unit price: $300,000.
-- Commission: 5%.
-- Gross commission: $15,000.
+- Commission charged: 5% = $15,000.
 
-## Local Franchise Inventory
+## Local Franchise Deal — Commission Waterfall
 
-Franchise receives the local gross commission (collected) and pays:
+```
+Gross commission (5%) ................. $15,000
+  Less external advisors (50/50) ...... $7,500   (co-broke, shared out)
+Into the company (2.5%) ............... $7,500   ← ROYALTY BASE
+  Seller (35%) ........................ $2,625
+  Sales director (10%) ................ $750
+  Franchise net (55%) ................. $4,125   (franchise take-home)
+```
 
-- 6% royalty on collected GCI.
-- 1.5% Network & Brand Fund.
-- Monthly OS/platform fee.
+**HQ take on a local sale** (charged on the $7,500 into-company, not on net):
 
-HQ revenue per $15,000 collected local commission:
+- Royalty (6%): $450.
+- Network & Brand Fund (1.5%): $112.50.
+- **HQ total per local unit: ~$562.**
 
-- Royalty: $900.
-- Network & Brand Fund: $225.
-- Total before OS monthly fee allocation: **$1,125**.
+**Why on gross-into-company, not net:** if royalty were charged on the $4,125 net, a franchise could inflate seller/director pay to shrink net and pay less royalty every month. Charging on the $7,500 that enters the company makes HQ revenue independent of the franchise's internal agent-comp choices.
 
-## Dproperty Select Sale (formerly Private Collection)
+**Note:** the 50/50 external-advisor split is the standard modelling assumption. On deals with no external advisor, the full 5% ($15,000) enters the company and the royalty base is higher; this is an editable input (`external_advisor_share`) in the model.
 
-Projection assumption: HQ signs the select project at 5% total commission = $15,000 on a $300k unit. Payout to the originator is a **fixed % of sale price**, not a split of commission.
+## Dproperty Select Sale (separate structure — unchanged)
 
-**If sold by a Dproperty branded franchise:**
-- Franchisee payout: 2.5% × $300,000 = **$7,500**.
-- HQ retains: **$7,500**.
+Projection assumption: HQ signs the select project at 5% total commission = $15,000 on a $300k unit. The originator earns a **fixed % of sale price**:
 
-**If sold by a white-label partner:**
-- Partner payout: 2.0% × $300,000 = **$6,000**.
-- HQ retains: **$9,000**.
+**Branded franchise:** 2.5% × $300,000 = **$7,500** to franchisee; HQ retains **$7,500**.
+**White-label partner:** 2.0% × $300,000 = **$6,000** to partner; HQ retains **$9,000**.
 
-**Upside:** if HQ negotiates 6%–8% on the project, the originator payout stays fixed (% of price) and HQ captures the additional commission. At exactly 5% the branded payout equals the old 50/50 ($7,500); above 5% the branded structure is strictly better for HQ.
-
-**Open item:** whether the franchisee pays any royalty/Network fee on Dproperty Select earnings. Default assumption here: **no** — 2.5% / 2.0% of price is net to the originator. Confirm before financial recalc.
+Dproperty Select does **not** run through the seller/director waterfall or the external-advisor split — it is HQ-controlled and priced separately. Upside above 5% is retained by HQ.
 
 ## Franchise Entry
 
@@ -59,4 +59,4 @@ Projection assumption: HQ signs the select project at 5% total commission = $15,
 
 ## Interpretation
 
-Local sales create stronger franchise economics and pay HQ a recurring royalty. Dproperty Select creates stronger HQ economics with a predictable, defensible payout to the originator, and preserves HQ negotiation upside. Branded franchises earn more on Select (2.5%) than white-label (2.0%) — a deliberate strategic advantage for operating under the Dproperty brand.
+Local sales are thinner for HQ per unit ($562) than the old headline suggested, because most of the commission is shared with co-brokers and paid out to the selling team. The scalable HQ economics come from **recurring** lines (OS fees, white-label subscriptions), **Dproperty Select** (HQ keeps $7,500/unit), and **developer revenue** — not from local royalty. Local royalty is a modest, un-gameable recurring layer on top.

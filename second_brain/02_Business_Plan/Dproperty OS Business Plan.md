@@ -32,7 +32,7 @@ Dproperty OS & Network is a proposed venture that converts Dproperty’s boutiqu
 
 The central thesis is that boutique real estate players do not want to become mass-market chains, but they need institutional-grade operations: controlled documents, broker agreements, sales process, projection tools, training, dashboards, compliance, and project intelligence.
 
-The proposed five-year target is deliberately conservative: five branded franchises, twenty white-label agencies, and fifteen developer partnerships/projects. On a **collected-GCI basis [MODEL v0.6]**, revenue reaches approximately **$1.66M** in Year 5. EBITDA is negative in Years 1–2 (build phase), turns **positive in Year 3 (~$35k, thin)**, and reaches **~$693k by Year 5**. EBITDA depends on the operating-cost plan, which is currently a set of editable planning estimates in `Dproperty_OS_Financial_Model.xlsx v0.6` — see Section 19.
+The proposed five-year target is deliberately conservative: five branded franchises, twenty white-label agencies, and fifteen developer partnerships/projects. On a collected basis **[MODEL v0.7]**, revenue reaches approximately **$1.59M** in Year 5. EBITDA is negative in Years 1–2 (build phase), turns **positive in Year 3 (~$15k, thin)**, and reaches **~$630k by Year 5**. Local franchise economics run through a commission waterfall (5% charged → 50/50 with external advisors → 2.5% into the company; royalty is charged on that 2.5%). EBITDA depends on the operating-cost plan, currently editable planning estimates in `Dproperty_OS_Financial_Model.xlsx v0.7` — see Section 19.
 
 ## 2. Company structure and ownership
 The venture is sponsored by the two owners — **Luz Adriana** (Dproperty) and **Simon** (Simon’s entity) — with two operating co-founders, **Esteban** and **Miguel**.
@@ -98,9 +98,8 @@ The franchisee operates under Dproperty. They receive the brand, OS, training, s
 Pricing:
 - **Launch fee: $30,000 (founding); $40,000 after 5 successful franchises.** [VALIDATE — define "successful"]
 - $1,000/month OS fee.
-- **6% royalty on COLLECTED gross commission income** (collected-GCI basis, per Decision 2026-07-02).
-- **1.5% Network & Brand Fund on collected GCI** (renamed from "brand/network fee").
-- **Total on local business: 7.5% on collected GCI.**
+- **6% royalty + 1.5% Network & Brand Fund (7.5% total) on GROSS-INTO-COMPANY** — i.e. the commission remaining after the external-advisor co-broke split, collected basis.
+- **Commission waterfall:** 5% charged → 50/50 with external advisors → **2.5% enters the company** (the royalty base) → of that, 35% seller, 10% sales director, 55% franchise net. Royalty is on the 2.5% into-company (not on net), so agent-comp choices don't change HQ's take. HQ nets ~$562 per $300k local unit.
 - **Minimum royalty floor: $750/month [VALIDATE — placeholder amount] from month 7, creditable against percentage royalty.**
 - GoHighLevel: resold as a sub-account with margin (no longer "at cost").
 - **Dproperty Select payout to franchisee: 2.5% of sale price** (replaces the former 50/50 split — see §6).
@@ -229,7 +228,7 @@ Create inter-franchise referrals, shared developer inventory, Dproperty Select e
 
 | Model | Core assumption | Dproperty revenue logic | Example Dproperty revenue |
 |---|---|---|---|
-| Branded franchise - local sale | $300k unit, 5% commission = $15k GCI **[VALIDATE — see §16 rate conflict]** | 6% royalty + 1.5% Network & Brand Fund on collected GCI | $1,125 per unit |
+| Branded franchise - local sale | $300k unit, 5% = $15k → 50/50 co-broke → **$7,500 into company** | 7.5% on the $7,500 into-company (not on franchise net) | HQ $562 / unit (franchise net $4,125) |
 | Dproperty Select - branded | $300k unit, model at 5% = $15k GCI | Franchisee 2.5% of sale price; HQ keeps remainder; upside >5% to HQ | HQ $7,500 / franchise $7,500 per unit |
 | Dproperty Select - white-label | $300k unit, model at 5% = $15k GCI | Partner 2.0% of sale price; HQ keeps remainder | HQ $9,000 / partner $6,000 per unit |
 | White-label starter | $10k setup + $1.5k/month + GHL resale margin | Platform/implementation revenue + recurring + CRM margin | ~$28k launch-year / ~$18k recurring (+ GHL margin) |
@@ -238,25 +237,25 @@ Create inter-franchise referrals, shared developer inventory, Dproperty Select e
 
 > The $135k figure is an illustrative ceiling for a large project. Aggregate projections in Section 13 use the conservative ~$40k/project blended assumption.
 
-## 13. Five-year financial projection **[MODEL v0.6 — collected-GCI basis, new pricing]**
+## 13. Five-year financial projection **[MODEL v0.7 — commission waterfall, new pricing]**
 
-> Source: `09_Exports/Dproperty_OS_Financial_Model.xlsx v0.6` (built 2026-07-04). Revenue
+> Source: `09_Exports/Dproperty_OS_Financial_Model.xlsx v0.7` (built 2026-07-05). Revenue
 > is formula-driven off the Assumptions sheet. **OPEX rows are editable planning estimates**
 > (not yet owner-validated), so EBITDA below is indicative.
 
 | Year | Branded EOY | WL EOY | Dev Projects/Yr | Revenue | OPEX | EBITDA |
 |---|---:|---:|---:|---:|---:|---:|
 | 1 | 0 | 2 | 1 | $86,800 | $445,000 | ($358,200) |
-| 2 | 1 | 5 | 3 | $317,962 | $510,000 | ($192,038) |
-| 3 | 2 | 10 | 6 | $680,269 | $645,000 | +$35,269 |
-| 4 | 3 | 15 | 10 | $1,092,766 | $805,000 | +$287,766 |
-| 5 | 5 | 20 | 15 | $1,657,800 | $965,000 | +$692,800 |
+| 2 | 1 | 5 | 3 | $312,056 | $510,000 | ($197,944) |
+| 3 | 2 | 10 | 6 | $659,597 | $645,000 | +$14,597 |
+| 4 | 3 | 15 | 10 | $1,055,852 | $805,000 | +$250,852 |
+| 5 | 5 | 20 | 15 | $1,594,800 | $965,000 | +$629,800 |
 
-**Revenue mix at Year 5:** developer ($600k), white-label recurring ($378k), Dproperty Select HQ-retained ($360k), local royalty+fund ($126k), WL setup ($60k), launch fees ($60k), OS fees ($48k), GHL margin ($26k).
+**Revenue mix at Year 5:** developer ($600k), white-label recurring ($378k), Dproperty Select HQ-retained ($360k), local royalty+fund ($63k), WL setup ($60k), launch fees ($60k), OS fees ($48k), GHL margin ($26k). Note local royalty is modest by design — the waterfall means most local commission is co-broked and paid to the selling team; HQ's scalable revenue is recurring + Select + developer.
 
 **Key model assumptions [VALIDATE]:** 50 units/franchise/yr, 70/30 local/Select mix, ramp 0.5→0.8 over Y1–Y5, ~$40k developer revenue/project, WL blended $12k setup / $1.8k month. Change any on the Assumptions sheet to re-run.
 
-**Sensitivity — commission rate:** the 5%-vs-0.75% question only affects the local royalty line (Dproperty Select is HQ-negotiated at ≥5% by definition). At 0.75% local, the local royalty+fund line falls from ~$126k to ~$19k, so **Year 5 revenue is ~$1.55M vs $1.66M** — the venture barely moves, because **~93% of revenue is rate-independent** (subscriptions, setup fees, developer revenue, Dproperty Select, launch fees). This is the single most important robustness point in the plan.
+**Sensitivity — commission rate:** the 5%-vs-0.75% question only affects the local royalty line (Dproperty Select is HQ-negotiated at ≥5% by definition). At 0.75% local, the local royalty+fund line falls from ~$63k to ~$9k, so **Year 5 revenue is ~$1.54M vs $1.59M** — the venture barely moves, because **~96% of revenue is rate-independent** (subscriptions, setup fees, developer revenue, Dproperty Select, launch fees). This is the single most important robustness point in the plan.
 
 ## 14. Why EBITDA is negative in Years 1 and 2
 The business requires upfront investment before sufficient recurring revenue exists. Product build, legal structuring, template creation, training academy, implementation capacity, and founder salaries happen before the customer base is mature. The collected-GCI basis also delays early royalty revenue (collection lag + franchise ramp). The model turns EBITDA-positive in Year 3 when platform revenue, developer revenue, and minimum royalty floors begin to cover the fixed operating base.
