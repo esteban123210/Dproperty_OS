@@ -1,7 +1,7 @@
 {
   "userName": "Esteban",
   "permissionMode": "normal",
-  "model": "opus",
+  "model": "haiku",
   "thinkingBudget": "off",
   "effortLevel": "high",
   "serviceTier": "default",
@@ -33,7 +33,7 @@
       "enableOpus1M": false,
       "enableSonnet1M": false,
       "customModels": "",
-      "lastModel": "opus",
+      "lastModel": "haiku",
       "environmentVariables": "",
       "environmentHash": ""
     },
@@ -79,7 +79,7 @@
   },
   "settingsProvider": "claude",
   "savedProviderModel": {
-    "claude": "opus"
+    "claude": "haiku"
   },
   "savedProviderEffort": {
     "claude": "high"

@@ -1,10 +1,10 @@
 {
   "id": "conv-1783143041858-sw5eqcv6w",
   "providerId": "claude",
-  "title": "Start business plan work session",
-  "titleGenerationStatus": "success",
+  "title": "Whats the day",
+  "titleGenerationStatus": "pending",
   "createdAt": 1783143041859,
-  "updatedAt": 1783233426338,
+  "updatedAt": 1783243600512,
   "lastResponseAt": 1783233426338,
   "sessionId": "b8acbbb3-3042-43de-ae75-2734ab59ce6b",
   "providerState": {
