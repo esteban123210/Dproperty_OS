@@ -4,16 +4,22 @@ title: "Vault Manifest"
 type: vault_manifest
 status: Generated
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-07-05
 source: ChatGPT baseline vault package
 tags: [manifest, ai-handoff]
 ---
 
 # Vault Manifest
 
-Last generated: 2026-07-01
+Last generated: 2026-07-05
 
 This file lists the baseline files in the Dproperty OS Obsidian vault package.
+
+## New / Notable (2026-07-05)
+- `09_Exports/Dproperty_OS_Financial_Model.xlsx` — **v0.7, primary financial model (source of truth for projections)**.
+- [[16_Task_Management/Pitch Sprint Roadmap - July 2026|Pitch Sprint Roadmap - July 2026]] — `16_Task_Management/Pitch Sprint Roadmap - July 2026.md`.
+- [[00_Index/2026-07-05 - Work Session Closeout|2026-07-05 - Work Session Closeout]] — `00_Index/2026-07-05 - Work Session Closeout.md`.
+- **Naming:** "Private Collection" is now **Dproperty Select** (folder `12_Private_Collection/` retains its name for link stability).
 
 ## Core AI Handoff Files
 
