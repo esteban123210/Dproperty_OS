@@ -24,9 +24,8 @@ tags: [business-plan, pricing]
 - **Launch fee (founding): $30,000.**
 - **Launch fee after 5 successful franchises: $40,000.** ("Successful" to be defined — see Open Questions.)
 - OS/platform fee: $1,000/month.
-- Royalty on **collected** local gross commission income: 6%.
-- **Network & Brand Fund** (renamed from brand/network marketing fee): 1.5% on collected local GCI.
-- **Total on local business: 7.5% on collected GCI.**
+- Royalty 6% + **Network & Brand Fund** 1.5% = **7.5%, charged on gross-into-company** (the commission remaining after the external-advisor co-broke split), collected basis.
+- **Commission waterfall:** 5% charged → 50/50 external advisors → **2.5% into company** (royalty base) → 35% seller / 10% sales director / 55% franchise net. Royalty is on the 2.5% into-company, not on franchise net (un-gameable). HQ nets ~$562 per $300k local unit.
 - Minimum royalty floor: $750/month [VALIDATE — placeholder] from month 7, creditable against the percentage royalty.
 - GoHighLevel: resold sub-account with margin (not at-cost).
 - **Dproperty Select payout to franchisee: 2.5% of sale price** (replaces 50/50 split).
