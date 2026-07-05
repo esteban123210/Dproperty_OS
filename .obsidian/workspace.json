@@ -4,31 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "378edad5f770ba07",
+        "id": "03be028d67b66672",
         "type": "tabs",
         "children": [
           {
-            "id": "1bccb9ed072fc5f6",
+            "id": "9de090aef9332652",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
-            }
-          },
-          {
-            "id": "af0daac75ec721d1",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
+              "title": "Video Creative Direction - What Is Entrepreneurship"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,7 +187,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 275.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,12 +200,12 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false,
-      "brain-atlas:Open atlas": false
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "af0daac75ec721d1",
+  "active": "9de090aef9332652",
   "lastOpenFiles": [
+    "university brain/04_Progress/Year 2 Progress.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
     "university brain/01_Year_1/Semester_1/Change Management.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Assignments Overview.md",
@@ -233,7 +227,6 @@
     "university brain/04_Progress/Assignments & Deadlines.md",
     "university brain/04_Progress/Year 1 Progress.md",
     "university brain/04_Progress/Grades & Results.md",
-    "university brain/04_Progress/Year 2 Progress.md",
     "university brain/02_Year_2/Semester_2/Marketing & Sales in the Digital Age.md",
     "university brain/02_Year_2/Semester_2/The Executive Process.md",
     "university brain/02_Year_2/Semester_2/Valuation.md",
