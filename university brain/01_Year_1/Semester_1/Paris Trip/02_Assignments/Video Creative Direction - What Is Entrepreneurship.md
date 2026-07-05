@@ -86,7 +86,7 @@ The video should feel:
 **Speaking Style:** Calm, dry, slightly ironic, intelligent
 
 **Key Lines:**
-- "Five students left Amsterdam with one question. It sounded simple. It was not."
+- "This is the story of "
 - "The professor gave us one slide about team formation. Five members. Ideally, not all the same. One hacker. One hipster. One hustler. It looked like administration. It was actually the plot."
 - "We came to Paris looking for startups. We left understanding the spaces between them."
 
