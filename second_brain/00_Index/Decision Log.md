@@ -140,3 +140,20 @@ This note records decisions that should not be re-opened accidentally in future 
 **Impacted Areas:** Strategy, Business Plan, Pitch, Franchise/White-label positioning.
 
 **Status:** Active.
+
+## 2026-07-05 — Local Commission Waterfall & Royalty Base
+
+**Decision:** Local franchise sales are modelled as a waterfall:
+1. 5% commission charged on sale price.
+2. Shared 50/50 with external advisors (co-broke) → **2.5% enters the company**.
+3. Of what enters: **35% seller, 10% sales director, 55% franchise net**.
+
+**Royalty base:** Royalty (6%) + Network & Brand Fund (1.5%) are charged on **gross-into-company (the 2.5%)**, NOT on franchise net. This is un-gameable — a franchise cannot reduce royalty by inflating agent/director pay. HQ nets ~$562 per $300k local unit.
+
+**Dproperty Select:** unchanged — keeps its separate structure (originator 2.5% branded / 2.0% white-label of sale price; HQ keeps the balance and upside). Select does not run through this waterfall.
+
+**Reason:** Reflects real co-brokerage economics and a defensible, un-gameable royalty base.
+
+**Impacted Areas:** Unit Economics, Business Plan, Pricing Model, Financial Model (rebuilt v0.7).
+
+**Status:** Active. The 50/50 external-advisor share is an editable model input (some deals keep the full 5%). This largely resolves the "5% vs 0.75%" question: 5% is the charged rate; 2.5% is what the company keeps after co-broke.

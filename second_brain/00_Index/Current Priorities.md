@@ -21,9 +21,10 @@ The pricing model, financial model (v0.6), and Business Plan (v0.9) are done. Th
 now focuses on the *showable* layer: pitch deck, software mock-up, client journey,
 franchise brochure, physical experience, and data room.
 
-### Two blockers to clear first
-- Commission rate 5% vs 0.75% (Fernando/Ernesto).
+### Blockers
+- ~~Commission rate 5% vs 0.75%~~ → **largely resolved 2026-07-05**: 5% charged, 50/50 co-broke, 2.5% into company; royalty on the 2.5%. (Confirm the 0.75% deferred-advisory case is a separate revenue type, not the standard deal.)
 - Definition of "5 successful franchises" (fee step $30k→$40k).
+- Validate financial model (v0.7) OPEX/staffing rows — drives EBITDA.
 
 ## Previous Phase (complete)
 
