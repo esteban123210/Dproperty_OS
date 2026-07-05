@@ -26,10 +26,12 @@ launch fee, and the Dproperty Select fixed-payout change.
 | Year | Branded | White-label | Developer | Revenue | OPEX | EBITDA |
 |---:|---:|---:|---:|---:|---:|---:|
 | Year 1 | 0 | 2 | 1 | $86,800 | $445,000 | -$358,200 |
-| Year 2 | 1 | 5 | 3 | $317,962 | $510,000 | -$192,038 |
-| Year 3 | 2 | 10 | 6 | $680,269 | $645,000 | +$35,269 |
-| Year 4 | 3 | 15 | 10 | $1,092,766 | $805,000 | +$287,766 |
-| Year 5 | 5 | 20 | 15 | $1,657,800 | $965,000 | +$692,800 |
+| Year 2 | 1 | 5 | 3 | $312,056 | $510,000 | -$197,944 |
+| Year 3 | 2 | 10 | 6 | $659,597 | $645,000 | +$14,597 |
+| Year 4 | 3 | 15 | 10 | $1,055,852 | $805,000 | +$250,852 |
+| Year 5 | 5 | 20 | 15 | $1,594,800 | $965,000 | +$629,800 |
+
+*(Model v0.7 — local royalty now on gross-into-company after the 50/50 external-advisor split.)*
 
 ## Interpretation
 
