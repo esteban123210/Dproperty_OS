@@ -4,8 +4,8 @@
   "title": "Provide today's date",
   "titleGenerationStatus": "success",
   "createdAt": 1783143041859,
-  "updatedAt": 1783245489237,
-  "lastResponseAt": 1783245489237,
+  "updatedAt": 1783246195343,
+  "lastResponseAt": 1783246195343,
   "sessionId": "fe9e36ce-417c-4a0f-8ccf-475f6c1bd880",
   "providerState": {
     "providerSessionId": "fe9e36ce-417c-4a0f-8ccf-475f6c1bd880",
@@ -16,12 +16,12 @@
   "currentNote": "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 10,
-    "cacheCreationInputTokens": 5074,
-    "cacheReadInputTokens": 84923,
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 236,
+    "cacheReadInputTokens": 98987,
     "contextWindow": 200000,
-    "contextTokens": 90007,
-    "percentage": 45,
+    "contextTokens": 99231,
+    "percentage": 50,
     "contextWindowIsAuthoritative": true
   }
 }
