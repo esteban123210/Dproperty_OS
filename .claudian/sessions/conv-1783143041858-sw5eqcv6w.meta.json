@@ -1,11 +1,11 @@
 {
   "id": "conv-1783143041858-sw5eqcv6w",
   "providerId": "claude",
-  "title": "Whats the day",
-  "titleGenerationStatus": "pending",
+  "title": "Provide current date",
+  "titleGenerationStatus": "success",
   "createdAt": 1783143041859,
-  "updatedAt": 1783243600512,
-  "lastResponseAt": 1783233426338,
+  "updatedAt": 1783243727360,
+  "lastResponseAt": 1783243727360,
   "sessionId": "b8acbbb3-3042-43de-ae75-2734ab59ce6b",
   "providerState": {
     "providerSessionId": "b8acbbb3-3042-43de-ae75-2734ab59ce6b"
