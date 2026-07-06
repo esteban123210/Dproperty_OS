@@ -4,8 +4,8 @@
   "title": "Simulate four-member advisory board discussion",
   "titleGenerationStatus": "success",
   "createdAt": 1783317912873,
-  "updatedAt": 1783317978605,
-  "lastResponseAt": 1783317978605,
+  "updatedAt": 1783318294098,
+  "lastResponseAt": 1783318294098,
   "sessionId": "07317bf9-528f-4158-bc1b-bb17f0470216",
   "providerState": {
     "providerSessionId": "07317bf9-528f-4158-bc1b-bb17f0470216"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "haiku",
     "inputTokens": 8,
-    "cacheCreationInputTokens": 11348,
-    "cacheReadInputTokens": 35559,
+    "cacheCreationInputTokens": 5258,
+    "cacheReadInputTokens": 64762,
     "contextWindow": 200000,
-    "contextTokens": 46915,
-    "percentage": 23,
+    "contextTokens": 70028,
+    "percentage": 35,
     "contextWindowIsAuthoritative": true
   }
 }
