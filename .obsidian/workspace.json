@@ -200,7 +200,8 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false
+      "realclaudian:Open Claudian": false,
+      "new-3d-graph:Open 3d graph": false
     }
   },
   "active": "9de090aef9332652",
