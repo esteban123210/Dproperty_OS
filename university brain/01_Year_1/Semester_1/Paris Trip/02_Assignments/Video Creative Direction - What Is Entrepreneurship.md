@@ -187,40 +187,41 @@ The video should feel:
 ### Character 4: The Messy Networking Entrepreneur 🤝
 
 **Role:** Guide through the informal ecosystem  
-**Purpose:** Challenges the serious view, shows human side  
-**Profile:** Often the "hustler" — people person, connector, social energy
+**Purpose:** Shows Laura how to build community and loyalty around her café. Challenges the serious view, shows why the human side is everything.  
+**Profile:** Often the "hustler" — people person, connector, social energy. **Someone who understands that a café succeeds because people fall in love with it, not because it's efficient.**
 
 **Speaking Style:** Chaotic, social, funny, slightly careless but surprisingly insightful
 
-**Key Insight:** The real ecosystem starts when the official meeting ends.
+**Key Insight:** "Your café doesn't live in spreadsheets. It lives in people. The ones who discover it, who tell their friends, who feel like they belong there. That's your business."
 
 **Represents the Informal Ecosystem:**
-- Bars and restaurants
-- Coffee conversations
-- Networking moments
-- Trust and relationships
-- Serendipity
-- Human connection
+- Bars and restaurants → Where communities actually form
+- Coffee conversations → How trust and loyalty build
+- Networking moments → Finding collaborators, suppliers, early customers
+- Trust and relationships → The real currency of a small business
+- Serendipity → Accidents that become opportunities
+- Human connection → Why people come back
 
-**Example Lines:**
-- "The real ecosystem starts when the official meeting ends."
-- "Start with coffee."
-- "That is because you wrote them too neatly."
-- "It is. Until people get involved."
-- "Then it becomes trust. Timing. Introductions. Bad pitches. Good conversations. Someone who knows someone."
-- "Entrepreneurship needs people."
-- "Without people, ideas suffocate."
+**Example Lines (Updated for Café Context):**
+- "Your café doesn't start with an investor pitch. It starts with coffee and conversation. Here, I'll show you."
+- "A beautiful concept that nobody talks about is invisible. But a mediocre café that creates community? That's a business."
+- "You want to find suppliers? You start by talking to people. Someone knows someone. That's how this works."
+- "It is. Until people get involved. Then it becomes about trust. Does someone trust your vision? Do they want to help?"
+- "Then it becomes about who knows what. Who can help with licensing? Who makes the best pastries? Who's opening a space nearby that could be a partner?"
+- "Your café needs people. Not just customers. Collaborators. Friends. Partners. People who believe in it."
+- "Without people, your concept suffocates. Beautiful design, perfect espresso, amazing vibe—none of it matters if nobody comes back."
 
 **What to Film:**
-- Chatting with strangers
-- Coffee and lunch moments
-- Opening drinks on Seine
-- Dinner conversations
-- Connecting different people
-- Laughing and playful moments
-- Energy and movement
-- Sketching on napkins
-- Bar scenes
+- Chatting with strangers about their favorite cafés and why
+- Coffee and lunch moments with the team, showing organic conversation
+- Opening drinks on Seine — building community with new friends from the visit
+- Dinner conversations that turn into collaborations or ideas
+- Connecting different people from formal and informal world
+- Laughing and playful moments that show trust
+- Energy and movement — the Messy character is always in motion, connecting
+- Sketching ideas on napkins, showing how casual brainstorms become real
+- Bar scenes where deep conversations happen
+- Mentoring Laura: "Tell me about your café vibe. Now tell me who you know that would help build it."
 
 ---
 
