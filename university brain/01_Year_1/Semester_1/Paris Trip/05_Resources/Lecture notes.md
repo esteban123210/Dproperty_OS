@@ -6,4 +6,4 @@ This whole trip is about thinking aboutparis with an entrepreneurship view.
 ## The embassy
 
 
-In france it is expected that 
+France is good for series a
