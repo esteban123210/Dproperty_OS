@@ -228,42 +228,54 @@ The video should feel:
 ### Character 5: The Seasoned Entrepreneur 🎯
 
 **Role:** The synthesizer, the voice of integrated experience  
-**Purpose:** Delivers final wisdom, shows why both sides matter  
-**Profile:** Most experienced, balanced, able to see from multiple perspectives
+**Purpose:** Delivers final wisdom about building something that lasts. Shows Laura why both the serious structure AND the human connection matter for her café.  
+**Profile:** Most experienced, balanced, able to see from multiple perspectives. **Someone who has built something beautiful AND profitable. Who understands that a café is both art and business.**
 
 **Appearance Pattern:**
-- Appears quietly in background during formal visits (observing)
-- Shows up increasingly at informal moments
+- Appears quietly in background during formal visits (observing how systems work)
+- Shows up increasingly at informal moments (observing how community forms)
 - Delivers the critical final scene
 - Speaks with authority and nuance
 
 **Speaking Style:** Wise, measured, calm, relaxed, not trying to impress
 
-**Key Insight:** Innovation thrives when structure and human connection coexist.
+**Key Insight:** "A café concept store is a beautiful thing. But beautiful things don't survive on beauty alone. You need both the discipline that makes it run smoothly AND the creativity that makes people fall in love with it. That's what your entrepreneurship is."
 
 **The Critical Final Scene (Saturday Morning Café):**
 
-This is the emotional and intellectual climax. Main character sits alone with coffee and notebook. Seasoned entrepreneur approaches.
+This is the emotional and intellectual climax. **Laura sits alone with coffee and her notebook—now filled with observations, sketches, and business ideas. She's sitting in a café, watching how it works, thinking about the one she wants to build.** Seasoned entrepreneur approaches.
 
 **Dialogue:**
 - "May I sit?"
-- "You were everywhere."
-- "So were you."
+- "You were everywhere. At the formal meetings. At the bar conversations. Everywhere."
+- "So were you. But you were looking for something different than I was."
 - "What did you learn?"
-- Main character lists: structure, people, culture, money, confusion...
-- "Good. People who are too serious forget that entrepreneurship is human. People who are too chaotic forget that entrepreneurship needs discipline."
-- "Do not choose only one version."
-- **Final Line:** "The serious part builds the company. The human part keeps it alive."
+- Laura lists: "That structure matters. That people matter more. That a café needs both. That I need to understand how to scale carefully. That community is everything. That I don't have to choose between being artistic and being serious."
+- "Good. People who are too serious build a café that's efficient but cold. People who are too artistic build something beautiful that fails. You need both."
+- "Do not choose only one version. Do not become either character completely. Become a third character—the one who synthesizes them."
+- **Final Line:** "The serious part builds the café—the systems, the supply chain, the financial model, the scalability. The human part keeps it alive—the community, the loyalty, the reason people come back, the story they tell their friends."
+
+**Laura's realization:** She's not torn between structure and creativity. She needs to be both.
 
 **Other Key Lines:**
-- "Without story, nobody remembers them."
-- "How do they connect?"
+- "Without story, nobody remembers a café. It becomes just another place. But a café with a story? That becomes someone's favorite place."
+- "How do structure and culture connect? That's the question you need to answer."
+- "You're ready. Not because you know everything. But because you know what you don't know. And you know who to ask."
 
 **What to Film:**
-- Observing quietly in background at formal visits
-- One-on-one conversations
+- Observing quietly in background at formal visits — paying attention to how things are organized
+- Observing at informal moments — noticing how people connect
+- One-on-one conversations with Laura about building something that matters
 - Final café scene (most important — dedicate full time to this)
-- Mentoring moments
+  - Laura sitting with notebook, observing the café around her
+  - Sketching ideas
+  - Writing notes about what works
+  - Looking thoughtful, focused, ready
+  - Seasoned entrepreneur approaching and sitting down
+  - **The full dialogue as above**
+  - Laura closing her notebook, looking at what she's written
+  - A sense of clarity and direction
+- Mentoring moments (throughout the trip)
 - Wisdom moments (fewer, more impactful)
 
 ---
