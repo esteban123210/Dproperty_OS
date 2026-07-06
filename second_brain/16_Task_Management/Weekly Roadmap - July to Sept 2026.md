@@ -71,8 +71,7 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 - [ ] Approve operations manual table of contents: what chapters are "must-have" for Day 1 launch
 
 **Miguel:**
-- [ ] Gather post-rehearsal design feedback: what worked visually
-- [ ] Refine pitch deck based on any notes from rehearsal
+- [ ] Finalize the pitch deck
 - [ ] Begin brand manual design system (color palette, typography, logo specs)
 - [ ] Create master template library structure (email, letterhead, presentation, proposal)
 - [ ] Organize all pitch-sprint deliverables into clean folders for handoff
