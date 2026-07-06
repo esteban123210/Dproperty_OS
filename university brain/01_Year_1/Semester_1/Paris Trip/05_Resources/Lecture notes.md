@@ -12,3 +12,5 @@ This whole trip is about thinking aboutparis with an entrepreneurship view.
 - startups are hypercentralized in paris
 
 
+
+![[Recording 20260706112356.m4a]]
