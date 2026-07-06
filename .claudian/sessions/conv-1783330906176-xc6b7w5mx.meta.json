@@ -4,8 +4,8 @@
   "title": "Develop Paris café concept store business plan",
   "titleGenerationStatus": "success",
   "createdAt": 1783330906176,
-  "updatedAt": 1783331270757,
-  "lastResponseAt": 1783331270757,
+  "updatedAt": 1783331353117,
+  "lastResponseAt": 1783331353117,
   "sessionId": "48ece041-c53e-4965-b580-bc4dcf22cc74",
   "providerState": {
     "providerSessionId": "48ece041-c53e-4965-b580-bc4dcf22cc74"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "haiku",
     "inputTokens": 8,
-    "cacheCreationInputTokens": 1143,
-    "cacheReadInputTokens": 56862,
+    "cacheCreationInputTokens": 491,
+    "cacheReadInputTokens": 58845,
     "contextWindow": 200000,
-    "contextTokens": 58013,
-    "percentage": 29,
+    "contextTokens": 59344,
+    "percentage": 30,
     "contextWindowIsAuthoritative": true
   }
 }

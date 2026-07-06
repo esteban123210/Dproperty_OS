@@ -8,7 +8,7 @@
 
 **Working Title:** What Is Entrepreneurship?
 
-**Core Concept:** Instead of a travel vlog, we create a short film where the Paris trip becomes a personal story. Laura is considering opening a **café + concept store**, and she goes to Paris to answer one central question: *How do you actually build something like this? What is entrepreneurship, really?*
+**Core Concept:** Instead of a travel vlog, we create a short film where the Paris trip becomes a personal story. Simlas is considering opening a **café + concept store**, and she goes to Paris to answer one central question: *How do you actually build something like this? What is entrepreneurship, really?*
 
 The trip becomes both philosophical exploration AND direct business research.
 
@@ -25,7 +25,7 @@ Entrepreneurship is not one thing. It's an ecosystem where structure and relatio
 ## 1. Core Narrative Idea
 
 ### The Central Question
-**Laura arrives in Paris with a personal mission:**
+**Simlas arrives in Paris with a personal mission:**
 > "I want to open a café + concept store. But I don't know if I'm a real entrepreneur. What is entrepreneurship, really? And can I actually do this?"
 
 ### The Journey
@@ -44,7 +44,7 @@ Throughout the trip, different characters give her different answers:
 > "Entrepreneurship is not one person, one place, or one method. It is an ecosystem. And if you understand the ecosystem, you can build anything—even a café."
 
 ### The Personal Stakes
-This isn't abstract. By the end, Laura has gone from "Can I do this?" to "Here's how I build this." The notebook evolves from philosophical questions to concrete business sketches.
+This isn't abstract. By the end, Simlas has gone from "Can I do this?" to "Here's how I build this." The notebook evolves from philosophical questions to concrete business sketches.
 
 ---
 
@@ -93,7 +93,7 @@ The video should feel:
 **Speaking Style:** Calm, dry, slightly ironic, intelligent
 
 **Key Lines:**
-- "This is the story of Laura. Although successful in her career she knows now if its the time to try something new. On this trip she found herself to be more lost than ever but also more focused and happier than ever."
+- "This is the story of Simlas. Although successful in her career she knows now if its the time to try something new. On this trip she found herself to be more lost than ever but also more focused and happier than ever."
 - "The professor gave us one slide about team formation. Five members. Ideally, not all the same. One hacker. One hipster. One hustler. It looked like administration. It was actually the plot."
 - "We came to Paris looking for startups. We left understanding the spaces between them."
 
@@ -106,7 +106,7 @@ The video should feel:
 ---
 
 ### Character 2: The Main Character 🔍
-**Name:** Laura
+**Name:** Simlas
 
 **Role:** The learner, the perspective we follow  
 **Purpose:** Guides the viewer through her transformation — from "Can I do this?" to "Here's how I build this."  
@@ -150,7 +150,7 @@ The video should feel:
 ### Character 3: The Serious Academic Entrepreneur 🎓
 
 **Role:** Guide through the formal ecosystem  
-**Purpose:** Shows Laura how to build rigor around her café vision. Explains structure, analysis, institutions, funding, systems that make ideas sustainable.  
+**Purpose:** Shows Simlas how to build rigor around her café vision. Explains structure, analysis, institutions, funding, systems that make ideas sustainable.  
 **Profile:** Often the "hacker" — analytical, systematic, framework-driven. **Someone who believes good ideas become real businesses when they're properly structured.**
 
 **Speaking Style:** Precise, analytical, intense, intellectual
@@ -180,14 +180,14 @@ The video should feel:
 - Direct-to-camera concept definitions
 - Interacting with speakers about business planning and structure
 - Friendly debates with Messy character about art vs. business
-- Mentoring Laura: "Show me your vision. Now show me your business plan. They need to match."
+- Mentoring Simlas: "Show me your vision. Now show me your business plan. They need to match."
 
 ---
 
 ### Character 4: The Messy Networking Entrepreneur 🤝
 
 **Role:** Guide through the informal ecosystem  
-**Purpose:** Shows Laura how to build community and loyalty around her café. Challenges the serious view, shows why the human side is everything.  
+**Purpose:** Shows Simlas how to build community and loyalty around her café. Challenges the serious view, shows why the human side is everything.  
 **Profile:** Often the "hustler" — people person, connector, social energy. **Someone who understands that a café succeeds because people fall in love with it, not because it's efficient.**
 
 **Speaking Style:** Chaotic, social, funny, slightly careless but surprisingly insightful
@@ -221,14 +221,14 @@ The video should feel:
 - Energy and movement — the Messy character is always in motion, connecting
 - Sketching ideas on napkins, showing how casual brainstorms become real
 - Bar scenes where deep conversations happen
-- Mentoring Laura: "Tell me about your café vibe. Now tell me who you know that would help build it."
+- Mentoring Simlas: "Tell me about your café vibe. Now tell me who you know that would help build it."
 
 ---
 
 ### Character 5: The Seasoned Entrepreneur 🎯
 
 **Role:** The synthesizer, the voice of integrated experience  
-**Purpose:** Delivers final wisdom about building something that lasts. Shows Laura why both the serious structure AND the human connection matter for her café.  
+**Purpose:** Delivers final wisdom about building something that lasts. Shows Simlas why both the serious structure AND the human connection matter for her café.  
 **Profile:** Most experienced, balanced, able to see from multiple perspectives. **Someone who has built something beautiful AND profitable. Who understands that a café is both art and business.**
 
 **Appearance Pattern:**
@@ -243,19 +243,19 @@ The video should feel:
 
 **The Critical Final Scene (Saturday Morning Café):**
 
-This is the emotional and intellectual climax. **Laura sits alone with coffee and her notebook—now filled with observations, sketches, and business ideas. She's sitting in a café, watching how it works, thinking about the one she wants to build.** Seasoned entrepreneur approaches.
+This is the emotional and intellectual climax. **Simlas sits alone with coffee and her notebook—now filled with observations, sketches, and business ideas. She's sitting in a café, watching how it works, thinking about the one she wants to build.** Seasoned entrepreneur approaches.
 
 **Dialogue:**
 - "May I sit?"
 - "You were everywhere. At the formal meetings. At the bar conversations. Everywhere."
 - "So were you. But you were looking for something different than I was."
 - "What did you learn?"
-- Laura lists: "That structure matters. That people matter more. That a café needs both. That I need to understand how to scale carefully. That community is everything. That I don't have to choose between being artistic and being serious."
+- Simlas lists: "That structure matters. That people matter more. That a café needs both. That I need to understand how to scale carefully. That community is everything. That I don't have to choose between being artistic and being serious."
 - "Good. People who are too serious build a café that's efficient but cold. People who are too artistic build something beautiful that fails. You need both."
 - "Do not choose only one version. Do not become either character completely. Become a third character—the one who synthesizes them."
 - **Final Line:** "The serious part builds the café—the systems, the supply chain, the financial model, the scalability. The human part keeps it alive—the community, the loyalty, the reason people come back, the story they tell their friends."
 
-**Laura's realization:** She's not torn between structure and creativity. She needs to be both.
+**Simlas's realization:** She's not torn between structure and creativity. She needs to be both.
 
 **Other Key Lines:**
 - "Without story, nobody remembers a café. It becomes just another place. But a café with a story? That becomes someone's favorite place."
@@ -265,15 +265,15 @@ This is the emotional and intellectual climax. **Laura sits alone with coffee an
 **What to Film:**
 - Observing quietly in background at formal visits — paying attention to how things are organized
 - Observing at informal moments — noticing how people connect
-- One-on-one conversations with Laura about building something that matters
+- One-on-one conversations with Simlas about building something that matters
 - Final café scene (most important — dedicate full time to this)
-  - Laura sitting with notebook, observing the café around her
+  - Simlas sitting with notebook, observing the café around her
   - Sketching ideas
   - Writing notes about what works
   - Looking thoughtful, focused, ready
   - Seasoned entrepreneur approaching and sitting down
   - **The full dialogue as above**
-  - Laura closing her notebook, looking at what she's written
+  - Simlas closing her notebook, looking at what she's written
   - A sense of clarity and direction
 - Mentoring moments (throughout the trip)
 - Wisdom moments (fewer, more impactful)
@@ -284,12 +284,12 @@ This is the emotional and intellectual climax. **Laura sits alone with coffee an
 
 ### CHAPTER 1: Arrival in Paris — The Question
 **Duration:** ~1 minute  
-**Theme:** Setup, team introduction, Laura's personal mission
+**Theme:** Setup, team introduction, Simlas's personal mission
 
 **Opening:**
 - Black screen
 - Narrator: "Five students left Amsterdam with one question. One of them was trying to answer a more personal question. It sounded simple. It was not."
-- Laura's voiceover: "I want to open a café + concept store. But is that entrepreneurship? And even if it is... can I actually do it?"
+- Simlas's voiceover: "I want to open a café + concept store. But is that entrepreneurship? And even if it is... can I actually do it?"
 - Title card appears: "What Is Entrepreneurship?"
 
 **Team Formation Slide:**
@@ -298,9 +298,9 @@ This is the emotional and intellectual climax. **Laura sits alone with coffee an
 - Introduce each of the five team members — then narrate their actual roles in the story
 
 **The Mission:**
-- Laura arrives in Paris with her notebook
+- Simlas arrives in Paris with her notebook
 - **Visual montage:** She's observing existing cafés, noticing how they work, thinking about her own concept
-- Laura (voiceover): "I'm here to understand the Paris startup ecosystem. But really, I'm here to figure out if I can build what I'm imagining."
+- Simlas (voiceover): "I'm here to understand the Paris startup ecosystem. But really, I'm here to figure out if I can build what I'm imagining."
 - Serious character: "A café concept store is a business problem like any other. Let me show you the structure."
 - Messy character: "You need to understand what makes a place feel alive. Let me show you."
 
@@ -310,11 +310,11 @@ This is the emotional and intellectual climax. **Laura sits alone with coffee an
 
 ### CHAPTER 2: The Official Ecosystem — Structure & Foundations
 **Duration:** ~2.5 minutes  
-**Theme:** Laura researches how to build a sustainable business. Formal visits, analysis, frameworks, institutions. Each visit answers: "How do I make my café concept store work?"
+**Theme:** Simlas researches how to build a sustainable business. Formal visits, analysis, frameworks, institutions. Each visit answers: "How do I make my café concept store work?"
 
 **Guided by:** The Serious Academic Entrepreneur  
-**Narrator voiceover:** "Laura didn't come to Paris just to learn about startups. She came to learn how to start hers. Each visit was a question: What do I need to know to build something that lasts?"
-**Scenes:** Site visits with learning hooks, Laura taking structured notes about business model, scalability, sustainability
+**Narrator voiceover:** "Simlas didn't come to Paris just to learn about startups. She came to learn how to start hers. Each visit was a question: What do I need to know to build something that lasts?"
+**Scenes:** Site visits with learning hooks, Simlas taking structured notes about business model, scalability, sustainability
 
 #### École des Mines (if included)
 **Learning Hook:**
@@ -343,7 +343,7 @@ as sources of economic value.
 How do you build a profitable business
 around artistic vision?
 ```
-**Main character (Laura) line:** "This is what I want to create... but how do you make it a business?"  
+**Main character (Simlas) line:** "This is what I want to create... but how do you make it a business?"  
 **Serious character response:** "You start by understanding how this *is* a business. Look at the model. The supply chain. The customer experience. All of it is architecture."
 
 #### Station F
@@ -371,24 +371,24 @@ startups test, refine, and grow faster.
 
 ### CHAPTER 3: The Informal Ecosystem — People & Community
 **Duration:** ~1.5 minutes  
-**Theme:** Laura discovers why people are the real business. After-hours learning, networking, relationships, social capital—the stuff that makes a café a destination.
+**Theme:** Simlas discovers why people are the real business. After-hours learning, networking, relationships, social capital—the stuff that makes a café a destination.
 
 **Guided by:** The Messy Networking Entrepreneur  
 **Setting:** Bar or restaurant — a space that's alive because people keep coming back
 
 **The Transition Scene:**
-Laura sits in a café with her notebook, trying to process everything she's learned about structure, business models, and systems.
+Simlas sits in a café with her notebook, trying to process everything she's learned about structure, business models, and systems.
 
 She writes: "Entrepreneurship = spreadsheets + strategic planning?"
 
 Messy character appears and sits down.
 
 **Dialogue:**
-- Laura: "I have all this information about structure. But none of it explains why people love certain cafés and ignore others."
+- Simlas: "I have all this information about structure. But none of it explains why people love certain cafés and ignore others."
 - Messy: "Exactly. You wrote it too neatly. Like you can plan it."
-- Laura: "But I was told entrepreneurship is structure. Systems. Business planning."
+- Simlas: "But I was told entrepreneurship is structure. Systems. Business planning."
 - Messy: "It is. Until people get involved. Then it becomes something else."
-- Laura: "And then?"
+- Simlas: "And then?"
 - Messy: "Then it becomes trust. Timing. Someone who tells their friend. Someone who feels like they belong. A space that feels alive. Someone who keeps coming back because they feel seen."
 - Messy: "The real business starts when the official meeting ends. When someone has a conversation in your café that matters to them. When they bring a friend and say, 'You have to go here.'"
 
@@ -407,35 +407,35 @@ over any other.
 - Laughter and playful moments
 - Coffee and croissants — the ritual that brings people together
 - People recognizing each other, creating community
-- Laura observing how a successful café creates belonging
+- Simlas observing how a successful café creates belonging
 
-**Chapter Arc:** Laura realizes structure alone is not enough. A café's real value is created through relationships. The community IS the business. Infrastructure is what allows community to thrive.
+**Chapter Arc:** Simlas realizes structure alone is not enough. A café's real value is created through relationships. The community IS the business. Infrastructure is what allows community to thrive.
 
 ---
 
 ### CHAPTER 4: The Seine / Reflection — The Conflict
 **Duration:** ~1 minute  
-**Theme:** Laura integrating opposing views. Processing: Can structure and creativity coexist? How do I build a café that's both beautiful AND viable?
+**Theme:** Simlas integrating opposing views. Processing: Can structure and creativity coexist? How do I build a café that's both beautiful AND viable?
 
 **Settings:**
 - Opening drinks along the Seine
 - Boat tour or Seine walk
 - Summer evening light
 - Team moments
-- **Laura sitting alone for a moment, looking at her notebook, looking confused but energized**
+- **Simlas sitting alone for a moment, looking at her notebook, looking confused but energized**
 
 **Visual Focus:**
 - Water and bridges (symbolizing change and flow)
 - Paris skyline (perspective)
 - Summer light on stone (beauty)
 - Team in conversation
-- Details (coffee cups, Laura's notebook, glasses, pastries)
+- Details (coffee cups, Simlas's notebook, glasses, pastries)
 
 **Short Reflections from Each Character:**
 - Serious: "Without structure, a café fails. No matter how beautiful."
 - Messy: "Without community, a café is just a room. Beautiful or not."
 - Narrator: "And without a story... people have a thousand other places to go."
-- Laura: "So I need both. The serious part AND the creative part. But how do you balance them?"
+- Simlas: "So I need both. The serious part AND the creative part. But how do you balance them?"
 
 **Text Card (Field Note):**
 ```
@@ -444,15 +444,15 @@ People keep it meaningful.
 Story keeps it unforgettable.
 ```
 
-**The Seasoned Entrepreneur appears** quietly in background at the Seine, watching Laura think, still largely silent. Observing.
+**The Seasoned Entrepreneur appears** quietly in background at the Seine, watching Simlas think, still largely silent. Observing.
 
-**Chapter Arc:** Laura's question evolves from "Which one is right?" to "How do I become someone who can hold both at the same time? How do I stop choosing and start integrating?"
+**Chapter Arc:** Simlas's question evolves from "Which one is right?" to "How do I become someone who can hold both at the same time? How do I stop choosing and start integrating?"
 
 ---
 
 ### CHAPTER 5: Closing Dinner — The Debate
 **Duration:** ~0.75 minutes  
-**Theme:** The team debates what they've learned. Laura's café concept becomes real as they challenge and refine her thinking.
+**Theme:** The team debates what they've learned. Simlas's café concept becomes real as they challenge and refine her thinking.
 
 **Setting:** Closing dinner (Friday evening) — a celebratory meal together
 
@@ -460,9 +460,9 @@ Story keeps it unforgettable.
 - Serious: "A café needs discipline. Operations. Supply chains. Financial planning."
 - Messy: "A café needs soul. Community. Meaning. A reason people choose it."
 - Narrator: "And a café needs something else—it needs a story that holds it all together."
-- Laura: "So I can't choose. I have to learn how to hold both at the same time. That's what an entrepreneur does."
+- Simlas: "So I can't choose. I have to learn how to hold both at the same time. That's what an entrepreneur does."
 
-**Narrator:** "By the last dinner, Laura's question had changed. It was no longer: which one is right? It was: how do I become the person who can synthesize both?"
+**Narrator:** "By the last dinner, Simlas's question had changed. It was no longer: which one is right? It was: how do I become the person who can synthesize both?"
 
 **The Seasoned Entrepreneur is present** at the dinner, observing, occasionally nodding, still mostly silent but fully present.
 
@@ -470,28 +470,28 @@ Story keeps it unforgettable.
 - Team laughing together, genuinely connected
 - Wine glasses clinking
 - Plates and food (in a café or restaurant they've bonded over)
-- Real conversation about Laura's café concept, about structure vs. soul
+- Real conversation about Simlas's café concept, about structure vs. soul
 - Energy and warmth, team acting as collaborators
-- Sense that something has shifted—Laura is no longer asking "Can I do this?" but "How will I do this?"
+- Sense that something has shifted—Simlas is no longer asking "Can I do this?" but "How will I do this?"
 
-**Chapter Arc:** Realization that both perspectives are necessary and complementary. Laura begins to see her future café not as a choice between discipline and creativity, but as a synthesis of both.
+**Chapter Arc:** Realization that both perspectives are necessary and complementary. Simlas begins to see her future café not as a choice between discipline and creativity, but as a synthesis of both.
 
 ---
 
 ### CHAPTER 6: Final Morning Café — The Answer
 **Duration:** ~1.5 minutes  
-**Theme:** Integration, final wisdom, resolution. Laura has moved from "Can I do this?" to "Here's how I'll do this."
+**Theme:** Integration, final wisdom, resolution. Simlas has moved from "Can I do this?" to "Here's how I'll do this."
 
-**Setting:** Saturday morning café (before departure) — **in a beautiful Parisian café, the kind Laura wants to create**
+**Setting:** Saturday morning café (before departure) — **in a beautiful Parisian café, the kind Simlas wants to create**
 
 **The Scene:**
-**Laura sits alone with coffee and her notebook.** She's been awake early, thinking, processing, sketching. The notebook now shows her complete journey:
+**Simlas sits alone with coffee and her notebook.** She's been awake early, thinking, processing, sketching. The notebook now shows her complete journey:
 - First page: "Can I open a café + concept store? Am I entrepreneurial?"
 - Next pages: "Entrepreneurship = structure?" / "But how do you keep the vision alive?" / "Is it people or systems?" / "How do they connect?"
 - Recent pages: Sketches of café concepts, business model notes, community ideas, aesthetic inspiration
 - Final page: **Starting to fill with concrete ideas—a location sketch, a menu concept, a name idea, questions about staffing and community**
 
-**The visual:** Laura is sitting at a small table by a window, looking out at Paris, her notebook open. The café around her is alive—people arriving for morning coffee, conversations starting, the space creating meaning.
+**The visual:** Simlas is sitting at a small table by a window, looking out at Paris, her notebook open. The café around her is alive—people arriving for morning coffee, conversations starting, the space creating meaning.
 
 **The Seasoned Entrepreneur approaches and sits down without being asked—a sign of trust and equality.**
 
@@ -499,7 +499,7 @@ Story keeps it unforgettable.
 
 **SE:** "May I sit?"
 
-**Laura:** "You were everywhere. At the formal places. At the informal places. Watching."
+**Simlas:** "You were everywhere. At the formal places. At the informal places. Watching."
 
 **SE:** "So were you. But you were looking for something specific."
 
@@ -507,27 +507,27 @@ Story keeps it unforgettable.
 
 **SE:** "What did you learn?"
 
-**Laura:** "That a café needs structure. Business planning. Systems that work."
+**Simlas:** "That a café needs structure. Business planning. Systems that work."
 
 *Pause. She looks at her notebook.*
 
-**Laura:** "And it needs community. People who feel like it's theirs."
+**Simlas:** "And it needs community. People who feel like it's theirs."
 
 *Pause.*
 
-**Laura:** "And it needs beauty. Design. A reason it feels different than everywhere else."
+**Simlas:** "And it needs beauty. Design. A reason it feels different than everywhere else."
 
 *Pause.*
 
-**Laura:** "And it needs money. Investors. Or savings. Or partners who believe in it."
+**Simlas:** "And it needs money. Investors. Or savings. Or partners who believe in it."
 
 *Pause.*
 
-**Laura:** "And maybe it needs confusion. Because I'm not sure I have all the answers yet."
+**Simlas:** "And maybe it needs confusion. Because I'm not sure I have all the answers yet."
 
 **SE:** "Good."
 
-**Laura:** "Good? Really?"
+**Simlas:** "Good? Really?"
 
 **SE:** "Yes. People who are too serious build a café that's efficient but soulless. People who are too artistic build something beautiful that fails. Neither version works."
 
@@ -547,7 +547,7 @@ Story keeps it unforgettable.
 
 **SE:** "Innovation in a café thrives when all of these coexist. When the serious part and the creative part are speaking to each other."
 
-**Laura:** "So entrepreneurship is an ecosystem."
+**Simlas:** "So entrepreneurship is an ecosystem."
 
 **SE:** "Exactly. And you're starting to understand your place in it."
 
@@ -555,7 +555,7 @@ Story keeps it unforgettable.
 
 **SE (final line):** "The serious part builds the café—the systems, the operations, the sustainability. The human part keeps it alive—the community, the story, the reason it matters. You need both to build something that lasts."
 
-*He leaves. Laura sits alone with her notebook.*
+*He leaves. Simlas sits alone with her notebook.*
 
 **She writes on the final page—with confidence:** 
 
@@ -575,7 +575,7 @@ And I can do that.
 **Duration:** ~15 seconds
 
 Quick cuts of:
-- **Laura observing a café at work—how it runs, how people connect**
+- **Simlas observing a café at work—how it runs, how people connect**
 - École des Mines (understanding structure)
 - Hello Tomorrow (understanding innovation)
 - Le19M / POUSH (understanding how to blend craft with business)
@@ -586,11 +586,11 @@ Quick cuts of:
 - Seine and boat (perspective)
 - Closing dinner (collaboration)
 - Team walking through Paris
-- **Laura sitting alone in the final café, notebook open, writing**
+- **Simlas sitting alone in the final café, notebook open, writing**
 - Train departing (leaving with answers)
 
 **Final Voice-Over (Narrator):**
-> "We came to Paris looking for startups. But really, Laura came looking for proof that she could build something—something beautiful and real and sustainable. And she found it not in one place, but everywhere. In the cafés, in the institutions, in the spaces between them, and in the people who believe that structure and creativity can coexist."
+> "We came to Paris looking for startups. But really, Simlas came looking for proof that she could build something—something beautiful and real and sustainable. And she found it not in one place, but everywhere. In the cafés, in the institutions, in the spaces between them, and in the people who believe that structure and creativity can coexist."
 
 **Final Title Card:**
 ```
@@ -601,7 +601,7 @@ vision with discipline, art with business,
 passion with strategy.
 ```
 
-**Final Shot:** Laura raising her coffee cup at the final café table, and we see her notebook page: "Entrepreneurship = building something beautiful that actually works."
+**Final Shot:** Simlas raising her coffee cup at the final café table, and we see her notebook page: "Entrepreneurship = building something beautiful that actually works."
 
 **Credits:** Team names, "Paris, July 2026"
 
@@ -745,7 +745,7 @@ For **every** official visit, capture:
 
 **Character-Specific Footage:**
 
-**Main Character (Laura):**
+**Main Character (Simlas):**
 - Notebook (open, writing, turning pages, evolving from abstract questions to specific café sketches)
 - **Observing existing cafés—how they're designed, how people use space, how staff interacts with customers**
 - Windows and contemplation
@@ -953,7 +953,7 @@ For **every** official visit, capture:
 **The connection:**
 - Video characters represent different ecosystem perspectives
 - Each site visit provides evidence for your brief analysis
-- Laura's café concept shows how to apply ecosystem thinking to an actual venture
+- Simlas's café concept shows how to apply ecosystem thinking to an actual venture
 - **The café + concept store becomes your thesis example:** "Can an artsy, cultural business thrive by blending Paris' institutional support with organic community building?"
 - Paris vs. Amsterdam comparison implicit in the narrative
 - Final synthesis: Entrepreneurship is an ecosystem, and understanding it helps you build anything—even a café.
@@ -982,11 +982,11 @@ For **every** official visit, capture:
 - The video shows WHY teams need diverse perspectives
 - Reflects the professor's team formation philosophy
 - Demonstrates that entrepreneurship needs different thinking styles
-- **Applies it to a real venture: Laura needs all these perspectives to build her café**
+- **Applies it to a real venture: Simlas needs all these perspectives to build her café**
 
 ### ✅ Tells a Real Story
 - Character-driven narrative (not just events)
-- **Personal stakes: Laura is actually considering opening a café + concept store**
+- **Personal stakes: Simlas is actually considering opening a café + concept store**
 - Emotional arc (Can I do this? → Confusion about how → Integration → Confidence)
 - Each scene serves the story, not just the assignment
 - Memorable for viewers (and graders)
@@ -994,7 +994,7 @@ For **every** official visit, capture:
 ### ✅ Demonstrates Deep Learning
 - Shows understanding of formal ecosystem (serious character) applied to a café business
 - Shows understanding of informal ecosystem (messy character) applied to community building
-- Shows ability to synthesize (seasoned character and Laura's evolution)
+- Shows ability to synthesize (seasoned character and Simlas's evolution)
 - Proves you're thinking beyond "we visited these places"—you're asking "How does this help me build something?"
 
 ### ✅ Cinematic Quality
@@ -1109,34 +1109,34 @@ The café + concept store isn't a gimmick. It's the perfect vehicle for understa
 
 4. **It makes the Wes-Anderson aesthetic essential, not superficial** — The visual style now directly mirrors the aesthetic of the venture itself. Not a stylistic choice; a storytelling choice.
 
-5. **It creates genuine stakes** — Laura isn't just learning about entrepreneurship. She's building her own venture. The notebook becomes a real business journal.
+5. **It creates genuine stakes** — Simlas isn't just learning about entrepreneurship. She's building her own venture. The notebook becomes a real business journal.
 
 6. **It connects to your individual assignment** — Your brief can now ask: "How do Paris and Amsterdam ecosystems support cultural/creative businesses? How would I apply this to a café concept store?"
 
-7. **It makes the final café scene perfect metaphorically AND practically** — Laura sitting in a café, learning how to create a café, from someone who understands that both the structure and the story matter.
+7. **It makes the final café scene perfect metaphorically AND practically** — Simlas sitting in a café, learning how to create a café, from someone who understands that both the structure and the story matter.
 
 **What Changes in Production:**
 
-- **Laura's observations become intentional** — She's watching how existing cafés work, what makes them special, how they create community
+- **Simlas's observations become intentional** — She's watching how existing cafés work, what makes them special, how they create community
 - **The notebook evolves concretely** — From philosophical questions to actual business sketches, location ideas, menu concepts, community plans
 - **Each character's advice becomes specific** — Not generic startup advice, but café-specific guidance
-- **The final scene gains power** — It's not just metaphorical; Laura is literally sitting in the type of space she wants to create
+- **The final scene gains power** — It's not just metaphorical; Simlas is literally sitting in the type of space she wants to create
 
 ---
 
 ## Final Thoughts
 
-This video isn't just a compliance assignment. It's an opportunity to create something you're proud of—something that shows your understanding of entrepreneurship ecosystems through storytelling. And because you're grounding it in a real venture (Laura's café + concept store), it becomes a proof of concept for that venture itself.
+This video isn't just a compliance assignment. It's an opportunity to create something you're proud of—something that shows your understanding of entrepreneurship ecosystems through storytelling. And because you're grounding it in a real venture (Simlas's café + concept store), it becomes a proof of concept for that venture itself.
 
 The magic happens in the details:
 - The main character's evolving notebook (from questions to sketches to plans)
-- Laura's observations of how existing cafés work
+- Simlas's observations of how existing cafés work
 - The Seasoned Entrepreneur's quiet presence and final wisdom
 - The final café scene (metaphorically and literally perfect)
 - The way formal and informal moments build on each other
 - The tension between structure and creativity being resolved, not chosen between
 
-**Remember:** The best videos feel authentic. Let your team's real learning and genuine reflections show. And let Laura's real journey—from "Can I do this?" to "Here's how I'll do it"—come through. The professor will see that you're not just checking boxes—you're actually thinking deeply about what entrepreneurship means, AND you're applying it to something you care about.
+**Remember:** The best videos feel authentic. Let your team's real learning and genuine reflections show. And let Simlas's real journey—from "Can I do this?" to "Here's how I'll do it"—come through. The professor will see that you're not just checking boxes—you're actually thinking deeply about what entrepreneurship means, AND you're applying it to something you care about.
 
 Good luck! 🇫🇷🎬
 
