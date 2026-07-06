@@ -5,3 +5,4 @@ This whole trip is about thinking aboutparis with an entrepreneurship view.
 
 ## the role of the embassy
 
+
