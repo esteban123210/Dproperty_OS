@@ -4,8 +4,8 @@
   "title": "Create weekly roadmap plan through September 15",
   "titleGenerationStatus": "success",
   "createdAt": 1783318236605,
-  "updatedAt": 1783318560759,
-  "lastResponseAt": 1783318560759,
+  "updatedAt": 1783319091060,
+  "lastResponseAt": 1783319091060,
   "sessionId": "6492dd1d-dda6-4e1a-8253-67386838e1e0",
   "providerState": {
     "providerSessionId": "6492dd1d-dda6-4e1a-8253-67386838e1e0"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "haiku",
     "inputTokens": 8,
-    "cacheCreationInputTokens": 15788,
-    "cacheReadInputTokens": 35911,
+    "cacheCreationInputTokens": 2798,
+    "cacheReadInputTokens": 91865,
     "contextWindow": 200000,
-    "contextTokens": 51707,
-    "percentage": 26,
+    "contextTokens": 94671,
+    "percentage": 47,
     "contextWindowIsAuthoritative": true
   }
 }
