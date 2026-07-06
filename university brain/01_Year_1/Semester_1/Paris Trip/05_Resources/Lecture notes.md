@@ -10,3 +10,5 @@ This whole trip is about thinking aboutparis with an entrepreneurship view.
 - important tax incentives 
 - good visa options
 - startups are hypercentralized in paris
+
+
