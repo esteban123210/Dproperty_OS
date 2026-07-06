@@ -150,36 +150,37 @@ The video should feel:
 ### Character 3: The Serious Academic Entrepreneur 🎓
 
 **Role:** Guide through the formal ecosystem  
-**Purpose:** Explains structure, analysis, institutions, funding  
-**Profile:** Often the "hacker" — analytical, systematic, framework-driven
+**Purpose:** Shows Laura how to build rigor around her café vision. Explains structure, analysis, institutions, funding, systems that make ideas sustainable.  
+**Profile:** Often the "hacker" — analytical, systematic, framework-driven. **Someone who believes good ideas become real businesses when they're properly structured.**
 
 **Speaking Style:** Precise, analytical, intense, intellectual
 
-**Key Insight:** Entrepreneurship is not a vibe. It's a structured process under uncertainty.
+**Key Insight:** "A café concept store is beautiful. But beauty doesn't scale. Structure does. Your job is to make your idea structured enough to survive, smart enough to grow, but not so structured that it stops being beautiful."
 
 **Represents the Formal Ecosystem:**
-- Universities (École des Mines)
-- Deep tech (Hello Tomorrow)
-- Startup infrastructure (Station F)
-- Acceleration (WILCO)
-- Research commercialization
+- Universities (École des Mines) → How to turn an idea into a validated business plan
+- Deep tech (Hello Tomorrow) → How technology and systems improve customer experience and operations
+- Startup infrastructure (Station F) → How to access capital, mentorship, networks to scale beyond one location
+- Acceleration (WILCO) → How to test, refine, and grow a concept-driven business
+- Research commercialization → Taking something artistic/conceptual and making it economically viable
 
-**Example Lines:**
-- "Entrepreneurship is not a vibe. It is a structured process under uncertainty."
-- "Entrepreneurship begins before the company. It starts with talent."
-- "Some ideas do not need hype first. They need proof."
-- "It feels like a city inside a building."
-- "Exactly. Density creates access."
-- "Without structure, ideas disappear."
+**Example Lines (Updated for Café Context):**
+- "A café is not a vibe. It is a structured process under uncertainty. Location, staffing, supply chains, cash flow, customer retention. All of it matters."
+- "A beautiful concept that fails is still a failure. You need the framework to keep it alive."
+- "Some ideas do not need hype first. They need proof. Can your café work? Show the numbers."
+- "Look at this space. How does density create value? How would you do that in your café?"
+- "Exactly. Density creates access. Can you create density in a small space? How?"
+- "Without structure, ideas disappear. Your concept will disappear too if you don't build the infrastructure to support it."
 
 **What to Film:**
-- Taking structured notes
-- Asking analytical questions
-- Explaining concepts after visits
-- Analyzing buildings/infrastructure
+- Taking structured notes while visiting spaces
+- Asking analytical questions about scalability, business model, operations
+- Explaining concepts after visits — especially about building sustainable businesses
+- Analyzing buildings/infrastructure — "How would you do this in a café context?"
 - Direct-to-camera concept definitions
-- Interacting with speakers
-- Friendly debates with Messy character
+- Interacting with speakers about business planning and structure
+- Friendly debates with Messy character about art vs. business
+- Mentoring Laura: "Show me your vision. Now show me your business plan. They need to match."
 
 ---
 
