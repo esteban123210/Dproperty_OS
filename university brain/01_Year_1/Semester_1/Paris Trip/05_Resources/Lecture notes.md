@@ -7,3 +7,4 @@ This whole trip is about thinking aboutparis with an entrepreneurship view.
 
 
 - France is good for series a maybe b and seed. The later the series, the less likely it is to be invested on.
+- important tax ine
