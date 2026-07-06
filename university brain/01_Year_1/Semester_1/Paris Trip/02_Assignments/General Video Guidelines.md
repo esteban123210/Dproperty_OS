@@ -2,6 +2,351 @@
 
 **Flexible framework for creating your video regardless of narrative approach**
 
+---
+
+## ⚡ QUICK START: COMPLETE DELIVERABLES CHECKLIST
+
+**Print this out. Check off items as you complete them.**
+
+### PRE-TRIP PREPARATION (Complete by July 6)
+
+**Planning & Decisions:**
+- [ ] Team has read General Video Guidelines
+- [ ] Narrative approach chosen (character-driven, journey-based, concept-based, or hybrid)
+- [ ] If character-driven: All 5 character roles assigned
+- [ ] Team has discussed tone and values
+- [ ] Filming schedule understood by everyone
+- [ ] Daily assignments known (who films, who appears when)
+
+**Equipment & Technical:**
+- [ ] Camera(s) tested and working
+- [ ] External microphone tested and working
+- [ ] Backup camera/phone ready
+- [ ] All batteries charged
+- [ ] SD cards cleared and ready (128GB+ total)
+- [ ] Tripod tested and packed
+- [ ] Audio recorder tested (if using separate device)
+- [ ] Headphones functional for audio monitoring
+- [ ] Backup external hard drive packed
+- [ ] USB cables and chargers packed
+
+**Materials & Props:**
+- [ ] Notebook(s) prepared (Main Character or for all)
+- [ ] Pens packed
+- [ ] Wes Anderson color clothing (if aesthetic matters)
+- [ ] Business casual clothes for formal visits
+- [ ] Casual clothes for free time
+
+**Documentation:**
+- [ ] Shooting Schedule printed and distributed
+- [ ] Daily Filming Cheat Sheet printed (5 copies)
+- [ ] Character profiles printed (if using character framework)
+- [ ] Site guides reviewed
+- [ ] Team contact info compiled
+- [ ] Hotel address and emergency contacts confirmed
+
+**Pre-Trip Test:**
+- [ ] Full video setup tested (camera + mic + audio recorder)
+- [ ] 2-minute test video recorded and played back successfully
+- [ ] Audio quality confirmed as acceptable
+- [ ] All team members have their assignments
+- [ ] Final team briefing completed
+
+---
+
+### DURING TRIP (July 7–11)
+
+**Daily Filming - TUESDAY:**
+- [ ] Breakfast intro footage filmed
+- [ ] HelloTomorrow presentation recorded (presenter, room, reactions)
+- [ ] Team reactions captured
+- [ ] Post-visit reflections recorded (30-60 sec per person)
+- [ ] Lunch café moment filmed
+- [ ] Evening debrief recorded
+
+**Daily Filming - WEDNESDAY:**
+- [ ] Le19M and/or POUSH exterior shots
+- [ ] Interior spaces and details filmed
+- [ ] Team reactions to cultural spaces captured
+- [ ] Free time Paris exploration filmed
+- [ ] Café processing moment recorded
+- [ ] Evening footage captured
+
+**Daily Filming - THURSDAY:**
+- [ ] Station F exterior and signage
+- [ ] Interior space scale and density filmed
+- [ ] Presentation/tour recorded
+- [ ] Team exploring captured
+- [ ] Post-visit analysis recorded
+- [ ] Lunch debrief filmed
+- [ ] Late afternoon footage captured
+
+**Daily Filming - FRIDAY:**
+- [ ] WILCO arrival and space filmed
+- [ ] Presentation recorded
+- [ ] Team engagement captured
+- [ ] Free time afternoon footage (Seine, cafés, exploration)
+- [ ] Aperitif/informal moment filmed
+- [ ] Closing dinner footage recorded (multiple angles, clean audio)
+- [ ] Team conversation/debate captured
+
+**Daily Filming - SATURDAY:**
+- [ ] Final breakfast filmed
+- [ ] Individual final reflections recorded
+- [ ] Team final moment captured
+- [ ] All missing footage identified and addressed
+- [ ] Final checks on audio/video quality
+
+**General Daily Tasks:**
+- [ ] Raw footage organized and labeled
+- [ ] Backup of all footage (external drive or cloud)
+- [ ] Team debrief each evening
+- [ ] Equipment status checked and batteries recharged
+- [ ] Audio levels reviewed (quality acceptable?)
+- [ ] Missing shots identified for next day
+
+---
+
+### CONTENT CAPTURED (By End of Trip)
+
+**Required Footage:**
+
+**Site Visits:**
+- [ ] Hello Tomorrow: Exterior, interior, presenter, reactions, post-visit reflection
+- [ ] Station F: Exterior, interior scale, presenter, team exploring, analysis
+- [ ] WILCO: Space, presenter, team engagement, post-visit reflection
+- [ ] (Optional) Le19M/POUSH: Exterior, interior, team reactions, cultural context
+
+**Team Members:**
+- [ ] Person 1: On camera or voice at least once
+- [ ] Person 2: On camera or voice at least once
+- [ ] Person 3: On camera or voice at least once
+- [ ] Person 4: On camera or voice at least once
+- [ ] Person 5: On camera or voice at least once
+
+**Reflections:**
+- [ ] After Deep Tech visit
+- [ ] After Cultural visit
+- [ ] After Infrastructure visit
+- [ ] After Accelerator visit
+- [ ] At closing dinner
+- [ ] Final morning reflection
+
+**Atmosphere & Context:**
+- [ ] Team walking through Paris
+- [ ] Café/meal moments
+- [ ] Evening moments (aperitif, dinner, bars)
+- [ ] Seine or parks (establishing shots)
+- [ ] Details (croissants, coffee, notebooks, architecture)
+- [ ] Team bonding moments
+- [ ] Golden hour light shots
+
+**Concept Explanations:**
+- [ ] Deep Tech explained or demonstrated
+- [ ] Startup Hub/Infrastructure explained or demonstrated
+- [ ] Accelerator explained or demonstrated
+- [ ] At least 1–2 additional concepts (Culture, Social Capital, Knowledge Transfer, etc.)
+
+---
+
+### POST-TRIP ASSEMBLY (Days 1–7 After Return)
+
+**Days 1–2: Organization & Backup**
+- [ ] All footage transferred from SD cards to computer
+- [ ] Footage organized by date and location
+- [ ] Folder structure created (Day 1, Day 2, etc.)
+- [ ] Backup created on external hard drive (full copy)
+- [ ] Backup uploaded to cloud (Google Drive, OneDrive, or Dropbox)
+- [ ] Original SD cards cleared only AFTER backup confirmed
+
+**Days 2–3: Rough Assembly**
+- [ ] All usable footage reviewed
+- [ ] Best takes identified for each scene
+- [ ] Rough cut assembled (footage in narrative order)
+- [ ] Rough cut played back (5–7 minutes, no polish)
+- [ ] Missing pieces identified
+- [ ] Audio issues flagged
+- [ ] Backup of rough cut created
+
+**Days 4–6: Editing & Polishing**
+- [ ] Title cards created and added
+- [ ] Text overlays added (concept definitions if needed)
+- [ ] Subtitles added to ALL dialogue (required)
+- [ ] Color grading applied (consistent, warm tone)
+- [ ] Missing voiceovers recorded (if needed)
+- [ ] Music selected and added
+- [ ] Sound design added (ambient sounds, transitions)
+- [ ] Final cuts made to reach 5–7 min exactly
+- [ ] Entire video reviewed once fully edited
+- [ ] Final backup created
+
+**Days 6–7: Quality Control & Export**
+- [ ] Video plays without glitches or errors
+- [ ] Audio is clear throughout (all dialogue understandable)
+- [ ] All team names in credits/title card
+- [ ] "Paris, July 2026" on final card
+- [ ] Video is exactly 5–7 minutes (timed with precision)
+- [ ] File format is MP4 (or compatible)
+- [ ] Resolution is 1080p or higher
+- [ ] Export settings finalized
+- [ ] Final video exported and saved
+
+---
+
+### SUBMISSION REQUIREMENTS
+
+**Before Upload:**
+- [ ] Video duration is 5–7 minutes (verified by timer)
+- [ ] File format is MP4
+- [ ] File size is reasonable (under 5GB)
+- [ ] Video plays without errors
+- [ ] Audio is clear throughout
+- [ ] All dialogue has subtitles
+- [ ] Color grading is consistent
+- [ ] Title card shows: Team names, "Paris, July 2026"
+- [ ] Final moment provides closure/landing
+
+**Upload & Submission:**
+- [ ] Video uploaded within 72 hours of return (REQUIRED)
+- [ ] Upload location confirmed (upload link/platform known)
+- [ ] Video description provided (brief summary)
+- [ ] Team member names listed (for peer voting)
+- [ ] Upload confirmation received
+- [ ] Link works and video plays
+
+**After Submission:**
+- [ ] Save video file locally (backup)
+- [ ] Save project files/edit timeline (in case revisions needed)
+- [ ] Prepare for peer review (will begin within 48 hours)
+- [ ] Note any peer feedback for future projects
+
+---
+
+### CONTENT REQUIREMENTS CHECKLIST
+
+**Concepts Must Be Addressed:**
+- [ ] Deep Tech (science-based, long timelines, patient capital)
+- [ ] Startup Hub / Infrastructure (density, access, network effects)
+- [ ] Accelerator (structured support, iteration, growth)
+- [ ] + at least 1–2 of these:
+  - [ ] Cultural/Creative Innovation
+  - [ ] Knowledge Transfer
+  - [ ] Social Capital
+  - [ ] Ecosystem thinking
+
+**Story Requirements:**
+- [ ] Clear opening (question, context, hook)
+- [ ] Clear middle (progression of understanding)
+- [ ] Clear closing (answer, wisdom, resolution)
+- [ ] Visible evolution from beginning to end
+- [ ] Journey feels earned, not forced
+
+**Technical Standards:**
+- [ ] Audio: All dialogue clear and understandable
+- [ ] Audio: No excessive background noise
+- [ ] Audio: Balanced levels (not too quiet, not too loud)
+- [ ] Video: Majority of shots are stable (no excessive shake)
+- [ ] Video: Lighting is generally good (not too dark, not blown out)
+- [ ] Video: Color grading is consistent throughout
+- [ ] Editing: Cuts feel intentional, pacing is appropriate
+- [ ] Subtitles: Present on all dialogue
+- [ ] Duration: 5–7 minutes (not under, not over)
+
+**Assignment Requirements:**
+- [ ] 3+ site visits (Hello Tomorrow, Station F, WILCO minimum)
+- [ ] Every team member appears
+- [ ] Field reflections after major visits
+- [ ] Clear narrative structure (beginning → middle → end)
+- [ ] Entrepreneurship concepts demonstrated
+- [ ] Professional production quality
+- [ ] Uploaded within 72 hours
+
+---
+
+### QUALITY CHECKLIST (Before Submitting)
+
+**Watch Your Finished Video & Verify:**
+
+**Content:**
+- [ ] Every moment serves the story (nothing feels extraneous)
+- [ ] Concepts are explained clearly (not vague)
+- [ ] All team members are visible/audible
+- [ ] Journey is clear (you can see thinking evolve)
+- [ ] Ending feels earned and satisfying
+- [ ] If someone watches cold, they understand what the video is about
+
+**Audio:**
+- [ ] Can understand every word of dialogue
+- [ ] No buzzing, hissing, or wind noise
+- [ ] Volumes are consistent (no jarring changes)
+- [ ] Music/ambient sound enhances, doesn't overwhelm
+
+**Video:**
+- [ ] Colors are consistent throughout
+- [ ] Not too many jarring transitions
+- [ ] Pacing feels right (not too fast, not too slow)
+- [ ] Visually interesting (mix of wide, medium, close-up shots)
+- [ ] Professional appearance
+
+**Technical:**
+- [ ] File plays without errors
+- [ ] Audio syncs with video
+- [ ] Subtitles are readable and accurate
+- [ ] Credits/titles are visible
+- [ ] Duration is exactly 5–7 minutes
+
+---
+
+### TIMELINE AT A GLANCE
+
+| Phase | When | What |
+|-------|------|------|
+| **Prepare** | Before July 7 | Decide approach, test equipment, assign roles |
+| **Film** | July 7–11 | Capture all required footage and reflections |
+| **Organize** | July 11–12 | Back up footage, organize by date |
+| **Rough Cut** | July 12–13 | Assemble in narrative order, check gaps |
+| **Polish** | July 13–17 | Add titles, subtitles, color grade, music |
+| **Quality Control** | July 17–18 | Final review, fix any issues |
+| **Export & Submit** | July 18–19 | Export final video, upload within 72 hours |
+
+---
+
+### IF SOMETHING IS MISSING
+
+**Quick reference: What to do if you missed something**
+
+| Missing Element | What to Do |
+|---|---|
+| One person didn't get filmed | Quick recorded interview Saturday morning |
+| Site visit footage is weak | Emphasize other visits, add narration |
+| Concept explanations unclear | Record voiceovers explaining them |
+| Audio quality is poor | Use subtitles heavily, re-record key moments |
+| Didn't get final reflection | Quick Saturday morning interviews on key learning |
+| No informal/social footage | Use formal visit footage + narration about relationships |
+| Missing closing moment | Record final team moment before departure |
+| Color grading is inconsistent | Unified color grade in post-production |
+
+**Rule of thumb: Fix audio first. Everything else is second priority.**
+
+---
+
+### SUCCESS CRITERIA
+
+**You're ready to submit when:**
+
+- [ ] Video is 5–7 minutes (not over, not under)
+- [ ] All dialogue is clear and has subtitles
+- [ ] Every team member appears
+- [ ] Story has clear beginning, middle, end
+- [ ] At least 3 entrepreneurship concepts are addressed
+- [ ] Professional audio, stable video, consistent color
+- [ ] File is MP4 and plays without errors
+- [ ] You're confident about 80%+ of the work
+- [ ] You've watched it start to finish at least once
+- [ ] Someone else has watched it and understood the story
+
+---
+
 **Status:** Standalone guide, works with any creative choice  
 **Length:** 5–7 minutes  
 **Weight:** 40% of final grade (30% faculty, 10% from peer vote)
