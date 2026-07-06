@@ -86,19 +86,9 @@
               "icon": "lucide-file",
               "title": "Weekly Review Workflow"
             }
-          },
-          {
-            "id": "183fd980fea8b624",
-            "type": "leaf",
-            "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "New tab"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -282,7 +272,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "183fd980fea8b624",
+  "active": "d851ac5dd786f8e6",
   "lastOpenFiles": [
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes.md",
     "Recording 20260706112735.m4a",
