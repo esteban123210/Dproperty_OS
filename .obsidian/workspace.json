@@ -86,9 +86,19 @@
               "icon": "lucide-file",
               "title": "Weekly Review Workflow"
             }
+          },
+          {
+            "id": "183fd980fea8b624",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 6
       }
     ],
     "direction": "vertical"
@@ -272,15 +282,15 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "070dd6679b4d6992",
+  "active": "183fd980fea8b624",
   "lastOpenFiles": [
+    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes.md",
     "Recording 20260706112735.m4a",
     "Recording 20260706112356.m4a",
     "second_brain/16_Task_Management/Weekly Roadmap - July to Sept 2026.md",
     "second_brain/16_Task_Management/Weekly Review Workflow.md",
     "second_brain/16_Task_Management/Miguel's Weekly Tasks - Jul to Sept.md",
     "second_brain/16_Task_Management/Next 10 Tasks Working Plan.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes interpreted.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/General Video Guidelines.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Assignments Overview.md",
@@ -299,7 +309,6 @@
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/CHARACTER FRAMEWORK - READ ME FIRST.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Framework - Complete Overview.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 01 The Narrator.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.md.tmp.19628.38391b53952b",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 04 The Messy Networking Entrepreneur.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 03 The Serious Academic Entrepreneur.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 02 The Main Character.md",
