@@ -284,34 +284,37 @@ This is the emotional and intellectual climax. **Laura sits alone with coffee an
 
 ### CHAPTER 1: Arrival in Paris — The Question
 **Duration:** ~1 minute  
-**Theme:** Setup, team introduction, central question
+**Theme:** Setup, team introduction, Laura's personal mission
 
 **Opening:**
 - Black screen
-- Narrator: "Five students left Amsterdam with one question. It sounded simple. It was not."
+- Narrator: "Five students left Amsterdam with one question. One of them was trying to answer a more personal question. It sounded simple. It was not."
+- Laura's voiceover: "I want to open a café + concept store. But is that entrepreneurship? And even if it is... can I actually do it?"
 - Title card appears: "What Is Entrepreneurship?"
 
 **Team Formation Slide:**
 - Show professor's team formation slide (5 members, hacker/hipster/hustler mix)
 - Narrator: "The professor gave us one slide about team formation. Five members. Ideally, not all the same. One hacker. One hipster. One hustler. It looked like administration. It was actually the plot."
-- Introduce each of the five team members
+- Introduce each of the five team members — then narrate their actual roles in the story
 
-**The Question:**
-- Main character arrives in Paris
-- Main character: "What is entrepreneurship, really?"
-- Serious character: "Start with structure."
-- Messy character: "Start with coffee."
+**The Mission:**
+- Laura arrives in Paris with her notebook
+- **Visual montage:** She's observing existing cafés, noticing how they work, thinking about her own concept
+- Laura (voiceover): "I'm here to understand the Paris startup ecosystem. But really, I'm here to figure out if I can build what I'm imagining."
+- Serious character: "A café concept store is a business problem like any other. Let me show you the structure."
+- Messy character: "You need to understand what makes a place feel alive. Let me show you."
 
-**Tension:** Sets up the central conflict — structure vs. relationships
+**Tension:** Sets up the central conflict — artistic vision vs. business viability. Structure vs. community. Can you have both?
 
 ---
 
-### CHAPTER 2: The Official Ecosystem — Structure
+### CHAPTER 2: The Official Ecosystem — Structure & Foundations
 **Duration:** ~2.5 minutes  
-**Theme:** Formal visits, analysis, frameworks, institutions
+**Theme:** Laura researches how to build a sustainable business. Formal visits, analysis, frameworks, institutions. Each visit answers: "How do I make my café concept store work?"
 
 **Guided by:** The Serious Academic Entrepreneur  
-**Scenes:** Site visits with learning hooks
+**Narrator voiceover:** "Laura didn't come to Paris just to learn about startups. She came to learn how to start hers. Each visit was a question: What do I need to know to build something that lasts?"
+**Scenes:** Site visits with learning hooks, Laura taking structured notes about business model, scalability, sustainability
 
 #### École des Mines (if included)
 **Learning Hook:**
@@ -334,12 +337,14 @@ capital, and credibility.
 #### Le19M / POUSH
 **Learning Hook:**
 ```
-CULTURAL INNOVATION
+CULTURAL INNOVATION & CONCEPT STORES
 Craft, identity, and creativity
 as sources of economic value.
+How do you build a profitable business
+around artistic vision?
 ```
-**Main character line:** "This does not look like startups."  
-**Serious character response:** "It is still innovation."
+**Main character (Laura) line:** "This is what I want to create... but how do you make it a business?"  
+**Serious character response:** "You start by understanding how this *is* a business. Look at the model. The supply chain. The customer experience. All of it is architecture."
 
 #### Station F
 **Learning Hook:**
