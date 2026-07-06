@@ -1,0 +1,1 @@
+if i wanna start a startup, what are things that are different?
