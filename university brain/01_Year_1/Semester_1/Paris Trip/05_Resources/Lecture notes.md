@@ -1,1 +1,1 @@
-if i wanna start a startup, what are things that are different?
+if i wanna start a startup, what are things that are different between amsterdam and paris?
