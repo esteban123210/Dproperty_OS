@@ -45,8 +45,7 @@
               "title": "Character Profile - 05 The Seasoned Entrepreneur"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -228,8 +227,10 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "0cab61b4f641215e",
+  "active": "0bbfd0970c308a5c",
   "lastOpenFiles": [
+    "Untitled",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.html",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 04 The Messy Networking Entrepreneur.html",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 03 The Serious Academic Entrepreneur.html",
@@ -244,7 +245,6 @@
     "second_brain/16_Task_Management/Weekly Roadmap - July to Sept 2026.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Framework - Complete Overview.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 01 The Narrator.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.md.tmp.19628.38391b53952b",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 04 The Messy Networking Entrepreneur.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 03 The Serious Academic Entrepreneur.md",
@@ -264,7 +264,6 @@
     "university brain/01_Year_1/Semester_1/Paris Trip/01_Program/Daily Schedule.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Site Guides Index.md",
     "university brain/university brain/01_Year_1/Semester_1/Electives.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources",
-    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team"
+    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources"
   ]
 }
