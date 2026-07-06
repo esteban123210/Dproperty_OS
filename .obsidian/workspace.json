@@ -78,7 +78,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -260,8 +260,9 @@
       "new-3d-graph:Open 3d graph": false
     }
   },
-  "active": "d851ac5dd786f8e6",
+  "active": "070dd6679b4d6992",
   "lastOpenFiles": [
+    "second_brain/16_Task_Management/Weekly Review Workflow.md",
     "second_brain/16_Task_Management/Weekly Roadmap - July to Sept 2026.md",
     "second_brain/16_Task_Management/Miguel's Weekly Tasks - Jul to Sept.md",
     "second_brain/16_Task_Management/Next 10 Tasks Working Plan.md",
@@ -296,7 +297,6 @@
     "university brain/04_Progress/Year 2 Progress.md",
     "university brain/01_Year_1/Semester_1/Change Management.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Learning Hooks & Key Concepts.md",
-    "university brain/01_Year_1/Semester_1/Electives.md.tmp.23800.b8500e7306d5",
-    "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Hello Tomorrow Guide.md"
+    "university brain/01_Year_1/Semester_1/Electives.md.tmp.23800.b8500e7306d5"
   ]
 }
