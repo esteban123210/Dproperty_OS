@@ -8,36 +8,43 @@
 
 **Working Title:** What Is Entrepreneurship?
 
-**Core Concept:** Instead of a travel vlog, we create a short film where the Paris trip becomes a story about one central question: *What is entrepreneurship, really?*
+**Core Concept:** Instead of a travel vlog, we create a short film where the Paris trip becomes a personal story. Laura is considering opening a **café + concept store**, and she goes to Paris to answer one central question: *How do you actually build something like this? What is entrepreneurship, really?*
+
+The trip becomes both philosophical exploration AND direct business research.
 
 **Duration:** 5–7 minutes  
 **Team Size:** 5 members  
 **Approach:** Cinematic, analytical, playful, reflective  
-**Visual Style:** Wes-Anderson-inspired Paris aesthetic (symmetry, pastels, summer light)  
+**Visual Style:** Wes-Anderson-inspired Paris aesthetic (symmetry, pastels, summer light) — which perfectly mirrors the aesthetic of a boutique café concept  
 
 **The Thesis:** 
-Entrepreneurship is not one thing. It's an ecosystem where structure and relationships, analysis and intuition, institutions and networks coexist and strengthen each other.
+Entrepreneurship is not one thing. It's an ecosystem where structure and relationships, analysis and intuition, institutions and networks coexist and strengthen each other. **And starting a café + concept store proves it.**
 
 ---
 
 ## 1. Core Narrative Idea
 
 ### The Central Question
-A main character arrives in Paris trying to answer one question:
-> "What is entrepreneurship, really?"
+**Laura arrives in Paris with a personal mission:**
+> "I want to open a café + concept store. But I don't know if I'm a real entrepreneur. What is entrepreneurship, really? And can I actually do this?"
 
 ### The Journey
+She's not just visiting the startup ecosystem—**she's researching it for her own venture.**
+
 Throughout the trip, different characters give her different answers:
-- **The Serious Academic Entrepreneur:** Entrepreneurship is structure, institutions, capital, deep tech, product-market fit.
-- **The Messy Networking Entrepreneur:** Entrepreneurship is relationships, trust, conversations, timing, knowing who to call.
-- **The Seasoned Entrepreneur:** Both are true, but incomplete. Entrepreneurship is the ecosystem that connects them.
+- **The Serious Academic Entrepreneur:** Entrepreneurship is structure, institutions, capital, distribution channels, business planning. Your café needs all of this. Here's how.
+- **The Messy Networking Entrepreneur:** Entrepreneurship is relationships, trust, community, word-of-mouth, cultural positioning. Your café needs people who believe in it.
+- **The Seasoned Entrepreneur:** Both are true, but incomplete. The magic happens when artistic vision meets business discipline. That's how you build something that lasts.
 
 ### The Resolution
 **Final Message:**
-> "Entrepreneurship is money, networking, creativity, structure, risk, failure, timing, culture, and trust. Innovation thrives when all of these things coexist."
+> "A café + concept store isn't different from any other startup. It needs money, relationships, design, structure, risk management, community, timing, culture, and trust. Innovation—and beautiful cafés—thrive when all of these coexist."
 
 **Short version:**
-> "Entrepreneurship is not one person, one place, or one method. It is an ecosystem."
+> "Entrepreneurship is not one person, one place, or one method. It is an ecosystem. And if you understand the ecosystem, you can build anything—even a café."
+
+### The Personal Stakes
+This isn't abstract. By the end, Laura has gone from "Can I do this?" to "Here's how I build this." The notebook evolves from philosophical questions to concrete business sketches.
 
 ---
 
@@ -99,35 +106,44 @@ The video should feel:
 ---
 
 ### Character 2: The Main Character 🔍
+**Name:** Laura
 
 **Role:** The learner, the perspective we follow  
-**Purpose:** Guides the viewer through her transformation  
-**Profile:** Often the "hipster" — creative, observant, sensitive to aesthetics
+**Purpose:** Guides the viewer through her transformation — from "Can I do this?" to "Here's how I build this."  
+**Profile:** Often the "hipster" — creative, observant, sensitive to aesthetics. **She's been working in a creative field and has a vision for opening a café + concept store, but she doesn't yet know if she's "entrepreneurial enough" or if she understands what that means.**
 
-**Visual Motif:** Notebook, pen, coffee cup, thoughtful looks, train/window shots
+**Visual Motif:** Notebook (which evolves from philosophical questions to business sketches), pen, coffee cup, thoughtful looks, train/window shots, café observations
 
-**Key Characteristic:** Constantly taking notes, asking questions, evolving understanding
+**Key Characteristic:** Constantly taking notes, asking questions, watching how other entrepreneurs build things. **Especially observing the details of cafés and spaces—how they work, what makes them feel alive, how they connect with people.**
 
 **Character Arc:**
-- **Day 1:** "I thought entrepreneurship meant starting a company."
-- **Day 2:** "This is entrepreneurship?" (Cultural spaces)
-- **Day 3:** "So entrepreneurship is structure?"
-- **Day 4:** "But it's also people..."
-- **Day 5:** "Entrepreneurship is... connection."
+- **Day 1:** "I want to open a café. But what does that even mean as an entrepreneur?"
+- **Day 2:** "Can I learn how to structure this?" (Visiting formal institutions)
+- **Day 3:** "But how do I keep the artistic vision alive?" (Visiting cultural spaces)
+- **Day 4:** "So it's not just structure... it's people..."
+- **Day 5:** "I can do this. Not alone. But I can do this."
 
 **Example Lines:**
-- "I thought entrepreneurship meant starting a company. Paris made that less clear."
-- "I have definitions. But none of them breathe."
-- "So entrepreneurship is not one place."
-- "Maybe entrepreneurship needs contradiction."
+- "I'm here because I want to open something. A café + concept store. But I don't know if I'm a real entrepreneur."
+- "I have visions. But visions don't have business models."
+- "So this is what happens when you blend structure with culture?"
+- "Maybe I need both the serious part and the creative part."
+
+**Notebook Evolution:**
+- Page 1: "Can I open a café + concept store?"
+- Page 2: "What does structure look like?" (with sketches after formal visits)
+- Page 3: "How do you build community?" (with notes on relationships)
+- Page 4: "What makes a space feel alive?" (with observations of successful cafés)
+- Final page: Sketches and notes for her own concept
 
 **What to Film:**
-- Arriving at each site (first impression)
-- Listening in sessions (thoughtful face)
-- Asking questions in Q&A
-- Writing in notebook at cafés
-- Walking through Paris
-- Final morning café scene (most important)
+- Arriving at each site, specifically noting how spaces work
+- Listening in sessions (thoughtful, taking notes)
+- Asking questions in Q&A — especially about scaling, business model, customer connection
+- Writing and sketching in notebook at cafés
+- Observing existing cafés — how they're designed, how people interact
+- Walking through Paris, noticing neighborhoods and opportunities
+- Final morning café scene (most important) — sitting in a café, reflecting on everything, sketching her own vision
 
 ---
 
