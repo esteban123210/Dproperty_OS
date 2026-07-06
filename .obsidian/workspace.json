@@ -64,6 +64,16 @@
             }
           },
           {
+            "id": "ccc4850c2fa4f863",
+            "type": "leaf",
+            "state": {
+              "type": "3d-graph-view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3d graph"
+            }
+          },
+          {
             "id": "d851ac5dd786f8e6",
             "type": "leaf",
             "state": {
