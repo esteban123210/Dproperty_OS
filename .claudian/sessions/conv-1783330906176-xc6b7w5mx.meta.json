@@ -4,6 +4,21 @@
   "title": "Develop Paris café concept store business plan",
   "titleGenerationStatus": "success",
   "createdAt": 1783330906176,
-  "updatedAt": 1783330913436,
-  "sessionId": null
+  "updatedAt": 1783330927278,
+  "lastResponseAt": 1783330927278,
+  "sessionId": "48ece041-c53e-4965-b580-bc4dcf22cc74",
+  "providerState": {
+    "providerSessionId": "48ece041-c53e-4965-b580-bc4dcf22cc74"
+  },
+  "currentNote": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 10702,
+    "cacheReadInputTokens": 24847,
+    "contextWindow": 200000,
+    "contextTokens": 35557,
+    "percentage": 18,
+    "contextWindowIsAuthoritative": true
+  }
 }
