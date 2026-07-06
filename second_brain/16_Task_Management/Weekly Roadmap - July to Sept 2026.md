@@ -60,7 +60,7 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 
 **Goal:** Confirm pitch feedback, lock legal strategy, begin agreement drafting.
 
-**Esteban (full-time):**
+**Esteban:**
 - [ ] Debrief pitch rehearsal: what resonated, what needs refinement
 - [ ] Finalize and validate financial model (confirm 5% vs other commission %)
 - [ ] Schedule initial call with legal counsel: franchise agreement strategy, jurisdiction, FDD (Franchise Disclosure Document) requirements if applicable
