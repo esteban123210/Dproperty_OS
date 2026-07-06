@@ -4,8 +4,8 @@
   "title": "Create weekly roadmap plan through September 15",
   "titleGenerationStatus": "success",
   "createdAt": 1783318236605,
-  "updatedAt": 1783318254472,
-  "lastResponseAt": 1783318254472,
+  "updatedAt": 1783318560759,
+  "lastResponseAt": 1783318560759,
   "sessionId": "6492dd1d-dda6-4e1a-8253-67386838e1e0",
   "providerState": {
     "providerSessionId": "6492dd1d-dda6-4e1a-8253-67386838e1e0"
@@ -13,12 +13,12 @@
   "currentNote": "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 10,
-    "cacheCreationInputTokens": 2958,
-    "cacheReadInputTokens": 21878,
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 15788,
+    "cacheReadInputTokens": 35911,
     "contextWindow": 200000,
-    "contextTokens": 24846,
-    "percentage": 12,
+    "contextTokens": 51707,
+    "percentage": 26,
     "contextWindowIsAuthoritative": true
   }
 }
