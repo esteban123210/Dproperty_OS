@@ -70,7 +70,7 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 - [ ] Approve brand manual scope: what's mandatory, what's optional for local adaptation
 - [ ] Approve operations manual table of contents: what chapters are "must-have" for Day 1 launch
 
-**Miguel (5–10 hrs/week):**
+**Miguel:**
 - [ ] Gather post-rehearsal design feedback: what worked visually
 - [ ] Refine pitch deck based on any notes from rehearsal
 - [ ] Begin brand manual design system (color palette, typography, logo specs)
