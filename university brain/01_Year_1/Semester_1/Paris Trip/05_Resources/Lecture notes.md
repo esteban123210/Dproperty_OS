@@ -14,3 +14,5 @@ This whole trip is about thinking aboutparis with an entrepreneurship view.
 
 
 ![[Recording 20260706112356.m4a]]
+
+
