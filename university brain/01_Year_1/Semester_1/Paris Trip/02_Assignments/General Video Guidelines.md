@@ -22,9 +22,6 @@
 - [ ] Camera(s) tested and working
 - [ ] External microphone tested and working
 - [ ] Backup camera/phone ready
-- [ ] Audio recorder tested (if using separate device)
-- [ ] Headphones functional for audio monitoring
-- [ ] Backup external hard drive packed
 - [ ] USB cables and chargers packed
 
 **Materials & Props:**
