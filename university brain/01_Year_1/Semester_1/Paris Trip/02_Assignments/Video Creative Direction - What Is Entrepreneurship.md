@@ -982,30 +982,33 @@ For **every** official visit, capture:
 - The video shows WHY teams need diverse perspectives
 - Reflects the professor's team formation philosophy
 - Demonstrates that entrepreneurship needs different thinking styles
+- **Applies it to a real venture: Laura needs all these perspectives to build her café**
 
 ### ✅ Tells a Real Story
 - Character-driven narrative (not just events)
-- Emotional arc (confusion → integration → wisdom)
+- **Personal stakes: Laura is actually considering opening a café + concept store**
+- Emotional arc (Can I do this? → Confusion about how → Integration → Confidence)
 - Each scene serves the story, not just the assignment
 - Memorable for viewers (and graders)
 
 ### ✅ Demonstrates Deep Learning
-- Shows understanding of formal ecosystem (serious character)
-- Shows understanding of informal ecosystem (messy character)
-- Shows ability to synthesize (seasoned character and main character's evolution)
-- Proves you're thinking beyond "we visited these places"
+- Shows understanding of formal ecosystem (serious character) applied to a café business
+- Shows understanding of informal ecosystem (messy character) applied to community building
+- Shows ability to synthesize (seasoned character and Laura's evolution)
+- Proves you're thinking beyond "we visited these places"—you're asking "How does this help me build something?"
 
 ### ✅ Cinematic Quality
-- Visual style is intentional and beautiful
+- Visual style is intentional and beautiful (mirrors the café aesthetic)
 - Audio is clear and professional
 - Editing is purposeful
 - Not trying too hard, but clearly cared for
+- **The Wes-Anderson aesthetic perfectly aligns with a boutique café concept**
 
 ### ✅ Balances Multiple Tones
-- Serious analysis
-- Playful humor
-- Genuine reflection
-- Authentic team dynamics
+- Serious analysis about business structure
+- Playful humor about the challenge of blending art and commerce
+- Genuine reflection about what it takes to build something real
+- Authentic team dynamics shown through debate and support
 
 ---
 
