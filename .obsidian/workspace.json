@@ -59,7 +59,8 @@
               "title": "Video Creative Direction - What Is Entrepreneurship"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -242,7 +243,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0bbfd0970c308a5c",
+  "active": "1bd4df5949534420",
   "lastOpenFiles": [
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/General Video Guidelines.md",
     "second_brain/16_Task_Management/Weekly Review Workflow.md",
