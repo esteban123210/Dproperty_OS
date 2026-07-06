@@ -22,9 +22,6 @@
 - [ ] Camera(s) tested and working
 - [ ] External microphone tested and working
 - [ ] Backup camera/phone ready
-- [ ] All batteries charged
-- [ ] SD cards cleared and ready (128GB+ total)
-- [ ] Tripod tested and packed
 - [ ] Audio recorder tested (if using separate device)
 - [ ] Headphones functional for audio monitoring
 - [ ] Backup external hard drive packed
