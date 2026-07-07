@@ -94,14 +94,29 @@ Create a complete, professional, launch-ready first-franchise package that inclu
 - Weeks 3–12 (Sept–Dec): First franchisee launch support (weekly calls, training, deal coaching)
 - Weeks 13+ (Jan 2027): Phase 2 priorities (franchisee #2, white-label pilots, developer partnerships, software build, training modules 2–6, etc.)
 
-## Key Decisions to Lock This Week (Jul 6)
+## Key Decisions LOCKED (Jul 7, GTM Session)
 
-- [ ] **Esteban:** Confirm lawyer engagement (do you have a lawyer? Can they start Week 5?)
-- [ ] **Esteban:** Confirm franchisee profile (target markets? capital? experience?)
-- [ ] **Esteban:** Confirm brand direction (use existing Dproperty brand or evolve?)
+✅ **GO-TO-MARKET STRATEGY FINALIZED**
+
+- [x] **Esteban:** Franchisee profile CONFIRMED: **Agents Seeking Independence (PRIMARY)** + Sales Professionals from other sectors (SECONDARY) + Youth Entrepreneurs (VOLUME)
+- [x] **Esteban:** Target markets CONFIRMED: **Panama (local market), Bogotá, Medellín**
+- [x] **Esteban:** GTM Strategy LOCKED: 3-persona approach with market-specific tactics, **minimal budget (€2-5k organic)**, Week 5-12 execution
+- [x] **Esteban:** Pricing FROZEN: **€30k launch, €1k/month, 6% + 1.5% royalty, 55% commission split**
+- [x] **Both:** Content assets: Use Miguel's assumptions (brochure, FAQ, one-pager, LinkedIn profile, landing page, video, templates) by Aug 1
+- [x] **Both:** GTM documents created (see below)
+
+**GTM Documents Created (Jul 7):**
+- `01_Strategy/Go-to-Market Strategy.md` (v0.1) — 3 personas, 30/60/90 plan, messaging, objection handling, success metrics
+- `01_Strategy/GTM Market-Specific Tactics.md` (v0.1) — Panama/Bogotá/Medellín channels, commission comparisons, candidate templates
+- `05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook.md` (v0.1) — Discovery calls, lead scoring, weekly cadence, go/no-go checkpoints
+- `05_Franchise_Package/Launch/First Franchisee Launch Playbook.md` (v0.1) — 12-week launch plan, HQ support, risk mitigation
+
+**Remaining Key Decisions (Lock by end of Week 5, Aug 9):**
+- [ ] **Esteban:** Confirm lawyer engagement (timeline + cost for franchise agreements)
+- [ ] **Esteban:** Confirm brand direction (use existing Dproperty brand + local adaptations)
 - [ ] **Esteban:** Confirm financial model v1.0 (all agreements + one-pagers reference this)
 - [ ] **Miguel:** Organize pitch-sprint deliverables (Aug 2) into clean folders for Phase 2 handoff
-- [ ] **Both:** Agree on GoHighLevel setup scope (simple version by Aug 30, or full setup?)
+- [ ] **Both:** GoHighLevel setup scope (simple version by Aug 30, or full setup?)
 
 ## Current Risks (Updated)
 

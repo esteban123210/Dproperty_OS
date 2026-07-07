@@ -4,8 +4,8 @@
   "title": "Develop go-to-market strategy",
   "titleGenerationStatus": "success",
   "createdAt": 1783412332480,
-  "updatedAt": 1783413190040,
-  "lastResponseAt": 1783413190040,
+  "updatedAt": 1783413754980,
+  "lastResponseAt": 1783413754980,
   "sessionId": "d8a4acaa-e775-44ce-ac3c-c2a18cbb6be3",
   "providerState": {
     "providerSessionId": "d8a4acaa-e775-44ce-ac3c-c2a18cbb6be3"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "haiku",
     "inputTokens": 8,
-    "cacheCreationInputTokens": 7374,
-    "cacheReadInputTokens": 84230,
+    "cacheCreationInputTokens": 4607,
+    "cacheReadInputTokens": 110522,
     "contextWindow": 200000,
-    "contextTokens": 91612,
-    "percentage": 46,
+    "contextTokens": 115137,
+    "percentage": 58,
     "contextWindowIsAuthoritative": true
   }
 }
