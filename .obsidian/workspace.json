@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second_brain/00_Index/Source Map.md",
+                "file": "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Source Map"
+              "title": "Lecture notes"
             }
           }
         ],
@@ -229,8 +229,10 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0cab61b4f641215e",
+  "active": "83c6ed4bee665e32",
   "lastOpenFiles": [
+    "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Site Guides Index.md",
+    "second_brain/00_Index/Source Map.md",
     "second_brain/16_Task_Management/GTM Execution Summary - Week 5 Kickoff.md",
     "second_brain/16_Task_Management/GTM Execution Summary - Week 5 Kickoff.md.tmp.22140.481131e2a083",
     "second_brain/01_Strategy/GTM Market-Specific Tactics.md",
@@ -264,8 +266,6 @@
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 02 The Main Character.html",
     "second_brain/16_Task_Management/Deliverables Tracker - MVP Only.md",
     "second_brain/16_Task_Management/Your Weekly Tasks - Jul to Sept.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/CHARACTER FRAMEWORK - READ ME FIRST.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Framework - Complete Overview.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 01 The Narrator.md"
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/CHARACTER FRAMEWORK - READ ME FIRST.md"
   ]
 }
