@@ -33,4 +33,5 @@ important approaches:
 # simlas idea
 
 - it comes from the make feel good idea
-- 
+- What does feeling good mean?
+	- 
