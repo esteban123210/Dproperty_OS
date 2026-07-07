@@ -489,19 +489,19 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 
 ## Key Checkpoints & Milestones
 
-| Date | Checkpoint | Approval |
-|---|---|---|
-| **Jul 12** | Pitch sprint foundation (business model locked, roadmaps drafted) | Esteban |
-| **Jul 19** | Pitch materials drafted (brochure, FAQ, economics sheet) | Esteban + Miguel |
-| **Jul 26** | Pitch visuals complete (software mock, 4 roadmaps, welcome box design) | Esteban + Miguel |
-| **Jul 31** | Full rehearsal run-through (live pitch practiced) | Esteban + Miguel |
-| **Aug 2** | Pitch-sprint complete (all materials finalized) | Launch Phase 2 |
-| **Aug 9** | Legal strategy + brand direction locked | Esteban |
-| **Aug 23** | Legal agreements in lawyer review; brand manual 70% done | Legal counsel |
-| **Aug 30** | All manuals drafted; GoHighLevel live; CRM tested | Esteban |
-| **Sept 6** | Legal agreements final; all templates complete; training module 1 done | Esteban |
-| **Sept 13** | Everything integrated + QA passed; data room ready | Esteban + Miguel |
-| **Sept 15** | LAUNCH: Franchisee package complete and ready for delivery | ✅ |
+| Date        | Checkpoint                                                             | Approval         |
+| ----------- | ---------------------------------------------------------------------- | ---------------- |
+| **Jul 12**  | Pitch sprint foundation (business model locked, roadmaps drafted)      | Esteban          |
+| **Jul 19**  | Pitch materials drafted (brochure, FAQ, economics sheet)               | Esteban + Miguel |
+| **Jul 26**  | Pitch visuals complete (software mock, 4 roadmaps, welcome box design) | Esteban + Miguel |
+| **Jul 31**  | Full rehearsal run-through (live pitch practiced)                      | Esteban + Miguel |
+| **Aug 2**   | Pitch-sprint complete (all materials finalized)                        | Launch Phase 2   |
+| **Aug 9**   | Legal strategy + brand direction locked                                | Esteban          |
+| **Aug 23**  | Legal agreements in lawyer review; brand manual 70% done               | Legal counsel    |
+| **Aug 30**  | All manuals drafted; GoHighLevel live; CRM tested                      | Esteban          |
+| **Sept 6**  | Legal agreements final; all templates complete; training module 1 done | Esteban          |
+| **Sept 13** | Everything integrated + QA passed; data room ready                     | Esteban + Miguel |
+| **Sept 15** | LAUNCH: Franchisee package complete and ready for delivery             | ✅                |
 
 ---
 

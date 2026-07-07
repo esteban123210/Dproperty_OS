@@ -18,3 +18,11 @@ This whole trip is about thinking aboutparis with an entrepreneurship view.
 
 
 ![[Recording 20260706112735.m4a]]
+
+
+## The Lean Canvas
+
+important approaches:
+1. Learn by testing fast and testing a lot
+2. be prepared to fail (have a "suvival kit")
+3. Fail and iterate
