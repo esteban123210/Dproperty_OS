@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783412332480-omtx9nu7d",
+  "providerId": "claude",
+  "title": "Develop go-to-market strategy",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783412332480,
+  "updatedAt": 1783412348989,
+  "lastResponseAt": 1783412348989,
+  "sessionId": "d8a4acaa-e775-44ce-ac3c-c2a18cbb6be3",
+  "providerState": {
+    "providerSessionId": "d8a4acaa-e775-44ce-ac3c-c2a18cbb6be3"
+  },
+  "currentNote": "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 24529,
+    "cacheReadInputTokens": 0,
+    "contextWindow": 200000,
+    "contextTokens": 24539,
+    "percentage": 12,
+    "contextWindowIsAuthoritative": true
+  }
+}
