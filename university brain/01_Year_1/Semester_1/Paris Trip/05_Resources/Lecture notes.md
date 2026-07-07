@@ -26,3 +26,11 @@ important approaches:
 1. Learn by testing fast and testing a lot
 2. be prepared to fail (have a "suvival kit")
 3. Fail and iterate
+
+
+
+![[Recording 20260707111611.m4a]]
+# simlas idea
+
+- it comes from the make feel good idea
+- 
