@@ -1,25 +1,39 @@
 # Lean Business Model Canvas
-## Simlas's Café + Concept Store
+## Simlas's Multi-Space Concept Store: Slow Living Hub
+
+**Core Mission:** Help people slow down through intentional, artsy, bohemian spaces that foster wellbeing, creativity, and connection.
 
 ---
 
 ## 1. PROBLEM
 
 **Who has the problem?**
-- Creative professionals and design-conscious consumers in Paris (and potentially other cities)
-- People seeking spaces that are both social gathering spots AND curated retail experiences
-- Entrepreneurs and creatives who need a café that reflects their identity and values
+- Urban professionals (25–50 years old) experiencing burnout, overstimulation, and disconnection
+- Creative individuals seeking authentic community and meaningful spaces
+- Mindfulness practitioners and wellness professionals lacking accessible teaching spaces
+- Conscious consumers wanting curated products that align with their values
+- People caught in fast-paced city life who crave rituals of slowing down
 
 **What is the problem?**
-- Existing cafés are either transactional (quick service, no community) OR artistic but unsustainable (no business model)
-- No space bridges beautiful design with genuine community building AND viable economics
-- Lack of venues where you can have deep conversations, discover curated products, and feel like you belong simultaneously
-- Difficulty scaling or replicating artistry into a sustainable business model
+
+In cities like Paris:
+- **Overstimulation culture:** Constant rushing, digital overwhelm, productivity obsession
+- **Lack of intentional spaces:** Most commercial spaces are transactional and sterile
+- **Fragmented wellness:** Yoga studios, cafés, retail shops exist separately—no integrated experience
+- **Shallow community:** People consume but don't connect; spaces exist but don't belong to anyone
+- **Wellness access:** Yoga teachers, mindfulness coaches, therapists lack affordable teaching spaces
+- **Disconnection paradox:** More "connected" digitally, but isolated and anxious
+
+**The core insight:**
+> **People don't know how to slow down because there's nowhere intentional to do it.** Modern city life offers abundance of everything except space for pause, reflection, and genuine connection.
 
 **Why does it matter?**
-- Growing segment of consumers who value experience + aesthetics + meaning over pure consumption
-- Cities need cultural anchors that are economically viable, not just subsidized art spaces
-- Entrepreneurs (like Simlas) want to build something beautiful that also sustains itself
+- Mental health crisis in urban areas (anxiety, burnout, loneliness)
+- Growing wellness movement seeking authentic alternatives to corporate gyms/studios
+- Conscious consumers want to support businesses with purpose, not just profit
+- Creative professionals need hubs where they can teach, share, collaborate
+- Cities need cultural anchors that heal, not just entertain or sell
+- **Entrepreneurship can solve this:** by building systems that serve human wellbeing, not just extraction
 
 ---
 
