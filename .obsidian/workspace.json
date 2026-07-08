@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
+                "file": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Assignments Overview.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Creative Direction - What Is Entrepreneurship"
+              "title": "Assignments Overview"
             }
           }
         ],
@@ -212,7 +212,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5
+    "width": 496.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -231,6 +232,7 @@
   },
   "active": "83c6ed4bee665e32",
   "lastOpenFiles": [
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes.md",
     "Recording 20260707111611.m4a",
     "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Site Guides Index.md",
@@ -251,7 +253,6 @@
     "second_brain/16_Task_Management/Weekly Review Workflow.md",
     "second_brain/16_Task_Management/Miguel's Weekly Tasks - Jul to Sept.md",
     "second_brain/16_Task_Management/Pitch Sprint Roadmap - July 2026.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/General Video Guidelines.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Learning Hooks & Key Concepts.md",
     "Recording 20260706112735.m4a",
