@@ -1,0 +1,24 @@
+{
+  "id": "conv-1783526336867-6mkwz6b8o",
+  "providerId": "claude",
+  "title": "Create lean business model canvas",
+  "titleGenerationStatus": "success",
+  "createdAt": 1783526336868,
+  "updatedAt": 1783526431662,
+  "lastResponseAt": 1783526431662,
+  "sessionId": "50f4bf3d-0852-424c-b618-11fbdf77aaef",
+  "providerState": {
+    "providerSessionId": "50f4bf3d-0852-424c-b618-11fbdf77aaef"
+  },
+  "currentNote": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
+  "usage": {
+    "model": "haiku",
+    "inputTokens": 8,
+    "cacheCreationInputTokens": 7161,
+    "cacheReadInputTokens": 39489,
+    "contextWindow": 200000,
+    "contextTokens": 46658,
+    "percentage": 23,
+    "contextWindowIsAuthoritative": true
+  }
+}
