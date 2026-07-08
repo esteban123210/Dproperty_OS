@@ -3,7 +3,9 @@
     "allow": [
       "Bash(find ./university\\\\ brain -type f -o -type d | head -30)",
       "Bash(grep -v \"university brain$\")",
-      "Bash(find \"./university brain/01_Year_1/Semester_1/Paris Trip\" -type f -name \"*.md\" -exec basename {} \\\\; | sort)"
+      "Bash(find \"./university brain/01_Year_1/Semester_1/Paris Trip\" -type f -name \"*.md\" -exec basename {} \\\\; | sort)",
+      "Skill(dataviz)",
+      "Skill(dataviz:*)"
     ]
   }
 }

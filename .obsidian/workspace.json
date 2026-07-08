@@ -212,8 +212,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5,
-    "collapsed": true
+    "width": 496.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -230,8 +229,11 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "83c6ed4bee665e32",
+  "active": "0cab61b4f641215e",
   "lastOpenFiles": [
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/CANVA GUIDE - How to Build Your Presentation.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Canvas PowerPoint - Presentation Outline.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Canvas PowerPoint - Presentation Outline.md.tmp.9880.915aedea2c1f",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md.tmp.9880.11dcaac7ccf1",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md.tmp.9880.67a0a47a67e9",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md.tmp.9880.3c94817d6db5",
@@ -251,7 +253,6 @@
     "second_brain/01_Strategy/Go-to-Market Strategy.md.tmp.22140.ff754002c614",
     "second_brain/05_Franchise_Package/Launch/First Franchisee Launch Playbook.md",
     "second_brain/05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook.md",
-    "second_brain/05_Franchise_Package/Pre-Signing",
     "second_brain/01_Strategy/Go-to-Market Strategy.md",
     "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
     "second_brain/01_Strategy/Ecosystem Workflow.md",
@@ -263,10 +264,8 @@
     "second_brain/16_Task_Management/Pitch Sprint Roadmap - July 2026.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/General Video Guidelines.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Learning Hooks & Key Concepts.md",
-    "Recording 20260706112735.m4a",
     "second_brain/16_Task_Management/Next 10 Tasks Working Plan.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes interpreted.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.md",
-    "second_brain/16_Task_Management/Deliverables Tracker - MVP Only.md"
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.md"
   ]
 }
