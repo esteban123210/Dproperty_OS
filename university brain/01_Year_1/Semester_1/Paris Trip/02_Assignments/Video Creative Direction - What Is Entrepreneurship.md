@@ -306,6 +306,10 @@ This is the emotional and intellectual climax. **Simlas sits alone with coffee a
 
 **Tension:** Sets up the central conflict — artistic vision vs. business viability. Structure vs. community. Can you have both?
 
+
+THE PROBLEM STATEMENT
+
+" She came here from a world where urban professionals ... She didnt know how to make a business out of it and through Paris her view of what entreprenurship is shaped the steps to come "
 ---
 
 ### CHAPTER 2: The Official Ecosystem — Structure & Foundations
