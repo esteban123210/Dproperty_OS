@@ -311,7 +311,6 @@ THE PROBLEM STATEMENT
 
 " She came here from a world where urban professionals ... She didnt know how to make a business out of it and through Paris her view of what entreprenurship is shaped the steps to come "
 ---
-
 ### CHAPTER 2: The Official Ecosystem — Structure & Foundations
 **Duration:** ~2.5 minutes  
 **Theme:** Simlas researches how to build a sustainable business. Formal visits, analysis, frameworks, institutions. Each visit answers: "How do I make my café concept store work?"
@@ -320,6 +319,8 @@ THE PROBLEM STATEMENT
 **Narrator voiceover:** "Simlas didn't come to Paris just to learn about startups. She came to learn how to start hers. Each visit was a question: What do I need to know to build something that lasts?"
 **Scenes:** Site visits with learning hooks, Simlas taking structured notes about business model, scalability, sustainability
 
+
+We start with the slowing down video then the narrator continues to say how this connects to slowing down. 
 #### École des Mines (if included)
 **Learning Hook:**
 ```
