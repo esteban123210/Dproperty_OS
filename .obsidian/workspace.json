@@ -187,7 +187,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 275.5
+    "width": 905.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -204,7 +204,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "9f6b1ffe1c947437",
+  "active": "0cab61b4f641215e",
   "lastOpenFiles": [
     "second_brain/12_Private_Collection/Private Collection Deal Workflow.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
