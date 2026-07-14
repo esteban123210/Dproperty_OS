@@ -69,3 +69,13 @@ Branded franchises carry investment priority: they are oriented to investors, Dp
 - Legal templates.
 - Reporting templates.
 - Welcome kit.
+
+## Ecosystem Framing Update (2026-07-14)
+
+Franchising is now explicitly positioned as **Phase 1 of the ecosystem play**, not the end state. Its strategic jobs, in order:
+1. **Prove the model** — replicable operations + sound unit economics.
+2. **Build the brand** — Dproperty becomes trusted infrastructure across LATAM.
+3. **Generate the cash** — HQ EBITDA (Year 3+) that funds the physical hub (Phase 2).
+4. **Recruit the founding members** — every franchisee, white-label partner, and developer becomes a founding member of the future ecosystem/hub.
+
+**Implication for how we sell franchises:** candidates should be told, appropriately, that they are joining an **ecosystem with a bigger vision**, not just buying a brand licence. This is a differentiator vs. mass-market franchises and supports premium pricing. See [[Ecosystem Deck Outline]].

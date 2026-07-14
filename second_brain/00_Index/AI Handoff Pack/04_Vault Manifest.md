@@ -36,6 +36,7 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[00_Index/Current Priorities|Current Priorities]] — `00_Index/Current Priorities.md`
 - [[00_Index/Decision Log|Decision Log]] — `00_Index/Decision Log.md`
 - [[00_Index/Dproperty OS - Master Index|Dproperty OS - Master Index]] — `00_Index/Dproperty OS - Master Index.md`
+- [[00_Index/Meeting Notes/2026-07-14 - Work Session Closeout|2026-07-14 - Work Session Closeout]] — `00_Index/Meeting Notes/2026-07-14 - Work Session Closeout.md` *(NEW 2026-07-14)*
 - [[00_Index/Open Questions|Open Questions]] — `00_Index/Open Questions.md`
 - [[00_Index/Project Context Brief|Project Context Brief]] — `00_Index/Project Context Brief.md`
 - [[00_Index/Source Map|Source Map]] — `00_Index/Source Map.md`
@@ -57,8 +58,9 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[02_Business_Plan/Unit Economics|Unit Economics]] — `02_Business_Plan/Unit Economics.md`
 - [[02_Business_Plan/Your Compensation Package|Your Compensation Package]] — `02_Business_Plan/Your Compensation Package.md`
 - [[03_Pitch/Final Decks Index|Final Decks Index]] — `03_Pitch/Final Decks Index.md`
+- [[03_Pitch/Ecosystem Deck Outline|Ecosystem Deck Outline]] — `03_Pitch/Ecosystem Deck Outline.md` *(NEW 2026-07-14 — Deck 2, ecosystem vision)*
 - [[03_Pitch/Founder Pitch to Dproperty Owners|Founder Pitch to Dproperty Owners]] — `03_Pitch/Founder Pitch to Dproperty Owners.md`
-- [[03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] — `03_Pitch/Pitch Deck Outline.md`
+- [[03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] — `03_Pitch/Pitch Deck Outline.md` *(v1.0, ecosystem reframe 2026-07-14)*
 - [[03_Pitch/Pitch Script|Pitch Script]] — `03_Pitch/Pitch Script.md`
 - [[03_Pitch/Supervisor and Owner Q&A|Supervisor and Owner Q&A]] — `03_Pitch/Supervisor and Owner Q&A.md`
 - [[04_Product/AI Layer Notes|AI Layer Notes]] — `04_Product/AI Layer Notes.md`

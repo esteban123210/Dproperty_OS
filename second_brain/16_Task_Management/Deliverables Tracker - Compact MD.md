@@ -43,6 +43,30 @@ Last generated: 2026-07-01
 - `09_Exports/Dproperty_OS_Business_Plan.md` — regenerate from canonical (stale hand-copy).
 - **New task:** validate financial model OPEX/staffing; confirm 5% vs 0.75% commission (Fernando/Ernesto).
 
+## 2026-07-14 Update — Pitch Deck Content v1.0 + Ecosystem Reframe
+
+**Session:** built the pitch deck content layer and reframed the venture as an ecosystem play (franchising = Phase 1). See [[../00_Index/AI Handoff Pack/07_Latest Session Closeout|Latest Session Closeout]].
+
+**Row changes:**
+- **DP-007 Pitch Deck** → content outline advanced to **v1.0** (17 slides + back pocket, ecosystem reframe). Design/build still pending (branding session). Status effectively **In Progress (content ready, design pending)**.
+
+**New deliverable created:**
+- **Ecosystem Deck (Deck 2)** — `03_Pitch/Ecosystem Deck Outline.md` **v0.5**. 10–15 yr ecosystem/hub vision + capital-recycling bridge. Status: Structured Draft; NOT raise-ready until a Phase-2 P&L, hub capex, and location exist. *(Suggest new tracker ID DP-270 when the Excel tracker is next regenerated.)*
+
+**Updated this session (ecosystem framing appended):**
+- Strategy: Business Model Overview, Strategic Thesis, Moat and Positioning, Franchise Strategy, Ecosystem Workflow.
+- Business Plan: Dproperty OS Business Plan (§20 + Validation 12–15), Conservative 5-Year Plan.
+- Finance: Financial Model Summary (Phase-2 model flagged).
+- Legal: Legal Architecture (Phase-2 legal needs).
+- Research: Research Backlog (ecosystem research block).
+- Handoff pack: Decision Log, Open Questions, Current Priorities, Vault Manifest, Latest Session Closeout.
+
+**Still needs action (next session):**
+- Resolve pitch flags: currency ($ vs €30k), equity (confirm 35/35/15/15), Simón contribution, track-record numbers, Miguel salary, royalty floor.
+- Build Phase-2 (ecosystem) financial model; decide first-hub city/capex.
+- Branding/design session for Deck 1.
+- Sync 00_Index duplicate copies to Handoff Pack versions.
+
 ## Status Summary
 
 - Not Started: 264

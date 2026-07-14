@@ -11,6 +11,8 @@ tags: [strategy]
 
 # Ecosystem Workflow
 
+> **Naming note (2026-07-14):** This note is about the **tooling ecosystem** (which app does what). It is NOT the business "ecosystem vision" (the 19M/Station F physical hub). For the business ecosystem, see [[Ecosystem Deck Outline]] and [[Pitch Deck Outline]]. Kept separate deliberately to avoid confusion.
+
 ## Tool Roles
 
 - Obsidian: source of truth, decisions, context, notes, manuals, specs, links.

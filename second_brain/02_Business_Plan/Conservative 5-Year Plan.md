@@ -40,3 +40,7 @@ This is a conservative internal-owner plan, not a venture-scale fantasy. It assu
 ## Important Caveat
 
 The Excel model is the calculation source of truth. This note explains the logic and current assumptions. Revenue lines are live formulas; validate the OPEX/staffing plan before pitch-final use.
+
+## Ecosystem Framing Update (2026-07-14)
+
+This conservative plan **is Phase 1**. Its Year 3+ EBITDA (+$15k Y3 → +$630k Y5) is not just a return — it is the **fuel for Phase 2 (the physical ecosystem/hub)**. Read this plan as "the disciplined, self-financing base that pre-funds the bigger vision," not as the ceiling of the ambition. The Phase-2 build has its own (not-yet-built) financial model. See [[Dproperty OS Business Plan]] §20 and [[Ecosystem Deck Outline]].

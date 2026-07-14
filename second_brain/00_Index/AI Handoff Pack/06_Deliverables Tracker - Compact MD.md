@@ -10,6 +10,18 @@ Last generated: 2026-07-01
 - Upload the latest Excel tracker to ChatGPT when you want this Markdown file regenerated.
 - Use this compact MD file for AI context and quick searching.
 
+## 2026-07-14 Update — Pitch Deck Content v1.0 + Ecosystem Reframe
+
+**Session:** built the pitch deck content layer and reframed the venture as an ecosystem play (franchising = Phase 1). See [[07_Latest Session Closeout|Latest Session Closeout]].
+
+**Row changes:**
+- **DP-007 Pitch Deck** → content outline advanced to **v1.0** (17 slides + back pocket, ecosystem reframe). Design/build pending (branding session). Status effectively **In Progress (content ready, design pending)**.
+
+**New deliverable created:**
+- **Ecosystem Deck (Deck 2)** — `03_Pitch/Ecosystem Deck Outline.md` **v0.5**. NOT raise-ready until a Phase-2 P&L, hub capex, and location exist. *(Suggest ID DP-270 at next Excel regeneration.)*
+
+**Also updated (ecosystem framing appended):** Strategy (Business Model Overview, Strategic Thesis, Moat and Positioning, Franchise Strategy, Ecosystem Workflow), Business Plan (§20 + Conservative 5-Year Plan), Finance (Financial Model Summary), Legal (Legal Architecture), Research (Research Backlog), and the handoff pack.
+
 ## Status Summary
 
 - Not Started: 264

@@ -95,3 +95,28 @@ This note records decisions that should not be re-opened accidentally in future 
 
 **Decision:** In Dproperty OS, structured data should drive documents, dashboards, projections, and reporting.  
 **Reason:** This prevents scattered files and creates a scalable operating model.
+
+## 2026-07-14 — Ecosystem Vision Is the North Star; Franchising Is Phase 1
+
+**Decision:** Dproperty OS is reframed as **Phase 1 of a larger ecosystem play** — a curated physical hub for real estate talent, capital, and ideas ("the soul of 19M, the model of Station F, for real estate"). Franchising proves the model, builds the brand, and generates the cash that funds the ecosystem.  
+**Reason:** The franchise-only frame undersold the ambition and the true long-term moat (network effects of the hub). The ecosystem is the destination; franchising is the self-financing path.  
+**Impacted areas:** Strategy, Business Plan, Pitch, Finance (Phase-2 model needed), Legal (Phase-2 needs), Research.  
+**Status:** Active.
+
+## 2026-07-14 — Two-Deck Strategy
+
+**Decision:** Maintain **two decks**. Deck 1 ([[Pitch Deck Outline]], franchise system, investable, conservative, 17 slides + back pocket) is used now with the owners. Deck 2 ([[Ecosystem Deck Outline]], full ecosystem/hub vision, 17 slides + back pocket) is the north-star / future external-raise deck.  
+**Reason:** The owners need an investable near-term decision (Deck 1); the ecosystem vision needs its own space and a Phase-2 model before external use.  
+**Status:** Active. Deck 2 is NOT raise-ready until a Phase-2 P&L, hub capex, and location exist.
+
+## 2026-07-14 — Pitch Deck Restructured to Open on the Vision
+
+**Decision:** Deck 1 now opens with 4 vision slides (10-yr vision → ecosystem problem → why franchising is Phase 1) and bridges back to the vision at Slide 16 before the ask.  
+**Reason:** Owners should buy the vision, not just the mechanics; more honest and more compelling.  
+**Status:** Active. Pitch Deck Outline moved v0.5 → v1.0.
+
+## 2026-07-14 — Moat Stated Honestly
+
+**Decision:** Adopt the "honest moat" framing — separate genuinely defensible advantages (curated deal flow, founder credibility, installed network, speed) from good-ops-that-aren't-a-moat, and name the **hub network effect** as the durable long-term moat.  
+**Reason:** Survives skeptical Q&A and strengthens credibility. Captured in [[Moat and Positioning]] and Pitch Deck BP-6.  
+**Status:** Active.

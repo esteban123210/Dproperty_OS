@@ -57,3 +57,15 @@ Dproperty can combine:
 - Reporting.
 
 That combination is harder to copy than a simple CRM or agency brand.
+
+## Ecosystem Framing Update (2026-07-14)
+
+The thesis above (systematize boutique real estate; monetize the know-how three ways) remains true and is the **Phase 1 thesis**. This session elevated it to a larger, longer thesis:
+
+> The ultimate value is not just systematizing boutique sales — it is **concentrating the entire real estate value chain in one curated place** so that talent, capital, and ideas connect fast, and better real estate becomes inevitable. Franchising is the engine that proves the model and funds this ecosystem.
+
+**Positioning of the thesis across horizons:**
+- **Medium-term (5 yr):** the operating infrastructure behind boutique real estate (franchise / white-label / developer).
+- **Long-term (10–15 yr):** the category-defining hub for real estate talent, capital, and innovation in LATAM & Iberia — "19M's soul, Station F's model."
+
+**Founder purpose (verbatim intent):** connect those with the means to build with those with the vision to lead; ensure talent is not gated by resources or network; build an institution bigger than any founder. This purpose is the emotional spine of both decks. See [[Ecosystem Deck Outline]].

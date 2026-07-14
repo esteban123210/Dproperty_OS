@@ -323,6 +323,28 @@ This is realistic because the target is not hypergrowth. By Year 5, the plan onl
 | 10 | Does the franchisee pay royalty on Dproperty Select earnings? (default: no) | Owners | §6, §12 |
 | 11 | Confirm Keller Williams benchmark figures (~$35k fee, $150k cash, 6%) | Esteban | §5.1 |
 
+## 20. Ecosystem Vision (Phase 2) — added 2026-07-14
+
+This plan describes **Phase 1: the franchise system**. This session established that Phase 1 is the engine for a larger **Phase 2: a physical real estate ecosystem/hub** — "the soul of 19M, the model of Station F, for real estate."
+
+**What Phase 2 is:** a curated hub + digital network where the entire real estate value chain gathers under one roof — emerging architects, interior designers, investment analysts, PropTech founders, developers, boutique agencies, the Dproperty franchise network, and investors. Activities: desks/studios, hackathons, training/certification, networking, showcases, and live deal origination.
+
+**Why franchising first:** we cannot build the hub without (a) proof the model works and (b) capital that isn't ours to burn. Franchising delivers both. Capital-recycling loop: franchise fees + royalties + Select commissions → HQ EBITDA (Year 3+) → seeds hub + talent programs + equity fund → network deepens → franchises become more valuable → more franchises.
+
+**Phase 2 revenue lines (to be modelled before any external raise):** space/membership rental, events, matchmaking fees, equity stakes in hub-born ventures, franchise pull-through, and proprietary data.
+
+**Phased build:** (1) Franchise system Yr 0–5 → (2) Digital community Yr 2–5 → (3) First physical hub Yr 5–8 (city/capex TBD; franchise EBITDA + external capital partner) → (4) Network of hubs Yr 8–15.
+
+**Companion decks:** [[Pitch Deck Outline]] (Deck 1 — franchise, investable now) opens and closes on this vision; [[Ecosystem Deck Outline]] (Deck 2 — full ecosystem, north-star / future raise). **Deck 2 is not raise-ready until a Phase-2 P&L, hub capex, and location are defined** (see new Validation items below).
+
+**Validation Register additions:**
+| # | Item | Owner | Blocks |
+|---|---|---|---|
+| 12 | Phase-2 (ecosystem/hub) P&L model | Esteban | Deck 2 external use |
+| 13 | First hub city, capex, lease-vs-own decision | Owners | Phase 3 go/no-go |
+| 14 | Equity-fund structure for hub-born ventures | Owners / Legal | Phase 2 economics |
+| 15 | Minimum franchise EBITDA threshold to green-light Phase 3 | Owners | Sequencing |
+
 ## References
 - **Real estate software market:** Coherent Market Insights estimates the global real estate software market at USD 15.60B in 2026, reaching USD 39.49B by 2033 at 14.2% CAGR. Source: https://www.coherentmarketinsights.com/industry-reports/real-estate-software-market
 - **PropTech market:** Fortune Business Insights projects the global PropTech market to grow from USD 44.59B in 2026 to USD 104.57B by 2034 at 11.20% CAGR. Source: https://www.fortunebusinessinsights.com/proptech-market-108634

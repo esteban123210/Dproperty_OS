@@ -88,6 +88,26 @@ This file tracks unresolved issues.
 - What are non-negotiable brand rules?
 - What should the welcome kit physically include?
 
+## Ecosystem / Phase 2 (added 2026-07-14)
+
+- Who is the first real audience for Deck 2 — external investors, or internal north-star only?
+- Which city hosts the first physical hub (Panama City? Medellín? Madrid?)?
+- Lease vs. own vs. partner with a developer-owner for the physical hub?
+- What is the equity-fund structure for taking stakes in hub-born ventures?
+- What minimum franchise EBITDA threshold green-lights Phase 3 (the physical build)?
+- What is the Phase-2 P&L (membership, events, matchmaking, equity, data)?
+- Do the owners share the "bigger than us" ecosystem ambition, or prefer to cap at a profitable franchise business? (This gates how hard we push Deck 2.)
+
+## Pitch Deck Flags to Resolve (added 2026-07-14)
+
+- Currency of the launch fee: **$30k** (Unit Economics / model) vs **€30k** (Current Priorities) — pick one.
+- Track record numbers ($200M+ transacted, 700+ operations, 10+ yrs) — validate before use on Slide 1.
+- Equity: confirm 35/35/15/15 (current decks/plan) as final vs the old 40/40/15/5 + pool option.
+- Simón's specific JV contribution + capital-vs-equity split (Slides 14–15).
+- Miguel salary amount (placeholder EUR 3,000/mo).
+- Royalty floor amount ($750/mo placeholder, creditable).
+- Defensible TAM/SAM $ figures for Deck 2.
+
 ## Immediate Questions for Dproperty Owners
 
 - Do they want to build this as an internal tool only, or as a new scalable business?

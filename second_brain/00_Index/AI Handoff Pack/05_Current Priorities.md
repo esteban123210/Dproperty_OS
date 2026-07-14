@@ -11,6 +11,16 @@ tags: [priorities, next-actions, execution]
 
 # Current Priorities
 
+## Session Update (2026-07-14) — Pitch Deck Content + Ecosystem Reframe
+
+Worked the **pitch deck content layer** (Pitch Sprint Week 1). Outcomes:
+- **[[Pitch Deck Outline]] → v1.0** — 17 slides, now opens on the ecosystem vision and bridges back before the ask; full back-pocket strategic analysis (competition, PESTEL, TAM/SAM/SOM, SWOT, Lean Canvas, moat).
+- **[[Ecosystem Deck Outline]] → v0.5 (NEW)** — Deck 2, the 10–15 yr ecosystem/hub vision + how franchise EBITDA funds it.
+- **Strategic reframe logged:** franchising = Phase 1 of an ecosystem play (19M soul / Station F model). Propagated to Strategy, Business Plan (§20), Finance, Legal, Research.
+- **Still content-only:** branding/design of the deck is a separate upcoming session.
+
+**Next first action:** resolve the pitch flags (currency, equity 35/35/15/15, Simón contribution, track-record numbers) — see [[03_Open Questions]] — then hand Deck 1 to the branding/design session.
+
 ## Current Phase (Updated Jul 6)
 
 **Execution Phase: Build first-franchise launch-ready package (Sept 15 deadline)**

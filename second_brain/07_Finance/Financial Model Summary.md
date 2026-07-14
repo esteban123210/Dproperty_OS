@@ -57,3 +57,11 @@ not appear in the pitch deck until re-run in the Excel model.
 
 Excel model at `09_Exports/` (to be built), linked from this note. 
 This note explains logic only.
+
+## Update (2026-07-14) — Two Financial Models Now Needed
+
+**Note:** the Phase-1 model has since been built (`Dproperty_OS_Financial_Model.xlsx v0.7`; Y5 ~$1.59M revenue, ~$630k EBITDA). The "STALE baseline" numbers above ($2.27M/$601k) are retired — kept only for history.
+
+This session's ecosystem reframe means finance now has **two model scopes**:
+1. **Phase 1 — Franchise model (exists, v0.7):** still needs OPEX/staffing owner validation.
+2. **Phase 2 — Ecosystem/hub model (NOT built):** required before [[Ecosystem Deck Outline]] can be used for any external raise. Must cover: space/membership rental, events, matchmaking fees, equity-fund returns, franchise pull-through, data monetization, and the physical-hub capex (location, lease-vs-own). Trigger to build: once Phase-1 EBITDA is proven (Year 3+) or earlier if an external hub partner conversation starts.
