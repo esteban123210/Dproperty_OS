@@ -4,8 +4,8 @@
   "title": "Finalize pitch deck structure and business model",
   "titleGenerationStatus": "success",
   "createdAt": 1784058585084,
-  "updatedAt": 1784058981360,
-  "lastResponseAt": 1784058981360,
+  "updatedAt": 1784060637094,
+  "lastResponseAt": 1784060637094,
   "sessionId": "9ae06772-0acb-4c4d-8e47-66758f705418",
   "providerState": {
     "providerSessionId": "9ae06772-0acb-4c4d-8e47-66758f705418"
@@ -13,12 +13,12 @@
   "currentNote": "second_brain/00_Index/AI Handoff Pack/02_Decision Log.md",
   "usage": {
     "model": "haiku",
-    "inputTokens": 8,
-    "cacheCreationInputTokens": 33331,
-    "cacheReadInputTokens": 29371,
+    "inputTokens": 10,
+    "cacheCreationInputTokens": 5200,
+    "cacheReadInputTokens": 68799,
     "contextWindow": 200000,
-    "contextTokens": 62710,
-    "percentage": 31,
+    "contextTokens": 74009,
+    "percentage": 37,
     "contextWindowIsAuthoritative": true
   }
 }
