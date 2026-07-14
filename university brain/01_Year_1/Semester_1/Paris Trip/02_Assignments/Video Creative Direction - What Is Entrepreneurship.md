@@ -93,7 +93,7 @@ The video should feel:
 **Speaking Style:** Calm, dry, slightly ironic, intelligent
 
 **Key Lines:**
-- "This is a short story of Simla and how through her unique vision and the concept of making a business out of slowing down, we came together as a group to find the meaning what it trully means to be an entrepreneur. This all began by a naive but important topic: Money."
+- "This is a short story of Simla and how through her unique vision and the concept of making a business out of slowing down, we came together as a group to find the true meaning of what it means to be an entrepreneur. This all began with her concerns about the most delicate topic in entrepreneurship: Money."
 - "We came to Paris looking for startups. We left understanding the spaces between them."
 
 **Appearances:**
