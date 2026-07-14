@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second_brain/16_Task_Management/Deliverables Tracker - Compact MD.md",
+                "file": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deliverables Tracker - Compact MD"
+              "title": "Video Creative Direction - What Is Entrepreneurship"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 504.5
   },
   "right": {
     "id": "bc2191b1d8bd320b",
@@ -216,8 +216,13 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0cab61b4f641215e",
+  "active": "e49fe707987b741e",
   "lastOpenFiles": [
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/VIDEO CHECKLIST - Story Breakdown & Requirements Tracker.md",
+    "university brain/01_Year_1/Semester_1/Strategic Performance Management.md",
+    "university brain/01_Year_1/Semester_1/Electives.md",
+    "Recording 20260706112356.m4a",
+    "second_brain/16_Task_Management/Deliverables Tracker - Compact MD.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Team Roles & Video Characters.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Shooting Schedule - Character-Driven Approach.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.md",
@@ -239,20 +244,15 @@
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Learning Hooks & Key Concepts.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Site Guides Index.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Hello Tomorrow Guide.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/VIDEO CHECKLIST - Story Breakdown & Requirements Tracker.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/PROMPT - One Page Lean Canvas (Copy & Paste).md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/VIDEO CHECKLIST - SIMPLE.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Canvas PowerPoint - Presentation Outline.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/General Video Guidelines.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/CANVA GUIDE - How to Build Your Presentation.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Assignments Overview.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/01_Program/Daily Schedule.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources",
     "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments",
-    "university brain/01_Year_1/Semester_1/Paris Trip/01_Program"
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments"
   ]
 }
