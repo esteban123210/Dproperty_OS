@@ -4,8 +4,8 @@ title: "Open Questions"
 type: open_questions
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
-source: ChatGPT baseline vault package
+last_updated: 2026-07-14
+source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [questions, strategy, legal, finance]
 ---
 
@@ -13,20 +13,25 @@ tags: [questions, strategy, legal, finance]
 
 This file tracks unresolved issues.
 
+> **Sync note (2026-07-14):** Merged canonical. `00_Index/Open Questions.md` and `00_Index/AI Handoff Pack/03_Open Questions.md` are now identical.
+
 ## Ownership / Governance
 
 - Should Dproperty OS be a separate NewCo or an internal Dproperty division first?
-- Should Esteban's equity be 15% vesting, or 10% vesting plus 5% milestone-based?
-- What specific equity protections are acceptable to the two Dproperty owners?
+- **RESOLVED (2026-07-14):** Esteban equity = 15% vesting (not the 10%+5% option). Cap table 35/35/15/15.
+- **KEY OPEN (2026-07-14): How do operators (Esteban + Miguel) grow their equity as the company grows, while protecting the investors' capital first?** Recommended direction (needs owner + lawyer sign-off):
+  - Protect investors: put the $650k in as a **convertible shareholder instrument / loan with a 1x liquidation preference** (capital returned before equity splits on a sale) — cleaner than issuing them more equity.
+  - Grow operators: a **milestone-based earn-in / performance ratchet** — Esteban & Miguel earn additional equity (from a reserved pool or founder warrants) when defined milestones hit (MVP live + first franchise; cumulative EBITDA thresholds; Year-5 targets).
+  - Governance: reserved matters + board control to investors during Phase 1; good-leaver/bad-leaver buyback on unvested equity.
 - What happens to Esteban's vested equity if he leaves, is terminated, or the project is sold?
-- Should there be a formal option pool from day one?
+- Should there be a formal option pool from day one (vs. a milestone earn-in pool)?
 
 ## Funding
 
 - Will the owners approve a 24-month internal venture budget?
-- Should the $650k budget be fixed or milestone-based?
+- Should the $650k budget be fixed or milestone-based? (Current plan: tranche-gated.)
 - What is the minimum viable first-year budget if they want to start leaner?
-- Which expenses are paid by existing Dproperty versus the NewCo?
+- Which expenses are paid by existing Dproperty/TheVelopers versus the NewCo?
 
 ## Legal
 
@@ -44,13 +49,40 @@ This file tracks unresolved issues.
 - How much of Dproperty's existing internal process can be shared with franchisees?
 - What support level is included versus paid extra?
 
-## Private Collection
+## Dproperty Select (formerly Private Collection)
 
-- Which existing Dproperty projects qualify for Private Collection?
+- Which existing projects qualify for Dproperty Select? (Candidates from Simon: Dovle Selva, Dovle Cincuentenario, potentially Nayamara, Cavarrosa, the Victory's — confirm which are committed.)
 - Who approves client registration?
-- What exact steps trigger the 50/50 split?
+- What exact steps trigger the fixed-% payout (2.5% branded / 2.0% white-label of sale price)?
+- **Does the franchisee pay any royalty/Network fee on Dproperty Select earnings? (Default assumption: no.)**
 - What happens if a franchisee introduces a client and HQ closes months later?
 - How are disputes over client ownership handled?
+
+## Pricing & Naming
+
+- **RESOLVED (2026-07-14): Currency = USD** everywhere. Launch fee $30k/$40k.
+- **RESOLVED (2026-07-14): Minimum royalty floor = $500/month**, creditable, from month 7 (proposed — confirm with owners).
+- Confirm: should "Private Collection" be fully renamed to **Dproperty Select** everywhere, including folder/file names? (Content updated; folders not yet renamed to avoid breaking wikilinks.)
+- How is "5 successful franchises" defined for the $30k → $40k launch-fee step?
+- Validate the financial model (v0.7) OPEX/staffing rows — currently planning estimates; Year 3 breakeven is thin (~$15k).
+- Confirm Keller Williams benchmark figures used in the pricing rationale (~$35k fee, $150k cash, 6% royalty).
+
+## Pitch Deck Flags (2026-07-14)
+
+- **RESOLVED:** currency (USD), equity (35/35/15/15 for now), Simón contribution (investor: capital + TheVelopers brand + developer insight + network + projects), Miguel salary ($0 for now), royalty floor ($500).
+- **STILL OPEN:** Track record numbers ($200M+ transacted, 700+ operations, 10+ yrs) — validate before Slide 1 use.
+- **STILL OPEN:** Restate Esteban's EUR salary as a USD figure.
+- **STILL OPEN:** Defensible TAM/SAM $ figures for Deck 2.
+
+## Ecosystem / Phase 2 (2026-07-14)
+
+- **RESOLVED:** Deck 2 audience = owners (Simon, Luz) + major investors + potentially government. First hub city = **Panama City.**
+- Lease vs. own vs. partner with a developer-owner (Simon/TheVelopers?) for the physical hub?
+- What is the equity-fund structure for taking stakes in hub-born ventures?
+- What minimum franchise EBITDA threshold green-lights Phase 3 (the physical build)?
+- What is the Phase-2 P&L (membership, events, matchmaking, equity, data)?
+- Do the owners share the "bigger than us" ecosystem ambition, or prefer to cap at a profitable franchise business?
+- Is there a government/economic-development angle in Panama (incentives, city partnership) worth pursuing early?
 
 ## White-label
 
@@ -61,7 +93,7 @@ This file tracks unresolved issues.
 
 ## Developer Sales OS
 
-- Which developer/project should be the first pilot?
+- Which developer/project should be the first pilot? (Simon's projects are natural candidates.)
 - Should the first developer offer have no setup fee to reduce friction?
 - What level of sales management can Dproperty realistically provide?
 - What qualifies as a Dproperty-sourced sale versus developer-team sale?
@@ -88,30 +120,10 @@ This file tracks unresolved issues.
 - What are non-negotiable brand rules?
 - What should the welcome kit physically include?
 
-## Ecosystem / Phase 2 (added 2026-07-14)
-
-- Who is the first real audience for Deck 2 — external investors, or internal north-star only?
-- Which city hosts the first physical hub (Panama City? Medellín? Madrid?)?
-- Lease vs. own vs. partner with a developer-owner for the physical hub?
-- What is the equity-fund structure for taking stakes in hub-born ventures?
-- What minimum franchise EBITDA threshold green-lights Phase 3 (the physical build)?
-- What is the Phase-2 P&L (membership, events, matchmaking, equity, data)?
-- Do the owners share the "bigger than us" ecosystem ambition, or prefer to cap at a profitable franchise business? (This gates how hard we push Deck 2.)
-
-## Pitch Deck Flags to Resolve (added 2026-07-14)
-
-- Currency of the launch fee: **$30k** (Unit Economics / model) vs **€30k** (Current Priorities) — pick one.
-- Track record numbers ($200M+ transacted, 700+ operations, 10+ yrs) — validate before use on Slide 1.
-- Equity: confirm 35/35/15/15 (current decks/plan) as final vs the old 40/40/15/5 + pool option.
-- Simón's specific JV contribution + capital-vs-equity split (Slides 14–15).
-- Miguel salary amount (placeholder EUR 3,000/mo).
-- Royalty floor amount ($750/mo placeholder, creditable).
-- Defensible TAM/SAM $ figures for Deck 2.
-
 ## Immediate Questions for Dproperty Owners
 
-- Do they want to build this as an internal tool only, or as a new scalable business?
+- Do they want to build this as an internal tool only, or as a new scalable business (and do they share the ecosystem ambition)?
 - Are they willing to fund a dedicated venture lead salary?
-- Are they open to giving equity in a NewCo?
-- Which existing Dproperty assets can be used in the franchise/Private Collection package?
-- Which markets/countries would they want to test first?
+- Are they open to the equity-growth mechanism for operators (earn-in) alongside investor protection?
+- Which existing assets/projects can be used in the franchise/Dproperty Select package?
+- Which markets/countries would they want to test first (beyond Panama as hub)?

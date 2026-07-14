@@ -3,33 +3,33 @@ project: Dproperty OS
 title: "Pitch Deck Outline"
 type: pitch_note
 status: Structured Draft
-version: 1.0
+version: 1.1
 owner: Esteban
 last_updated: 2026-07-14
-supersedes: v0.5 (2026-07-02)
-source: Session 2026-07-14 — Ecosystem framing + strategic analysis layer
+supersedes: v1.0 (2026-07-14 earlier), v0.5 (2026-07-02)
+source: Session 2026-07-14 — added Problem/Solution/Proof-of-Concept, 3-section unit economics, USD, JV contributions
 tags: [pitch, ecosystem, franchise]
 ---
 
-# Pitch Deck Outline v1.0 — Ecosystem Vision + Franchise Execution
+# Pitch Deck Outline v1.1 — Ecosystem Vision + Franchise Execution
 
 **Audience:** Luz Adriana + Simón. Internal venture pitch, not a VC deck.
-**Length:** 17 slides (≈20–25 min) + a Back Pocket section for Q&A (NOT on the main deck).
-**Format note:** This is the *content layer*. Design/branding is a separate session. Numbers here trace to Model v0.7 and Unit Economics v0.7.
+**Length:** 20 slides (≈25 min) + a Back Pocket section for Q&A (NOT on the main deck).
+**Currency:** USD everywhere. **Numbers trace to Model v0.7 and Unit Economics v0.7.**
 
 ## Core one-liners (repeat across the deck)
-- **North star (Slides 2, 16):** "We are building the hub where real estate's future is made."
-- **Thesis (Slides 6, 16):** "We franchise the system, not the brand — and franchising funds the ecosystem."
-- **Close (Slide 17):** "You keep doing what only you can do. The system does the rest. And in 5 years we have the capital and the network to build something bigger than any single agency."
+- **North star (Slides 2, 19):** "We are building the hub where real estate's future is made."
+- **Accelerator thesis (Slides 6, 9):** "We are an accelerator for the next generation of real estate leaders — wrapped in a franchise for safety."
+- **Thesis (Slides 9, 19):** "We franchise the system, not the brand — and franchising funds the ecosystem."
+- **Close (Slide 20):** "You keep doing what only you can do. The system does the rest. And in 5 years we have the capital and the network to build something bigger than any single agency."
 
-## The two-deck strategy (context — do not present this slide)
-- **Deck 1 (THIS deck):** The franchise system. 5-year, investable, conservative. Secures $650k + JV + roles. Opens and closes on the ecosystem so the owners buy the *vision*, not just the mechanics.
-- **Deck 2 (future, Year 2–3):** The full ecosystem / physical hub. How franchise surplus finances "the 19M of real estate." Built once Phase 1 is de-risked.
+## The two-deck strategy (context — do not present)
+- **Deck 1 (THIS deck):** the franchise system. Investable, conservative. Opens and closes on the ecosystem.
+- **Deck 2:** [[Ecosystem Deck Outline]] — the full ecosystem/hub vision (owners + major investors + potentially government).
 
 ---
 
 # PART 1 — THE ECOSYSTEM VISION (Slides 1–4)
-*Why we exist, where we're going, and why franchising is how we start.*
 
 ## Slide 1 — Title + Ecosystem Hook
 **On slide:**
@@ -37,182 +37,199 @@ tags: [pitch, ecosystem, franchise]
 - Sub: "10 years to build it. 5 years to fund it. Franchising is how we start."
 - Footer: 10+ years · $200M+ transacted · 700+ operations *(figures pending validation)*
 
-**Purpose / what they should feel:** "This is bigger than a software pitch. But it's grounded in what we've already proven."
-**Data source:** Track record — FLAG: validate with owners.
+**Purpose:** "This is bigger than a software pitch — but grounded in what we've already proven."
 
 ## Slide 2 — The 10-Year Vision: What We're Building
 **On slide:**
 - A single place where real estate talent, capital, and ideas converge.
 - Under one roof: architects, interior designers, investment analysts, developers, agencies, investors, and the next generation of agents.
-- No more travelling hours or days to assemble a project team.
-- Walking distance: talent finds capital, capital finds innovation, ideas find execution.
+- No more travelling hours or days to assemble a project team — walking distance.
 - Live activity: hackathons, training, networking, deal origination.
-- To be inside is to be leading what comes next in real estate.
 - **The soul of 19M. The model of Station F. For real estate.**
 
-**Purpose / what they should feel:** Ambition + inevitability. "This should exist, and no one has built it."
-**Speaker note:** Anchor the two references explicitly — 19M (Chanel's Paris house gathering the best craftsmanship métiers d'art in one building) is the *soul*; Station F (world's largest startup campus, Paris) is the *operating model*. We are that for real estate.
+**Purpose:** Ambition + inevitability. "This should exist, and no one has built it."
 
 ## Slide 3 — The Problem the Ecosystem Solves
 **On slide:**
 - Today, real estate talent is **fragmented and gated by network.**
-- A gifted young designer can't reach major developers — no access.
-- A developer rebuilds a team from scratch for every project — slow, expensive.
-- Emerging professionals are trapped by geography — limited opportunity.
-- Capital hunts for good projects; good projects hunt for talent; talent sits isolated.
-- **Result:** innovation is slow, collaboration is costly, and the best talent leaves the region.
+- Gifted designers can't reach developers; developers rebuild teams every project; emerging talent is trapped by geography; capital and projects can't find each other.
+- **Result:** innovation is slow, collaboration is costly, the best talent leaves the region.
 
 **Concrete example (say out loud):**
-> "A 28-year-old architect in Medellín has a brilliant, sustainable mid-rise concept. Today she needs months and the right personal contacts to find a developer who'll listen, an analyst to model it, an agency to commercialize it, and an investor to fund it. In our ecosystem, all four are in the same building this week — and the deal starts on Thursday."
+> "A 28-year-old architect in Medellín has a brilliant sustainable concept. Today she needs months and the right contacts to find a developer, an analyst, an agency, and an investor. In our ecosystem, all four are in the same building this week — and the deal starts Thursday."
 
-**Purpose / what they should feel:** "I know exactly the friction they mean. We live it every day."
-**Speaker note:** This slide makes the abstract concrete. If they picture the architect, the vision lands.
+**Purpose:** Make the abstract concrete.
 
 ## Slide 4 — Why Franchising Is the First Step (Phase 1 → Phase 2)
 **On slide:**
-- We cannot build the hub without two things first: **proof the model works** and **capital that isn't ours to burn.**
-- Franchising delivers both. It proves three things:
-  1. **The system works** — operations are replicable; unit economics are sound.
-  2. **The brand works** — Dproperty becomes trusted infrastructure across LATAM.
-  3. **The cash works** — recurring revenue funds the ecosystem build.
-- Every franchisee, white-label partner, and developer becomes a **founding member** of the future hub.
+- We can't build the hub without **proof the model works** and **capital that isn't ours to burn.**
+- **Honest framing:** the capital we'd spend building this from scratch is **our own — and it could be placed somewhere else.** So we start with franchising precisely because it **gathers outside capital (fees) and hard market validation.** Franchising tells us — with real money and real customers — whether this venture is worth pursuing before we commit to the physical hub.
+- Franchising proves three things: the **system works**, the **brand works**, the **cash works.**
+- Every franchisee becomes a **founding member** of the future hub.
 
-**The capital-recycling flow (show as a simple arrow diagram):**
-> Franchise fees + royalties + Select commissions → HQ EBITDA (Year 3+) → reinvested into the physical hub, talent programs, and equity stakes → hub deepens the network → network makes franchises more valuable → more franchises.
+**Capital-recycling flow (arrow diagram):**
+> Franchise fees + royalties + Select commissions → HQ EBITDA (Year 3+) → reinvested into the hub, talent programs, and equity stakes → hub deepens the network → franchises become more valuable → more franchises.
 
-- **Franchising is not the end game. It is how we fund the end game.**
+- **Franchising is not the end game. It is how we validate and fund the end game.**
 
-**Purpose / what they should feel:** "The dream is real, but the path is disciplined and self-financing."
-**Speaker note:** This is the hinge of the whole deck. It converts "nice dream" into "fundable plan."
+**Purpose:** Converts "nice dream" into "disciplined, self-financing, de-risked plan."
 
 ---
 
-# PART 2 — THE FRANCHISE SYSTEM (Slides 5–17)
-*The 5-year execution path that funds the 10-year vision.*
+# PART 2 — THE FRANCHISE SYSTEM (Slides 5–20)
 
-## Slide 5 — What We Refuse to Lose
+## Slide 5 — The Problem (Why Someone Buys the Franchise)
+**On slide — three audiences, one gap:**
+- **Newcomers:** no system, no network, no training, no credibility, no deal access. They want in but don't know where to start — and most fail alone.
+- **Experienced agents:** capped by their own time; stuck as solo operators; no scalable systems, no premium brand, no investor-grade tools, no path to build something bigger. Doing admin instead of selling.
+- **All agents:** no access to curated/investor inventory; reinventing the wheel; no mentorship; **their vision is limited by their resources and their network.**
+- **The core problem:** the industry hands talented, ambitious people a *desk* — not a *launchpad.* Vision without a system dies.
+
+**Purpose:** The buyer sees their own frustration. "This is exactly why I'd join."
+
+## Slide 6 — The Solution (An Accelerator, Not a Dead Franchise)
+**On slide:**
+- People come for the **ecosystem**: our network, software, CRM, expertise, know-how, training, and curated deal access.
+- But the real difference is **how we operate**: like an **accelerator**, not a franchise that sells you a logo and disappears.
+- We **potentiate and tailor** each operator — we actively grow your vision, adapt support to you, and care about your trajectory. Your success is our product.
+- **The franchise wrapper = safety** (structure, brand, legal, proven playbook). **The mission = potentiate and escalate the visions** of the agents who will lead the future of real estate.
+- That is *why* they choose us — and that pull is itself the first proof of the ecosystem.
+
+**Purpose:** Reframe from "franchise" (transactional) to "accelerator" (transformational).
+
+## Slide 7 — Proof of Concept: The Franchise Is a Micro-Ecosystem
+**On slide:**
+- We don't build the whole value chain at once. We **start focused: boutique real estate agents.**
+- Each franchise is a node. Franchises + HQ + curated deal flow + shared community = a **distributed micro-ecosystem** — the same mechanics as the physical hub, at small scale and low capital risk.
+- It validates the ecosystem's core engine: **curation, network effects, shared deal flow, and talent acceleration.**
+- **And it stands on its own** as a **new recurring-revenue venture** (fees, royalties, subscriptions).
+- If the micro-ecosystem works — agents accelerate, deals flow, the network compounds — that is our **proof** that the physical macro-ecosystem will work, *and* it's the cash that funds it.
+
+**Purpose:** Ties franchising to the big vision AND shows it's a profitable business on its own. This is the intellectual core of the pitch.
+
+## Slide 8 — What We Refuse to Lose
 **On slide:**
 - Boutique positioning: curated access, trust-based advisory, quality over volume.
 - We are NOT building the next RE/MAX.
 - "Somos más amigos de la matemática que de la arquitectura."
-- Premium people, premium standards, premium judgment — protected as we scale.
+- Premium people, premium standards — protected as we scale.
 
-**Purpose / what they should feel:** Pre-empt the fear: "scaling = becoming a mass franchise." No.
-**Speaker note:** Luz Adriana must see her values survive the scale.
+**Purpose:** Pre-empt the fear that scaling = becoming a mass franchise.
 
-## Slide 6 — The Thesis: We Franchise the System, Not the Brand
+## Slide 9 — The Thesis: We Franchise the System, Not the Brand
 **On slide:**
 - **HQ keeps:** Dproperty Select (curated inventory), developer relationships, projection standards, strategic direction.
 - **Franchisees get:** the complete system to run a boutique agency — OS software, manuals, training academy, CRM, templates, methodology, community.
 - **We supervise one director per market, not every deal.**
 - Dproperty becomes the **infrastructure layer** behind boutique real estate — scaling without diluting quality or founder time.
 
-**Purpose / what they should feel:** The core reframe. This is the slide they remember.
-**Speaker note:** Repeat the thesis line verbatim here.
+**Purpose:** The core reframe. Repeat the thesis line verbatim.
 
-## Slide 7 — Why Now
+## Slide 10 — Why Now
 **On slide:**
-- Operations are documented (15 functional areas mapped) — the know-how is *extractable now*.
-- European expansion already in motion (DACH, Benelux, Iberia) — proof the system travels.
+- Operations documented (15 functional areas) — the know-how is *extractable now.*
+- European expansion already in motion — proof the system travels.
 - AI + low-code make productizing the system cheap for the first time.
-- LATAM boutique market is growing and under-systematized.
-- **Competitive urgency:** RE/MAX, Engel & Völkers, and Colliers are all moving for the same markets and the same talent. Every year we wait, someone systematizes first.
+- LATAM boutique market growing and under-systematized.
+- **Competitive urgency:** RE/MAX, Engel & Völkers, Colliers are all moving for the same markets and talent. Every year we wait, someone systematizes first.
 
-**Purpose / what they should feel:** Urgency without panic. The window is open now.
+**Purpose:** Urgency without panic.
 
-## Slide 8 — The Product: Dproperty OS (System + Community)
+## Slide 11 — The Product: Dproperty OS (System + Community)
 **On slide:**
 - **Software:** HQ dashboard, franchise workspace, deal pipeline, document generator, projection generator, commission tracker, reporting.
 - **Manuals:** operations, sales, compliance, project onboarding.
-- **Training Academy:** certification modules for every franchise role.
+- **Training Academy:** certification for every franchise role.
 - **CRM:** white-labeled GoHighLevel sub-accounts; HQ retains network visibility.
 - **Dproperty Select:** HQ-curated inventory for high-value deals.
 - **Community layer:** access to the Dproperty network — the first, digital version of the future hub.
 - **Principle:** data first, documents second.
 
-**Purpose / what they should feel:** "This is a system, not a folder of PDFs."
+**Purpose:** "This is a system, not a folder of PDFs."
 
-## Slide 9 — Three Revenue Lines, One Rule
+## Slide 12 — Three Revenue Lines, One Rule
 **On slide:**
-1. **Branded franchise** — markets that feed the investment funnel (Panama, Bogotá, Medellín, then Iberia/Europe).
-2. **White-label OS** — markets that are purely local/transactional; agency keeps its own brand.
-3. **Developer Sales OS** — priced on gross sales value, not salesperson payout.
+1. **Branded franchise** — markets that feed the investment funnel (Panama, Bogotá, Medellín, then Iberia).
+2. **White-label OS** — purely local/transactional markets; agency keeps its brand.
+3. **Developer Sales OS** — priced on gross sales value.
 - **The rule:** the brand goes where investors gather; the systems go everywhere.
 
-**Purpose / what they should feel:** Multiple monetization paths from one asset base.
-
-## Slide 10 — Dproperty Select: HQ-Controlled Upside
+## Slide 13 — Dproperty Select: HQ-Controlled Upside
 **On slide:**
 - HQ-controlled, curated, investor-grade inventory.
-- **50/50 gross commission split** between HQ and franchise; franchise pays reduced royalty on its half.
-- Franchisee earns a **fixed % of sale price** (2.5% branded / 2.0% white-label); upside above 5% stays with HQ.
+- **50/50 gross commission** basis; franchisee earns a **fixed % of sale price** (2.5% branded / 2.0% white-label); upside above 5% stays with HQ.
 - No unapproved projections. No direct developer negotiation. No edited materials.
 - **White-label gets no automatic access.**
 
-**Purpose / what they should feel:** "Do we lose control of our crown jewels?" No.
-**Data source:** Unit Economics v0.7. (Private Collection renamed **Dproperty Select** — Decision Log 2026-07-05.)
+**Purpose:** "Do we lose control of our crown jewels?" No.
 
-## Slide 11 — Unit Economics (Per Branded Franchise)
-**On slide — the local commission waterfall:**
+## Slide 14 — Unit Economics (Three Revenue Sources per Franchise)
+**On slide — HQ earns from a franchise in three distinct ways:**
+
+**① Commission on local sales** (the waterfall, per $300k unit):
 ```
-Gross commission (5% of $300k) ........ $15,000
+Gross commission (5%) ................. $15,000
   Less external advisors (50/50) ...... $7,500
-Into the company (2.5%) ............... $7,500   ← ROYALTY BASE
-  Seller (35%) ........................ $2,625
-  Sales director (10%) ................ $750
-  Franchise net (55%) ................. $4,125
+Into the company (2.5%) ............... $7,500   ← royalty base
+  Seller 35% / Director 10% / Franchise net 55% ($4,125)
 ```
-- **HQ take per local unit:** ~$562 (6% royalty + 1.5% Network & Brand Fund on the $7,500 into-company).
-- **Plus recurring:** $1,000/month OS fee per franchise.
-- **Dproperty Select:** HQ retains ~$7,500 per unit — the real HQ margin engine.
-- **Honesty point:** royalty is charged on collected, gross-into-company commission — not on signed deals and not gameable by inflating agent pay.
+→ **HQ take: ~$562/unit** (6% royalty + 1.5% Network & Brand Fund on the $7,500).
 
-**Purpose / what they should feel:** "These numbers were built FROM our cash instincts, not around them."
-**Data source:** Unit Economics v0.7 (2026-07-05).
+**② Commission on Dproperty Select** (HQ-curated inventory, per $300k unit):
+- Franchisee paid a fixed **2.5% of sale price = $7,500**; **HQ retains ~$7,500** (white-label: partner 2.0% = $6,000, HQ ~$9,000). Upside above 5% → HQ.
+- This is the **margin engine** — HQ keeps ~50% of a premium deal.
 
-## Slide 12 — Conservative 5-Year Projection
+**③ Franchise fees** (the recurring + one-time platform layer):
+- **Launch fee:** $30,000 founding / $40,000 after 5 successful franchises (one-time).
+- **OS/software fee:** $1,000/month.
+- **Royalty + Network & Brand Fund:** 6% + 1.5% on collected gross-into-company.
+- **Minimum royalty floor:** $500/month, creditable, from month 7.
+- **CRM (GoHighLevel):** resold sub-account with margin.
+- **Included:** branding, templates, training, reporting, HQ support.
+
+**Honesty point:** local royalty is thin by design; the scalable HQ money is **recurring fees + Dproperty Select + developer revenue.**
+**Data source:** Unit Economics v0.7.
+
+## Slide 15 — Conservative 5-Year Projection
 **On slide:**
-- **Targets:** 5 branded franchises · 20 white-label agencies · 15 developer projects.
+- **Targets:** 5 branded franchises · 20 white-label · 15 developer projects.
 - **Revenue:** Y1 ~$87k → Y3 ~$660k → **Y5 ~$1.59M.**
-- **EBITDA:** negative Y1–Y2 (building product, legal, training) → +$15k Y3 → **+$630k Y5.**
-- Explicitly labelled **conservative.** No hockey stick.
+- **EBITDA:** negative Y1–Y2 (build) → +$15k Y3 → **+$630k Y5.**
+- **Year-5 revenue mapped to the three franchise sources + two lines:** Dproperty Select (HQ-retained) ~$360k · franchise fees bundle (launch + OS + royalty/fund + CRM margin) ~$197k · **plus** white-label recurring+setup ~$438k · developer ~$600k. Local-sale royalty is the small, un-gameable base within the fees bundle.
+- Explicitly **conservative.** No hockey stick.
 
-**Purpose / what they should feel:** Credible, not inflated. The upside is real but under-promised.
 **Data source:** Financial Model v0.7 — FLAG: OPEX/staffing rows need owner validation.
 
-## Slide 13 — What It Costs: $650k Over 24 Months
+## Slide 16 — What It Costs: $650k Over 24 Months
 **On slide:**
-- **Tranche 1 — $350k:** MVP software, legal foundation, franchise manuals, brand assets, first two pilots.
+- **Tranche 1 — $350k:** MVP software, legal foundation, manuals, brand assets, first two pilots.
 - **Tranche 2 — $300k:** released ONLY at milestones — MVP live, 2 white-label pilots, 1 developer agreement, franchise package ready.
 - **Why tranches:** you fund milestones, not promises.
 
-**Purpose / what they should feel:** Risk is staged. They control the second cheque.
-
-## Slide 14 — The JV: What Each Party Brings
+## Slide 17 — The JV: What Each Party Brings
 **On slide:**
-- **Dproperty (Luz Adriana + Simón):** brand, 10-year track record, inventory & developer relationships, existing pipeline, IP.
+- **Luz Adriana (investor):** capital + the **Dproperty brand** + boutique **agency insight** + network + the **franchisable operation & boutique know-how** (the core system).
+- **Simón (investor):** capital + the **TheVelopers brand** + **developer insight** + network + franchisable/sellable **projects** — Dovle Selva, Dovle Cincuentenario, and potentially Nayamara, Cavarrosa, and the Victory's (feed Dproperty Select / developer pipeline).
+- **The owners participate as investors — they do not carry operating workload.**
+- **Esteban + Miguel (operators):** full-time build — product, strategy, manuals, launch, operations.
 - **Capital:** the $650k internal venture budget.
-- **Operators (Miguel + Esteban):** full-time build — product, strategy, manuals, launch, operations.
-- FLAG: define Simón's specific contribution + capital-vs-equity split before this slide is final.
 
-**Purpose / what they should feel:** Everyone brings something real; no free riders.
+**Purpose:** Two investor-owners (capital + brands + products + network) paired with two operators. Everyone brings something real.
 
-## Slide 15 — Team & Equity
+## Slide 18 — Team & Equity
 **On slide:**
 | Partner | Equity | Role |
 |---|---|---|
-| Simón | 35% | Founder / capital / governance |
-| Luz Adriana | 35% | Founder / operations / relationships |
-| Miguel | 15% | Communications & creative (vesting) |
-| Esteban | 15% | Strategy, product & management (vesting) |
+| Simón | 35% | Investor / capital / TheVelopers + projects / governance |
+| Luz Adriana | 35% | Investor / capital / Dproperty brand + operation / governance |
+| Miguel | 15% | Operator — communications & creative (vesting) |
+| Esteban | 15% | Operator — strategy, product & management (vesting) |
 - **Owners 70% / operators 30%.** Operators vest: 4 years, 1-year cliff.
-- **Esteban comp:** €4,000/mo months 1–12 → automatic step to €5,500/mo at Tranche 2.
+- **Compensation (USD):** Miguel **$0 for now** (equity only); Esteban salary in USD (restate the former EUR figure), stepping up at Tranche 2.
+- **Under exploration (not yet decided):** a mechanism for operators to **grow their equity as the company grows**, while **protecting investor capital first** — e.g. investor capital as a convertible/preferred instrument with a 1x liquidation preference, operators via a milestone-based earn-in. See Open Questions.
 - **The asymmetry is the argument:** owners carry no vesting risk; operators carry all of it.
 
-**Purpose / what they should feel:** Fair, aligned, and the operators are betting on themselves.
-**Data source:** Pitch Deck Outline v0.5 structure. FLAG: confirm Miguel salary; reconcile with Context Brief's earlier 40/40/15/5 option.
-
-## Slide 16 — Why Franchising Matters (Bridge Back to the Vision)
+## Slide 19 — Why Franchising Matters (Bridge Back to the Vision)
 **On slide:**
 - Franchising **validates** the model, **builds** the brand, and **generates** the cash.
 - By Year 5, when franchising is proven and profitable, we hold:
@@ -220,104 +237,88 @@ Into the company (2.5%) ............... $7,500   ← ROYALTY BASE
   - ~$630k annual EBITDA to redeploy,
   - real estate leaders across LATAM ready to gather,
   - and a brand that means "the standard."
-- **That is the launchpad for the hub.**
+- **That is the launchpad for the hub — starting in Panama.**
 
-**Purpose / what they should feel:** Return to the dream — now earned by the numbers they just saw.
+**Purpose:** Return to the dream — now earned by the numbers.
 
-## Slide 17 — The Decision
+## Slide 20 — The Decision
 **On slide — three yes/no questions:**
 1. Do we build this as a NewCo / JV with defined roles and equity?
 2. Do we fund **Tranche 1 ($350k)** to execute the 5-year franchise plan?
 3. Do we commit to the vision — 5 years proving franchising works, then building the ecosystem it funds?
 
 **Close (say it):**
-> "You keep doing what only you can do. The system does the rest, everywhere else. And in 5 years, we have the capital and the network to build the place where real estate's future actually happens."
+> "You keep doing what only you can do. The system does the rest, everywhere else. And in 5 years, we have the capital and the network to build the place where real estate's future actually happens — starting in Panama."
 
-**Purpose / what they should feel:** A clear, binary, low-ambiguity decision. Easy to say yes to.
+**Purpose:** A clear, binary, low-ambiguity decision.
 
 ---
 
 # BACK POCKET — Strategic Analysis (NOT on the main deck)
-*Reference and Q&A prep. Pull the relevant one-pager if a question demands it.*
+*Reference and Q&A prep.*
 
 ## BP-1 — Competitive Landscape
-**Who we actually compete with** (for talent, mandates, and market position):
+| Player | Positioning | Where we win |
+|---|---|---|
+| **RE/MAX / Century 21** | Mass franchise, volume | Boutique trust, curated inventory, accelerator model |
+| **Engel & Völkers** | Premium/luxury franchise, European | Systemized for LATAM boutique operators; ecosystem |
+| **Colliers / JLL / CBRE** | Institutional/commercial | Boutique + residential-investor focus; talent hub (adjacent, not head-on) |
+| **Keller Williams** | Agent-centric training/tech | LATAM curation + investor-advisory boutique |
+| **Local boutique franchises** | Country-specific | Systems, tech, cross-border deal flow, community |
 
-| Player | Positioning | Strength | Where they're weak / where we win |
-|---|---|---|---|
-| **RE/MAX / Century 21** | Mass franchise, volume | Scale, brand recognition, low entry | Commoditized, transactional, no boutique trust, no curated inventory |
-| **Engel & Völkers** | Premium/luxury franchise | Strong brand, luxury niche, European | Rigid, expensive, not systemized for LATAM boutique operators, no ecosystem |
-| **Colliers / JLL / CBRE** | Institutional/commercial | Data, capital markets, corporate reach | Not boutique, not residential-investor-focused, no talent hub |
-| **Keller Williams** | Agent-centric, training/tech | Training culture, models, cap system | US-centric culture, not LATAM-curated, not investor-advisory boutique |
-| **Local boutique franchises** | Country-specific | Local knowledge | Weak systems, no tech, no cross-border deal flow, no community |
-
-**Our whitespace:** Premium boutique positioning **+ productized system + curated cross-border inventory (Select) + a talent/idea community.** No one owns "the systemized boutique ecosystem for LATAM." That is our lane.
-
-**Note for Esteban:** the honest read is that E&V and RE/MAX are fighting for the same *operators* and *markets* — that's the competitive front line. Colliers/JLL fight for institutional mandates (adjacent, not head-on). This is what the moat must defend against.
+**Whitespace:** premium boutique positioning + productized system + curated cross-border inventory + a talent/idea community. No incumbent owns "the systemized boutique ecosystem for LATAM."
 
 ## BP-2 — PESTEL
-- **Political:** franchise regulation varies (Panama, Colombia, Spain, EU); relative political stability in target metros; incentives for foreign investment in Panama.
-- **Economic:** LATAM real estate growth, dollarized Panama, emerging investor middle class, capital seeking hard assets; FX risk and interest-rate sensitivity are the watch items.
-- **Social:** rising entrepreneurship, agent desire for independence, talent migration; demand for trusted advisory in a low-trust market.
-- **Technology:** low-code + AI make productization cheap; CRM/automation now affordable at franchise scale; digital-first buyers.
-- **Environmental:** ESG/sustainable-building demand rising; investors increasingly screen for it — an angle for the ecosystem's design/innovation layer.
-- **Legal:** franchise disclosure rules, multi-jurisdictional contracts, data privacy (GDPR in Europe, local regimes in LATAM), IP protection for manuals/software.
+- **Political:** franchise regulation varies (Panama, Colombia, Spain, EU); Panama offers foreign-investment incentives.
+- **Economic:** LATAM growth; **dollarized Panama** (hub + core market); emerging investor class; FX/rate sensitivity is the watch item.
+- **Social:** entrepreneurship + agent independence trends; demand for trusted advisory.
+- **Technology:** low-code + AI make productization cheap; affordable CRM at scale.
+- **Environmental:** ESG/sustainable-building demand rising — an angle for the ecosystem's design/innovation layer.
+- **Legal:** franchise disclosure, multi-jurisdictional contracts, data privacy (GDPR + LATAM), IP protection.
 
 ## BP-3 — TAM / SAM / SOM
-- **TAM:** global boutique/advisory real estate services — large but not our near-term battlefield; use for context only.
-- **SAM:** LATAM boutique agencies + Iberia expansion — the realistic servable market (Panama, Colombia, DR, Spain).
-- **SOM (5-year, conservative):** 5 branded + 20 white-label + 15 developer projects = **~$1.59M HQ revenue in Year 5.** This is what we commit to, and it is a small fraction of SAM — deliberately conservative.
-- FLAG: put defensible $ figures on TAM/SAM before Deck 2 (ecosystem). For Deck 1, lead with SOM (the target we own), reference SAM qualitatively.
+- **TAM:** global boutique/advisory real estate services (context).
+- **SAM:** LATAM boutique agencies + Iberia (Panama, Colombia, DR, Spain).
+- **SOM (5-yr, conservative):** 5 branded + 20 white-label + 15 developer = **~$1.59M HQ revenue Y5** — a small, deliberate fraction of SAM.
+- FLAG: defensible $ figures needed before Deck 2.
 
 ## BP-4 — SWOT
-- **Strengths:** 10-yr track record, $200M+ transacted (validate), curated deal flow, founder credibility, documented operations, existing developer/broker relationships, boutique brand.
-- **Weaknesses:** early-stage product, small team, key-person dependency (Luz Adriana), no physical hub yet, unproven at multi-market scale, financials still need OPEX validation.
-- **Opportunities:** LATAM growth, tech-enablement window, ESG demand, agent-independence trend, Iberia/Europe expansion, the ecosystem/hub as a category-defining move.
-- **Threats:** RE/MAX / E&V entering the same markets, economic/FX downturn, regulatory change, founder risk, talent poaching, execution overload on a small team.
+- **Strengths:** 10-yr track record, $200M+ transacted (validate), curated deal flow, founder credibility, documented ops, relationships, boutique brand, **two owner-brands (Dproperty + TheVelopers) and a project pipeline.**
+- **Weaknesses:** early product, small team, key-person dependency, no hub yet, unproven at multi-market scale.
+- **Opportunities:** LATAM growth, tech window, ESG demand, agent-independence trend, Iberia expansion, the ecosystem as a category-defining move, **Panama government/economic-development angle.**
+- **Threats:** incumbents entering, FX/downturn, regulatory change, founder risk, talent poaching, execution overload.
 
 ## BP-5 — Lean Model Canvas
-- **Customer segments:** agents seeking independence (primary), sales pros from other sectors (secondary), youth entrepreneurs (volume); + white-label agencies; + developers.
-- **Problem:** know-how trapped in people; no systemized boutique path; talent fragmented.
-- **Unique value proposition:** "An agency-in-a-box for serious boutique operators — plus access to curated deals and a community that makes you better." Later: "the place where real estate's future is made."
-- **Solution:** Dproperty OS + manuals + Academy + CRM + Select + community.
-- **Channels:** founder network, LinkedIn, referrals, developer relationships, market-specific tactics (Panama/Bogotá/Medellín).
-- **Revenue streams:** launch fees, monthly OS fees, royalties, Network & Brand Fund, Select commissions, white-label subscriptions, developer revenue; later — desk rental, events, matchmaking, equity stakes.
+- **Customer segments:** agents seeking independence (primary), sales pros (secondary), youth entrepreneurs (volume); + white-label agencies; + developers.
+- **Problem:** know-how trapped in people; no systemized boutique path; talent fragmented; vision capped by resources/network.
+- **Unique value proposition:** "An accelerator for boutique real estate operators — the system, the deals, and a community that grows your vision." Later: "the place where real estate's future is made."
+- **Solution:** Dproperty OS + manuals + Academy + CRM + Select + community, run like an accelerator.
+- **Channels:** founder network, LinkedIn, referrals, developer relationships, Panama/Bogotá/Medellín tactics.
+- **Revenue streams:** launch fees, OS fees, royalties, Network & Brand Fund, Select commissions, white-label subscriptions, developer revenue; later — desk rental, events, matchmaking, equity stakes, data.
 - **Cost structure:** product build, personnel, legal/compliance, franchisee support, marketing.
 - **Key metrics:** # franchises, # white-label, deal velocity, franchisee retention & profitability, Select GMV, EBITDA.
-- **Unfair advantage:** curated deal flow + founder relationships + decade of trust + (future) community gravity.
+- **Unfair advantage:** curated deal flow + founder relationships + two owner-brands + decade of trust + (future) community gravity.
 
 ## BP-6 — The Moat (Honest Version)
-**Real, defensible:**
-1. **Curated deal flow (Select):** built on 10 years of relationships — not reproducible on demand.
-2. **Founder credibility:** Luz Adriana's track record and trust in LATAM can't be bought.
-3. **Installed network:** developers, brokers, investors already in the room.
-4. **Speed + focus:** we can own "systemized boutique ecosystem for LATAM" before incumbents pivot to it.
-5. **Community gravity (Phase 2):** once talent gathers in the hub, network effects compound — the strongest long-term moat.
-
-**Honest caveats (own these in Q&A):**
-- Incumbents *could* attempt this; a curated portfolio isn't legally exclusive.
-- So the true near-term moat is **execution speed + relationships + owner commitment**, not a patent.
-- The durable moat is the **network effect of the hub** — which is exactly why franchising-to-fund-the-hub matters.
+**Defensible:** curated deal flow (Select); founder credibility; installed network; speed to own the category; **community gravity (Phase 2 network effect — the durable moat).**
+**Honest caveats:** incumbents could attempt this; a curated portfolio isn't legally exclusive; near-term moat is execution speed + relationships + owner commitment.
 
 ## BP-7 — Ecosystem Vision (Full Context for Deck 2)
-**What it is:** a physical hub — "19M's soul, Station F's model" — where the whole real estate value chain gathers: emerging architects, designers, analysts; developers; agencies; investors; and Dproperty's own franchise network.
-**What happens there:** desks for emerging talent and studios; hackathons; training and certification; networking; live deal origination; showcases where a small designer reaches major players without leaving the building.
-**Phase-2 revenue:** desk/space rental, event revenue, matchmaking fees, equity stakes in ventures born in the hub, and franchise expansion driven by network gravity.
-**Why it's bigger than us:** the goal is an institution that outlasts any individual — connecting those with the means to those with the vision, so the future of real estate gets built better, faster, and more sustainably.
-**Funding logic:** Phase 1 franchise EBITDA (Year 3+) is the fuel. Deck 2 will show the capital plan for the physical build.
+See [[Ecosystem Deck Outline]]. Physical hub ("19M's soul, Station F's model"), **first hub = Panama City**; Phase-2 revenue = space/membership, events, matchmaking, equity stakes, data; funded by Phase-1 EBITDA + external capital partner (+ potential government angle). Audience for Deck 2: owners + major investors + potentially government.
 
 ---
 
-# Flags to Resolve Before v1.1 / Design Handoff
-1. **Currency:** launch fee $30k (Unit Econ) vs €30k (Current Priorities) — pick one. *(Recommend $ to match the model.)*
-2. **Track record numbers:** $200M+ / 700+ ops / 10+ yrs — validate with owners.
-3. **Financial model OPEX/staffing** rows need owner validation (Model v0.7).
-4. **Simón's contribution** + capital-vs-equity split (Slides 14–15).
-5. **Equity reconciliation:** 35/35/15/15 (this deck) vs 40/40/15/5 option pool (Context Brief) — confirm final.
-6. **Miguel salary** — undefined.
-7. **Royalty floor** amount (placeholder ~$750/mo, creditable) — confirm.
-8. **TAM/SAM $ figures** — needed before Deck 2.
+# Flags to Resolve Before Design Handoff
+1. ✅ **Currency = USD** (resolved 2026-07-14).
+2. ✅ **Equity 35/35/15/15 for now**; operator earn-in mechanism under exploration (see Open Questions).
+3. ✅ **Simón/Luz contributions defined** (investors: capital + brands + insight + network + products).
+4. ✅ **Miguel salary $0**; ✅ **royalty floor $500/mo** (proposed, confirm with owners).
+5. **OPEN:** track-record numbers ($200M+, 700+ ops) — validate.
+6. **OPEN:** restate Esteban's salary as a USD figure.
+7. **OPEN:** financial model OPEX/staffing validation (Model v0.7).
+8. **OPEN:** defensible TAM/SAM $ figures (Deck 2).
 
 # Changelog
-- **v1.0 (2026-07-14):** Reframed around the ecosystem vision. Added Slides 1–4 (vision, ecosystem problem, why-franchising-first) and Slide 16 (bridge back). Expanded to 17 slides. Added full Back Pocket strategic analysis (competition, PESTEL, TAM/SAM/SOM, SWOT, Lean Canvas, moat, ecosystem detail). Updated financials to Model v0.7. Fixed equity to 70/30. Flagged open items. Supersedes v0.5.
-- **v0.5 (2026-07-02):** 14-slide franchise outline; thesis "franchise the know-how, not the operation."
+- **v1.1 (2026-07-14):** Added Slide 4 "our capital could be placed elsewhere → franchising gathers capital + validation." Added Part-2 Problem (5), Solution/accelerator (6), Proof-of-Concept/micro-ecosystem (7). Rebuilt Unit Economics into 3 sources (14). Detailed JV contributions incl. TheVelopers + Simon's projects (17). USD everywhere; Miguel $0; royalty floor $500; equity earn-in note (18). Expanded to 20 slides. Panama named as first hub.
+- **v1.0 (2026-07-14):** Ecosystem reframe; 17 slides; back pocket added.
+- **v0.5 (2026-07-02):** 14-slide franchise outline.

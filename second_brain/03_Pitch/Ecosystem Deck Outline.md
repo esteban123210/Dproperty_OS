@@ -3,7 +3,7 @@ project: Dproperty OS
 title: "Ecosystem Deck Outline (Deck 2)"
 type: pitch_note
 status: Structured Draft
-version: 0.5
+version: 0.6
 owner: Esteban
 last_updated: 2026-07-14
 source: Session 2026-07-14 — Deck 2 built alongside Pitch Deck Outline v1.0
@@ -15,10 +15,13 @@ tags: [pitch, ecosystem, vision, deck2]
 
 **This is Deck 2.** Deck 1 ([[Pitch Deck Outline]]) sells the *franchise system* (5-year, investable, conservative). Deck 2 sells the *ecosystem* (10–15 year, category-defining, ambitious) and shows how franchise surplus funds it.
 
-**Audience (flexible — confirm per use):**
-- **Primary:** future capital partners for the physical hub (Year 2–3, once Phase 1 is de-risked).
-- **Secondary:** the two Dproperty owners, as the north-star context behind Deck 1.
-- **Tertiary:** anchor talent / partners we want to recruit into the hub.
+**Audience (confirmed 2026-07-14):**
+- **The two owners (Simón + Luz Adriana)** — as the north-star behind Deck 1.
+- **Major investors** — capital partners for the physical hub (Year 2–3, once Phase 1 is de-risked).
+- **Government / public sector (potential)** — a project of this magnitude could be a national-scale economic-development play; explore incentives, land, and city partnership.
+- (Also usable to recruit anchor talent/partners into the hub.)
+
+**First hub city (confirmed 2026-07-14): Panama City.**
 
 **Tone:** inspirational but grounded. Ambition backed by a self-financing plan. This deck is allowed to dream — but it must always answer "how is this paid for?" (Answer: the franchise venture.)
 
@@ -147,7 +150,7 @@ tags: [pitch, ecosystem, vision, deck2]
 |---|---|---|---|
 | **1 — Franchise system** | Yr 0–5 | OS, manuals, Academy, Select, 5 franchises + 20 white-label + 15 developer | Owners' $650k venture budget |
 | **2 — Digital community** | Yr 2–5 | Members network, events, matchmaking (light) | Franchise revenue |
-| **3 — First physical hub** | Yr 5–8 | The flagship building (city TBD) | Franchise EBITDA + external capital partner |
+| **3 — First physical hub** | Yr 5–8 | The flagship building — **Panama City** | Franchise EBITDA + external capital partner (+ potential government) |
 | **4 — Network of hubs** | Yr 8–15 | Replicate across LATAM & Iberia | Hub cashflow + equity gains |
 
 **Purpose / feel:** "This is staged and financeable, not a moonshot."
@@ -187,8 +190,9 @@ tags: [pitch, ecosystem, vision, deck2]
 
 ## Slide 16 — The Invitation / The Ask
 **On slide (adapt to audience):**
-- **For capital partners:** co-fund the first physical hub — [capex + terms TBD]; franchise cashflow already covers the runway.
 - **For the owners:** approve Phase 1 (Deck 1) knowing this is where it leads.
+- **For major investors:** co-fund the first physical hub in **Panama City** — [capex + terms TBD]; franchise cashflow already covers the runway.
+- **For government / public sector:** partner on a national-scale economic-development and talent-retention project (incentives, land, city partnership).
 - **For anchor talent/partners:** be a founding member of the room that defines the next decade.
 - **What we're offering:** early position in a category before it exists.
 
@@ -235,11 +239,14 @@ The hub's *byproducts* may exceed the core, à la Station F:
 - **Category risk:** we're defining a new category — education and proof will take time.
 
 ## BP-5 — Open Questions for Deck 2
-1. Who exactly is the Deck 2 audience for its first real use — external investors, or internal north-star only?
-2. Which city hosts the first hub (Panama? Medellín? Madrid?)?
-3. Lease vs. own vs. partner with a developer-owner?
+1. ✅ **RESOLVED (2026-07-14):** Audience = owners + major investors + potentially government.
+2. ✅ **RESOLVED (2026-07-14):** First hub city = **Panama City**.
+3. Lease vs. own vs. partner with a developer-owner (Simón / TheVelopers is a natural candidate)?
 4. What's the equity-fund structure for hub-born ventures?
 5. What's the minimum franchise EBITDA threshold before we green-light Phase 3?
+6. Is there a concrete Panama government / economic-development angle (incentives, land, city partnership) to pursue?
+7. Defensible TAM/SAM $ figures + a Phase-2 P&L (required before external use).
 
 # Changelog
-- **v0.5 (2026-07-14):** Created. 17-slide ecosystem/vision deck (vision → ecosystem → business/funding bridge → future/ask), plus Back Pocket (byproducts thesis, comparables, financial logic, risks, open questions). Built as the companion to [[Pitch Deck Outline]] v1.0.
+- **v0.6 (2026-07-14):** Confirmed audience (owners + major investors + potential government) and first hub city (Panama City); added government angle to the phased build and the ask.
+- **v0.5 (2026-07-14):** Created. 17-slide ecosystem/vision deck plus Back Pocket. Companion to [[Pitch Deck Outline]].

@@ -33,8 +33,11 @@ Built the **pitch deck content layer** and reframed the whole venture around an 
 3. Pitch deck restructured to open on the vision (v0.5 → v1.0).
 4. Moat stated honestly (defensible vs. good-ops; hub network effect = durable moat).
 
-## Top open items
-Resolve pitch flags: **currency** ($ vs €30k), **equity** (confirm 35/35/15/15), **Simón's JV contribution**, **track-record numbers**, Miguel salary, royalty floor. Build **Phase-2 (ecosystem) financial model** + decide first-hub city/capex. Confirm owners share the ecosystem ambition. Sync 00_Index duplicate copies to the Handoff Pack versions.
+## Resolved later in session (2026-07-14 cont.)
+Currency = **USD**; equity held **35/35/15/15** (operator earn-in under exploration); **Simón/Luz contributions defined** (investors: capital + brands + insight + network + Simón's projects); **Miguel $0**; **royalty floor $500/mo**; Deck 2 audience = owners + major investors + potential government; **first hub = Panama City**. Decks advanced: Pitch Deck **v1.1** (20 slides, +Problem/Solution/Proof-of-Concept, 3-section unit economics), Ecosystem Deck **v0.6**. **00_Index duplicates synced** to canonical.
+
+## Top open items (still)
+Validate **track-record numbers**; restate **Esteban salary in USD**; **financial model OPEX/staffing** validation; **defensible TAM/SAM $**; build **Phase-2 (ecosystem) financial model** + hub capex; confirm owners share the ecosystem ambition + the operator earn-in approach.
 
 ## Current phase
 Pitch Sprint (Jul 6 → Aug 2; rehearsal Jul 31). This session = Week 1 content. Next: flag resolution → branding/design session for Deck 1.

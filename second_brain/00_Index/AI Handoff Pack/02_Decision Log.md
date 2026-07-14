@@ -4,14 +4,16 @@ title: "Decision Log"
 type: decision_log
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
-source: ChatGPT baseline vault package
+last_updated: 2026-07-14
+source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [decisions, source-of-truth]
 ---
 
 # Decision Log
 
 This note records decisions that should not be re-opened accidentally in future chats.
+
+> **Sync note (2026-07-14):** This file is the merged canonical Decision Log. The `00_Index/Decision Log.md` and `00_Index/AI Handoff Pack/02_Decision Log.md` copies are now identical. Keep them in sync going forward.
 
 ## 2026-07-01 — Obsidian as Source of Truth
 
@@ -44,7 +46,8 @@ This note records decisions that should not be re-opened accidentally in future 
 
 **Decision:** Private Collection baseline economics: 50/50 gross commission split between HQ and franchise.  
 **Additional Rule:** Franchise pays reduced royalty/network fee on its half.  
-**Reason:** HQ brings and controls the inventory/process; the franchise brings client access or origination.
+**Reason:** HQ brings and controls the inventory/process; the franchise brings client access or origination.  
+**Status:** SUPERSEDED by 2026-07-04 (fixed-% payout).
 
 ## 2026-07-01 — White-label Does Not Automatically Receive Private Collection
 
@@ -79,7 +82,8 @@ This note records decisions that should not be re-opened accidentally in future 
 
 **Decision:** Esteban should be positioned as Co-founder & Venture Lead / Product & Strategy Lead.  
 **Baseline Ask:** At least €5,000/month salary, plus 10%–15% equity in NewCo.  
-**Reason:** The role requires building the venture, product, manuals, pitch, strategy, operations, and execution infrastructure.
+**Reason:** The role requires building the venture, product, manuals, pitch, strategy, operations, and execution infrastructure.  
+**Update (2026-07-14):** Salary to be restated in **USD** (see Currency decision). Equity fixed at 15% for now (see Cap Table).
 
 ## 2026-07-01 — First Franchise Target User
 
@@ -96,27 +100,103 @@ This note records decisions that should not be re-opened accidentally in future 
 **Decision:** In Dproperty OS, structured data should drive documents, dashboards, projections, and reporting.  
 **Reason:** This prevents scattered files and creates a scalable operating model.
 
+## 2026-07-02 — Cap Table Amendment: Vesting Parity
+
+**Decision:** Miguel (15%) and Esteban (15%) both vest, 4 years, 1-year cliff. Miguel: communications/creative, reports into Simon's organization. Esteban: strategy/management, reports into Luz Adriana's organization. Structure intentionally pairs each owner with an operating lead.  
+**Reason:** Parity of risk between the two operating co-founders; mirrors the two-owner sponsorship structure.  
+**Impacted Areas:** Ownership & Governance / Founder Pitch.  
+**Status:** Active. See 2026-07-14 equity-growth exploration.
+
+## 2026-07-04 — Rename: Private Collection → Dproperty Select
+
+**Decision:** The Private Collection is renamed **Dproperty Select** as the commercial/operating name. "Private Collection" may be referenced as the former name for continuity.  
+**Reason:** More commercial, brandable name for the curated HQ portfolio.  
+**Impacted Areas:** Business Plan / Pitch / Strategy / Franchise Package / Private Collection notes / AI Handoff Pack.  
+**Status:** Active. NOTE: folder `12_Private_Collection/` and file names not yet renamed (renaming breaks wikilinks); content updated to "Dproperty Select." Folder rename is a separate decision.
+
+## 2026-07-04 — Franchise Pricing Restructure
+
+**Decision:**
+- Franchise **launch fee: $30,000 founding, rising to $40,000 after 5 successful franchises** (was $15k).
+- Royalty **6% + Network & Brand Fund 1.5% = 7.5%**, charged on **collected** GCI (not signed).
+- "Brand/network fee" renamed **Network & Brand Fund**.
+- **Dproperty Select payout changed from a 50/50 gross commission split to a fixed % of sale price: 2.5% for branded franchises, 2.0% for white-label.**
+- Dproperty Select projections always modelled at **5% total commission**; any negotiated upside above 5% is retained by HQ.
+
+**Reason:** Benchmarking vs Keller Williams and Engel & Völkers ($30k–$40k is more defensible than $15k for a complete system); collected-GCI basis is fairer and more realistic for LATAM cash flow; fixed-% Select payout is predictable for the franchisee and preserves HQ negotiation upside.  
+**Impacted Areas:** Business Plan, Pricing Model, Unit Economics, Conservative 5-Year Plan, Funding Plan, Franchise Package, Pitch Deck, Financial Model.  
+**Status:** Active. OPEN: definition of "successful franchise"; whether franchisee pays royalty on Select earnings (default: no).
+
+## 2026-07-04 — Branded vs White-label Strategic Differentiation
+
+**Decision:** Dproperty branded franchises have **investment priority** (investors, select-project access, Dproperty Select, cross-border, HQ funnel) and higher Select upside (2.5%). White-label focuses on local operational efficiency with lower select access and 2.0% Select payout. **Governing rule: the Dproperty brand goes where there is investment potential; the system can go anywhere.**  
+**Reason:** Branded and white-label must not be the same product with a different logo; the brand should be deployed where it creates strategic investment value.  
+**Impacted Areas:** Strategy, Business Plan, Pitch, Franchise/White-label positioning.  
+**Status:** Active.
+
+## 2026-07-05 — Local Commission Waterfall & Royalty Base
+
+**Decision:** Local franchise sales are modelled as a waterfall:
+1. 5% commission charged on sale price.
+2. Shared 50/50 with external advisors (co-broke) → **2.5% enters the company**.
+3. Of what enters: **35% seller, 10% sales director, 55% franchise net**.
+
+**Royalty base:** Royalty (6%) + Network & Brand Fund (1.5%) are charged on **gross-into-company (the 2.5%)**, NOT on franchise net. Un-gameable — a franchise cannot reduce royalty by inflating agent/director pay. HQ nets ~$562 per $300k local unit.  
+**Dproperty Select:** unchanged — separate structure (originator 2.5% branded / 2.0% white-label of sale price; HQ keeps the balance and upside). Select does not run through this waterfall.  
+**Reason:** Reflects real co-brokerage economics and a defensible, un-gameable royalty base.  
+**Impacted Areas:** Unit Economics, Business Plan, Pricing Model, Financial Model (rebuilt v0.7).  
+**Status:** Active. The 50/50 external-advisor share is an editable model input.
+
 ## 2026-07-14 — Ecosystem Vision Is the North Star; Franchising Is Phase 1
 
 **Decision:** Dproperty OS is reframed as **Phase 1 of a larger ecosystem play** — a curated physical hub for real estate talent, capital, and ideas ("the soul of 19M, the model of Station F, for real estate"). Franchising proves the model, builds the brand, and generates the cash that funds the ecosystem.  
-**Reason:** The franchise-only frame undersold the ambition and the true long-term moat (network effects of the hub). The ecosystem is the destination; franchising is the self-financing path.  
+**Reason:** The franchise-only frame undersold the ambition and the true long-term moat (network effects of the hub).  
 **Impacted areas:** Strategy, Business Plan, Pitch, Finance (Phase-2 model needed), Legal (Phase-2 needs), Research.  
 **Status:** Active.
 
 ## 2026-07-14 — Two-Deck Strategy
 
-**Decision:** Maintain **two decks**. Deck 1 ([[Pitch Deck Outline]], franchise system, investable, conservative, 17 slides + back pocket) is used now with the owners. Deck 2 ([[Ecosystem Deck Outline]], full ecosystem/hub vision, 17 slides + back pocket) is the north-star / future external-raise deck.  
-**Reason:** The owners need an investable near-term decision (Deck 1); the ecosystem vision needs its own space and a Phase-2 model before external use.  
-**Status:** Active. Deck 2 is NOT raise-ready until a Phase-2 P&L, hub capex, and location exist.
+**Decision:** Maintain **two decks**. Deck 1 ([[Pitch Deck Outline]], franchise system, investable, conservative) is used now with the owners. Deck 2 ([[Ecosystem Deck Outline]], full ecosystem/hub vision) is the north-star / future external-raise deck.  
+**Status:** Active. Deck 2 audience = owners + major investors + potentially government; NOT raise-ready until a Phase-2 P&L, hub capex, and location exist.
 
 ## 2026-07-14 — Pitch Deck Restructured to Open on the Vision
 
-**Decision:** Deck 1 now opens with 4 vision slides (10-yr vision → ecosystem problem → why franchising is Phase 1) and bridges back to the vision at Slide 16 before the ask.  
-**Reason:** Owners should buy the vision, not just the mechanics; more honest and more compelling.  
-**Status:** Active. Pitch Deck Outline moved v0.5 → v1.0.
+**Decision:** Deck 1 opens with vision slides and adds a franchise **Problem → Solution → Proof-of-Concept** sequence; bridges back to the vision before the ask. Moved v0.5 → v1.1 (20 slides).  
+**Reason:** Owners should buy the vision and the accelerator thesis, not just the mechanics.  
+**Status:** Active.
 
 ## 2026-07-14 — Moat Stated Honestly
 
-**Decision:** Adopt the "honest moat" framing — separate genuinely defensible advantages (curated deal flow, founder credibility, installed network, speed) from good-ops-that-aren't-a-moat, and name the **hub network effect** as the durable long-term moat.  
-**Reason:** Survives skeptical Q&A and strengthens credibility. Captured in [[Moat and Positioning]] and Pitch Deck BP-6.  
+**Decision:** Separate genuinely defensible advantages (curated deal flow, founder credibility, installed network, speed) from good-ops-that-aren't-a-moat; name the **hub network effect** as the durable long-term moat.  
 **Status:** Active.
+
+## 2026-07-14 — Currency Standard = USD
+
+**Decision:** All pitch, pricing, and financial figures are expressed in **USD**. The launch fee is **$30,000 / $40,000** (not €). EUR-denominated salary figures from earlier notes must be restated in USD before pitch-final.  
+**Reason:** Panama is dollarized (first hub + core market); consistency across model and decks.  
+**Status:** Active.
+
+## 2026-07-14 — Minimum Royalty Floor = $500/Month
+
+**Decision:** Set the minimum royalty floor at **$500/month per franchise, creditable against percentage royalties, beginning month 7.** (Separate from the $1,000/month OS fee.)  
+**Reason:** Guarantees a baseline recurring royalty during ramp without discouraging franchisees; modest relative to expected ~$2,300/mo royalty at 50 units/yr. Replaces the earlier $750 placeholder.  
+**Status:** Proposed — confirm with owners. Impacts Business Plan §5.1, Unit Economics, Financial Model.
+
+## 2026-07-14 — JV Contributions Defined (Owners as Investors)
+
+**Decision:** **Simon and Luz Adriana participate primarily as investors**, not operators. Each contributes: **capital + their brand + strategic insight + network + franchisable products.**
+- **Luz Adriana:** Dproperty brand, boutique agency operation & know-how (the core franchisable system).
+- **Simon:** TheVelopers brand, developer expertise, and franchisable/sellable **projects**: Dovle Selva, Dovle Cincuentenario, and potentially Nayamara, Cavarrosa, and the Victory's (feed Dproperty Select / developer pipeline).
+- **Operating work is done by Esteban and Miguel.** The owners do not carry operating workload.  
+**Reason:** Clarifies the JV: two investor-owners (capital + brands + products + network) paired with two operating co-founders.  
+**Status:** Active. OPEN: formal capital-vs-equity split and which specific projects are committed to Dproperty Select.
+
+## 2026-07-14 — Miguel Salary = $0 (for now)
+
+**Decision:** Miguel draws **no salary** for now; compensated via 15% vesting equity.  
+**Status:** Active. Revisit at Tranche 2 or when cash flow allows.
+
+## 2026-07-14 — Equity Held at 35/35/15/15; Growth Mechanism Under Exploration
+
+**Decision:** Founding cap table stays **Simon 35 / Luz 35 / Miguel 15 / Esteban 15** for now. Separately, we will **design a mechanism that lets the operators (Esteban, Miguel) grow their equity as the company grows while protecting the investors' capital first** (see Open Questions — Ownership). Preferred direction: investor capital protected via a **liquidation preference / convertible shareholder instrument**, operators grow via a **milestone-based earn-in / performance ratchet.**  
+**Status:** OPEN — recommendation drafted; needs owner + lawyer agreement before any cap-table change.

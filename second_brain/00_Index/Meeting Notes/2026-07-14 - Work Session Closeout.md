@@ -59,5 +59,13 @@ We built the **content layer** of the pitch and reframed the whole venture. Fran
 - **Also queue:** Phase-2 (ecosystem) financial model.
 - **Workstream/chat:** "Dproperty OS - Business Plan & Pitch Deck" for design; "Finance & Unit Economics" for the Phase-2 model.
 
-## 6. Housekeeping Flag
-The `00_Index/` duplicate copies (Decision Log, Open Questions, Current Priorities, Vault Manifest) were **not** synced this session — the canonical **AI Handoff Pack** versions were updated. Sync or retire the duplicates in a cleanup pass.
+## 6. Housekeeping — DONE
+The `00_Index/` duplicate copies (Decision Log, Open Questions, Current Priorities, Vault Manifest) were **synced** to merged canonical versions — each `00_Index/` file and its `AI Handoff Pack/` twin are now **identical**. Note: the merge recovered the 2026-07-02→07-05 decisions (Select rename, pricing restructure, commission waterfall) that the Handoff Pack copies had been missing.
+
+## 7. Additional Decisions Logged (2026-07-14, continuation)
+- **Currency = USD** everywhere (launch fee $30k/$40k).
+- **Royalty floor = $500/month**, creditable, from month 7 (proposed; confirm with owners).
+- **JV contributions defined:** Simón + Luz Adriana as **investors** (capital + brands [Dproperty / TheVelopers] + agency/developer insight + network + franchisable products incl. Simón's projects Dovle Selva, Dovle Cincuentenario, potentially Nayamara, Cavarrosa, the Victory's). Operators (Esteban + Miguel) do the work.
+- **Miguel salary = $0** for now (equity only).
+- **Equity held at 35/35/15/15**; an **operator earn-in mechanism** (with investor liquidation-preference protection) is under exploration — recommendation drafted, needs owner + lawyer sign-off.
+- **Deck updates:** Pitch Deck Outline → **v1.1** (20 slides: added Problem/Solution/Proof-of-Concept + 3-section unit economics); Ecosystem Deck → **v0.6** (audience = owners + major investors + potential government; first hub = **Panama City**).

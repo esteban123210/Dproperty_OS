@@ -4,22 +4,25 @@ title: "Current Priorities"
 type: priorities
 status: Active
 owner: Esteban
-last_updated: 2026-07-06
-source: Weekly Roadmap Session
+last_updated: 2026-07-14
+source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [priorities, next-actions, execution]
 ---
 
 # Current Priorities
 
+> **Sync note (2026-07-14):** Merged canonical. `00_Index/Current Priorities.md` and `00_Index/AI Handoff Pack/05_Current Priorities.md` are now identical.
+
 ## Session Update (2026-07-14) — Pitch Deck Content + Ecosystem Reframe
 
 Worked the **pitch deck content layer** (Pitch Sprint Week 1). Outcomes:
-- **[[Pitch Deck Outline]] → v1.0** — 17 slides, now opens on the ecosystem vision and bridges back before the ask; full back-pocket strategic analysis (competition, PESTEL, TAM/SAM/SOM, SWOT, Lean Canvas, moat).
-- **[[Ecosystem Deck Outline]] → v0.5 (NEW)** — Deck 2, the 10–15 yr ecosystem/hub vision + how franchise EBITDA funds it.
+- **[[Pitch Deck Outline]] → v1.1** — 20 slides. Opens on the ecosystem vision; adds a franchise **Problem → Solution → Proof-of-Concept** sequence (accelerator thesis); unit economics split into 3 revenue sections; bridges back to the vision before the ask. Full back-pocket strategic analysis.
+- **[[Ecosystem Deck Outline]] → v0.6 (Deck 2)** — audience now owners + major investors + potentially government; first hub city = **Panama City**.
 - **Strategic reframe logged:** franchising = Phase 1 of an ecosystem play (19M soul / Station F model). Propagated to Strategy, Business Plan (§20), Finance, Legal, Research.
-- **Still content-only:** branding/design of the deck is a separate upcoming session.
+- **Decisions logged (2026-07-14):** currency = USD; royalty floor = $500/mo; JV contributions defined (owners as investors incl. Simon's TheVelopers + projects); Miguel salary $0; equity held at 35/35/15/15 with an operator earn-in mechanism under exploration.
+- **Vault hygiene:** 00_Index duplicate copies (Decision Log, Open Questions, Current Priorities, Vault Manifest) synced to the AI Handoff Pack versions.
 
-**Next first action:** resolve the pitch flags (currency, equity 35/35/15/15, Simón contribution, track-record numbers) — see [[03_Open Questions]] — then hand Deck 1 to the branding/design session.
+**Next first action:** resolve remaining flags (track-record numbers, Esteban USD salary, TAM/SAM $), then hand Deck 1 to the branding/design session; queue the Phase-2 (ecosystem) financial model.
 
 ## Current Phase (Updated Jul 6)
 
@@ -90,77 +93,25 @@ Create a complete, professional, launch-ready first-franchise package that inclu
 5. **Sept 15:**
    - Deliver complete package to first franchisee
 
-## Why This Roadmap
-
-- **Tight deadline:** Sept 15 is a hard stop. No extensions. Franchise package must be complete.
-- **Scope discipline:** 37 MVP items, not 264. Everything else (software, advanced training, white-label, Developer Sales OS) goes to Phase 2.
-- **Quality over speed:** Legal agreements lawyer-approved. Manuals polished. Templates working. Everything professional, not rushed.
-- **Team balance:** Miguel's creativity + design (brand, templates, pitch) + Esteban's substance (legal, operations, strategy).
-- **Realistic capacity:** 420–500 hours total. That's exactly what 2 people can do in 10.5 weeks.
-
-## What Happens After Sept 15
-
-- Week of Sept 16: First franchisee receives and signs package
-- Weeks 3–12 (Sept–Dec): First franchisee launch support (weekly calls, training, deal coaching)
-- Weeks 13+ (Jan 2027): Phase 2 priorities (franchisee #2, white-label pilots, developer partnerships, software build, training modules 2–6, etc.)
-
 ## Key Decisions LOCKED (Jul 7, GTM Session)
 
 ✅ **GO-TO-MARKET STRATEGY FINALIZED**
 
-- [x] **Esteban:** Franchisee profile CONFIRMED: **Agents Seeking Independence (PRIMARY)** + Sales Professionals from other sectors (SECONDARY) + Youth Entrepreneurs (VOLUME)
-- [x] **Esteban:** Target markets CONFIRMED: **Panama (local market), Bogotá, Medellín**
-- [x] **Esteban:** GTM Strategy LOCKED: 3-persona approach with market-specific tactics, **minimal budget (€2-5k organic)**, Week 5-12 execution
-- [x] **Esteban:** Pricing FROZEN: **€30k launch, €1k/month, 6% + 1.5% royalty, 55% commission split**
-- [x] **Both:** Content assets: Use Miguel's assumptions (brochure, FAQ, one-pager, LinkedIn profile, landing page, video, templates) by Aug 1
-- [x] **Both:** GTM documents created (see below)
-
-**GTM Documents Created (Jul 7):**
-- `01_Strategy/Go-to-Market Strategy.md` (v0.1) — 3 personas, 30/60/90 plan, messaging, objection handling, success metrics
-- `01_Strategy/GTM Market-Specific Tactics.md` (v0.1) — Panama/Bogotá/Medellín channels, commission comparisons, candidate templates
-- `05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook.md` (v0.1) — Discovery calls, lead scoring, weekly cadence, go/no-go checkpoints
-- `05_Franchise_Package/Launch/First Franchisee Launch Playbook.md` (v0.1) — 12-week launch plan, HQ support, risk mitigation
-
-**Remaining Key Decisions (Lock by end of Week 5, Aug 9):**
-- [ ] **Esteban:** Confirm lawyer engagement (timeline + cost for franchise agreements)
-- [ ] **Esteban:** Confirm brand direction (use existing Dproperty brand + local adaptations)
-- [ ] **Esteban:** Confirm financial model v1.0 (all agreements + one-pagers reference this)
-- [ ] **Miguel:** Organize pitch-sprint deliverables (Aug 2) into clean folders for Phase 2 handoff
-- [ ] **Both:** GoHighLevel setup scope (simple version by Aug 30, or full setup?)
+- [x] **Franchisee profile CONFIRMED:** Agents Seeking Independence (PRIMARY) + Sales Professionals from other sectors (SECONDARY) + Youth Entrepreneurs (VOLUME)
+- [x] **Target markets CONFIRMED:** Panama (local market), Bogotá, Medellín
+- [x] **GTM Strategy LOCKED:** 3-persona approach, minimal budget (€2-5k organic), Week 5-12 execution
+- [x] **Pricing FROZEN:** $30k launch, $1k/month, 6% + 1.5% royalty, 55% commission split *(currency confirmed USD 2026-07-14)*
 
 ## Current Risks (Updated)
 
 | Risk | Mitigation |
 |---|---|
-| Legal agreements take longer | Start Week 5 early; use franchise law firm templates if available; prioritize 3 agreements first |
+| Legal agreements take longer | Start Week 5 early; prioritize 3 agreements first |
 | Brand manual design iterations | Lock design direction Week 5; max 2 revision rounds |
 | GoHighLevel complexity | Start simple Week 8; enhance post-launch if needed |
 | Manuals need major rework | Approve content flow early; lock 70% by end of Week 7 |
-| Franchisee profile not locked | Confirm with Esteban by end of Week 5 (gates training + support structure) |
-
-## Success Metrics for Sept 15
-
-A franchisee should look at your deliverables and think:
-
-- ✅ "This brand feels premium and professional"
-- ✅ "Everything is clearly organized"
-- ✅ "I can actually use these templates"
-- ✅ "This company takes itself seriously"
-- ✅ "I'm ready to launch"
-
-## Files Updated Today (Jul 6)
-
-- ✅ [[../16_Task_Management/Weekly Roadmap - July to Sept 2026.md]] — Master roadmap (11 weeks)
-- ✅ [[../16_Task_Management/Miguel's Weekly Tasks - Jul to Sept.md]] — Miguel's task list (design + branding)
-- ✅ [[../16_Task_Management/Your Weekly Tasks - Jul to Sept.md]] — Your task list (operations + legal + strategy)
-- ✅ [[../16_Task_Management/Deliverables Tracker - MVP Only.md]] — 37 MVP items (cut from 264)
-- ✅ [[../00_Index/AI Handoff Pack/05_Current Priorities.md]] — This file
+| Franchisee profile not locked | Confirmed Jul 7 |
 
 ## Next Checkpoint
 
-**Jul 12 (end of Week 1):** 
-- Franchise model locked
-- Investor story drafted
-- Franchisee profile defined
-- Pitch Sprint on track
-- Ready to enter legal kickoff (Week 5)
+**Post-pitch-sprint:** resolve remaining pitch flags → branding/design session for Deck 1 → Phase-2 (ecosystem) financial model → legal kickoff (Week 5).

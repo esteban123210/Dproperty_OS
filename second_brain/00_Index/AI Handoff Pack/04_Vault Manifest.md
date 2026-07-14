@@ -4,16 +4,31 @@ title: "Vault Manifest"
 type: vault_manifest
 status: Generated
 owner: Esteban
-last_updated: 2026-07-01
-source: ChatGPT baseline vault package
+last_updated: 2026-07-14
+source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [manifest, ai-handoff]
 ---
 
 # Vault Manifest
 
-Last generated: 2026-07-01
+Last generated: 2026-07-14
 
 This file lists the baseline files in the Dproperty OS Obsidian vault package.
+
+> **Sync note (2026-07-14):** Merged canonical. `00_Index/Vault Manifest.md` and `00_Index/AI Handoff Pack/04_Vault Manifest.md` are now identical.
+
+## New / Notable (2026-07-14)
+- [[03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] — **v1.1**, ecosystem-reframed, 20 slides + back pocket.
+- [[03_Pitch/Ecosystem Deck Outline|Ecosystem Deck Outline]] — **NEW, Deck 2 v0.6**, ecosystem/hub vision (first hub = Panama City).
+- [[00_Index/Meeting Notes/2026-07-14 - Work Session Closeout|2026-07-14 - Work Session Closeout]] — session closeout note.
+- Ecosystem framing appended across Strategy, Business Plan (§20), Finance, Legal, Research.
+- Decision Log / Open Questions / Current Priorities / Vault Manifest: 00_Index and AI Handoff Pack copies **synced**.
+
+## New / Notable (2026-07-05)
+- `09_Exports/Dproperty_OS_Financial_Model.xlsx` — **v0.7, primary financial model (source of truth for projections)**.
+- [[16_Task_Management/Pitch Sprint Roadmap - July 2026|Pitch Sprint Roadmap - July 2026]] — `16_Task_Management/Pitch Sprint Roadmap - July 2026.md`.
+- [[00_Index/2026-07-05 - Work Session Closeout|2026-07-05 - Work Session Closeout]] — `00_Index/2026-07-05 - Work Session Closeout.md`.
+- **Naming:** "Private Collection" is now **Dproperty Select** (folder `12_Private_Collection/` retains its name for link stability).
 
 ## Core AI Handoff Files
 
@@ -29,6 +44,7 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[00_Index/AI Handoff Pack/01_Project Context Brief|01_Project Context Brief]] — `00_Index/AI Handoff Pack/01_Project Context Brief.md`
 - [[00_Index/AI Handoff Pack/02_Decision Log|02_Decision Log]] — `00_Index/AI Handoff Pack/02_Decision Log.md`
 - [[00_Index/AI Handoff Pack/03_Open Questions|03_Open Questions]] — `00_Index/AI Handoff Pack/03_Open Questions.md`
+- [[00_Index/AI Handoff Pack/04_Vault Manifest|04_Vault Manifest]] — `00_Index/AI Handoff Pack/04_Vault Manifest.md`
 - [[00_Index/AI Handoff Pack/05_Current Priorities|05_Current Priorities]] — `00_Index/AI Handoff Pack/05_Current Priorities.md`
 - [[00_Index/AI Handoff Pack/06_Deliverables Tracker - Compact MD|06_Deliverables Tracker - Compact MD]] — `00_Index/AI Handoff Pack/06_Deliverables Tracker - Compact MD.md`
 - [[00_Index/AI Handoff Pack/07_Latest Session Closeout|07_Latest Session Closeout]] — `00_Index/AI Handoff Pack/07_Latest Session Closeout.md`
@@ -36,7 +52,7 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[00_Index/Current Priorities|Current Priorities]] — `00_Index/Current Priorities.md`
 - [[00_Index/Decision Log|Decision Log]] — `00_Index/Decision Log.md`
 - [[00_Index/Dproperty OS - Master Index|Dproperty OS - Master Index]] — `00_Index/Dproperty OS - Master Index.md`
-- [[00_Index/Meeting Notes/2026-07-14 - Work Session Closeout|2026-07-14 - Work Session Closeout]] — `00_Index/Meeting Notes/2026-07-14 - Work Session Closeout.md` *(NEW 2026-07-14)*
+- [[00_Index/Meeting Notes/2026-07-14 - Work Session Closeout|2026-07-14 - Work Session Closeout]] — `00_Index/Meeting Notes/2026-07-14 - Work Session Closeout.md`
 - [[00_Index/Open Questions|Open Questions]] — `00_Index/Open Questions.md`
 - [[00_Index/Project Context Brief|Project Context Brief]] — `00_Index/Project Context Brief.md`
 - [[00_Index/Source Map|Source Map]] — `00_Index/Source Map.md`
@@ -57,10 +73,10 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[02_Business_Plan/Roadmap and Milestones|Roadmap and Milestones]] — `02_Business_Plan/Roadmap and Milestones.md`
 - [[02_Business_Plan/Unit Economics|Unit Economics]] — `02_Business_Plan/Unit Economics.md`
 - [[02_Business_Plan/Your Compensation Package|Your Compensation Package]] — `02_Business_Plan/Your Compensation Package.md`
+- [[03_Pitch/Ecosystem Deck Outline|Ecosystem Deck Outline]] — `03_Pitch/Ecosystem Deck Outline.md` *(NEW 2026-07-14 — Deck 2)*
 - [[03_Pitch/Final Decks Index|Final Decks Index]] — `03_Pitch/Final Decks Index.md`
-- [[03_Pitch/Ecosystem Deck Outline|Ecosystem Deck Outline]] — `03_Pitch/Ecosystem Deck Outline.md` *(NEW 2026-07-14 — Deck 2, ecosystem vision)*
 - [[03_Pitch/Founder Pitch to Dproperty Owners|Founder Pitch to Dproperty Owners]] — `03_Pitch/Founder Pitch to Dproperty Owners.md`
-- [[03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] — `03_Pitch/Pitch Deck Outline.md` *(v1.0, ecosystem reframe 2026-07-14)*
+- [[03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] — `03_Pitch/Pitch Deck Outline.md` *(v1.1, ecosystem reframe 2026-07-14)*
 - [[03_Pitch/Pitch Script|Pitch Script]] — `03_Pitch/Pitch Script.md`
 - [[03_Pitch/Supervisor and Owner Q&A|Supervisor and Owner Q&A]] — `03_Pitch/Supervisor and Owner Q&A.md`
 - [[04_Product/AI Layer Notes|AI Layer Notes]] — `04_Product/AI Layer Notes.md`
@@ -101,6 +117,7 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - `09_Exports/Dproperty_OS_Conversation_Summary.docx`
 - [[09_Exports/Dproperty_OS_Conversation_Summary|Dproperty_OS_Conversation_Summary]] — `09_Exports/Dproperty_OS_Conversation_Summary.md`
 - `09_Exports/Dproperty_OS_Deliverables_Tracker.xlsx`
+- `09_Exports/Dproperty_OS_Financial_Model.xlsx` — **v0.7 (source of truth for projections)**
 - `09_Exports/Dproperty_OS_Full_Pitch_Package.zip`
 - `09_Exports/Dproperty_OS_Pitch_Deck.pptx`
 - [[09_Exports/Dproperty_OS_Prototype_Spec|Dproperty_OS_Prototype_Spec]] — `09_Exports/Dproperty_OS_Prototype_Spec.md`
