@@ -4,77 +4,38 @@
     "type": "split",
     "children": [
       {
-        "id": "7ee43564b2d0b37f",
+        "id": "cbe5017325673504",
         "type": "tabs",
         "children": [
           {
-            "id": "ccc4850c2fa4f863",
-            "type": "leaf",
-            "state": {
-              "type": "3d-graph-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "3d graph"
-            }
-          },
-          {
-            "id": "1bd4df5949534420",
+            "id": "e49fe707987b741e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second_brain/16_Task_Management/Weekly Roadmap - July to Sept 2026.md",
+                "file": "second_brain/16_Task_Management/Deliverables Tracker - Compact MD.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Weekly Roadmap - July to Sept 2026"
+              "title": "Deliverables Tracker - Compact MD"
             }
           },
           {
-            "id": "83c6ed4bee665e32",
+            "id": "2f15ee23b12e8b4c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
+                "file": "second_brain/12_Private_Collection/Private Collection Deal Workflow.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Video Creative Direction - What Is Entrepreneurship"
-            }
-          },
-          {
-            "id": "43f8a15a06647031",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Assignments Overview.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Assignments Overview"
-            }
-          },
-          {
-            "id": "a4c5cb6534005c20",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/General Video Guidelines.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "General Video Guidelines"
+              "title": "Private Collection Deal Workflow"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -240,8 +201,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 496.5,
-    "collapsed": true
+    "width": 275.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -253,48 +213,46 @@
       "command-palette:Open command palette": false,
       "bases:Create new base": false,
       "obsidian-git:Open Git source control": false,
-      "realclaudian:Open Claudian": false,
-      "new-3d-graph:Open 3d graph": false,
-      "audio-recorder:Start/stop recording": false
+      "realclaudian:Open Claudian": false
     }
   },
-  "active": "a4c5cb6534005c20",
+  "active": "0cab61b4f641215e",
   "lastOpenFiles": [
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/VIDEO CHECKLIST - SIMPLE.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/VIDEO CHECKLIST - Story Breakdown & Requirements Tracker.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/General Video Guidelines.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/PROMPT - One Page Lean Canvas (Copy & Paste).md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/CANVA GUIDE - How to Build Your Presentation.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Canvas PowerPoint - Presentation Outline.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Canvas PowerPoint - Presentation Outline.md.tmp.9880.915aedea2c1f",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md.tmp.9880.11dcaac7ccf1",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md.tmp.9880.67a0a47a67e9",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md.tmp.9880.3c94817d6db5",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md.tmp.9880.96d2e2ae9679",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md.tmp.9880.0dd751c57df5",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md.tmp.9880.799d0bc129f1",
-    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Assignments Overview.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Team Roles & Video Characters.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Shooting Schedule - Character-Driven Approach.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Daily Filming Cheat Sheet.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Pre-Trip Preparation Checklist.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 05 The Seasoned Entrepreneur.html",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 04 The Messy Networking Entrepreneur.html",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 04 The Messy Networking Entrepreneur.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 03 The Serious Academic Entrepreneur.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 03 The Serious Academic Entrepreneur.html",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 02 The Main Character.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 02 The Main Character.html",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 01 The Narrator.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Profile - 01 The Narrator.html",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/CHARACTER FRAMEWORK - READ ME FIRST.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Framework - Complete Overview.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes.md",
-    "Recording 20260707111611.m4a",
+    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes interpreted.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Learning Hooks & Key Concepts.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Site Guides Index.md",
-    "second_brain/00_Index/Source Map.md",
-    "second_brain/16_Task_Management/GTM Execution Summary - Week 5 Kickoff.md",
-    "second_brain/16_Task_Management/GTM Execution Summary - Week 5 Kickoff.md.tmp.22140.481131e2a083",
-    "second_brain/01_Strategy/GTM Market-Specific Tactics.md",
-    "second_brain/01_Strategy/Go-to-Market Strategy.md.tmp.22140.ff754002c614",
-    "second_brain/05_Franchise_Package/Launch/First Franchisee Launch Playbook.md",
-    "second_brain/05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook.md",
-    "second_brain/01_Strategy/Go-to-Market Strategy.md",
-    "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
-    "second_brain/01_Strategy/Ecosystem Workflow.md",
-    "second_brain/01_Strategy/Conversation Summary.md",
-    "second_brain/01_Strategy/Business Model Overview.md",
-    "second_brain/16_Task_Management/Weekly Roadmap - July to Sept 2026.md",
-    "second_brain/16_Task_Management/Weekly Review Workflow.md",
-    "second_brain/16_Task_Management/Miguel's Weekly Tasks - Jul to Sept.md",
-    "second_brain/16_Task_Management/Pitch Sprint Roadmap - July 2026.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Learning Hooks & Key Concepts.md"
+    "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides/Hello Tomorrow Guide.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/VIDEO CHECKLIST - Story Breakdown & Requirements Tracker.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Video Creative Direction - What Is Entrepreneurship.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/PROMPT - One Page Lean Canvas (Copy & Paste).md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/VIDEO CHECKLIST - SIMPLE.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Canvas PowerPoint - Presentation Outline.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Lean Business Model Canvas - Simlas Café Concept Store.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/General Video Guidelines.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/CANVA GUIDE - How to Build Your Presentation.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments/Assignments Overview.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/01_Program/Daily Schedule.md",
+    "university brain/01_Year_1/Semester_1/Paris Trip/04_Team",
+    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources",
+    "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides",
+    "university brain/01_Year_1/Semester_1/Paris Trip/02_Assignments",
+    "university brain/01_Year_1/Semester_1/Paris Trip/01_Program"
   ]
 }
