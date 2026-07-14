@@ -93,8 +93,7 @@ The video should feel:
 **Speaking Style:** Calm, dry, slightly ironic, intelligent
 
 **Key Lines:**
-- "This is the story of Simlas. Although successful in her career she knows now if its the time to try something new. On this trip she found herself to be more lost than ever but also more focused and happier than ever."
-- "The professor gave us one slide about team formation. Five members. Ideally, not all the same. One hacker. One hipster. One hustler. It looked like administration. It was actually the plot."
+- "This is a short story of Simla and how through her unique vision and the concept of making a business out of slowing down, we came together as a group to find the meaning what it trully means to be an entrepreneur. This all began by a naive but important topic: Money."
 - "We came to Paris looking for startups. We left understanding the spaces between them."
 
 **Appearances:**
