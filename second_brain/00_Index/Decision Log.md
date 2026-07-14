@@ -199,4 +199,4 @@ This note records decisions that should not be re-opened accidentally in future 
 ## 2026-07-14 — Equity Held at 35/35/15/15; Growth Mechanism Under Exploration
 
 **Decision:** Founding cap table stays **Simon 35 / Luz 35 / Miguel 15 / Esteban 15** for now. Separately, we will **design a mechanism that lets the operators (Esteban, Miguel) grow their equity as the company grows while protecting the investors' capital first** (see Open Questions — Ownership). Preferred direction: investor capital protected via a **liquidation preference / convertible shareholder instrument**, operators grow via a **milestone-based earn-in / performance ratchet.**  
-**Status:** OPEN — recommendation drafted; needs owner + lawyer agreement before any cap-table change.
+**Status:** OPEN — full proposal drafted in [[Ownership & Investor Protection One-Pager]] (v0.1); needs owner + lawyer agreement before any cap-table change.

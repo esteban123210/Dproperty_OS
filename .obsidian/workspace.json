@@ -20,37 +20,8 @@
               "icon": "lucide-file",
               "title": "02_Decision Log"
             }
-          },
-          {
-            "id": "1b606b308e5768ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "second_brain/03_Pitch/Pitch Deck Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Pitch Deck Outline"
-            }
-          },
-          {
-            "id": "100bf64b55c5c271",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "second_brain/03_Pitch/Ecosystem Deck Outline.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Ecosystem Deck Outline"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -233,8 +204,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "1b606b308e5768ce",
+  "active": "0cab61b4f641215e",
   "lastOpenFiles": [
+    "second_brain/02_Business_Plan/Ownership & Investor Protection One-Pager.md",
     "second_brain/03_Pitch/Ecosystem Deck Outline.md",
     "second_brain/03_Pitch/Pitch Deck Outline.md",
     "second_brain/00_Index/Meeting Notes/2026-07-14 - Work Session Closeout.md",
@@ -267,7 +239,6 @@
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team/Character Framework - Complete Overview.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Lecture notes interpreted.md",
-    "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources/Learning Hooks & Key Concepts.md",
     "university brain/01_Year_1/Semester_1/Paris Trip/04_Team",
     "university brain/01_Year_1/Semester_1/Paris Trip/05_Resources",
     "university brain/01_Year_1/Semester_1/Paris Trip/03_Site_Guides"

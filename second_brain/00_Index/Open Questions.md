@@ -23,6 +23,7 @@ This file tracks unresolved issues.
   - Protect investors: put the $650k in as a **convertible shareholder instrument / loan with a 1x liquidation preference** (capital returned before equity splits on a sale) — cleaner than issuing them more equity.
   - Grow operators: a **milestone-based earn-in / performance ratchet** — Esteban & Miguel earn additional equity (from a reserved pool or founder warrants) when defined milestones hit (MVP live + first franchise; cumulative EBITDA thresholds; Year-5 targets).
   - Governance: reserved matters + board control to investors during Phase 1; good-leaver/bad-leaver buyback on unvested equity.
+  - **→ Full proposal drafted: [[Ownership & Investor Protection One-Pager]] (v0.1). Needs owner discussion + lawyer papering.**
 - What happens to Esteban's vested equity if he leaves, is terminated, or the project is sold?
 - Should there be a formal option pool from day one (vs. a milestone earn-in pool)?
 

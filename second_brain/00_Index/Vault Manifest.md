@@ -69,6 +69,7 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[02_Business_Plan/Dproperty OS Business Plan|Dproperty OS Business Plan]] — `02_Business_Plan/Dproperty OS Business Plan.md`
 - [[02_Business_Plan/Funding Plan|Funding Plan]] — `02_Business_Plan/Funding Plan.md`
 - [[02_Business_Plan/Ownership and Governance|Ownership and Governance]] — `02_Business_Plan/Ownership and Governance.md`
+- [[02_Business_Plan/Ownership & Investor Protection One-Pager|Ownership & Investor Protection One-Pager]] — `02_Business_Plan/Ownership & Investor Protection One-Pager.md` *(NEW 2026-07-14)*
 - [[02_Business_Plan/Pricing Model|Pricing Model]] — `02_Business_Plan/Pricing Model.md`
 - [[02_Business_Plan/Roadmap and Milestones|Roadmap and Milestones]] — `02_Business_Plan/Roadmap and Milestones.md`
 - [[02_Business_Plan/Unit Economics|Unit Economics]] — `02_Business_Plan/Unit Economics.md`

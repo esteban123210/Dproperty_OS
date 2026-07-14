@@ -4,8 +4,8 @@
   "title": "Finalize pitch deck structure and business model",
   "titleGenerationStatus": "success",
   "createdAt": 1784058585084,
-  "updatedAt": 1784063033233,
-  "lastResponseAt": 1784063033233,
+  "updatedAt": 1784065577026,
+  "lastResponseAt": 1784065577026,
   "sessionId": "9ae06772-0acb-4c4d-8e47-66758f705418",
   "providerState": {
     "providerSessionId": "9ae06772-0acb-4c4d-8e47-66758f705418"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 662,
-    "cacheReadInputTokens": 159075,
+    "cacheCreationInputTokens": 1486,
+    "cacheReadInputTokens": 250963,
     "contextWindow": 1000000,
-    "contextTokens": 159739,
-    "percentage": 16,
+    "contextTokens": 252451,
+    "percentage": 25,
     "contextWindowIsAuthoritative": true
   }
 }
