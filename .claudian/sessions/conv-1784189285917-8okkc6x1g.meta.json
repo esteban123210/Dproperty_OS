@@ -4,8 +4,8 @@
   "title": "Design data architecture for dproperty brain fo...",
   "titleGenerationStatus": "success",
   "createdAt": 1784189285917,
-  "updatedAt": 1784195254566,
-  "lastResponseAt": 1784195254566,
+  "updatedAt": 1784195357646,
+  "lastResponseAt": 1784195357646,
   "sessionId": "74171466-fdb1-4288-8fbb-2cad4e8dd1fb",
   "providerState": {
     "providerSessionId": "74171466-fdb1-4288-8fbb-2cad4e8dd1fb"
@@ -13,11 +13,11 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 2843,
-    "cacheReadInputTokens": 83425,
+    "cacheCreationInputTokens": 6381,
+    "cacheReadInputTokens": 90633,
     "contextWindow": 1000000,
-    "contextTokens": 86270,
-    "percentage": 9,
+    "contextTokens": 97016,
+    "percentage": 10,
     "contextWindowIsAuthoritative": true
   }
 }
