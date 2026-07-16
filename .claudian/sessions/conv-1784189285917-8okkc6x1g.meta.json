@@ -4,21 +4,20 @@
   "title": "Design data architecture for dproperty brain fo...",
   "titleGenerationStatus": "success",
   "createdAt": 1784189285917,
-  "updatedAt": 1784193353697,
-  "lastResponseAt": 1784193353697,
+  "updatedAt": 1784195254566,
+  "lastResponseAt": 1784195254566,
   "sessionId": "74171466-fdb1-4288-8fbb-2cad4e8dd1fb",
   "providerState": {
     "providerSessionId": "74171466-fdb1-4288-8fbb-2cad4e8dd1fb"
   },
-  "currentNote": "second_brain/03_Pitch/Pitch Deck Outline.md",
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 6736,
-    "cacheReadInputTokens": 63078,
+    "cacheCreationInputTokens": 2843,
+    "cacheReadInputTokens": 83425,
     "contextWindow": 1000000,
-    "contextTokens": 69816,
-    "percentage": 7,
+    "contextTokens": 86270,
+    "percentage": 9,
     "contextWindowIsAuthoritative": true
   }
 }
