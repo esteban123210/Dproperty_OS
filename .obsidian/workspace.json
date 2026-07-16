@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second_brain/03_Pitch/Pitch Deck Outline.md",
+                "file": "dproperty brain/02_Projects/Private Collection/Active/Gesti68/00_Project Control/Executive Summary.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pitch Deck Outline"
+              "title": "Executive Summary"
             }
           }
         ],
@@ -219,8 +219,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0bbfd0970c308a5c",
+  "active": "ad5fa40cc9cfc5e6",
   "lastOpenFiles": [
+    "dproperty brain/02_Projects/Private Collection/Active/Gesti68/01_Project & Developer/README.md",
+    "second_brain/03_Pitch/Pitch Deck Outline.md",
     "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/99_Archive/README.md",
     "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/12_Documents & Media/Document Index.md",
     "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/11_Construction & Handover/README.md",
@@ -254,8 +256,6 @@
     "dproperty brain/02_Projects/Private Collection/Paused/README.md",
     "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/99_Archive/README.md",
     "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/12_Documents & Media/Document Index.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/10_Dproperty Commercial/Commercial Terms.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/11_Construction & Handover/README.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/09_Marketing Assets/README.md"
+    "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/10_Dproperty Commercial/Commercial Terms.md"
   ]
 }
