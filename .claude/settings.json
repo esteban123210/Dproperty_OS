@@ -5,7 +5,13 @@
       "Bash(grep -v \"university brain$\")",
       "Bash(find \"./university brain/01_Year_1/Semester_1/Paris Trip\" -type f -name \"*.md\" -exec basename {} \\\\; | sort)",
       "Skill(dataviz)",
-      "Skill(dataviz:*)"
+      "Skill(dataviz:*)",
+      "Bash(find \"./dproperty brain\" -not -path '*/\\\\.*')",
+      "Bash(find \"./dproperty brain\" -type f -not -path '*/\\\\.*')",
+      "Bash(mkdir -p 00_Dashboard '01_Finance/Accounting/Monthly Close' 01_Finance/Accounting/Ledger '01_Finance/Revenue & Commissions/Deals Closed' 01_Finance/Expenses/Receipts 01_Finance/Invoices 01_Finance/Taxes 01_Finance/Payroll '01_Finance/Financial Reports' 02_Projects/_Templates 02_Projects/Resale/Active 02_Projects/Resale/Pipeline 02_Projects/Resale/Closed 02_Projects/Developments/Active 02_Projects/Developments/Pipeline 02_Projects/Developments/Closed 02_Projects/Rentals/Available 02_Projects/Rentals/Leased 02_Projects/Rentals/Tenants '02_Projects/Private Collection/Active' '02_Projects/Private Collection/Closed' 03_Templates/Documents '03_Templates/Emails & Messages' 03_Templates/Checklists '03_Templates/Social & Marketing' 04_Branding/Logos '04_Branding/Colors & Fonts' '04_Branding/Photography & Imagery' '04_Branding/Marketing Assets' '05_Operations/SOPs & Playbooks' '05_Operations/Team & Roles' 05_Operations/Onboarding '05_Operations/Hiring & Recruiting' '05_Operations/Tools & Software' '05_Operations/Vendors & Suppliers' '06_Marketing & Sales/Campaigns' '06_Marketing & Sales/Listings Copy' '07_Legal & Compliance/Contracts \\(Signed\\)' '07_Legal & Compliance/Licenses & Permits' '07_Legal & Compliance/Compliance' '07_Legal & Compliance/Insurance' '08_Meetings & Notes' 99_Archive)",
+      "Bash(find . -type d -not -path '*/\\\\.*')",
+      "Bash(cd \"./dproperty brain\" && find . -type d -empty -not -path '*/\\\\.*' -exec touch {}/.gitkeep \\\\; && echo \"=== FINAL STRUCTURE ===\" && find . -not -path '*/\\\\.git*' | sort && echo \"\" && echo \"Notes created: $\\(find . -name '*.md' | wc -l\\) | Folders: $\\(find . -type d | wc -l\\)\")",
+      "Bash(cd \"C:/Users/esteb/Desktop/Dproperty_OS/Dproperty_OS/dproperty brain\" && find . -type d -empty -not -path '*/\\\\.*' -exec touch {}/.gitkeep \\\\; && echo \"=== FINAL STRUCTURE ===\" && find . -not -path '*/\\\\.git*' -not -name '.gitkeep' | sort && echo \"\" && echo \"Markdown notes: $\\(find . -name '*.md' | wc -l\\) | Folders: $\\(find . -type d | wc -l\\)\")"
     ]
   }
 }
