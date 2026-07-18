@@ -204,8 +204,12 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "3e7e0b78d11a449d",
+  "active": "0cab61b4f641215e",
   "lastOpenFiles": [
+    "second_brain/04_Product/Roles and Access Matrix.md",
+    "second_brain/04_Product/Platform Scenario Playbook.md",
+    "second_brain/04_Product/Platform Scenario Playbook.md.tmp.37368.0c45c58d5adf",
+    "second_brain/04_Product/Platform Information Architecture.md",
     "dproperty brain/02_Projects/_Templates/_Private Collection Template.md",
     "dproperty brain/02_Projects/Private Collection/Active/Gesti68/00_Project Control/Executive Summary.md",
     "dproperty brain/02_Projects/Private Collection/Active/Gesti68/01_Project & Developer/README.md",
@@ -236,11 +240,7 @@
     "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/07_Legal & Compliance",
     "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/06_Amenities & Lifestyle",
     "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/05_Payment & Financing",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/04_Inventory & Pricing",
     "dproperty brain/02_Projects/Private Collection/Sold Out/README.md",
-    "dproperty brain/02_Projects/Private Collection/README.md",
-    "dproperty brain/02_Projects/Private Collection/Pipeline/README.md",
-    "dproperty brain/02_Projects/Private Collection/Paused/README.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/99_Archive/README.md"
+    "dproperty brain/02_Projects/Private Collection/README.md"
   ]
 }
