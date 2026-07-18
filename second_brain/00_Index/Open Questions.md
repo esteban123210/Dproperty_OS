@@ -63,7 +63,7 @@ This file tracks unresolved issues.
 
 - **RESOLVED (2026-07-14): Currency = USD** everywhere. Launch fee $30k/$40k.
 - **RESOLVED (2026-07-14): Minimum royalty floor = $500/month**, creditable, from month 7 (proposed — confirm with owners).
-- Confirm: should "Private Collection" be fully renamed to **Dproperty Select** everywhere, including folder/file names? (Content updated; folders not yet renamed to avoid breaking wikilinks.)
+- **RESOLVED (2026-07-18): Naming convention** — keep **"Private Collection"** internally (vault, folder, file names, for link stability); use **"Dproperty Select"** on all handouts / external / client-facing materials. Same program, two names by context.
 - How is "5 successful franchises" defined for the $30k → $40k launch-fee step?
 - Validate the financial model (v0.7) OPEX/staffing rows — currently planning estimates; Year 3 breakeven is thin (~$15k).
 - Confirm Keller Williams benchmark figures used in the pricing rationale (~$35k fee, $150k cash, 6% royalty).

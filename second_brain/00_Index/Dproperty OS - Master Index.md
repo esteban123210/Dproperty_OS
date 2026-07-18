@@ -13,7 +13,7 @@ tags: [index, navigation]
 
 This is the main navigation page for the Dproperty OS project. Rebuilt 2026-07-18 to match the actual files in the vault.
 
-> **Naming note:** "Private Collection" was renamed **Dproperty Select** (Decision 2026-07-04). The `12_Private_Collection/` folder and file names still use the old name for wikilink stability; a full rename is a separate pending decision.
+> **Naming convention (Decision 2026-07-18):** Keep **"Private Collection"** internally (vault, `12_Private_Collection/` folder, file names). Use **"Dproperty Select"** on all handouts / external / client-facing materials. Same program, two names by context.
 
 ## Start Here
 

@@ -249,3 +249,10 @@ This note records decisions that should not be re-opened accidentally in future 
 **Reason:** Turns AI from a cost fear into a sales weapon; predictable pricing.
 **Impacted Areas:** Finance, Pricing, Product.
 **Status:** Active (default bundle + credit-cap sizing open — see [[Open Questions]]).
+
+## 2026-07-18 — Naming Convention: "Private Collection" internal, "Dproperty Select" external
+
+**Decision:** The vault keeps **"Private Collection"** for internal notes, folder, and file names (`12_Private_Collection/`) for wikilink stability. **All handouts and external/client-facing materials use "Dproperty Select."** The two refer to the same HQ-curated inventory program.
+**Reason:** Avoids breaking internal links from a folder rename while giving the program a clean, commercial external name. Resolves the pending rename question.
+**Impacted Areas:** Brand, Franchise Package, Pitch, Private Collection notes, Legal (handout templates).
+**Status:** Active. Supersedes the "full rename pending" note.

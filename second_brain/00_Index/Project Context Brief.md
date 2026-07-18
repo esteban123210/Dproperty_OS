@@ -2,10 +2,10 @@
 project: Dproperty OS
 title: "Project Context Brief"
 type: project_context
-status: Baseline Created
+status: Active
 owner: Esteban
-last_updated: 2026-07-01
-source: ChatGPT baseline vault package
+last_updated: 2026-07-18
+source: Refreshed 2026-07-18 to match Decision Log (pricing, splits, projections, cap table, ecosystem reframe)
 tags: [ai-handoff, strategy, source-of-truth]
 ---
 
@@ -13,9 +13,17 @@ tags: [ai-handoff, strategy, source-of-truth]
 
 ## Purpose of This Brief
 
-This is the main context document for the Dproperty OS project. Upload this file at the start of any new ChatGPT or Claude conversation together with the latest [[Vault Manifest]], [[Decision Log]], [[Open Questions]], and [[Deliverables Tracker - Compact MD]].
+This is the main context document for the Dproperty OS project. Upload this file at the start of any new ChatGPT or Claude conversation together with the latest [[Vault Manifest]], [[Decision Log]], [[Open Questions]], [[Current Priorities]], and [[../16_Task_Management/Deliverables Tracker - Compact MD|Deliverables Tracker - Compact MD]].
 
 The goal is to make Obsidian the long-term memory of the project instead of relying on a single AI chat's memory.
+
+> **Refreshed 2026-07-18** to match the [[Decision Log]]. Figures are now USD and reflect the July 2026 pricing restructure, Dproperty Select payout change, commission waterfall, Financial Model v0.7, the 35/35/15/15 cap table, and the ecosystem reframe. Where a number is still under validation it is flagged.
+
+## 0. Naming Convention
+
+- **Internal (this vault):** "Private Collection" (folder `12_Private_Collection/`, file names) — kept for wikilink stability.
+- **External / handouts / client-facing:** **"Dproperty Select."**
+- Same HQ-curated inventory program; two names by context (Decision 2026-07-18).
 
 ## 1. What Dproperty OS Is
 
@@ -27,334 +35,166 @@ It is not only a software product. It is a complete operating model for:
 2. White-label boutique agencies that want Dproperty-grade systems without changing their own brand.
 3. Developers that need a professional project sales system and trained sales operation.
 
-The central idea is that Dproperty should evolve from a boutique real estate agency into the operating infrastructure behind boutique real estate sales.
+**Ecosystem reframe (2026-07-14):** Franchising is **Phase 1** of a larger ecosystem play — a curated physical hub for real estate talent, capital, and ideas ("the soul of 19M, the model of Station F, for real estate"), with the first hub envisaged in **Panama City**. Franchising proves the model, builds the brand, and generates the cash that funds the ecosystem. Two decks exist: Deck 1 (franchise system, investable now) and Deck 2 (ecosystem/hub north-star).
 
 ## 2. Strategic Thesis
 
 Dproperty should not compete only by being another agency. It should become a system.
 
-The value is not just the brand. The value is the combination of:
+The value is the combination of: curated project access; trust-based investor guidance; broker/developer relationship management; client qualification; projection logic; standardized sales and documentation processes; training; compliance; reporting; Dproperty OS software; and HQ-controlled Private Collection (Dproperty Select) inventory.
 
-- Curated project access.
-- Trust-based investor guidance.
-- Broker/developer relationship management.
-- Client qualification.
-- Projection logic.
-- Standardized sales and documentation processes.
-- Training.
-- Compliance.
-- Reporting.
-- Dproperty OS software.
-- HQ-controlled Private Collection inventory.
-
-The result should feel like an "agency in a box" for serious operators, but with boutique positioning rather than mass-market franchise culture.
+The result should feel like an "agency in a box" for serious operators, with boutique positioning rather than mass-market franchise culture. The durable long-term moat is the **hub network effect** (Phase 2), on top of near-term advantages: curated deal flow, founder credibility, installed network, and speed.
 
 ## 3. Core Business Lines
 
 ### 3.1 Dproperty Branded Franchise
-
-A franchisee operates under the Dproperty brand, receives Dproperty OS, brand assets, manuals, training, launch support, CRM setup, templates, access to the Dproperty methodology, and possible access to HQ-curated Private Collection inventory.
-
-Target profile: owner-operator with capital, network, ambition, and credibility, but not necessarily deep real estate operations experience.
+A franchisee operates under the Dproperty brand and receives Dproperty OS, brand assets, manuals, training, launch support, CRM setup, templates, the Dproperty methodology, and possible access to Dproperty Select inventory. **Branded franchises have investment priority** (investors, Select access, cross-border, HQ funnel). Target GTM profiles (confirmed 2026-07-07): Agents Seeking Independence (primary), Sales Professionals from other sectors (secondary), Youth Entrepreneurs (volume). First target markets: Panama, Bogotá, Medellín.
 
 ### 3.2 White-label OS for Boutique Agencies
-
-A boutique agency keeps its own brand but licenses Dproperty's operating system, workflows, playbooks, document structure, dashboards, projection logic, training, and possibly CRM setup.
-
-White-label clients should generally not receive automatic access to Dproperty Private Collection.
+A boutique agency keeps its own brand but licenses Dproperty's operating system, workflows, playbooks, document structure, dashboards, projection logic, training, and possibly CRM setup. White-label clients do **not** automatically get Dproperty Select access, and have a lower Select payout. Governing rule: **the brand goes where there is investment potential; the system can go anywhere.**
 
 ### 3.3 Developer Sales OS
+Dproperty professionalizes the sales function for specific projects (train the developer's team, pipeline discipline, CRM, reporting, broker connections, network-sourced clients). Priced on **gross sales value**, not only salesperson commission payout.
 
-Dproperty helps developers professionalize the sales function for specific projects. This includes training the developer's sales team, managing pipeline discipline, setting up CRM, creating reporting, connecting brokers, and potentially bringing Dproperty/network-sourced clients.
+## 4. Dproperty Select (internal: Private Collection)
 
-This should be priced based on gross sales value, not only as a percentage of the salesperson commission payout.
-
-## 4. Dproperty Private Collection
-
-Dproperty Private Collection is HQ-controlled inventory, especially selected premium, investor-oriented, Panama or curated international projects.
-
-It exists to protect quality, preserve relationships, and allow franchises to access high-value opportunities without losing HQ control.
+HQ-controlled, curated premium/investor-oriented inventory (Panama or curated international projects). It protects quality, preserves relationships, and lets franchises access high-value opportunities without losing HQ control.
 
 Core rules:
-
-- HQ controls the sensitive client/project handling.
-- Franchisees can introduce or sell Private Collection opportunities under defined rules.
-- Gross commission is split 50/50 between HQ and the franchise.
-- Franchise pays reduced royalty/network fee on its half.
-- No unapproved projections.
-- No direct developer negotiation without HQ approval.
-- No edited project materials without HQ approval.
-- White-label clients do not automatically get access.
+- HQ controls sensitive client/project handling.
+- Franchisees may introduce/sell Select opportunities under defined rules.
+- **Payout is a fixed % of sale price (not a 50/50 gross split — superseded):** 2.5% for branded franchises, 2.0% for white-label. Projections are always modelled at 5% total commission; any negotiated upside above 5% is retained by HQ.
+- Select does **not** run through the local commission waterfall (§7).
+- No unapproved projections; no direct developer negotiation without HQ approval; no edited materials without HQ approval.
+- White-label does not automatically get access.
+- OPEN: whether franchisee pays any royalty/Network fee on Select earnings (default: no).
 
 ## 5. Conservative 5-Year Target
 
-The current conservative five-year target is:
-
 - 5 branded franchises.
 - 20 white-label agencies.
-- 15 developer partnerships or developer projects.
+- 15 developer partnerships/projects.
 
-This is intentionally more conservative than an aggressive venture-scale plan.
+Intentionally more conservative than an aggressive venture-scale plan.
 
-## 6. Core Pricing Assumptions
+## 6. Core Pricing Assumptions (USD)
 
-### Branded Franchise
+### Branded Franchise (Decision 2026-07-04, currency USD 2026-07-14)
+- **Launch fee: $30,000 founding, rising to $40,000 after 5 successful franchises** (was $15k). Definition of "successful franchise" still OPEN.
+- OS/platform fee: ~$1,000/month.
+- **Royalty 6% + Network & Brand Fund 1.5% = 7.5%, charged on _collected_ GCI** (not signed).
+- **Minimum royalty floor: $500/month, creditable against percentage royalties, from month 7** (proposed — confirm with owners; separate from the $1,000 OS fee).
+- CRM (GoHighLevel) costs: pass-through at cost.
+- Dproperty Select payout: fixed % of sale price — 2.5% branded / 2.0% white-label.
 
-- Launch fee: approximately $15,000.
-- OS/platform fee: approximately $1,000/month.
-- Royalty on local GCI: approximately 6%.
-- Brand/network marketing fee: approximately 1.5%.
-- GoHighLevel or CRM costs: pass-through at cost.
-- Private Collection commission: 50/50 gross commission split with HQ.
-- Reduced royalty/network fee on franchise half of Private Collection commission.
-
-### White-label
-
-Starter version:
-
-- Setup fee: around $10,000.
-- Monthly fee: around $1,500/month.
-
-Growth version:
-
-- Setup fee: around $20,000.
-- Monthly fee: around $2,500/month.
-
-White-label can be more expensive than branded OS subscription because the agency keeps its own brand and Dproperty does not benefit from consumer brand expansion.
+### White-label (confirm against [[White-Label Pricing]])
+- Starter: setup ~$10,000; ~$1,500/month.
+- Growth: setup ~$20,000; ~$2,500/month.
+- Can be priced higher than branded OS subscription because the agency keeps its own brand (no consumer-brand expansion benefit to Dproperty).
 
 ### Developer Sales OS
-
-Recommended structures:
-
 - 0.5% of gross sale value on developer-team sales where Dproperty trains/manages the system.
 - 2.5%–3% of gross sale value on Dproperty/network-sourced sales.
 - $3,000–$5,000/month managed sales desk minimum, potentially creditable against success fees.
-- Exclusive sales partner model could charge a larger total commission pool, depending on the project.
 
-## 7. Base Unit Economics Assumptions
+## 7. Base Unit Economics & Local Commission Waterfall
 
-Base franchise scenario:
+Base franchise scenario: 50 units/year; $300,000 average unit price; owner-operator model.
 
-- 50 units/year.
-- $300,000 average unit price.
-- 5% gross commission.
-- $15,000 gross commission per unit.
-- Owner-operator model.
-- Franchise owner earns what they personally sell plus potential override on team sales and residual profit.
-- Local inventory creates better franchise economics.
-- Private Collection creates stronger HQ economics but lower franchise margin because HQ takes 50%.
+**Local commission waterfall (Decision 2026-07-05):**
+1. 5% commission on sale price.
+2. Shared 50/50 with external advisors (co-broke) → **2.5% enters the company**.
+3. Of what enters: **35% seller, 10% sales director, 55% franchise net**.
 
-## 8. Conservative Financial Projection Summary
+**Royalty base:** the 6% + 1.5% is charged on **gross-into-company (the 2.5%)**, not franchise net — un-gameable. HQ nets ~$562 per $300k local unit. The 50/50 external-advisor share is an editable model input. Dproperty Select uses its own structure and does not run through this waterfall.
 
-Current conservative projection:
+## 8. Conservative Financial Projection Summary (Model v0.7, 2026-07-05)
 
-- Year 1 revenue: about $128k.
-- Year 2 revenue: about $451.5k.
-- Year 3 revenue: about $923.9k.
-- Year 4 revenue: about $1.51M.
-- Year 5 revenue: about $2.27M.
+- Year 1 revenue: ~$87k.
+- Year 5 revenue: ~$1.59M.
+- EBITDA: negative early; **positive in Year 3 (~$15k, thin)**, rising to **~$630k by Year 5**.
+- Local royalty computed on gross-into-company after the 50/50 external-advisor split.
+- CAUTION: OPEX/staffing rows are planning estimates and need owner validation; Year 3 breakeven is thin.
+- A separate **Phase-2 (ecosystem) financial model** still needs to be built.
 
-Expected EBITDA:
-
-- Year 1: negative, because product, legal, training, and launch infrastructure must be built.
-- Year 2: still likely negative or near break-even.
-- Year 3: positive EBITDA expected in the conservative model.
-- Year 5: approximately $601k EBITDA.
-
-Estimated Year 5 net profit:
-
-- Around $395k after estimated depreciation/amortization and tax assumptions.
-
-Potential distributable cash:
-
-- Approximately $250k–$400k in Year 5, depending on reinvestment and reserves.
+`09_Exports/Dproperty_OS_Financial_Model.xlsx` **v0.7** is the source of truth for projections.
 
 ## 9. Internal Funding Logic
 
-This is not currently positioned as an outside VC raise.
+Framed as an internal venture budget from the existing owners, not an external seed round.
+- ~$650k over 24 months, released in tranches.
+- Tranche 1: ~$350k (MVP, legal foundation, manuals, launch materials, pilots).
+- Tranche 2: ~$300k after milestones (MVP live, two white-label pilots, one developer agreement, franchise package readiness).
 
-The most likely investors/funders are the two existing Dproperty owners. The project should be framed as an internal venture/NewCo rather than an external seed round.
+## 10. Ownership and Role Logic (Cap Table 35/35/15/15)
 
-Recommended internal venture budget:
+**Founding cap table (Decision 2026-07-14):** Simon 35% / Luz Adriana 35% / Miguel 15% / Esteban 15%. Vesting 4 years, 1-year cliff (operators).
 
-- Approximately $650k over 24 months.
-- Ideally released in tranches.
-
-Suggested tranche logic:
-
-1. First tranche: around $350k to build the MVP, legal foundation, franchise manuals, launch materials, and pilots.
-2. Second tranche: around $300k released after milestones such as MVP live, two white-label pilots, one developer agreement, and franchise package readiness.
-
-## 10. Ownership and Role Logic
-
-Possible NewCo ownership structure:
-
-- Existing Dproperty Owner 1: 40%.
-- Existing Dproperty Owner 2: 40%.
-- Esteban: 15%.
-- Option pool/future key hires: 5%.
-
-Alternative:
-
-- Esteban receives 10% guaranteed vesting equity plus 5% milestone-based equity.
-
-Esteban's proposed role:
-
-- Co-founder & Venture Lead.
-- Product & Strategy Lead.
-- Potential Managing Director of Dproperty OS.
-- Salary requirement: at least €5,000/month.
-- Equity target: 10%–15% in NewCo.
-- Vesting: likely 4 years with 1-year cliff.
-- Bonus potential: linked to clients originated/closed, revenue milestones, or EBITDA above threshold.
-- Salary step-ups: tied to revenue run-rate or EBITDA milestones.
+- **Simon & Luz Adriana participate primarily as investors** — contributing capital + their brands + strategic insight + network + franchisable products. Luz: the Dproperty brand and boutique agency know-how. Simon: TheVelopers brand, developer expertise, and projects (Dovle Selva, Dovle Cincuentenario, potentially Nayamara, Cavarrosa, the Victory's) that can feed Dproperty Select / the developer pipeline.
+- **Esteban & Miguel are the operators.** Miguel: communications/creative (reports into Simon's org), salary **$0 for now** (comp via 15% equity). Esteban: strategy/management (reports into Luz Adriana's org), Co-founder & Venture Lead / Product & Strategy Lead; salary requirement ≥ **€5,000/month** — **restate as a USD figure (OPEN)**.
+- **Operator equity growth mechanism is under exploration:** protect investor capital first via a 1x liquidation preference / convertible shareholder instrument; let operators grow equity via a milestone-based earn-in / performance ratchet. Full proposal in [[Ownership & Investor Protection One-Pager]] (v0.1) — needs owner + lawyer sign-off before any cap-table change.
 
 ## 11. Product Architecture
 
-Dproperty OS should ultimately include:
+Dproperty OS is a two-layer platform accessed through one login (role-gated). Full detail in [[Platform Information Architecture]], [[Platform Scenario Playbook]], and [[Roles and Access Matrix]].
 
-- HQ dashboard.
-- Franchise workspace.
-- Client module.
-- Broker module.
-- Developer module.
-- Project module.
-- Unit module.
-- Deal pipeline.
-- Document generator.
-- Projection generator.
-- Commission tracker.
-- Training academy.
-- Private Collection module.
-- Developer Sales OS module.
-- Reporting dashboard.
-- Support and help desk.
-- AI assistant layer, only after core data/workflows are stable.
+Core modules: HQ dashboard, franchise workspace, client, broker, developer, project, unit, deal pipeline, document generator, projection generator, commission tracker, training academy, Private Collection, Developer Sales OS, reporting, support. Plus (2026-07-18): Command Bar, Field Mode, Resource Library, embedded Academy (LMS) and CRM, AI Assistant, and six back-office systems (Finance, People/HR, Cases, Tenant Lifecycle, Audit/Data Governance, **Glitch Report**).
 
-Initial build can use low-code tools such as Microsoft SharePoint, Dataverse, Power Apps, Power Automate, Power BI, and controlled document templates.
-
-The principle is: data first, documents second. Documents should be generated from structured data where possible.
+Cost principle: **automation first, AI second** — T0 (no AI: forms/rules/templating/routing) handles ~85% of work; T1 (cheap/local AI, e.g. DeepSeek local) handles only language tasks; T2 (premium) is a rare add-on. AI never files, names, routes, calculates, approves, pays, or deletes. Initial build can use low-code (SharePoint, Dataverse, Power Apps/Automate/BI) + automation tools (Make/n8n). Principle: **data first, documents second.**
 
 ## 12. GoHighLevel Role
 
-GoHighLevel is not the core operating system. It is the front-office CRM and marketing automation layer.
-
-Use GoHighLevel for:
-
-- Lead capture.
-- Funnels/landing pages.
-- Follow-up.
-- Calendars.
-- CRM pipelines.
-- Marketing automation.
-- Communication workflows.
-
-Use Dproperty OS for:
-
-- Project/developer data.
-- Unit data.
-- Deals.
-- Broker relationships.
-- Documents.
-- Projections.
-- Commission logic.
-- Franchise reporting.
-- Training.
-- Compliance.
-- Private Collection workflows.
-
-GoHighLevel can be passed through at cost or configured as a value-added setup, but it should not become the legal or operational source of truth.
+GoHighLevel is the front-office CRM and marketing automation layer (lead capture, funnels/landing pages, follow-up, calendars, pipelines, automation), white-labeled and embedded in the OS via SSO. It is **not** the legal or operational source of truth. Dproperty OS owns project/developer/unit data, deals, broker relationships, documents, projections, commission logic, franchise reporting, training, compliance, and Private Collection workflows.
 
 ## 13. Obsidian / File Ecosystem Decision
 
 Obsidian is the project brain, not the asset warehouse.
-
-Use Obsidian for:
-
-- Strategy.
-- Decisions.
-- Manuals.
-- Product specs.
-- Meeting notes.
-- Project context.
-- Deliverables map.
-- Links to final files.
-- AI handoff pack.
-
-Use SharePoint/Drive for:
-
-- Final decks.
-- Heavy PDFs.
-- Legal files.
-- Signed contracts.
-- Brand assets.
-- Logo files.
-- Videos.
-- Final templates.
-- Large exports.
-
-Use Figma for:
-
-- UI prototype.
-- Design system.
-- Product flows.
-- Screens.
-
-Use Excel/Sheets for:
-
-- Financial model.
-- Unit economics.
-- Deliverables tracker.
-- Pricing calculators.
-
-Use Canva/PowerPoint/Adobe for:
-
-- Designed pitch decks.
-- Brand manuals.
-- Welcome kits.
-- Marketing collateral.
+- **Obsidian:** strategy, decisions, manuals, product specs, meeting notes, context, deliverables map, links, AI handoff pack.
+- **SharePoint/Drive:** final decks, heavy PDFs, legal files, signed contracts, brand assets, logos, videos, final templates, large exports.
+- **Figma:** UI prototype, design system, product flows, screens.
+- **Excel/Sheets:** financial model, unit economics, deliverables tracker, calculators.
+- **Canva/PowerPoint/Adobe:** designed decks, brand manuals, welcome kits, marketing collateral.
 
 ## 14. Key Decisions Already Made
 
-- Dproperty OS is more than software; it is a franchisable operating system.
-- Dproperty should support three business lines: branded franchise, white-label, Developer Sales OS.
-- Private Collection must stay HQ-controlled.
-- White-label clients do not automatically access Private Collection.
-- Developer Sales OS should be priced from gross sales value, not only salesperson commission payout.
-- The conservative five-year target is 5 branded franchises, 20 white-label agencies, and 15 developer projects.
-- The most likely funders are the existing Dproperty owners, not outside VCs.
-- Esteban should not pitch this as a favor; it should be a structured venture opportunity.
-- Esteban needs at least €5,000/month salary plus meaningful equity and protections.
-- Obsidian should be the memory/source of truth.
-- The Deliverables Tracker is the execution tracker.
-- Final assets belong in SharePoint/Drive/Figma/Canva, with Obsidian acting as index and context.
+- Dproperty OS is a franchisable operating system, not just software; Phase 1 of an ecosystem play.
+- Three business lines: branded franchise, white-label, Developer Sales OS.
+- Private Collection / Dproperty Select stays HQ-controlled; white-label has no automatic access.
+- **Dproperty Select payout is a fixed % of sale price (2.5% branded / 2.0% white-label)** — the old 50/50 gross split is superseded.
+- Branded pricing: **$30k→$40k launch, 7.5% on collected GCI, $500/mo royalty floor from month 7.**
+- Local sales run a co-broke waterfall; royalty base = gross-into-company (2.5%).
+- Developer Sales OS priced on gross sales value.
+- Conservative 5-year target: 5 franchises / 20 white-label / 15 developer.
+- Funders are the existing owners (Simon + Luz), as investors; operators are Esteban + Miguel.
+- **Cap table 35/35/15/15**, 4-yr vesting / 1-yr cliff; operator earn-in + investor protection under exploration.
+- Currency = **USD** everywhere.
+- Obsidian is the source of truth; the Deliverables Tracker is the execution tracker; final assets live in Drive/Figma/Canva.
 
 ## 15. What Future AI Chats Must Not Accidentally Change
 
 Do not change these without explicit discussion:
-
-- The three-business-line structure.
-- Private Collection as HQ-controlled.
-- 50/50 gross commission split for Private Collection baseline.
-- Branded franchise pricing logic.
-- White-label not having automatic Private Collection access.
+- The three-business-line structure and the ecosystem north-star (franchising = Phase 1).
+- Private Collection / Dproperty Select as HQ-controlled.
+- **Dproperty Select fixed-% payout (2.5% / 2.0%)** — do NOT revert to 50/50.
+- Branded franchise pricing logic ($30k/$40k; 7.5% on collected GCI; $500 floor).
+- White-label not having automatic Select access.
 - Developer Sales OS pricing based on gross sales value.
 - Conservative 5-year target.
-- Internal venture funding logic.
-- Obsidian as source of truth.
-- Dproperty's boutique positioning.
+- Cap table 35/35/15/15 and internal venture funding logic.
+- USD as the currency standard.
+- Obsidian as source of truth; Dproperty's boutique positioning.
 
 ## 16. What To Upload in New AI Chats
 
-Minimum handoff pack:
-
-1. This Project Context Brief.
+Minimum handoff pack (canonical copies):
+1. This Project Context Brief (`00_Index/Project Context Brief.md`).
 2. [[Decision Log]].
 3. [[Open Questions]].
 4. [[Vault Manifest]].
-5. [[Deliverables Tracker - Compact MD]] or the latest Excel tracker.
-6. Latest session closeout note, if relevant.
+5. [[Current Priorities]].
+6. [[../16_Task_Management/Deliverables Tracker - Compact MD|Deliverables Tracker - Compact MD]] or the latest Excel tracker.
+7. Latest session closeout note, if relevant.
 
 Starter prompt:
 
-> I am continuing the Dproperty OS project. I have uploaded the Project Context Brief, Decision Log, Open Questions, Vault Manifest, and Deliverables Tracker. Use these as the source of truth. Before creating anything new, check whether the deliverable already exists, what version/status it has, and how it fits into the existing strategy. Do not duplicate work. Preserve prior decisions unless I explicitly ask to revise them.
+> I am continuing the Dproperty OS project. I have uploaded the Project Context Brief, Decision Log, Open Questions, Vault Manifest, Current Priorities, and Deliverables Tracker. Use these as the source of truth. Before creating anything new, check whether the deliverable already exists, what version/status it has, and how it fits into the existing strategy. Do not duplicate work. Preserve prior decisions unless I explicitly ask to revise them.
