@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784367930659-mtdwjpthj",
+  "providerId": "claude",
+  "title": "Design wireframe for DProperty franchisee web p...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784367930660,
+  "updatedAt": 1784368056600,
+  "lastResponseAt": 1784368056600,
+  "sessionId": "3e6d362f-b63b-4f84-8782-c49749102cec",
+  "providerState": {
+    "providerSessionId": "3e6d362f-b63b-4f84-8782-c49749102cec"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 131,
+    "cacheCreationInputTokens": 6512,
+    "cacheReadInputTokens": 38039,
+    "contextWindow": 1000000,
+    "contextTokens": 44682,
+    "percentage": 4,
+    "contextWindowIsAuthoritative": true
+  }
+}
