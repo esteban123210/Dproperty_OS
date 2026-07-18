@@ -2,16 +2,18 @@
 project: Dproperty OS
 title: "Dproperty OS - Master Index"
 type: master_index
-status: Baseline Created
+status: Active
 owner: Esteban
-last_updated: 2026-07-01
-source: ChatGPT baseline vault package
+last_updated: 2026-07-18
+source: Rebuilt 2026-07-18 vault cleanup — reconciled against actual files
 tags: [index, navigation]
 ---
 
 # Dproperty OS - Master Index
 
-This is the main navigation page for the Dproperty OS project.
+This is the main navigation page for the Dproperty OS project. Rebuilt 2026-07-18 to match the actual files in the vault.
+
+> **Naming note:** "Private Collection" was renamed **Dproperty Select** (Decision 2026-07-04). The `12_Private_Collection/` folder and file names still use the old name for wikilink stability; a full rename is a separate pending decision.
 
 ## Start Here
 
@@ -21,7 +23,14 @@ This is the main navigation page for the Dproperty OS project.
 - [[Open Questions]]
 - [[Vault Manifest]]
 - [[Source Map]]
-- [[AI Handoff Pack/AI Handoff Pack - Read Me|AI Handoff Pack]]
+- [[Package Contents Index]]
+- [[AI Handoff Pack/AI Handoff Pack - Read Me|AI Handoff Pack]] *(numbered files 01–06 are now pointers to the canonical copies above)*
+
+### Session Closeouts
+- [[AI Handoff Pack/07_Latest Session Closeout|Latest Session Closeout]]
+- [[Meeting Notes/2026-07-14 - Work Session Closeout]]
+- [[2026-07-05 - Work Session Closeout]]
+- [[2026-07-02 - Work Session Closeout]]
 
 ## 01 Strategy
 
@@ -33,6 +42,8 @@ This is the main navigation page for the Dproperty OS project.
 - [[../01_Strategy/Private Collection Strategy]]
 - [[../01_Strategy/Moat and Positioning]]
 - [[../01_Strategy/Ecosystem Workflow]]
+- [[../01_Strategy/Go-to-Market Strategy]]
+- [[../01_Strategy/GTM Market-Specific Tactics]]
 - [[../01_Strategy/Conversation Summary]]
 
 ## 02 Business Plan
@@ -43,6 +54,7 @@ This is the main navigation page for the Dproperty OS project.
 - [[../02_Business_Plan/Unit Economics]]
 - [[../02_Business_Plan/Funding Plan]]
 - [[../02_Business_Plan/Ownership and Governance]]
+- [[../02_Business_Plan/Ownership & Investor Protection One-Pager]]
 - [[../02_Business_Plan/Your Compensation Package]]
 - [[../02_Business_Plan/Roadmap and Milestones]]
 
@@ -50,6 +62,8 @@ This is the main navigation page for the Dproperty OS project.
 
 - [[../03_Pitch/Founder Pitch to Dproperty Owners]]
 - [[../03_Pitch/Pitch Deck Outline]]
+- [[../03_Pitch/Pitch_Deck_Content]]
+- [[../03_Pitch/Ecosystem Deck Outline]]
 - [[../03_Pitch/Pitch Script]]
 - [[../03_Pitch/Supervisor and Owner Q&A]]
 - [[../03_Pitch/Final Decks Index]]
@@ -72,8 +86,10 @@ This is the main navigation page for the Dproperty OS project.
 
 - [[../05_Franchise_Package/Franchise Launch Package Index]]
 - [[../05_Franchise_Package/Franchise Deliverables Checklist]]
+- [[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook]]
 - [[../05_Franchise_Package/Onboarding/Franchise Onboarding PDF]]
 - [[../05_Franchise_Package/Launch/30-60-90 Day Franchise Launch Plan]]
+- [[../05_Franchise_Package/Launch/First Franchisee Launch Playbook]]
 - [[../05_Franchise_Package/Brand/Brand Manual]]
 - [[../05_Franchise_Package/Sales/Sales Playbook]]
 - [[../05_Franchise_Package/Operations/Operations Manual]]
@@ -101,13 +117,31 @@ This is the main navigation page for the Dproperty OS project.
 - [[../07_Finance/Funding and Tranches]]
 - [[../07_Finance/Compensation Model]]
 
+## 08 Research
+
+- [[../08_Research/Research Backlog]]
+
+## 09 Exports
+
+- [[../09_Exports/Exports Index]]
+- [[../09_Exports/Dproperty_OS_Business_Plan]]
+- [[../09_Exports/Dproperty_OS_Conversation_Summary]]
+- [[../09_Exports/Dproperty_OS_Prototype_Spec]]
+
+## 10 Templates
+
+- [[../10_Templates/New Note Template]]
+- [[../10_Templates/Meeting Note Template]]
+- [[../10_Templates/Deliverable Control Note Template]]
+- [[../10_Templates/ChatGPT - Session Closeout Prompt]]
+
 ## 11 Developer Sales OS
 
 - [[../11_Developer_Sales_OS/Developer Sales OS Guide]]
 - [[../11_Developer_Sales_OS/Developer Pricing Model]]
 - [[../11_Developer_Sales_OS/Developer Deal Workflow]]
 
-## 12 Private Collection
+## 12 Private Collection (Dproperty Select)
 
 - [[../12_Private_Collection/Private Collection Guide]]
 - [[../12_Private_Collection/Private Collection Deal Workflow]]
@@ -131,7 +165,13 @@ This is the main navigation page for the Dproperty OS project.
 
 ## 16 Task Management
 
-- [[../16_Task_Management/Deliverables Tracker - Compact MD]]
+- [[../16_Task_Management/Deliverables Tracker - Compact MD]] *(full 269-item tracker)*
+- [[../16_Task_Management/Deliverables Tracker - MVP Only]] *(37-item Sept 15 launch set)*
+- [[../16_Task_Management/Current Sprint]]
 - [[../16_Task_Management/Next 10 Tasks Working Plan]]
 - [[../16_Task_Management/Weekly Review Workflow]]
-- [[../16_Task_Management/Current Sprint]]
+- [[../16_Task_Management/Pitch Sprint Roadmap - July 2026]]
+- [[../16_Task_Management/Weekly Roadmap - July to Sept 2026]]
+- [[../16_Task_Management/GTM Execution Summary - Week 5 Kickoff]]
+- [[../16_Task_Management/Your Weekly Tasks - Jul to Sept]]
+- [[../16_Task_Management/Miguel's Weekly Tasks - Jul to Sept]]

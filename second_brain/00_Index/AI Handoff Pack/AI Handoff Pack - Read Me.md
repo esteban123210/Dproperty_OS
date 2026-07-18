@@ -11,17 +11,19 @@ tags: [ai-handoff]
 
 # AI Handoff Pack - Read Me
 
-Upload this folder's files at the beginning of a new ChatGPT or Claude conversation.
+Upload the **canonical** files listed below at the beginning of a new ChatGPT or Claude conversation.
 
-## Minimum Files
+> **Structure change (2026-07-18):** To stop the two copies drifting apart, the numbered files `01`–`06` in this folder are now **pointers** to the single source of truth in `00_Index/` (and `16_Task_Management/` for the tracker). Edit and upload the canonical files below — not the numbered pointers. Only `07_Latest Session Closeout.md` still holds live content here.
 
-1. `01_Project Context Brief.md`
-2. `02_Decision Log.md`
-3. `03_Open Questions.md`
-4. `04_Vault Manifest.md`
-5. `05_Current Priorities.md`
-6. `06_Deliverables Tracker - Compact MD.md`
-7. `07_Latest Session Closeout.md` if available.
+## Minimum Files (canonical — upload these)
+
+1. `00_Index/Project Context Brief.md`
+2. `00_Index/Decision Log.md`
+3. `00_Index/Open Questions.md`
+4. `00_Index/Vault Manifest.md`
+5. `00_Index/Current Priorities.md`
+6. `16_Task_Management/Deliverables Tracker - Compact MD.md`
+7. `00_Index/AI Handoff Pack/07_Latest Session Closeout.md` if available.
 
 ## Starter Prompt
 

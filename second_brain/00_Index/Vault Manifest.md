@@ -21,8 +21,9 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[04_Product/Platform Information Architecture|Platform Information Architecture]] — **NEW v0.5**, platform IA (public site + logged-in OS + 6 back-office systems + cost model).
 - [[04_Product/Platform Scenario Playbook|Platform Scenario Playbook]] — **NEW v0.5**, 72+ tested day-to-day scenarios.
 - [[04_Product/Roles and Access Matrix|Roles and Access Matrix]] — **NEW v0.5**, hierarchy, human/AI split, agent pricing.
-- Updated: Product Modules, Data Model, Prototype Spec, Prototype Control Note, Figma Handoff Notes, Master Index, Decision Log, Open Questions.
-- OPEN: AI Handoff Pack copies (02/03/04/06) need re-sync to 00_Index canonical.
+- Updated: Product Modules, Data Model, Prototype Spec, Prototype Control Note, Figma Handoff Notes, Master Index (rebuilt), Decision Log, Open Questions.
+- **RESOLVED (de-dup):** AI Handoff Pack numbered files `01`–`06` are now **pointer stubs** to the single source of truth (`00_Index/` canonical, and `16_Task_Management/` for the tracker). No more drift. Upload the canonical files, not the pointers. See [[AI Handoff Pack/AI Handoff Pack - Read Me|Read Me]].
+- **RESOLVED (Master Index):** rebuilt against actual files — added 08/09/10 sections and ~15 previously unlinked notes; no broken links found.
 
 ## New / Notable (2026-07-14)
 - [[03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] — **v1.1**, ecosystem-reframed, 20 slides + back pocket.
