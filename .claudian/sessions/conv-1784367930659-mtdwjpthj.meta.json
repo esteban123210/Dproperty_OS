@@ -4,20 +4,20 @@
   "title": "Design wireframe for DProperty franchisee web p...",
   "titleGenerationStatus": "success",
   "createdAt": 1784367930660,
-  "updatedAt": 1784371935392,
-  "lastResponseAt": 1784371935392,
+  "updatedAt": 1784372456203,
+  "lastResponseAt": 1784372456203,
   "sessionId": "3e6d362f-b63b-4f84-8782-c49749102cec",
   "providerState": {
     "providerSessionId": "3e6d362f-b63b-4f84-8782-c49749102cec"
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 131,
-    "cacheCreationInputTokens": 6142,
-    "cacheReadInputTokens": 219621,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1053,
+    "cacheReadInputTokens": 247150,
     "contextWindow": 1000000,
-    "contextTokens": 225894,
-    "percentage": 23,
+    "contextTokens": 248205,
+    "percentage": 25,
     "contextWindowIsAuthoritative": true
   }
 }
