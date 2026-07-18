@@ -75,6 +75,7 @@ This is the main navigation page for the Dproperty OS project. Rebuilt 2026-07-1
 - [[../04_Product/Platform Scenario Playbook]] *(NEW 2026-07-18 — 72+ tested scenarios)*
 - [[../04_Product/Roles and Access Matrix]] *(NEW 2026-07-18 — hierarchy, human/AI split, agent pricing)*
 - [[../04_Product/Public Site Wireframe]] *(NEW 2026-07-18 — pre-login public site blueprint)*
+- [[../04_Product/Public Site Copy - ES Master]] *(NEW 2026-07-18 — final Spanish production copy for Figma)*
 - [[../04_Product/Prototype Spec]]
 - [[../04_Product/Prototype Control Note]]
 - [[../04_Product/Product Modules]]
