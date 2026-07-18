@@ -76,3 +76,7 @@ MVP should include:
 5. Create franchise onboarding flow.
 6. Create projection generator flow.
 7. Create reporting dashboard.
+
+## 2026-07-18 Update — Platform Architecture
+
+The information architecture (Figma To-Do #1) is now defined in [[Platform Information Architecture]] (public site + logged-in OS + back-office systems + embedding strategy + cost model), with [[Platform Scenario Playbook]] (72+ scenarios) and [[Roles and Access Matrix]]. Wireframe the priority screens first: Public Home, Franchise Workspace Home, Deal Detail, Resource Library, Command Bar, Glitch Report — not all 25 modules at once.

@@ -200,3 +200,47 @@ This note records decisions that should not be re-opened accidentally in future 
 
 **Decision:** Founding cap table stays **Simon 35 / Luz 35 / Miguel 15 / Esteban 15** for now. Separately, we will **design a mechanism that lets the operators (Esteban, Miguel) grow their equity as the company grows while protecting the investors' capital first** (see Open Questions — Ownership). Preferred direction: investor capital protected via a **liquidation preference / convertible shareholder instrument**, operators grow via a **milestone-based earn-in / performance ratchet.**  
 **Status:** OPEN — full proposal drafted in [[Ownership & Investor Protection One-Pager]] (v0.1); needs owner + lawyer agreement before any cap-table change.
+
+## 2026-07-18 — Platform Architecture: Two Layers, One Door
+
+**Decision:** The online platform has two layers — a public marketing/recruitment site (pre-login) and a role-gated OS (post-login) — accessed through **one login link** for everyone in a franchise office. What a user sees is filtered by role, not by URL.
+**Reason:** Modern multi-tenant pattern; seamless onboarding; defines the permission hierarchy in one place.
+**Impacted Areas:** Product, Franchise Package, Brand/Site.
+**Status:** Active. Detail: [[Platform Information Architecture]].
+
+## 2026-07-18 — "Automation First, AI Second" Cost Model
+
+**Decision:** Route every task to the cheapest tier — T0 (no AI) handles ~85% of work; T1 (cheap/local AI, e.g. DeepSeek local) handles only language tasks; T2 (premium) is a rare paid add-on. **AI never files, names, routes, calculates, approves, pays, or deletes.**
+**Reason:** Minimize AI cost, keep deterministic for legal/financial workflows, protect margin. Extends [[AI Layer Notes]].
+**Impacted Areas:** Product, Finance, Legal.
+**Status:** Active.
+
+## 2026-07-18 — Files in Drive, Accessed Through the OS (Never Duplicated)
+
+**Decision:** Templates, brochures, commercial materials stay in Drive/Template Control; the OS surfaces them via a Resource Library. Structured data lives in the OS DB as source of truth. Nothing re-hosted.
+**Reason:** Single pane of glass, no version drift. Extends [[File Storage Rules]].
+**Impacted Areas:** Product, Brand Assets, Legal. **Status:** Active.
+
+## 2026-07-18 — CRM and Academy Embedded (White-Label + SSO)
+
+**Decision:** GoHighLevel and the LMS (LearnWorlds/edX) are white-labeled and embedded via SSO; the OS is the hub, they are engines behind it.
+**Reason:** Feels like one product; no re-auth or third-party branding.
+**Impacted Areas:** Product, CRM, Training. **Status:** Active (LMS vendor open).
+
+## 2026-07-18 — Minimum Franchise Office = 3 Human Roles
+
+**Decision:** Minimum: Principal + licensed Sales Advisor + Operations Coordinator. Other roles start as AI + HQ-shared services.
+**Reason:** Sets both software permission tiers and franchise-agreement staffing.
+**Impacted Areas:** Franchise Package, Legal, Product, HR. **Status:** Active. Detail: [[Roles and Access Matrix]].
+
+## 2026-07-18 — Unified Cases Engine + Separate Glitch Report
+
+**Decision:** One Cases engine (complaints/grievances/claims/disputes/escalations/whistleblower) where case type controls visibility+routing+SLA; a **separate** no-blame Glitch Report system (Four Seasons model), glitches never person-attributed.
+**Reason:** Confidential resolution vs open improvement are different tones/goals.
+**Impacted Areas:** Product, HR, Compliance, Culture. **Status:** Active.
+
+## 2026-07-18 — AI Agents Priced as Included + Upsell (Hybrid)
+
+**Decision:** Base plan includes 2–3 core AI agents; premium agents as add-ons; credit cap protects margin.
+**Reason:** AI becomes a sales weapon, pricing stays predictable.
+**Impacted Areas:** Finance, Pricing, Product. **Status:** Active (bundle + cap sizing open).

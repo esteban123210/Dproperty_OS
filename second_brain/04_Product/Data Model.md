@@ -52,3 +52,21 @@ Each object should have:
 - Responsible person.
 - Notes.
 - Related links.
+
+## 2026-07-18 Update — New Objects (Platform Architecture)
+
+Added to support the expanded platform (see [[Platform Information Architecture]]). Every object keeps the MVP required fields above; key new ones:
+
+- **Listing** — property/unit intake record; links to Project/Unit; triggers T0 file-routing to Drive.
+- **Shortlist / Share** — curated client-facing set of projects; shareable link.
+- **Data Room** — per-prospect shareable microsite (franchise recruitment).
+- **Case** — complaint / grievance / claim / dispute / escalation / whistleblower. Fields: case type, **confidentiality level**, routing target, SLA, status, resolution. *(Extends the existing Support ticket object.)*
+- **Glitch** — no-blame improvement report. Fields: text, auto-context (page/module/role/tenant/time), tag (Product/Experience), severity, status (reported/in-progress/fixed), fix note. **No person-attribution field by design.**
+- **Invoice / Payment** — client/developer/royalty billing; provider reference; paid/unpaid.
+- **Payout** — commission/royalty distribution record; split lines; approval; reconciliation.
+- **Reimbursement** — expense claim; receipt; approver; payment status.
+- **Person (HR)** — employee record; role; contract; leave; payslip links; certification status.
+- **Tenant** — franchise workspace; lifecycle state (provisioned/active/wind-down).
+- **Audit Log entry** — immutable action trail (who/what/when); powers data-governance and security cases.
+
+**Rule:** confidentiality is a property of the record (esp. Case), not a separate app. Money/legal objects are always deterministic (T0) and audit-logged.

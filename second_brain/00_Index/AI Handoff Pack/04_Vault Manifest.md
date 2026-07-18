@@ -17,6 +17,13 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 
 > **Sync note (2026-07-14):** Merged canonical. `00_Index/Vault Manifest.md` and `00_Index/AI Handoff Pack/04_Vault Manifest.md` are now identical.
 
+## New / Notable (2026-07-18)
+- [[04_Product/Platform Information Architecture|Platform Information Architecture]] — **NEW v0.5**, platform IA (public site + logged-in OS + 6 back-office systems + cost model).
+- [[04_Product/Platform Scenario Playbook|Platform Scenario Playbook]] — **NEW v0.5**, 72+ tested scenarios.
+- [[04_Product/Roles and Access Matrix|Roles and Access Matrix]] — **NEW v0.5**, hierarchy, human/AI split, agent pricing.
+- Updated: Product Modules, Data Model, Prototype Spec, Prototype Control Note, Figma Handoff Notes, Master Index, Decision Log, Open Questions.
+- OPEN: `06_Deliverables Tracker - Compact MD.md` (this pack) has drifted from the `16_Task_Management` canonical — needs full re-sync.
+
 ## New / Notable (2026-07-14)
 - [[03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] — **v1.1**, ecosystem-reframed, 20 slides + back pocket.
 - [[03_Pitch/Ecosystem Deck Outline|Ecosystem Deck Outline]] — **NEW, Deck 2 v0.6**, ecosystem/hub vision (first hub = Panama City).

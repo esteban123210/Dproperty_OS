@@ -62,3 +62,29 @@ Controls access, client registration, deal workflow, and HQ approval for curated
 ## Developer Sales OS
 
 Tracks developer projects, sales team pipeline, broker network, reporting, and success fees.
+
+---
+
+## 2026-07-18 Update — Platform Architecture Expansion
+
+The modules above are the operating core. The full platform architecture (public site + logged-in OS + back-office systems) is defined in [[Platform Information Architecture]], with scenarios in [[Platform Scenario Playbook]] and roles in [[Roles and Access Matrix]]. New modules/systems added this session:
+
+### New OS modules
+- **Command Bar** — persistent universal search + command palette on every screen ("three clicks to anything").
+- **Report a Glitch** — persistent no-blame improvement button on every screen.
+- **Resource Library** — templates, brochures, brand assets surfaced from Drive (not re-hosted).
+- **Learning / Academy** — embedded LMS (LearnWorlds/edX) via white-label + SSO.
+- **CRM & Marketing** — embedded, white-labeled GoHighLevel via SSO.
+- **AI Assistant** — the T1 agent layer.
+- **Support / Help Desk** — tickets to HQ, knowledge base.
+- **Field Mode (mobile)** — stripped in-meeting/offline view (inventory, prices, media, contacts, NDA).
+- **Franchise Sales Room** (HQ) — full pitch package in one place for closing franchises.
+- **Data Room generator** — per-prospect shareable personalized microsite.
+
+### Six back-office systems
+- **Finance / Back Office** — commissions, royalties, invoices, payments, reimbursements, refunds, reconciliation, close.
+- **People / HR** — users, roles, contracts, leave, payslips, reviews, on/offboarding, self-service "My Profile."
+- **Cases / Ticketing** — one engine for complaints, grievances, claims, disputes, escalations, whistleblower; case type controls visibility + routing + SLA.
+- **Tenant Lifecycle** (in HQ Control Center) — provision → audit → wind-down a franchise.
+- **Audit Log & Data Governance** — immutable trail, data requests, security flags.
+- **Glitch Report** — no-blame, transparent, continuous-improvement reporting (Four Seasons model); glitches never person-attributed.

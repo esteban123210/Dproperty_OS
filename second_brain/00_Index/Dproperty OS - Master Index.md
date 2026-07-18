@@ -57,6 +57,9 @@ This is the main navigation page for the Dproperty OS project.
 ## 04 Product
 
 - [[../04_Product/Product Vision]]
+- [[../04_Product/Platform Information Architecture]] *(NEW 2026-07-18 — platform IA, public site + OS)*
+- [[../04_Product/Platform Scenario Playbook]] *(NEW 2026-07-18 — 72+ tested scenarios)*
+- [[../04_Product/Roles and Access Matrix]] *(NEW 2026-07-18 — hierarchy, human/AI split, agent pricing)*
 - [[../04_Product/Prototype Spec]]
 - [[../04_Product/Prototype Control Note]]
 - [[../04_Product/Product Modules]]

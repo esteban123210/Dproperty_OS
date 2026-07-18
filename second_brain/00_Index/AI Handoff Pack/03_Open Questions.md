@@ -121,6 +121,18 @@ This file tracks unresolved issues.
 - What are non-negotiable brand rules?
 - What should the welcome kit physically include?
 
+## Platform / Product Architecture (2026-07-18)
+
+- **LMS vendor:** LearnWorlds vs edX for the embedded Academy (leaning LearnWorlds — confirm).
+- **Default AI agent bundle** per plan tier (which 2–3 agents are "included")?
+- **AI credit-cap sizing** to protect margin against heavy T1 usage?
+- **Build stack:** Microsoft Power Platform vs custom web app + Make/n8n for the automation-first model?
+- Can DeepSeek-local (or equivalent) reliably handle T1 language tasks at franchise scale?
+- Is **Sales Manager** a required role above N advisors, or always optional?
+- Payment provider for Finance/Back Office (Stripe vs local rails per market)?
+- Legal review of the per-prospect **Data Room** (what can be shared pre-signature)?
+- Confirm record-level confidentiality (e.g. HR grievance hidden from the Principal it concerns) is feasible in the chosen stack.
+
 ## Immediate Questions for Dproperty Owners
 
 - Do they want to build this as an internal tool only, or as a new scalable business (and do they share the ecosystem ambition)?

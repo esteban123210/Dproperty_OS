@@ -44,3 +44,18 @@ Translate the product specs into a clickable Figma prototype.
 ## Claude/Figma Prompt Use
 
 Use Claude for long UX copy and Figma prompt drafting. Use ChatGPT for product logic and data model.
+
+## 2026-07-18 Update — Platform Architecture & Priority Screens
+
+Full platform architecture is now in [[Platform Information Architecture]]. Before the OS screens above, the wireframe also needs the **public site** (Home, About, Services, Become-a-Franchise hub) and two **always-on top-bar elements** (Command Bar + Report a Glitch) present on every OS screen.
+
+**Recommended first wireframe set (priority, not all at once):**
+1. Public Home (dual CTA: client vs franchise)
+2. "Become a Franchise" hub page
+3. Login / workspace selector
+4. Franchise Workspace Home (with Command Bar + Glitch button)
+5. Deal Detail
+6. Resource Library
+7. Glitch Report + Glitch Feed
+
+Then extend to the remaining OS modules and back-office systems. See [[Platform Scenario Playbook]] for the flows each screen must support and [[Roles and Access Matrix]] for what each role sees.

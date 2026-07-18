@@ -67,11 +67,27 @@ Last generated: 2026-07-01
 - Branding/design session for Deck 1.
 - Sync 00_Index duplicate copies to Handoff Pack versions.
 
+## 2026-07-18 Update — Platform Architecture (Product Workstream)
+
+**Session:** defined the full Dproperty OS platform information architecture (public site + logged-in role-gated OS + 6 back-office systems), stress-tested with 72+ scenarios, and set the roles/human-vs-AI/agent-pricing model. See Decision Log 2026-07-18 and [[../00_Index/Decision Log|Decision Log]].
+
+**New deliverables created (Product / Phase 2 planning specs — not part of the 37 MVP-launch set):**
+- **Platform Information Architecture** — `04_Product/Platform Information Architecture.md` **v0.5**. Two-layer architecture, ~14 public pages, ~25 OS modules, 6 back-office systems, T0/T1/T2 cost model, embedding strategy. *(Suggest tracker ID DP-270 at next Excel regen.)*
+- **Platform Scenario Playbook** — `04_Product/Platform Scenario Playbook.md` **v0.5**. 72+ scenarios (agent, prospect, HQ, HR, complaints, finance, claims/edge, glitch). *(Suggest DP-271.)*
+- **Roles and Access Matrix** — `04_Product/Roles and Access Matrix.md` **v0.5**. Hierarchy, role→access, human/AI map, confidentiality rules, agent pricing. *(Suggest DP-272.)*
+
+**Impact on existing software rows (DP-061–DP-080):** these now have a defined IA parent. New systems to fold into the software backlog at next Excel regen: Command Bar, Field Mode (mobile), Resource Library, embedded Academy (LMS), embedded CRM, Cases/Ticketing engine, Finance/Back-Office, People/HR, Tenant Lifecycle, Audit Log, **Glitch Report**, Franchise Sales Room, Data Room generator.
+
+**Updated this session:** Product Modules, Data Model, Prototype Spec, Prototype Control Note, Figma Handoff Notes, Master Index, Decision Log, Open Questions, Vault Manifest.
+
+**Still needs action:** wireframe priority screens in Figma; assign DP-270–272 IDs in the Excel tracker; sync AI Handoff Pack duplicate copies (02/03/04/06) to the 00_Index canonical versions.
+
 ## Status Summary
 
 - Not Started: 264
 - Draft Created: 4
 - In Progress: 1
+- Product architecture specs (v0.5): 3 *(Platform IA, Scenario Playbook, Roles & Access — added 2026-07-18)*
 
 ## Priority Summary
 

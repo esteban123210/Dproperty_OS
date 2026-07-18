@@ -17,6 +17,13 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 
 > **Sync note (2026-07-14):** Merged canonical. `00_Index/Vault Manifest.md` and `00_Index/AI Handoff Pack/04_Vault Manifest.md` are now identical.
 
+## New / Notable (2026-07-18)
+- [[04_Product/Platform Information Architecture|Platform Information Architecture]] — **NEW v0.5**, platform IA (public site + logged-in OS + 6 back-office systems + cost model).
+- [[04_Product/Platform Scenario Playbook|Platform Scenario Playbook]] — **NEW v0.5**, 72+ tested day-to-day scenarios.
+- [[04_Product/Roles and Access Matrix|Roles and Access Matrix]] — **NEW v0.5**, hierarchy, human/AI split, agent pricing.
+- Updated: Product Modules, Data Model, Prototype Spec, Prototype Control Note, Figma Handoff Notes, Master Index, Decision Log, Open Questions.
+- OPEN: AI Handoff Pack copies (02/03/04/06) need re-sync to 00_Index canonical.
+
 ## New / Notable (2026-07-14)
 - [[03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] — **v1.1**, ecosystem-reframed, 20 slides + back pocket.
 - [[03_Pitch/Ecosystem Deck Outline|Ecosystem Deck Outline]] — **NEW, Deck 2 v0.6**, ecosystem/hub vision (first hub = Panama City).
@@ -84,10 +91,13 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[04_Product/Data Model|Data Model]] — `04_Product/Data Model.md`
 - [[04_Product/Figma Handoff Notes|Figma Handoff Notes]] — `04_Product/Figma Handoff Notes.md`
 - [[04_Product/MVP Scope|MVP Scope]] — `04_Product/MVP Scope.md`
+- [[04_Product/Platform Information Architecture|Platform Information Architecture]] — `04_Product/Platform Information Architecture.md` *(NEW 2026-07-18)*
+- [[04_Product/Platform Scenario Playbook|Platform Scenario Playbook]] — `04_Product/Platform Scenario Playbook.md` *(NEW 2026-07-18)*
 - [[04_Product/Product Modules|Product Modules]] — `04_Product/Product Modules.md`
 - [[04_Product/Product Vision|Product Vision]] — `04_Product/Product Vision.md`
 - [[04_Product/Prototype Control Note|Prototype Control Note]] — `04_Product/Prototype Control Note.md`
 - [[04_Product/Prototype Spec|Prototype Spec]] — `04_Product/Prototype Spec.md`
+- [[04_Product/Roles and Access Matrix|Roles and Access Matrix]] — `04_Product/Roles and Access Matrix.md` *(NEW 2026-07-18)*
 - [[05_Franchise_Package/Brand/Brand Manual|Brand Manual]] — `05_Franchise_Package/Brand/Brand Manual.md`
 - [[05_Franchise_Package/Compliance/Compliance Package|Compliance Package]] — `05_Franchise_Package/Compliance/Compliance Package.md`
 - [[05_Franchise_Package/Franchise Deliverables Checklist|Franchise Deliverables Checklist]] — `05_Franchise_Package/Franchise Deliverables Checklist.md`

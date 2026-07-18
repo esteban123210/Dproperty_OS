@@ -11,6 +11,8 @@ tags: [product, figma]
 
 # Dproperty OS — Prototype Specification for Figma
 
+> **Note (2026-07-18):** This spec defines the OS screens. The broader platform architecture — public marketing site, "Become a Franchise" recruitment hub, the always-on Command Bar and Glitch Report, back-office systems (Finance, HR, Cases, Tenant Lifecycle, Audit, Glitch), and the embedded CRM/Academy — now lives in [[Platform Information Architecture]]. Roles are detailed in [[Roles and Access Matrix]]; workflows validated in [[Platform Scenario Playbook]]. Read those first when wireframing.
+
 ## Prototype goal
 Create a premium, calm, boutique real estate operating platform. The product should feel like a private investment office crossed with a modern operating system: elegant, structured, and extremely clear.
 
