@@ -11,10 +11,14 @@
             "id": "3e7e0b78d11a449d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "second_brain/04_Product/Figma Handoff Notes.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Figma Handoff Notes"
             }
           }
         ]
@@ -200,8 +204,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0cab61b4f641215e",
+  "active": "3e7e0b78d11a449d",
   "lastOpenFiles": [
+    "dproperty brain/02_Projects/_Templates/_Private Collection Template.md",
     "dproperty brain/02_Projects/Private Collection/Active/Gesti68/00_Project Control/Executive Summary.md",
     "dproperty brain/02_Projects/Private Collection/Active/Gesti68/01_Project & Developer/README.md",
     "second_brain/03_Pitch/Pitch Deck Outline.md",
@@ -236,7 +241,6 @@
     "dproperty brain/02_Projects/Private Collection/README.md",
     "dproperty brain/02_Projects/Private Collection/Pipeline/README.md",
     "dproperty brain/02_Projects/Private Collection/Paused/README.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/99_Archive/README.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/12_Documents & Media/Document Index.md"
+    "dproperty brain/02_Projects/Private Collection/Active/Sky Parc IV/99_Archive/README.md"
   ]
 }
