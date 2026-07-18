@@ -11,10 +11,14 @@
             "id": "666702d26a3c4c51",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "second_brain/04_Product/Public Site Wireframe.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Public Site Wireframe"
             }
           }
         ]
@@ -200,7 +204,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0cab61b4f641215e",
+  "active": "666702d26a3c4c51",
   "lastOpenFiles": [
     "second_brain/04_Product/Public Site Wireframe.md",
     "second_brain/04_Product/Figma Handoff Notes.md",
