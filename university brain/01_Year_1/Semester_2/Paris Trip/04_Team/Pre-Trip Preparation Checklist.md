@@ -20,7 +20,7 @@ Your team must have these conversations BEFORE arriving in Paris.
 5. **Seasoned Entrepreneur** 🎯 — Observer, synthesizer, final wisdom
 
 **Assignment method:**
-- [ ] Have each person read the character descriptions in [[Team Roles & Video Characters.md]]
+- [ ] Have each person read the character descriptions in [[Team Roles & Video Characters]]
 - [ ] Ask: "Which character feels natural to you? Where do you actually think?"
 - [ ] Assign based on HONEST FIT, not who "should" play that role narratively
 - [ ] **Confirm:** All 5 people say yes to their role
@@ -55,8 +55,8 @@ Your team must have these conversations BEFORE arriving in Paris.
 ### 1.3 Team Conversation: Tone & Values
 
 **Read together:**
-- [ ] [[Video Creative Direction - What Is Entrepreneurship.md]] (especially the Tone section)
-- [ ] [[Team Roles & Video Characters.md]] (especially Psychological Safety section)
+- [ ] [[Video Creative Direction - What Is Entrepreneurship]] (especially the Tone section)
+- [ ] [[Team Roles & Video Characters]] (especially Psychological Safety section)
 
 **Discuss as a team:**
 
@@ -260,7 +260,7 @@ Your team must have these conversations BEFORE arriving in Paris.
 - [ ] **Knowledge Transfer:** How universities and research turn into entrepreneurship
 
 **Study method:**
-- [ ] Read quick definitions in [[Learning Hooks & Key Concepts.md]]
+- [ ] Read quick definitions in [[Learning Hooks & Key Concepts]]
 - [ ] Discuss what you already know about each concept
 - [ ] Anticipate how each site will illustrate these concepts
 
@@ -269,7 +269,7 @@ Your team must have these conversations BEFORE arriving in Paris.
 ### 4.2 Site Preparation
 
 **For each site you're visiting, read the guide:**
-- [ ] [[Hello Tomorrow Guide.md]] (or similar)
+- [ ] [[Hello Tomorrow Guide]] (or similar)
 - [ ] Discuss: What will we see? What should we ask? What will this teach us?
 
 **Recording opportunities at each site:**
@@ -325,8 +325,8 @@ Your team must have these conversations BEFORE arriving in Paris.
 - [ ] Casual clothes for free time
 
 **Documents:**
-- [ ] Printed copy of [[Shooting Schedule - Character-Driven Approach.md]]
-- [ ] Printed copy of [[Daily Filming Cheat Sheet.md]]
+- [ ] Printed copy of [[Shooting Schedule - Character-Driven Approach]]
+- [ ] Printed copy of [[Daily Filming Cheat Sheet]]
 - [ ] Site guides and maps
 - [ ] Contact info for all team members
 - [ ] Hotel address + emergency contact
@@ -505,11 +505,11 @@ BACKUP:
 
 Keep these close during the trip:
 
-1. **[[Video Creative Direction - What Is Entrepreneurship.md]]** — Your north star
-2. **[[Team Roles & Video Characters.md]]** — Character definitions
-3. **[[Shooting Schedule - Character-Driven Approach.md]]** — Detailed plan
-4. **[[Daily Filming Cheat Sheet.md]]** — One-pager per day (PRINT THIS)
-5. **[[Daily Schedule.md]]** — Official program schedule
+1. **[[Video Creative Direction - What Is Entrepreneurship]]** — Your north star
+2. **[[Team Roles & Video Characters]]** — Character definitions
+3. **[[Shooting Schedule - Character-Driven Approach]]** — Detailed plan
+4. **[[Daily Filming Cheat Sheet]]** — One-pager per day (PRINT THIS)
+5. **[[Daily Schedule]]** — Official program schedule
 
 ---
 

@@ -41,11 +41,11 @@
 | Resource | Content |
 |----------|---------|
 | [[Paris Trip - README]] | Overview and quick orientation |
-| [[01_Program/Daily Schedule]] | Day-by-day schedule July 7–11 |
-| [[02_Assignments/Assignments Overview]] | Individual brief & video requirements |
-| [[03_Site_Guides/Site Guides Index]] | Details about each organization |
-| [[04_Team/Team Roles & Video Characters]] | Five character archetypes for video |
-| [[05_Resources/Learning Hooks & Key Concepts]] | Key entrepreneurship concepts to understand |
+| [[Daily Schedule]] | Day-by-day schedule July 7–11 |
+| [[Assignments Overview]] | Individual brief & video requirements |
+| [[Site Guides Index]] | Details about each organization |
+| [[Team Roles & Video Characters]] | Five character archetypes for video |
+| [[Learning Hooks & Key Concepts]] | Key entrepreneurship concepts to understand |
 
 ---
 

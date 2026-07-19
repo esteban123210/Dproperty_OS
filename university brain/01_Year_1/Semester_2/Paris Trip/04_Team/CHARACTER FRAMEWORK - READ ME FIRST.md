@@ -420,7 +420,7 @@ That's why this works. That's why it will feel authentic. That's why viewers wil
 **Status:** Ready for character assignment and team preparation  
 
 **Related Documents:**
-- [[Shooting Schedule - Character-Driven Approach.md]]
-- [[Daily Filming Cheat Sheet.md]]
-- [[Pre-Trip Preparation Checklist.md]]
-- [[Video Creative Direction - What Is Entrepreneurship.md]]
+- [[Shooting Schedule - Character-Driven Approach]]
+- [[Daily Filming Cheat Sheet]]
+- [[Pre-Trip Preparation Checklist]]
+- [[Video Creative Direction - What Is Entrepreneurship]]
