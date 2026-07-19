@@ -4,8 +4,8 @@
   "title": "Complete Paris trip assignment from pitch and r...",
   "titleGenerationStatus": "success",
   "createdAt": 1784487766476,
-  "updatedAt": 1784488981359,
-  "lastResponseAt": 1784488981359,
+  "updatedAt": 1784489505255,
+  "lastResponseAt": 1784489505255,
   "sessionId": "dcbe338f-20dd-4a17-8b0b-4175204338b3",
   "providerState": {
     "providerSessionId": "dcbe338f-20dd-4a17-8b0b-4175204338b3"
@@ -13,12 +13,12 @@
   "currentNote": "second_brain/03_Pitch/Pitch Deck Outline.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 2,
-    "cacheCreationInputTokens": 2933,
-    "cacheReadInputTokens": 111071,
+    "inputTokens": 131,
+    "cacheCreationInputTokens": 6185,
+    "cacheReadInputTokens": 114397,
     "contextWindow": 1000000,
-    "contextTokens": 114006,
-    "percentage": 11,
+    "contextTokens": 120713,
+    "percentage": 12,
     "contextWindowIsAuthoritative": true
   }
 }
