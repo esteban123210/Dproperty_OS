@@ -30,7 +30,7 @@ This clarified my thinking more than any single visit. In a region where trust i
 
 ## What I am taking forward
 
-For myself and other LATAM ecosystem builders my recomenda: do not simply copy European openness. In a low trust market, lead with curation. Assemble a small community of true specialists, each the best at one craft, and make that curated core the reason a wider network wants to join (drawn from Le19M and Station F).
+For myself and other LATAM ecosystem builders my recomendation is simple: do not simply copy European openness. In a low trust market, lead with curation. Assemble a small community of true specialists, each the best at one craft, and make that curated core the reason a wider network wants to join (drawn from Le19M and Station F).
 
 For LATAM policymakers and universities: treat community and physical gathering space as genuine infrastructure. Europe can rely on institutions to create connection; LATAM must build it deliberately, through hubs that concentrate talent that is otherwise scattered (drawn from Station F and POUSH).
 
