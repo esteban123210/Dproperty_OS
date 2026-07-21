@@ -27,21 +27,19 @@ tags: [handoff, production, source-of-truth]
 | Sales Playbook (M4) | [[Handoff - Sales Playbook (M4)]] | Printable book (PDF) | Book/PDF generator | 🟢 v0.5 |
 | Franchise Operations Manual (M2) | [[Handoff - Franchise Operations Manual (M2)]] | Printable book (PDF) | Book/PDF generator | 🟢 v0.5 |
 | Compliance Manual (M5) | [[Handoff - Compliance Manual (M5)]] | Printable book (PDF) | Book/PDF generator | 🟢 v0.5 |
-| Franchise Onboarding (M1) | `Handoff - Franchise Onboarding (M1)` | Printable book / PDF | Book/PDF generator | ⬜ to build |
-| Launch Plan (M3) | `Handoff - Launch Plan (M3)` | Printable book / PDF | Book/PDF generator | ⬜ to build |
-| Pitch Deck (Deck 1) | `Handoff - Pitch Deck (Deck 1)` | Slide deck | AI presentation tool | ⬜ to build (source: [[Pitch Deck Outline]]) |
-| Ecosystem Deck (Deck 2) | `Handoff - Ecosystem Deck (Deck 2)` | Slide deck | AI presentation tool | ⬜ to build |
-| Public Website | `Handoff - Public Website` | Website | Website/AI site builder | ⬜ to build (source: [[Public Site Wireframe]], [[Public Site Copy - ES Master]]) |
-| Brand Manual | `Handoff - Brand Manual` | Printable book / brand kit | Design tool | ⬜ to build |
-| Welcome Kit | `Handoff - Welcome Kit` | Print + physical spec | Design/print | ⬜ to build |
-| Financial Model | `Handoff - Financial Model` | Spreadsheet | Excel/Sheets | ⬜ to build |
+| Franchise Onboarding (M1) | [[Handoff - Franchise Onboarding (M1)]] | Printable book (PDF) | Book/PDF generator | 🟢 v0.5 |
+| Launch Plan (M3) | [[Handoff - Launch Plan (M3)]] | Printable book (PDF) | Book/PDF generator | 🟢 v0.5 |
+| Pitch Deck (Deck 1) | [[Handoff - Pitch Deck (Deck 1)]] | Slide deck (.pptx) | AI presentation tool | 🟢 v1.1 |
+| Ecosystem Deck (Deck 2) | [[Handoff - Ecosystem Deck (Deck 2)]] | Slide deck (.pptx) | AI presentation tool | 🟢 v0.6 |
+| Public Website | [[Handoff - Public Website]] | Website | Website/AI site builder | 🟢 v1.0 |
+| Brand Manual | [[Handoff - Brand Manual]] | Brand book + kit | Design tool | 🟢 v0.5 |
+| Welcome Kit | [[Handoff - Welcome Kit]] | Print + physical spec | Design/print | 🟢 v0.5 |
+| Financial Model | [[Handoff - Financial Model]] | Spreadsheet | Excel/Sheets | 🟢 v0.7 |
 
 *(Add a row whenever a new deliverable begins. HQ manual M0 and white-label/developer overlays get handoffs once drafted.)*
 
-## Priority to build next
-1. **Pitch Deck (Deck 1)** — named example; source outline is mature (v1.1).
-2. **Public Website** — named example; wireframe + ES copy exist.
-3. **M1 Onboarding + M3 Launch** — once upgraded to standards.
+## Coverage note
+All current major deliverables now have a handoff (11 files). **Not yet built** (deliverable itself not ready): M0 HQ manual, white-label overlay, developer overlay, and the Phase-2 ecosystem financial model — each gets a handoff once its source exists.
 
 ## Notes
 - Handoffs are **generated from the source notes**; if a handoff and its source ever disagree, the **source note wins** and the handoff is regenerated.
