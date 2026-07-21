@@ -294,3 +294,11 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Reason:** Prevents three drifting manual sets; makes white-label and developer productizable from the same maintained core.
 **Impacted Areas:** Franchise Package, White-label, Developer Sales OS, Brand, Legal.
 **Status:** Active. Branded set in progress; white-label & developer overlays scaffolded, to be written after branded P0 manuals stabilize.
+
+## 2026-07-21 — Handoff Files: One Self-Contained MD per Deliverable
+
+**Decision:** Every deliverable gets a **handoff file** in `17_Handoff_Files/` — a single, **self-contained** Markdown file carrying the final content **plus** design/brand direction, assets list, and copy-paste **tool instructions** so an external tool (AI presentation tool, website builder, book/PDF generator) can produce the highest-fidelity final product from that one file. Handoffs **inline** content (external tools can't read the vault). Standard sections: Production Brief · Design/Brand Direction · Assets Required · Tool Instructions · Final Content · Build & QA Checklist · Source & Change Log. Registry + template: [[../05_Franchise_Package/../17_Handoff_Files/00 - Handoff Index|Handoff Index]] / [[../17_Handoff_Files/_Handoff Template|template]].
+**Standing rule:** on **every session close**, the handoff file for each deliverable touched is **created or updated** (added to Close Session Mode in CLAUDE.md). If a handoff and its source note disagree, the **source note wins** and the handoff is regenerated.
+**Reason:** Gives one authoritative, tool-ready file per deliverable so final products (decks, site, printable manual books) can be generated on demand at max fidelity without reassembling context.
+**Impacted Areas:** All deliverable workstreams; session-close workflow.
+**Status:** Active. Built 2026-07-21 for M2, M4, M5; pitch, website, M1, M3 queued.

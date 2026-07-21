@@ -4,8 +4,8 @@
   "title": "Review Dproperty commercial process manuals",
   "titleGenerationStatus": "success",
   "createdAt": 1784589849461,
-  "updatedAt": 1784602374371,
-  "lastResponseAt": 1784602374371,
+  "updatedAt": 1784629742870,
+  "lastResponseAt": 1784629742870,
   "sessionId": "3eb57c0b-432d-4639-8106-0b25503f2aa1",
   "providerState": {
     "providerSessionId": "3eb57c0b-432d-4639-8106-0b25503f2aa1"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 1472,
-    "cacheReadInputTokens": 260856,
+    "cacheCreationInputTokens": 546,
+    "cacheReadInputTokens": 291809,
     "contextWindow": 1000000,
-    "contextTokens": 262330,
-    "percentage": 26,
+    "contextTokens": 292357,
+    "percentage": 29,
     "contextWindowIsAuthoritative": true
   }
 }

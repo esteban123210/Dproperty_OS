@@ -19,6 +19,7 @@ Built the **manuals system** and executed the first real pass against it. Define
 
 ## Created
 - Manuals System Index · Process Library (8 files, 7/7 processes abstracted) · Source Material (verbatim v002-26) · Localization Framework · Multi-Line Manual Strategy · Manuals Audit & Gap Analysis.
+- **Handoff Files system** (`17_Handoff_Files/`): Index + template + self-contained tool-ready handoffs for M4, M2, M5. New standing rule: one handoff per deliverable, updated on session close.
 
 ## Updated
 - Sales Playbook M4 → v0.5 · Operations Manual M2 → v0.5 · Compliance M5 → v0.5 · First Franchisee Launch Playbook → v0.2 · CLAUDE.md (roles-not-names) · Decision Log (+4) · Open Questions · Manuals System Index.

@@ -26,7 +26,8 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[05_Franchise_Package/Multi-Line Manual Strategy|Multi-Line Manual Strategy]] — **NEW v0.5**, shared core + white-label/developer overlays.
 - [[05_Franchise_Package/Manuals Audit and Gap Analysis|Manuals Audit & Gap Analysis]] — **NEW v1.0**, maturity + P0→P2 roadmap.
 - Updated to v0.5: [[05_Franchise_Package/Sales/Sales Playbook|Sales Playbook (M4)]], [[05_Franchise_Package/Operations/Operations Manual|Franchise Operations Manual (M2)]], [[05_Franchise_Package/Compliance/Compliance Package|Compliance Manual (M5)]]. Fixed to standards: [[05_Franchise_Package/Launch/First Franchisee Launch Playbook|First Franchisee Launch Playbook v0.2]].
-- **Standing rule:** "roles, never names" (Decision 2026-07-21; enforced in CLAUDE.md).
+- **NEW — Handoff Files system:** [[17_Handoff_Files/00 - Handoff Index|Handoff Index]] + [[17_Handoff_Files/_Handoff Template|template]] + self-contained, tool-ready handoffs for [[17_Handoff_Files/Handoff - Sales Playbook (M4)|M4]], [[17_Handoff_Files/Handoff - Franchise Operations Manual (M2)|M2]], [[17_Handoff_Files/Handoff - Compliance Manual (M5)|M5]]. One MD per deliverable → generate the final product.
+- **Standing rules:** "roles, never names" and "one handoff file per deliverable, updated on session close" (Decisions 2026-07-21; enforced in CLAUDE.md).
 
 ## New / Notable (2026-07-18)
 - [[04_Product/Platform Information Architecture|Platform Information Architecture]] — **NEW v0.5**, platform IA (public site + logged-in OS + 6 back-office systems + cost model).

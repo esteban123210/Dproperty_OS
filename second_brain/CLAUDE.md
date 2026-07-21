@@ -52,9 +52,14 @@ When I say `close working session`, do this:
    - `00_Index/Vault Manifest.md`
    - `00_Index/Current Priorities.md`
    - `16_Task_Management/Deliverables Tracker - Compact MD.md`
-4. Tell me exactly which files were changed.
-5. Tell me which files still need manual review.
-6. Give me a final 10-minute shutdown checklist.
+4. **Update handoff files (Decision 2026-07-21):** for every deliverable touched this session, create or update its handoff file in `17_Handoff_Files/` so it stays a current, self-contained, tool-ready MD. See `17_Handoff_Files/00 - Handoff Index.md`.
+5. Tell me exactly which files were changed.
+6. Tell me which files still need manual review.
+7. Give me a final 10-minute shutdown checklist.
+
+## Handoff files
+
+Every deliverable gets one **self-contained** handoff file in `17_Handoff_Files/` — final content **plus** design/brand direction, assets list, and copy-paste tool instructions — so an external tool can generate the highest-fidelity final product (deck, website, printable manual book, spreadsheet) from that single MD. Inline content (external tools can't follow wikilinks). Sections: Production Brief · Design/Brand Direction · Assets Required · Tool Instructions · Final Content · Build & QA Checklist · Source & Change Log. Template: `17_Handoff_Files/_Handoff Template.md`. If a handoff and its source note disagree, the source note wins and the handoff is regenerated.
 
 ## Board of Advisors technique
 

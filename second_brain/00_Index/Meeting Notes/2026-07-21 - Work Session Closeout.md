@@ -40,6 +40,10 @@ The user wants five franchise manuals ready (onboarding, master operations, sale
 2. **Roles, never names** (project-wide standing rule).
 3. **Localization model:** process global, values local; market pack + legal sign-off is a go-live gate.
 4. **Multi-line manuals:** shared core + thin line overlays (white-label, developer).
+5. **Handoff files:** one self-contained, tool-ready MD per deliverable in `17_Handoff_Files/`, **updated on every session close** (new standing rule; also in CLAUDE.md).
+
+## Addendum — Handoff Files system (post-close, 2026-07-21)
+Created the **Handoff Files** system: [[../../17_Handoff_Files/00 - Handoff Index|Index]] + [[../../17_Handoff_Files/_Handoff Template|template]] + self-contained handoffs for [[../../17_Handoff_Files/Handoff - Sales Playbook (M4)|M4]], [[../../17_Handoff_Files/Handoff - Franchise Operations Manual (M2)|M2]], [[../../17_Handoff_Files/Handoff - Compliance Manual (M5)|M5]] (each = production brief + design direction + assets + tool instructions + full inlined content + QA). Queued: pitch deck, public website, M1 Onboarding, M3 Launch. From now on, closing a session must refresh the handoff for every deliverable touched.
 
 ## Strategic changes
 - The manuals are now a **system built on one abstracted Process Library**, not five drifting documents.
