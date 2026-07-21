@@ -4,7 +4,7 @@ title: "Open Questions"
 type: open_questions
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-14
+last_updated: 2026-07-21
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [questions, strategy, legal, finance]
 ---
@@ -132,6 +132,14 @@ This file tracks unresolved issues.
 - Payment provider for Finance/Back Office (Stripe vs local rails per market)?
 - Does the per-prospect **Data Room** generator need legal review (what can be shared pre-signature)?
 - Confidentiality model: confirm record-level visibility rules (e.g. HR grievance hidden from the Principal it concerns) are feasible in the chosen build stack.
+
+## Manuals / Documentation (2026-07-21)
+
+- **Language:** Are the franchise manuals authored in **Spanish, English, or bilingual**? First markets (Panama, Bogotá, Medellín) are Spanish; investor/deck audience is English. (Broadens the existing Franchise Package question from onboarding-only to all six manuals.)
+- **Naming:** Confirm "**Maestro**" = HQ-internal master (M0); the franchisee's manual is "Manual de Operaciones de la Franquicia" (M2).
+- **M0 timing:** Confirm the HQ / Franchisor Operations Manual is genuinely deferred until M1–M5 drafts exist.
+- **Commission layering:** Confirm how the agency payroll splits (from source Proceso 7) are represented vs. the franchise royalty waterfall in M2/M5 without conflating the two layers.
+- See [[../05_Franchise_Package/Manuals System Index|Manuals System Index]] for the full architecture.
 
 ## Immediate Questions for Dproperty Owners
 

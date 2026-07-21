@@ -1,0 +1,23 @@
+{
+  "id": "conv-1784584757226-akr9okmyt",
+  "providerId": "claude",
+  "title": "Assess project alignment with analytical brief ...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784584757226,
+  "updatedAt": 1784589727371,
+  "lastResponseAt": 1784587998596,
+  "sessionId": "7e752691-b47e-4b28-a5ad-823dc58f950c",
+  "providerState": {
+    "providerSessionId": "7e752691-b47e-4b28-a5ad-823dc58f950c"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 3729,
+    "cacheReadInputTokens": 73912,
+    "contextWindow": 1000000,
+    "contextTokens": 77643,
+    "percentage": 8,
+    "contextWindowIsAuthoritative": true
+  }
+}

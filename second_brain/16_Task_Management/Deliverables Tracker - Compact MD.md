@@ -4,7 +4,7 @@ title: "Deliverables Tracker - Compact MD"
 type: tracker
 status: Generated from Excel
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-07-21
 source: ChatGPT baseline vault package
 tags: [deliverables, tracker]
 ---
@@ -82,11 +82,37 @@ Last generated: 2026-07-01
 
 **Still needs action:** wireframe priority screens in Figma; assign DP-270–272 IDs in the Excel tracker; sync AI Handoff Pack duplicate copies (02/03/04/06) to the 00_Index canonical versions.
 
+## 2026-07-21 Update — Manuals System + Process Library + Multinational Readiness
+
+**Session:** built the manuals architecture and executed the first real pass. See [[../00_Index/Meeting Notes/2026-07-21 - Work Session Closeout|2026-07-21 Closeout]] and Decision Log (+4 decisions).
+
+**Row changes (Manuals workstream):**
+- **DP-094 Master Operations Manual** → M2 Franchise Operations Manual **v0.5** (rebuilt on the Process Library). Path: `05_Franchise_Package/Operations/Operations Manual.md`.
+- **DP-097 Sales Playbook** → M4 **v0.5** (rebuilt on Process Library). Path: `05_Franchise_Package/Sales/Sales Playbook.md`.
+- **DP-101 Compliance Manual** → M5 **v0.5** (multinational coverage; needs legal sign-off). Path: `05_Franchise_Package/Compliance/Compliance Package.md`.
+- **DP-046 30/60/90 Launch Plan** — companion **First Franchisee Launch Playbook v0.2** fixed to standards (roles/USD/relative weeks/commission math). Path: `05_Franchise_Package/Launch/`.
+- **DP-044 Franchise Onboarding** — unchanged this session; flagged for standards upgrade next.
+
+**New deliverables created (suggest new tracker IDs at next Excel regen):**
+- **Manuals System Index** — `05_Franchise_Package/Manuals System Index.md` (architecture, 6 manuals / 3 audiences).
+- **Process Library (8 files, 7/7 processes abstracted)** — `05_Franchise_Package/Operations/Process Library/` (role-agnostic Leads, Preventa, Secondary, Assignment, Rental, Property Mgmt, Commissions + Index/Role Map).
+- **Source Material** — `05_Franchise_Package/Operations/Source Material/Dproperty Commercial Process Manual (v002-26).md` (verbatim import, read-only).
+- **Localization Framework** — `05_Franchise_Package/Localization/Localization Framework.md` (Market Variables Matrix).
+- **Multi-Line Manual Strategy** — `05_Franchise_Package/Multi-Line Manual Strategy.md`.
+- **Manuals Audit & Gap Analysis** — `05_Franchise_Package/Manuals Audit and Gap Analysis.md`.
+
+**Path reconciliation:** the Excel tracker lists manuals under a single `05_Franchise_Package/Manuals/` folder; actual files live under `Operations/`, `Sales/`, `Compliance/`, `Launch/`. Update the Excel paths at next regen.
+
+**Still needs action (next session):** legal sign-off on M5 per market; build Colombia market pack + reconfirm Panama values; decide manual language; upgrade M1 Onboarding + M3 30-60-90 + Brand + Training to standards; write white-label & developer overlays.
+
 ## Status Summary
 
-- Not Started: 264
+- Not Started: ~258
 - Draft Created: 4
 - In Progress: 1
+- **Manuals v0.5 (Structured Draft): 3** *(M2 Operations, M4 Sales, M5 Compliance — 2026-07-21)*
+- **Process Library (abstracted, role-agnostic): 7 processes + index** *(2026-07-21)*
+- **New manuals frameworks: 4** *(Manuals Index, Localization, Multi-Line, Audit — 2026-07-21)*
 - Product architecture specs (v0.5): 3 *(Platform IA, Scenario Playbook, Roles & Access — added 2026-07-18)*
 
 ## Priority Summary

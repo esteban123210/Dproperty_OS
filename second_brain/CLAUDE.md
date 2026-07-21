@@ -80,6 +80,8 @@ If a file exists, update it instead of duplicating it.
 
 Use clear Markdown.
 
+**Roles, never names (project-wide, Decision 2026-07-21).** All deliverables — manuals, specs, playbooks, RACI, templates, product docs — use abstract role codes, never personal names or single-office headcounts. Replace real names (Silvia, Maria Isabel, Luz Adriana, Esteban, etc.) with roles. Mark any office/country/currency-specific value (amounts, ACOBIR, Panama rules) as a local-market variable, not hard-coded policy. Canonical role taxonomy: `05_Franchise_Package/Operations/Process Library/00 - Process Library Index.md`.
+
 Preserve existing strategic decisions unless I explicitly revise them.
 
 Whenever you update a file, preserve useful existing content and add new content under clear dated sections.

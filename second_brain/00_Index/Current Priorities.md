@@ -4,7 +4,7 @@ title: "Current Priorities"
 type: priorities
 status: Active
 owner: Esteban
-last_updated: 2026-07-14
+last_updated: 2026-07-21
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [priorities, next-actions, execution]
 ---
@@ -12,6 +12,18 @@ tags: [priorities, next-actions, execution]
 # Current Priorities
 
 > **Sync note (2026-07-14):** Merged canonical. `00_Index/Current Priorities.md` and `00_Index/AI Handoff Pack/05_Current Priorities.md` are now identical.
+
+## Session Update (2026-07-21) — Manuals System + Process Library
+
+Built the **manuals architecture** and executed the first real pass. Outcomes:
+- **6-manual / 3-audience system** defined ([[../05_Franchise_Package/Manuals System Index|Manuals System Index]]); M0 HQ manual deferred.
+- **Process Library** — agency's 7 commercial processes **abstracted to role-agnostic, market-flagged** files (crown-jewel content).
+- **Roles, never names** is now a **project-wide standing rule** (Decision 2026-07-21; also in CLAUDE.md).
+- **Rebuilt to v0.5:** Sales Playbook (M4), Franchise Operations Manual (M2), Compliance Manual (M5). **Fixed:** First Franchisee Launch Playbook → v0.2 (standards).
+- **New frameworks:** Localization (process-global/values-local) + Multi-Line (shared core + overlays).
+- **Audit:** multinational-hub readiness ~30% → **~55%**; two P0 gates remain — **compliance legal sign-off** and **localization packs**.
+
+**Next first action:** start the **Colombia market pack** in [[../05_Franchise_Package/Localization/Localization Framework|Localization Framework]] (or book the **M5 legal review**), then upgrade **M1 Onboarding + M3 30-60-90** on the Process Library. Full path in [[../05_Franchise_Package/Manuals Audit and Gap Analysis|Manuals Audit]] (P0→P2).
 
 ## Session Update (2026-07-14) — Pitch Deck Content + Ecosystem Reframe
 

@@ -4,18 +4,29 @@ title: "Vault Manifest"
 type: vault_manifest
 status: Generated
 owner: Esteban
-last_updated: 2026-07-14
+last_updated: 2026-07-21
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [manifest, ai-handoff]
 ---
 
 # Vault Manifest
 
-Last generated: 2026-07-14
+Last generated: 2026-07-21
 
 This file lists the baseline files in the Dproperty OS Obsidian vault package.
 
 > **Sync note (2026-07-14):** Merged canonical. `00_Index/Vault Manifest.md` and `00_Index/AI Handoff Pack/04_Vault Manifest.md` are now identical.
+
+## New / Notable (2026-07-21) — Manuals System + Process Library
+- [[05_Franchise_Package/Manuals System Index|Manuals System Index]] — **NEW**, 6-manual / 3-audience architecture, one master source.
+- [[05_Franchise_Package/Operations/Process Library/00 - Process Library Index|Process Library Index + Role Map]] — **NEW**, project-wide role taxonomy.
+- Process Library (7/7 abstracted, role-agnostic): [[05_Franchise_Package/Operations/Process Library/01 - Leads|01 Leads]], [[05_Franchise_Package/Operations/Process Library/02 - Preventa (Lista Cero)|02 Preventa]], [[05_Franchise_Package/Operations/Process Library/03 - Secondary Market Sale|03 Secondary]], [[05_Franchise_Package/Operations/Process Library/04 - Assignment (Cesion)|04 Assignment]], [[05_Franchise_Package/Operations/Process Library/05 - Long-Stay Rental|05 Rental]], [[05_Franchise_Package/Operations/Process Library/06 - Property Management|06 Property Mgmt]], [[05_Franchise_Package/Operations/Process Library/07 - Commissions|07 Commissions]].
+- [[05_Franchise_Package/Operations/Source Material/Dproperty Commercial Process Manual (v002-26)|Commercial Process Manual v002-26]] — **NEW**, verbatim source import (read-only).
+- [[05_Franchise_Package/Localization/Localization Framework|Localization Framework]] — **NEW v0.5**, process-global/values-local + Market Variables Matrix.
+- [[05_Franchise_Package/Multi-Line Manual Strategy|Multi-Line Manual Strategy]] — **NEW v0.5**, shared core + white-label/developer overlays.
+- [[05_Franchise_Package/Manuals Audit and Gap Analysis|Manuals Audit & Gap Analysis]] — **NEW v1.0**, maturity + P0→P2 roadmap.
+- Updated to v0.5: [[05_Franchise_Package/Sales/Sales Playbook|Sales Playbook (M4)]], [[05_Franchise_Package/Operations/Operations Manual|Franchise Operations Manual (M2)]], [[05_Franchise_Package/Compliance/Compliance Package|Compliance Manual (M5)]]. Fixed to standards: [[05_Franchise_Package/Launch/First Franchisee Launch Playbook|First Franchisee Launch Playbook v0.2]].
+- **Standing rule:** "roles, never names" (Decision 2026-07-21; enforced in CLAUDE.md).
 
 ## New / Notable (2026-07-18)
 - [[04_Product/Platform Information Architecture|Platform Information Architecture]] — **NEW v0.5**, platform IA (public site + logged-in OS + 6 back-office systems + cost model).

@@ -27,12 +27,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "university brain/01_Year_1/Semester_2/Paris Trip/02_Assignments/Assignments Overview.md",
+                "file": "second_brain/00_Index/Project Context Brief.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Assignments Overview"
+              "title": "Project Context Brief"
+            }
+          },
+          {
+            "id": "79634d3c1d0e0043",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "second_brain/05_Franchise_Package/Sales/Sales Playbook.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Sales Playbook"
+            }
+          },
+          {
+            "id": "ef7468f3f12d8e91",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "second_brain/05_Franchise_Package/Onboarding/Franchise Onboarding PDF.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Franchise Onboarding PDF"
             }
           },
           {
@@ -247,8 +275,34 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "00cea06a260acfc0",
+  "active": "79634d3c1d0e0043",
   "lastOpenFiles": [
+    "second_brain/05_Franchise_Package/Manuals System Index.md",
+    "second_brain/05_Franchise_Package/Onboarding/Franchise Onboarding PDF.md",
+    "second_brain/05_Franchise_Package/Manuals Audit and Gap Analysis.md",
+    "second_brain/05_Franchise_Package/Franchise Launch Package Index.md",
+    "second_brain/05_Franchise_Package/Franchise Deliverables Checklist.md",
+    "second_brain/05_Franchise_Package/Localization/Localization Framework.md",
+    "second_brain/00_Index/Project Context Brief.md",
+    "second_brain/00_Index/Meeting Notes/2026-07-21 - Work Session Closeout.md",
+    "second_brain/05_Franchise_Package/Multi-Line Manual Strategy.md",
+    "second_brain/05_Franchise_Package/Localization",
+    "second_brain/05_Franchise_Package/Sales/Sales Playbook.md.tmp.34744.e16f757b1b52",
+    "second_brain/05_Franchise_Package/Operations/Process Library/07 - Commissions.md",
+    "second_brain/05_Franchise_Package/Operations/Process Library/06 - Property Management.md",
+    "second_brain/05_Franchise_Package/Operations/Process Library/05 - Long-Stay Rental.md",
+    "second_brain/05_Franchise_Package/Operations/Process Library/04 - Assignment (Cesion).md",
+    "second_brain/05_Franchise_Package/Operations/Process Library/04 - Assignment (Cesion).md.tmp.34744.cf89468dcb6c",
+    "second_brain/05_Franchise_Package/Operations/Process Library/03 - Secondary Market Sale.md",
+    "second_brain/05_Franchise_Package/Operations/Process Library/02 - Preventa (Lista Cero).md",
+    "second_brain/05_Franchise_Package/Operations/Process Library/02 - Preventa (Lista Cero).md.tmp.34744.1330484f29f1",
+    "second_brain/05_Franchise_Package/Operations/Process Library/01 - Leads.md",
+    "second_brain/05_Franchise_Package/Operations/Process Library/00 - Process Library Index.md",
+    "second_brain/05_Franchise_Package/Operations/Process Library/00 - Process Library Index.md.tmp.34744.b49d9339ead5",
+    "second_brain/05_Franchise_Package/Operations/Process Library",
+    "second_brain/05_Franchise_Package/Operations/Source Material/Dproperty Commercial Process Manual (v002-26).md",
+    "second_brain/05_Franchise_Package/Operations/Source Material",
+    "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
     "university brain/01_Year_1/Semester_2/Paris Trip/02_Assignments/Assignments Overview.md",
     "university brain/01_Year_1/Semester_2/Paris Trip/02_Assignments/Assignment 1 - Individual Analytical Brief (Esteban).md",
     "second_brain/03_Pitch/Pitch Deck Outline.md",
@@ -257,33 +311,7 @@
     "second_brain/04_Product/Figma Handoff Notes.md",
     "second_brain/00_Index/Vault Manifest.md.tmp.37368.58d0d978be8a",
     "second_brain/04_Product/Roles and Access Matrix.md",
-    "second_brain/04_Product/Platform Scenario Playbook.md",
     "second_brain/04_Product/Platform Scenario Playbook.md.tmp.37368.0c45c58d5adf",
-    "second_brain/04_Product/Platform Information Architecture.md",
-    "dproperty brain/02_Projects/_Templates/_Private Collection Template.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Gesti68/00_Project Control/Executive Summary.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Gesti68/01_Project & Developer/README.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/99_Archive/README.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/12_Documents & Media/Document Index.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/11_Construction & Handover/README.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/10_Dproperty Commercial/Commercial Terms.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/09_Marketing Assets/README.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/08_Sales Enablement/README.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/06_Amenities & Lifestyle/Amenities Register.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/07_Legal & Compliance/README.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/05_Payment & Financing/Payment Plan.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/02_Location & Market/README.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/03_Product & Architecture/README.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/04_Inventory & Pricing/Availability & Prices.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/01_Project & Developer/README.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/00_Project Control/Update Log.md",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/99_Archive",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/12_Documents & Media",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/11_Construction & Handover",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/10_Dproperty Commercial",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/09_Marketing Assets",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/08_Sales Enablement",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/07_Legal & Compliance",
-    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/06_Amenities & Lifestyle"
+    "dproperty brain/02_Projects/Private Collection/_Templates/Private Collection Project/99_Archive"
   ]
 }

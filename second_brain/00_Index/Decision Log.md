@@ -4,7 +4,7 @@ title: "Decision Log"
 type: decision_log
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-14
+last_updated: 2026-07-21
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [decisions, source-of-truth]
 ---
@@ -256,3 +256,41 @@ This note records decisions that should not be re-opened accidentally in future 
 **Reason:** Avoids breaking internal links from a folder rename while giving the program a clean, commercial external name. Resolves the pending rename question.
 **Impacted Areas:** Brand, Franchise Package, Pitch, Private Collection notes, Legal (handout templates).
 **Status:** Active. Supersedes the "full rename pending" note.
+
+## 2026-07-21 — Manuals architecture: 6 manuals, 3 audiences, one master source
+
+**Decision:** Dproperty OS manuals are organized by audience into **6 documents**:
+- **M0 — HQ / Franchisor Operations Manual** ("Manual Maestro de Operaciones", HQ-internal, confidential) — deferred.
+- **M1 — Franchise Onboarding** (owner).
+- **M2 — Franchise Operations Manual** ("Manual de Operaciones de la Franquicia", owner).
+- **M3 — Launch Plan / 30-60-90** (owner).
+- **M4 — Sales Playbook** (agents).
+- **M5 — Compliance Manual** (cross-cutting, HQ-enforced).
+
+All manuals are **curated views of one shared Process Library**, seeded from the real agency **Commercial Process Manual (v002-26)**. "Maestro" is reserved for the HQ-internal master (M0) only. Governed by [[../05_Franchise_Package/Manuals System Index|Manuals System Index]].
+**Reason:** Prevents the same process drifting across multiple manuals; separates confidential HQ operations from franchisee-facing content; converts the richest existing source material into reusable, role-based process content.
+**Impacted Areas:** Franchise Package, Compliance, Finance (commission-layer separation), Training.
+**Status:** Active. OPEN: manual language (ES/EN/bilingual); confirm "Maestro" naming; confirm M0 deferral.
+**Caution:** The source manual's agency payroll splits (Junior 35/70, Senior 40/45) are **not** the franchise royalty waterfall (5% → 50/50 co-broke → 35/10/55). Different layers — never conflate.
+
+## 2026-07-21 — Everything Is Role-Agnostic (Roles, Never Names)
+
+**Decision:** Every Dproperty OS deliverable — manuals, specs, playbooks, process maps, RACI, templates, product docs — uses **abstract roles, never personal names or headcounts of a specific office.** Real names (Silvia, Maria Isabel, Luz Adriana, Esteban, etc.) and single-office team sizes ("9 agents", "14 people") are replaced by portable role codes. Any office-, country-, or currency-specific value (amounts, ACOBIR, Panama rules) is marked as a **local-market variable**, not hard-coded as policy.
+**Reason:** The whole product is a franchisable/white-label system that must work for *any* operator in *any* market. Personal names and one-office assumptions make content un-shippable and create privacy/scaling problems.
+**Canonical role taxonomy:** defined and maintained in [[../05_Franchise_Package/Operations/Process Library/00 - Process Library Index|Process Library Index]] (Role Map). All deliverables reference those codes.
+**Impacted Areas:** All workstreams — Franchise Package, Product, Legal, Finance, Brand, Training.
+**Status:** Active. Standing rule.
+
+## 2026-07-21 — Localization Model: "Process Global, Values Local"
+
+**Decision:** Manuals and the Process Library hold the **process** once, market-agnostic. Every country-specific value (currency, commission %, licensing, tax, deposits, legal steps, franchise-disclosure law, data-privacy law, language) lives in a **per-market pack** governed by [[../05_Franchise_Package/Localization/Localization Framework|Localization Framework]] and is tagged `[local-market variable]` in manuals. **A market may not sell franchises, onboard a franchisee, or take a white-label client until its market pack is complete and signed off by local counsel.**
+**Reason:** Makes the whole package portable across borders without rewriting manuals per country, and turns compliance/localization into an explicit go-live gate rather than an assumption.
+**Impacted Areas:** Franchise Package, Legal, Compliance, all manuals, White-label, Developer Sales OS.
+**Status:** Active. Panama pack partially filled (pending legal reconfirmation); Colombia to build.
+
+## 2026-07-21 — Multi-Line Manuals: Shared Core + Line Overlays
+
+**Decision:** The three business lines (branded franchise, white-label, Developer Sales OS) share **one core** (Process Library, Compliance M5, Brand, Localization, Role Map) and add **thin line-specific overlays** that document only what differs. Overlays **link** to the core, never copy it. Governed by [[../05_Franchise_Package/Multi-Line Manual Strategy|Multi-Line Manual Strategy]] and [[../05_Franchise_Package/Manuals System Index|Manuals System Index]].
+**Reason:** Prevents three drifting manual sets; makes white-label and developer productizable from the same maintained core.
+**Impacted Areas:** Franchise Package, White-label, Developer Sales OS, Brand, Legal.
+**Status:** Active. Branded set in progress; white-label & developer overlays scaffolded, to be written after branded P0 manuals stabilize.

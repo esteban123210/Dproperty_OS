@@ -1,0 +1,24 @@
+{
+  "id": "conv-1784589849461-52jn5zob7",
+  "providerId": "claude",
+  "title": "Review Dproperty commercial process manuals",
+  "titleGenerationStatus": "success",
+  "createdAt": 1784589849461,
+  "updatedAt": 1784602374371,
+  "lastResponseAt": 1784602374371,
+  "sessionId": "3eb57c0b-432d-4639-8106-0b25503f2aa1",
+  "providerState": {
+    "providerSessionId": "3eb57c0b-432d-4639-8106-0b25503f2aa1"
+  },
+  "currentNote": "second_brain/00_Index/Project Context Brief.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1472,
+    "cacheReadInputTokens": 260856,
+    "contextWindow": 1000000,
+    "contextTokens": 262330,
+    "percentage": 26,
+    "contextWindowIsAuthoritative": true
+  }
+}
