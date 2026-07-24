@@ -275,8 +275,10 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "0cab61b4f641215e",
+  "active": "0bbfd0970c308a5c",
   "lastOpenFiles": [
+    "dproperty brain/03_Templates/Reports/Dproperty_Wireframe_Estandar_Informe_Inversion.md",
+    "dproperty brain/03_Templates/Reports",
     "second_brain/17_Handoff_Files/Handoff - Financial Model.md",
     "second_brain/17_Handoff_Files/Handoff - Financial Model.md.tmp.34744.c59fb54ed4b3",
     "second_brain/17_Handoff_Files/Handoff - Welcome Kit.md",
@@ -307,11 +309,9 @@
     "second_brain/05_Franchise_Package/Operations/Process Library/07 - Commissions.md",
     "second_brain/05_Franchise_Package/Operations/Process Library/06 - Property Management.md",
     "second_brain/05_Franchise_Package/Operations/Process Library/05 - Long-Stay Rental.md",
-    "second_brain/05_Franchise_Package/Operations/Process Library/04 - Assignment (Cesion).md",
     "second_brain/05_Franchise_Package/Operations/Process Library/04 - Assignment (Cesion).md.tmp.34744.cf89468dcb6c",
     "second_brain/05_Franchise_Package/Operations/Process Library/02 - Preventa (Lista Cero).md.tmp.34744.1330484f29f1",
     "second_brain/05_Franchise_Package/Operations/Process Library/00 - Process Library Index.md.tmp.34744.b49d9339ead5",
-    "second_brain/05_Franchise_Package/Operations/Process Library",
-    "second_brain/05_Franchise_Package/Operations/Source Material"
+    "second_brain/05_Franchise_Package/Operations/Process Library"
   ]
 }
