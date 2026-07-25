@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second_brain/05_Franchise_Package/Sales/Sales Playbook.md",
+                "file": "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Examples/Formato de Propuesta - Capacidad Mensual 6000.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Sales Playbook"
+              "title": "Formato de Propuesta - Capacidad Mensual 6000"
             }
           },
           {
@@ -277,6 +277,8 @@
   },
   "active": "0bbfd0970c308a5c",
   "lastOpenFiles": [
+    "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Examples/Flujo y Proyeccion - Ejemplo Portafolio 500k.md",
+    "second_brain/05_Franchise_Package/Sales/Sales Playbook.md",
     "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/12_Documents & Media/Document Index.md",
     "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/04_Inventory & Pricing/Availability & Prices.md",
     "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/05_Payment & Financing/Payment Plan.md",
@@ -304,14 +306,12 @@
     "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Imports/2026-07-25 - Source Conversion Manifest.md",
     "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Examples/README.md",
     "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Examples/Formato de Propuesta - Capacidad Mensual 6000.md",
-    "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Examples/Flujo y Proyeccion - Ejemplo Portafolio 500k.md",
     "dproperty brain/03_Templates/Reports/Dproperty_Wireframe_Estandar_Informe_Inversion.md",
     "second_brain/17_Handoff_Files/Handoff - Financial Model.md",
     "second_brain/17_Handoff_Files/Handoff - Welcome Kit.md",
     "second_brain/17_Handoff_Files/Handoff - Brand Manual.md",
     "second_brain/17_Handoff_Files/Handoff - Launch Plan (M3).md",
     "second_brain/17_Handoff_Files/Handoff - Franchise Onboarding (M1).md",
-    "second_brain/17_Handoff_Files/Handoff - Public Website.md",
-    "second_brain/17_Handoff_Files/Handoff - Ecosystem Deck (Deck 2).md"
+    "second_brain/17_Handoff_Files/Handoff - Public Website.md"
   ]
 }
