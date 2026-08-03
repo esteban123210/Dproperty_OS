@@ -148,3 +148,31 @@ This file tracks unresolved issues.
 - Are they open to the equity-growth mechanism for operators (earn-in) alongside investor protection?
 - Which existing assets/projects can be used in the franchise/Dproperty Select package?
 - Which markets/countries would they want to test first (beyond Panama as hub)?
+
+## Brand Architecture / Naming (2026-08-03) — P0
+
+Opened by the house-of-brands restructure. See [[../01_Strategy/Brand Architecture|Brand Architecture]].
+
+- **What is the parent company / ecosystem name?** 🔴 **Blocks public launch of the ecosystem website, decks, and all outward assets.**
+- **What is the platform's new name** (replacing "Dproperty OS")? Must be brand-neutral so white-label partners can run on it under their own brand. 🔴 Blocker.
+- **Does Dproperty Select keep the "Dproperty" name** under the parent architecture? A white-label partner selling "Dproperty Select" inventory under their own brand is a naming collision — but the name carries the flagship's credibility.
+- Does the parent brand get its **own visual identity**, or does it inherit the Dproperty system (current interim assumption: inherit)?
+- When and how do we do the **vault-wide rename pass**? (Currently "Dproperty OS" ambiguously means both the company and the platform. Recommendation: one controlled pass after naming, not incremental.)
+
+## White-Label × Dproperty Select (2026-08-03) — P0 CONFLICT
+
+- **Do white-label partners get Dproperty Select access?** 🔴 **Direct conflict in the vault.** [[../13_White_Label/White-Label OS Guide|White-Label OS Guide]] says Select is explicitly **not** included; [[Project Context Brief]] says white-label does **not** automatically get access — but the new Pillar 4 makes Select-driven profit uplift the headline proof point for **all** partners, and a 2.0% white-label payout is already defined. These cannot all be true.
+  - Likely resolution: white-label **does** get Select at the 2.0% payout as standard; the old exclusion is retired. **Confirm with owners.**
+  - Knock-on: if white-label gets Select, what remains genuinely exclusive to the branded franchise? (Currently: brand, investment priority, direct developer relationships, 2.5% vs 2.0%.) Is that enough to justify $30k vs $10k?
+- Does a white-label partner pay royalty / Network & Brand Fund on Select earnings? (Existing default for branded: no.)
+
+## Proof & Substantiation (2026-08-03) — P0
+
+- **Substantiate the "proven model" claim.** Pillar 4 states partners materially increased operating profit by adding Dproperty Select to their existing offer. 🔴 We need at least one real, defensible number (named or anonymised) before this goes on a public page. Which partner? What was the uplift? Over what period?
+- With zero franchisees, how much credibility load can **Dproperty's own track record** ($200M+, 700+ ops, 99%+, landmarks) carry on a parent-branded site — and is attributing it to the flagship brand honest enough?
+
+## Public Economics Disclosure (2026-08-03)
+
+- **How much of the franchise economics do we publish?** Exact figures ($30k / $1,000 mo / 7.5%) vs. *"desde $30,000"* vs. fully gated behind the info pack. Trade-off: qualification versus negotiating room and locking in a number publicly. Interim default: **"desde $30,000," detail gated.**
+- Same question for white-label plans and the developer pricing model.
+- **Currency inconsistency:** [[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook|Franchisee Acquisition Playbook]] quotes **€30k**; everything else is **USD $30k**. Fix before anything public.

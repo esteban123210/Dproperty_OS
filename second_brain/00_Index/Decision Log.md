@@ -302,3 +302,38 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Reason:** Gives one authoritative, tool-ready file per deliverable so final products (decks, site, printable manual books) can be generated on demand at max fidelity without reassembling context.
 **Impacted Areas:** All deliverable workstreams; session-close workflow.
 **Status:** Active. Built 2026-07-21 for M2, M4, M5; pitch, website, M1, M3 queued.
+
+## 2026-08-03 — Brand Architecture: House of Brands (Dproperty becomes the flagship, not the identity)
+
+**Decision:** We are **not** "Dproperty." We are a **franchising ecosystem for real estate** operating under a new parent brand (name TBD), and **Dproperty is our flagship brand** — the relationship **Mercure has to Accor**. "Dproperty OS" is renamed to a brand-neutral platform name (TBD), because white-label partners run on it under their own brand. Working placeholders `[PARENT]` and `[OS_NAME]` are used across all specs until named, in the same spirit as `[MOCK]`. Governed by [[../01_Strategy/Brand Architecture|Brand Architecture]].
+**Reason:** A partner should be joining an **ecosystem** and choosing how much of our brand they want — not buying a brand licence. This makes the offer larger, the pricing defensible, and the white-label line a legitimate equal option rather than a discount tier. It also frees the platform to be sold under partner brands without a naming conflict.
+**Impacted Areas:** Brand, Product, Website, Franchise Package, White-label, Developer Sales OS, Pitch Decks, Legal, all vault naming.
+**Status:** Active. **Naming is an open blocker** — no public launch until the parent and platform names exist.
+
+## 2026-08-03 — Three Service Lines, Presented as Equal Doors
+
+**Decision:** The commercial offer is presented publicly as **three doors, of equal weight**: (1) **Branded franchise** — operate as Dproperty; (2) **White-label franchise** — operate under your own brand on our system; (3) **Developer Sales Partner** — a dedicated sales team for developers. White-label must never be presented as the cheaper or lesser tier.
+**Reason:** The three buyers are genuinely different people with different motivations. "Freedom to do it your own way" is a core differentiator versus mass-market franchising, and it only works if both franchise doors are treated as first-class choices.
+**Impacted Areas:** Website, Pitch Decks, Franchise Package, White-label, Developer Sales OS, GTM, CRM (three separate pipelines).
+**Status:** Active.
+
+## 2026-08-03 — Developer Sales Line Repositioned: Dedicated Embedded Team, Not an Outsourced Desk
+
+**Decision:** The Developer line is repositioned from a generic sales-enablement/outsourced-desk service to a **dedicated team that stays with the developer across all their projects** — one that learns the soul of their product, their buyer, and their standards, and carries that knowledge forward project to project. Positioned as closer to a **white-label partnership** than to a commercialisation contract. Sold on **continuity and understanding**, not headcount. [[../11_Developer_Sales_OS/Developer Sales OS Guide|Developer Sales OS Guide]] must be rewritten to match.
+**Reason:** Developers do not want a mercenary sales team handed a brochure. The durable value is a partner who understands the product and improves across the portfolio — which is also far harder for a competitor to copy than a staffed desk.
+**Impacted Areas:** Developer Sales OS, Website, Pricing, Manuals (developer overlay), GTM.
+**Status:** Active. Source notes still stale — rewrite pending.
+
+## 2026-08-03 — Website Split Into Two Sites
+
+**Decision:** Two separate websites. **[PARENT].com** — the B2B ecosystem site selling the three partnership lines ([[../17_Handoff_Files/Handoff - Ecosystem Website|Handoff - Ecosystem Website]] v1.0, **build first, in Lovable**). **dproperty.com** — the Dproperty flagship consumer/investor site ([[../17_Handoff_Files/Handoff - Public Website|Handoff - Public Website]] v1.1, re-scoped, build second). The franchise recruitment page is **removed** from the Dproperty site and replaced by a banner + *"Dproperty es parte de [PARENT]"* footer line.
+**Reason:** The franchise buyer and the property investor are opposite audiences with opposite motivations; one site cannot serve both without weakening each. Separate sites also mean separate SEO, separate ad accounts, and separate CRM pipelines.
+**Impacted Areas:** Website, Product IA, Brand, GTM, CRM/GoHighLevel.
+**Status:** Active.
+
+## 2026-08-03 — Public Argument Standardised on Four Pillars
+
+**Decision:** All public-facing assets (site, decks, brochures) stand on four pillars in this order: **1. The boutique promise** (backed by the Dproperty way of working) · **2. Freedom** (franchise your way; the brand can still be yours) · **3. The tools already exist** (platform, CRM, AI agents, Academy, events, Dproperty Select access, templates) · **4. It is a proven model** (partners increased operating profit simply by adding Dproperty Select to their existing client offer).
+**Reason:** Gives every asset one consistent commercial spine, and moves the sale from "buy our brand" to "join what our experience built."
+**Impacted Areas:** Website, Pitch Decks, Franchise Package, Brand, GTM.
+**Status:** Active. ⚠️ **Pillar 4 requires substantiation** — a real, defensible number — before publication, and depends on resolving whether white-label gets Dproperty Select access.

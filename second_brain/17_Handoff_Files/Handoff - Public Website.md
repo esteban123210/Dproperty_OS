@@ -6,14 +6,27 @@ deliverable: "Public marketing website (pre-login)"
 target_output: "Responsive website"
 target_tool: "AI site builder (Framer AI, Webflow, v0, Lovable) or Figma → build"
 source_notes: ["04_Product/Public Site Wireframe.md (v0.6)", "04_Product/Public Site Copy - ES Master.md (v1.0)"]
-version: 1.0
-status: Ready to generate (ES production copy final; MOCK contact + franchise numbers pending)
+version: 1.1
+status: "RE-SCOPED 2026-08-03 — this is now the DPROPERTY BRAND site (consumer/investor), not the company site. Build after the ecosystem site."
 owner: Esteban
-last_updated: 2026-07-21
+last_updated: 2026-08-03
 tags: [handoff, production, website, brand, marketing]
 ---
 
-# HANDOFF — Public Website
+# HANDOFF — Public Website (Dproperty brand site)
+
+> ⚠️ **RE-SCOPED 2026-08-03 — read before building.**
+> The brand architecture changed: we are **not** Dproperty. Dproperty is the **flagship brand** of a parent company that operates a franchising ecosystem (Mercure : Accor). See [[../01_Strategy/Brand Architecture]].
+>
+> **This handoff is still valid**, but only as the **Dproperty consumer/investor brand site** (`dproperty.com`) — buyers, sellers, investors, Select. It is no longer the company's main site.
+>
+> **Two changes required before building this one:**
+> 1. **PAGE 7 (Franquicias) is removed** from this site. Franchise/white-label/developer recruitment now lives on the parent site → [[Handoff - Ecosystem Website]]. Replace with a single banner + footer line: *"Dproperty es parte de [PARENT]"* → link out.
+> 2. Add a *"Dproperty es parte de [PARENT]"* line to the footer.
+>
+> **Build order:** the ecosystem site first (that's where the revenue conversation is). This one after.
+
+---
 
 > **Self-contained package** to generate the public **Dproperty site (pre-login)**. Production language is **Spanish** (EN translated from it). External name = **"Dproperty Select."** Tone: calm, prestigious, human — *"we are the best, but we are reachable."* `[MOCK]` = replace before publish. Team section intentionally private for now.
 
