@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second_brain/17_Handoff_Files/00 - Handoff Index.md",
+                "file": "second_brain/00_Index/AI Handoff Pack/AI Handoff Pack - Read Me.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00 - Handoff Index"
+              "title": "AI Handoff Pack - Read Me"
             }
           },
           {
@@ -112,7 +112,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -277,6 +279,9 @@
   },
   "active": "79634d3c1d0e0043",
   "lastOpenFiles": [
+    "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
+    "second_brain/17_Handoff_Files/Handoff - Compliance Manual (M5).md",
+    "second_brain/17_Handoff_Files/00 - Handoff Index.md",
     "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Examples/Formato de Propuesta - Capacidad Mensual 6000.md",
     "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Examples/Manual Estandar - Excel de Flujo y Proyeccion Inmobiliaria.md",
     "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Examples/Flujo y Proyeccion - Ejemplo Portafolio 500k.md",
@@ -309,9 +314,6 @@
     "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Examples/README.md",
     "dproperty brain/03_Templates/Reports/Dproperty_Wireframe_Estandar_Informe_Inversion.md",
     "second_brain/17_Handoff_Files/Handoff - Financial Model.md",
-    "second_brain/17_Handoff_Files/Handoff - Welcome Kit.md",
-    "second_brain/17_Handoff_Files/Handoff - Brand Manual.md",
-    "second_brain/17_Handoff_Files/Handoff - Launch Plan (M3).md",
-    "second_brain/17_Handoff_Files/Handoff - Franchise Onboarding (M1).md"
+    "second_brain/17_Handoff_Files/Handoff - Welcome Kit.md"
   ]
 }
