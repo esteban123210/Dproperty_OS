@@ -9,7 +9,7 @@
 | Developer payment milestone | Pending |
 | Dproperty retained economics | Pending |
 | Branded franchise payout | 2.5% of sale price only if project agreement and approved policy apply |
-| White-label payout | 2.0% of sale price only if project agreement and approved policy apply |
+| White-label payout (external partner broker) | 1.5% of sale price only if project agreement and approved policy apply |
 | Co-broker terms | Pending |
 | Lead attribution | GoHighLevel source of truth; project-specific rules pending |
 | Cancellation/clawback | Pending |

@@ -4,8 +4,8 @@
   "title": "we will start the session to work on the website o...",
   "titleGenerationStatus": "failed",
   "createdAt": 1785766710127,
-  "updatedAt": 1785781597218,
-  "lastResponseAt": 1785781597218,
+  "updatedAt": 1785782072192,
+  "lastResponseAt": 1785782072192,
   "sessionId": "e18dfb6a-0c12-4f70-9102-8b212dda82a0",
   "providerState": {
     "providerSessionId": "e18dfb6a-0c12-4f70-9102-8b212dda82a0"
@@ -14,11 +14,11 @@
   "usage": {
     "model": "opus",
     "inputTokens": 2,
-    "cacheCreationInputTokens": 2735,
-    "cacheReadInputTokens": 108546,
+    "cacheCreationInputTokens": 496,
+    "cacheReadInputTokens": 133307,
     "contextWindow": 1000000,
-    "contextTokens": 111283,
-    "percentage": 11,
+    "contextTokens": 133805,
+    "percentage": 13,
     "contextWindowIsAuthoritative": true
   }
 }

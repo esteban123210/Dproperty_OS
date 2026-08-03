@@ -11,9 +11,26 @@ tags: [developer-sales]
 
 # Developer Sales OS Guide
 
+> **Repositioned 2026-08-03.** This is no longer an outsourced sales desk or a generic enablement service. See [[../01_Strategy/Brand Architecture]] §3.3.
+
 ## Purpose
 
-Developer Sales OS helps developers sell projects more professionally without building a full sales operating system from scratch.
+For developers who have a product to commercialise but do not want to build a sales operation from zero.
+
+**We do not provide a generic team. We provide a dedicated team that stays with the developer across all their projects** — one that learns the soul of their product, their buyer, and their standards, and carries that knowledge forward from one project to the next.
+
+## The Four Differentiators (sell on these, in this order)
+
+1. **Continuity, not rotation.** The same team accompanies the developer across every project. What they learn is not lost at handover.
+2. **They understand the soul of the product.** We do not sell with a brochure in hand. We understand what is being built and why — the thesis, the buyer, the trade-offs.
+3. **We protect the brand and the numbers.** No unapproved projections. No discounting the developer's own product to force a close.
+4. **This is a partnership, not a commercialisation contract.** Structurally closer to a white-label relationship than to an agency engagement.
+
+## Positioning Rule
+
+> Sell **continuity and understanding**, never headcount.
+
+A staffed desk is a commodity and can be undercut on price. A team that compounds knowledge across a developer's portfolio cannot.
 
 ## What Dproperty Provides
 
@@ -35,6 +52,7 @@ Developer Sales OS helps developers sell projects more professionally without bu
 - Need international/boutique buyer access.
 - Need broker discipline.
 - Need reporting to leadership/investors.
+- **Have a portfolio, not a single project** — the continuity model compounds across projects, so multi-project developers are the highest-value fit.
 
 ## Offer Levels
 

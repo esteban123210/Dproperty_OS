@@ -8,7 +8,7 @@
 | Developer payment milestone | Pending |
 | Dproperty retained economics | Pending |
 | Branded franchise payout | 2.5% of sale price only if this approved Private Collection policy applies |
-| White-label payout | 2.0% of sale price only if this approved Private Collection policy applies |
+| White-label payout (external partner broker) | 1.5% of sale price only if this approved Private Collection policy applies |
 | Co-broker terms | Pending |
 | Lead attribution | Pending |
 | Clawback/cancellation | Pending |

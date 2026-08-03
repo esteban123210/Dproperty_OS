@@ -31,7 +31,8 @@ tags: [handoff, production, source-of-truth]
 | Launch Plan (M3) | [[Handoff - Launch Plan (M3)]] | Printable book (PDF) | Book/PDF generator | 🟢 v0.5 |
 | Pitch Deck (Deck 1) | [[Handoff - Pitch Deck (Deck 1)]] | Slide deck (.pptx) | AI presentation tool | 🟢 v1.1 |
 | Ecosystem Deck (Deck 2) | [[Handoff - Ecosystem Deck (Deck 2)]] | Slide deck (.pptx) | AI presentation tool | 🟢 v0.6 |
-| **Ecosystem Website ([PARENT])** | [[Handoff - Ecosystem Website]] | Website (B2B, 3 service lines) | Lovable / AI site builder | 🟢 v1.0 |
+| **Ecosystem Website — BUILD BRIEF** | [[LOVABLE - Ecosystem Website Build Brief]] | **Paste-ready ES/EN brief for Lovable** | Lovable | 🟢 v1.0 |
+| Ecosystem Website (spec/source) | [[Handoff - Ecosystem Website]] | Website (B2B, 3 service lines) | Lovable / AI site builder | 🟢 v1.0 |
 | Public Website (Dproperty brand site) | [[Handoff - Public Website]] | Website (consumer/investor) | Website/AI site builder | 🟡 v1.1 — re-scoped 2026-08-03 |
 | Brand Manual | [[Handoff - Brand Manual]] | Brand book + kit | Design tool | 🟢 v0.5 |
 | Welcome Kit | [[Handoff - Welcome Kit]] | Print + physical spec | Design/print | 🟢 v0.5 |
