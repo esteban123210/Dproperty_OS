@@ -176,3 +176,18 @@ Opened by the house-of-brands restructure. See [[../01_Strategy/Brand Architectu
 - **How much of the franchise economics do we publish?** Exact figures ($30k / $1,000 mo / 7.5%) vs. *"desde $30,000"* vs. fully gated behind the info pack. Trade-off: qualification versus negotiating room and locking in a number publicly. Interim default: **"desde $30,000," detail gated.**
 - Same question for white-label plans and the developer pricing model.
 - **Currency inconsistency:** [[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook|Franchisee Acquisition Playbook]] quotes **€30k**; everything else is **USD $30k**. Fix before anything public.
+
+## RESOLVED 2026-08-03
+
+- ✅ **Do white-label partners get Dproperty Select access?** **Yes — at 1.5% of sale price (external-partner-broker terms).** Branded stays at 2.5%. The old blanket exclusion is retired; the 2.0% rate is superseded. See [[Decision Log]] 2026-08-03.
+- ✅ **What justifies branded $30k vs. white-label $10k?** Brand recognition (10+ years of traction) **plus** a full extra point on Select — a $3,000 delta per $300k Select unit, paying back the fee gap in ~7 operations.
+- ✅ **What is the Dproperty brand's focus?** Investment-only. Clients buy to profit, not to live. Product mandate: profitable and reliable over pretty and livable.
+
+## Follow-ups Opened by the 1.5% Select Revision (2026-08-03)
+
+- **Propagate 1.5% into live project files.** 10 files in the `dproperty brain` vault still say 2.0% (`02_Projects/Private Collection/**/10_Dproperty Commercial/Commercial Terms.md` + template). 🔴 **Check whether any terms have already been agreed or signed with a partner at 2.0% before overwriting.**
+- **Financial Model v0.7** — white-label Select revenue input must change from 2.0% → 1.5%. What does this do to Year 3 breakeven (already thin at ~$15k) and Year 5 EBITDA? HQ keeps a wider spread on white-label Select, so the effect should be *positive* for HQ — quantify it.
+- **Does white-label pay royalty / Network & Brand Fund on Select earnings?** Existing branded default is no. As external-partner-broker terms, presumably also no — confirm.
+- **"Powered by Dproperty" usage rules** — where may the endorsement appear, at what size, in which contexts, and how is it withdrawn on termination? Needs a section in the Brand Manual and a clause in the white-label agreement.
+- **Does the investment-only mandate need contractual teeth** in the franchise agreement, or is it a brand-standard enforced through Select curation and HQ approval? (E.g. can a Dproperty franchisee list livability-driven product under the brand?)
+- **Screening consequence:** the Franchisee Acquisition Playbook lead-scoring matrix does not yet test for *inversión vs. vivienda* orientation. Add it as a scored criterion.

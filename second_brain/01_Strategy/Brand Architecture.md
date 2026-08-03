@@ -49,17 +49,53 @@ DPROPERTY    WHITE-LABEL   DEVELOPER          [OS_NAME]
 
 ## 3. The Three Service Lines
 
-### 3.1 Branded Franchise — *"Operate as Dproperty"*
-Full flagship brand licence. Highest investment, highest support, investment priority, full Select access.
-Economics: $30k founding → $40k · $1,000/mo · 6% royalty + 1.5% Network & Brand Fund · Select at **2.5% of sale price**.
+### 3.1 Branded Franchise — *"Operate as Dproperty"* — **investment-only**
+
+**Dproperty is not a general real estate brand. It is an investment brand.** (Clarified 2026-08-03 — this is the defining rule of the flagship.)
+
+A Dproperty franchise serves clients who buy **to profit, not to live**. An investor arriving with $50k should be able to buy one or two units without mortgage stress, because the unit is resellable — and if they do take a mortgage, it is so the unit can be rented.
+
+**Product selection mandate (the operating consequence):**
+> A Dproperty franchise hunts for product that is **profitable and reliable**, not necessarily pretty and livable.
+
+Given two comparable buildings where one has slightly better finishes, the better-finish building is the **wrong** product for Dproperty — better materials mean a higher entry point, and a higher entry point means lower returns. That same building may be exactly right for a white-label focused on end users. **This single rule is what makes the brand mean something.**
+
+**End-user business still happens** — sales and rentals to people who will live in the property — but it is executed **within our own circles or through partner brokers**. The marketing identity and the client-facing focus stay **investor-forward, always.**
+
+Full flagship brand licence, investment priority, full Select access at partner terms.
+Economics: $30k founding → $40k · $1,000/mo · 6% royalty + 1.5% Network & Brand Fund · **Select at 2.5% of sale price**.
 See [[Franchise Strategy]].
 
 ### 3.2 White-Label Franchise — *"Operate as yourself"*
-Partner keeps their own brand and builds it their way. They get the platform, CRM, Academy, AI agents, templates, playbooks, events, and Select access — but the brand equity they build is **theirs**.
-Economics: Starter $10k setup / $1,500 mo · Growth $20k setup / $2,500 mo · Select at **2.0% of sale price**.
+Partner keeps their own brand and builds it their way. They get the full platform, CRM, Academy, AI agents, templates, playbooks, events, and Select access — but the brand equity they build is **theirs**, and they do **not** inherit Dproperty's recognition.
+
+**Free to serve end users.** Unlike the Dproperty brand, a white-label partner is under no investment-only mandate. They can target end-user buyers, families, livability-driven product — whatever their market rewards. This is the freedom, and it is real.
+
+**Backing without the brand:** we back them and support them publicly — a white-label partner may use **"powered by Dproperty."** That is endorsement, not identity. It is deliberately a different thing from operating *as* Dproperty.
+
+Economics: Starter $10k setup / $1,500 mo · Growth $20k setup / $2,500 mo · **Select at 1.5% of sale price — external-partner-broker terms** (revised 2026-08-03 from 2.0%).
 See [[../13_White_Label/White-Label OS Guide]], [[../13_White_Label/White-Label Pricing]].
 
 **This is the freedom pillar.** Positioning: *we give you the tools and walk beside you — you still make the brand your own.*
+
+### 3.2b Why the Price Gap Is Justified (the argument that closes branded deals)
+
+The branded franchise costs ~$20k more at entry. Two things are being bought that white-label does not get:
+
+1. **A decade of recognition.** White-label buys the know-how and the tools. Branded buys the know-how, the tools, **and a name with ten-plus years of traction** behind it — one that opens doors on day one instead of year three.
+2. **A full point on Dproperty Select.** Branded partners transact Select at **2.5%**; white-label enters like **any external partner broker, at 1.5%**.
+
+**The math, on the base $300k unit:**
+
+| | Branded | White-label |
+|---|---|---|
+| Select payout | 2.5% | 1.5% |
+| Per $300k unit | **$7,500** | **$4,500** |
+| **Delta** | **+$3,000 per Select unit** | |
+
+The ~$20k entry-fee difference is recovered in roughly **seven Select transactions**. Everything after that is the brand paying rent to the franchisee instead of the other way around.
+
+> **Use this framing on the website and in every discovery call.** It converts "why is it three times the price?" from an objection into a payback calculation — which is exactly the *más amigos de la matemática* argument the brand is supposed to make.
 
 ### 3.3 Developer Sales Partner — *"Your sales team, without building one"* **(repositioned 2026-08-03)**
 For developers who have a product to commercialise but do not want to build a sales operation from zero.
@@ -97,7 +133,8 @@ Dproperty appears as **evidence and as an option**, never as the identity of the
 
 These must be resolved — they are load-bearing for the website.
 
-1. **White-label × Select access.** [[../13_White_Label/White-Label OS Guide]] states Select is explicitly **not** included, and [[../00_Index/Project Context Brief]] says white-label does not automatically get access. But Pillar 4 makes Select-driven profit the headline proof point for **all** partners. **Resolve:** most likely white-label gets Select access at the 2.0% payout as standard, and the old exclusion is retired. Confirm with owners.
+1. ~~**White-label × Select access.**~~ ✅ **RESOLVED 2026-08-03.** White-label **does** get Select access, but on **external-partner-broker terms: 1.5% of sale price** (not the 2.0% previously written, and not the branded 2.5%). The old blanket exclusion in [[../13_White_Label/White-Label OS Guide]] is retired. This is the cleanest possible answer: it makes Pillar 4 true for every partner, keeps a real economic reason to buy the brand, and requires no special-casing — white-label simply transacts Select the way any external partner broker does.
+   ⚠️ **Propagation debt:** the `dproperty brain` operational vault still carries **2.0%** in 10 live project files (`02_Projects/Private Collection/**/10_Dproperty Commercial/Commercial Terms.md`: Boreal, Cavarosa, Nayamara, Sky Parc II, Sky Parc IV, Gesti68, Dovle Selva, Dovle Cincuentenario, + the project template). These are live commercial documents — update deliberately, and check whether any already-signed terms are affected.
 2. **"Proven model" substantiation.** The profit-uplift claim needs at least one nameable or anonymised partner case with a number behind it before it goes on a public page. Right now we have zero franchisees.
 3. **Naming blocker.** No public launch under a placeholder. Build can proceed; launch cannot.
 4. **Vault-wide naming debt.** Most notes say "Dproperty OS" meaning both the company and the platform. Do not mass-rename yet — wait for the real name, then do one controlled pass.

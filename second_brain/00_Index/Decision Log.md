@@ -337,3 +337,31 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Reason:** Gives every asset one consistent commercial spine, and moves the sale from "buy our brand" to "join what our experience built."
 **Impacted Areas:** Website, Pitch Decks, Franchise Package, Brand, GTM.
 **Status:** Active. ⚠️ **Pillar 4 requires substantiation** — a real, defensible number — before publication, and depends on resolving whether white-label gets Dproperty Select access.
+
+## 2026-08-03 — Dproperty Is an Investment Brand, Not a General Real Estate Brand
+
+**Decision:** The Dproperty brand serves clients who buy **to profit, not to live**. Branded franchises operate under a strict **investment-only mandate** and select product that is **profitable and reliable, not necessarily pretty and livable** — between two comparable buildings, better finishes are usually the *wrong* product, because a higher entry point means a lower return. End-user sales and rentals still occur, but are executed **within our own circles or through partner brokers**; the marketing identity and client-facing focus remain **investor-forward at all times**. White-label partners carry **no such mandate** and may serve end users freely.
+**Reason:** This is what makes the brand mean something. A brand that sells everything to everyone has no thesis; a brand with a clear investment thesis attracts a specific investor and a specific franchisee, and makes product selection objectively decidable rather than a matter of taste. It also gives the two franchise doors genuinely different jobs instead of a price ladder.
+**Impacted Areas:** Brand, Franchise Package (franchisee screening), Sales Playbook, Website, White-label, Dproperty Select curation, GTM.
+**Status:** Active. **Primary screening question in franchisee selection: is this candidate's market inversión or vivienda?** If vivienda → route them to white-label.
+
+## 2026-08-03 — Dproperty Select: White-Label Payout Revised to 1.5% (External-Partner-Broker Terms)
+
+**Decision:** White-label partners **do** receive Dproperty Select access — the earlier blanket exclusion in [[../13_White_Label/White-Label OS Guide|White-Label OS Guide]] is **retired** — but they transact Select **as any external partner broker does, at 1.5% of sale price**. Branded franchises retain the preferential **2.5%**. Supersedes the 2.0% white-label rate set 2026-07-04.
+**Reason:** Resolves the standing conflict cleanly and without special-casing: Pillar 4 (Select-driven profit uplift) becomes true for every partner, while a full point of Select spread remains a hard economic reason to buy the brand. Treating white-label as an external partner broker is also operationally simpler — no new payout class to administer.
+**Impacted Areas:** White-label, Finance/Unit Economics, Financial Model, Dproperty Select rules, Legal templates, Website, Pitch Decks, **all live project Commercial Terms**.
+**Status:** Active. ⚠️ **Propagation pending:** the `dproperty brain` operational vault still carries 2.0% in 10 live files (`02_Projects/Private Collection/**/10_Dproperty Commercial/Commercial Terms.md` — Boreal, Cavarosa, Nayamara, Sky Parc II, Sky Parc IV, Gesti68, Dovle Selva, Dovle Cincuentenario, + project template). Check for signed terms before overwriting. Financial Model v0.7 also needs the input changed.
+
+## 2026-08-03 — The Branded Price Premium Is Justified by Recognition + Select Spread
+
+**Decision:** The branded franchise's higher entry fee ($30k vs. white-label's $10k) is publicly justified on two grounds, in this order: **(1) a decade-plus of brand recognition** — white-label buys the know-how and tools, branded buys know-how, tools **and** a name with traction; and **(2) a full extra point on Dproperty Select** — 2.5% vs. 1.5%. On the base $300k unit this is $7,500 vs. $4,500, a **$3,000 delta per Select transaction**, recovering the ~$20k entry-fee difference in roughly **seven Select operations**.
+**Reason:** Converts the "why is it three times the price?" objection into a payback calculation — which is precisely the *más amigos de la matemática* argument the brand exists to make. Sales arguments that resolve to arithmetic survive scrutiny; ones that resolve to adjectives do not.
+**Impacted Areas:** Website (franchise page payback block), Sales Playbook, Franchisee Acquisition Playbook (objection handling), Pitch Decks, Franchise brochure.
+**Status:** Active. Standard framing for all franchise-recruitment material.
+
+## 2026-08-03 — White-Label May Use "Powered by Dproperty"
+
+**Decision:** White-label partners are publicly backed and supported and **may use the endorsement "powered by Dproperty."** This is explicitly **endorsement, not identity** — distinct from operating *as* Dproperty. Brand equity the partner builds remains **theirs**.
+**Reason:** Gives white-label partners real, transferable credibility without diluting the flagship or blurring the two doors. It also makes the white-label offer materially stronger without touching the branded franchise's exclusivity.
+**Impacted Areas:** Brand Manual, White-label, Legal templates (endorsement usage rules), Website.
+**Status:** Active. ⚠️ **Needs brand-usage rules drafted** — where the endorsement may appear, at what size, in what contexts, and how it is withdrawn on termination.

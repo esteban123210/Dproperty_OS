@@ -13,6 +13,18 @@ tags: [strategy]
 
 The branded franchise is the deepest Dproperty OS product.
 
+## Brand Mandate: Investment-Only (clarified 2026-08-03)
+
+> **Dproperty is an investment brand, not a general real estate brand.**
+
+Dproperty's clients buy **to profit, not to live**. An investor arriving with $50k should be able to buy one or two units without mortgage stress, because the unit is resellable — and where a mortgage is taken, it is so the unit can be rented.
+
+**Product selection mandate:** a Dproperty franchise hunts for product that is **profitable and reliable — not necessarily pretty and livable.** Between two comparable buildings, the one with better finishes is usually the *wrong* product: better materials raise the entry point, and a higher entry point lowers returns. That same building may be exactly right for a white-label serving end users.
+
+**End-user business still happens** — sales and rentals to people who will live in the property — but it is executed within our own circles or through partner brokers. The **marketing identity and client-facing focus remain investor-forward at all times.**
+
+This mandate is the reason the brand means something, and it is the primary screening question in franchisee selection: *is this candidate's market inversión, or vivienda?* If it is vivienda, the right route for them is **white-label**, and we should say so. See [[Brand Architecture]] §3.1.
+
 ## Franchisee Profile
 
 The first franchisee can be:

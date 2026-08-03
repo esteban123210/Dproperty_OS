@@ -104,8 +104,11 @@ DESARROLLADORES · LA PLATAFORMA ([OS_NAME]) · NOSOTROS · CONTACTO · LEGAL ·
 | | **Franquicia Dproperty** | **White-Label** | **Desarrolladores** |
 |---|---|---|---|
 | Line | *Opera bajo nuestra marca.* | *Opera bajo la tuya.* | *Tu equipo comercial, sin construirlo.* |
-| For | Quien quiere la credibilidad de una marca probada desde el día uno. | Quien ya tiene marca — o quiere construir la suya — con nuestro sistema detrás. | Desarrolladores que tienen el producto, no el equipo. |
+| Focus | *Inversión, exclusivamente.* | *Tu mercado, tus reglas.* | *Tu producto, nuestro equipo.* |
+| For | Quien quiere vender inversión inmobiliaria con la credibilidad de una marca con más de una década de trayectoria. | Quien ya tiene marca — o quiere construir la suya — con nuestro sistema detrás, y libertad de enfoque. | Desarrolladores que tienen el producto, no el equipo. |
 | CTA | Conocer la franquicia | Conocer white-label | Hablar con nosotros |
+
+> **Copy rule for this block:** the difference is **not** price tiers. It is **brand + focus**. Dproperty = investment-only, under our name, with our recognition. White-label = your name, your focus, our system. Never imply one is the entry-level version of the other.
 
 **THE FOUR PILLARS:**
 1. **La promesa boutique.** *Todo se apoya en la forma de trabajar de Dproperty: curaduría sobre volumen, números sobre ruido, confianza sobre transacción.*
@@ -134,17 +137,42 @@ Hero: *No estás comprando una marca. Estás entrando a un ecosistema.*
 ### PAGE 3 — FRANQUICIA DPROPERTY
 
 ```
-HERO → PARA QUIÉN ES → QUÉ INCLUYE → TU CAMINO →
+HERO → LA MARCA DE INVERSIÓN → PARA QUIÉN ES → QUÉ INCLUYE → TU CAMINO →
 INVERSIÓN Y RETORNO → DPROPERTY SELECT → TERRITORIOS → FAQ → CTA
 ```
 **Hero:** *Ten tu propia Dproperty. Lleva la inversión inmobiliaria boutique a tu mercado — con nuestra marca, nuestro sistema, nuestra formación y nuestra red detrás de ti.*
 **CTAs:** `[ Agendar una llamada ]` · `[ Descargar información ]`
-**Para quién:** agentes que quieren independizarse (primario) · profesionales de ventas de otros sectores (secundario) · jóvenes emprendedores.
+
+**LA MARCA DE INVERSIÓN (new block — the identity of the brand, must sit high on the page):**
+> **Dproperty no es una marca inmobiliaria general. Es una marca de inversión.**
+>
+> *Nuestros clientes no compran para vivir: compran para rentabilizar. Un inversionista que llega con $50,000 puede comprar una o dos propiedades sin la presión de una hipoteca, porque la unidad es revendible — y si toma hipoteca, es para alquilar.*
+>
+> *Por eso una franquicia Dproperty busca producto **rentable y confiable**, no necesariamente bonito y habitable. Entre dos edificios comparables, el de mejores acabados suele ser el producto equivocado para nosotros: mejores materiales significan un punto de entrada más alto, y un punto de entrada más alto significa menor retorno.*
+>
+> *Vendemos y alquilamos a usuario final cuando hace falta — dentro de nuestros círculos o con brokers aliados — pero la identidad y el enfoque siempre miran al inversionista.*
+
+**Para quién:** agentes que quieren independizarse y **especializarse en inversión** (primario) · profesionales de ventas de otros sectores (secundario) · jóvenes emprendedores. *Si tu mercado es el comprador de vivienda para habitar, tu camino probablemente es white-label — y te lo diremos.*
 **Qué incluye:** marca Dproperty y manuales · Plataforma [OS_NAME] · CRM white-label · Academia · agentes de IA · **acceso completo a Dproperty Select** · plantillas legales y comerciales · plan de lanzamiento 30/60/90 · acompañamiento y reporting de HQ · prioridad de inversión y red internacional.
 **Tu camino:** Descubre → Aplica → Firma → Onboarding → Lanzamiento.
 **Inversión y retorno:** `[pull from Pricing Model / Unit Economics — DO NOT retype]` · $30,000 fundador → $40,000 · $1,000/mes · 6% royalty + 1.5% Network & Brand Fund sobre GCI **cobrado** · Dproperty Select **2.5% del precio de venta**.
 > ⚠️ Publication decision pending — see §8. Default: show *"desde $30,000"* and gate the detail behind the info pack.
-**Select block:** *Acceso a oportunidades curadas y fuera de mercado que la mayoría nunca ve — la ventaja que más rápido cambia la rentabilidad de un socio.*
+**Select block:** *Acceso a oportunidades curadas y fuera de mercado que la mayoría nunca ve — la ventaja que más rápido cambia la rentabilidad de un socio.* **Las franquicias Dproperty transaccionan Select al 2.5% del valor de venta** — frente al 1.5% de un broker aliado externo.
+
+**THE PAYBACK BLOCK (new — put this immediately after Inversión y Retorno):**
+> *¿Por qué la franquicia Dproperty cuesta más?*
+>
+> *Porque no compras solo el conocimiento y las herramientas — eso también está en white-label. Compras **una marca con más de una década de trayectoria**, y **un punto completo más en Dproperty Select**.*
+>
+> | | Franquicia Dproperty | White-label |
+> |---|---|---|
+> | Comisión Select | **2.5%** | 1.5% |
+> | En una unidad de $300,000 | **$7,500** | $4,500 |
+> | Diferencia | **+$3,000 por unidad** | |
+>
+> *La diferencia en la inversión inicial se recupera en aproximadamente **siete operaciones Select**. A partir de ahí, la marca se paga sola.*
+>
+> **Design note:** render as a clean editorial table, champagne accent on the delta row. This is the single most persuasive block on the site — give it room. It is the *más amigos de la matemática* argument made literal.
 **Territorios:** map. Panamá · Bogotá · Medellín abiertos. **Prueba:** *Testimonios muy pronto — podrías ser parte de nuestra primera generación.*
 **FAQ (source: [[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook]] objection scripts):** financiamiento · experiencia previa · por qué no hacerlo solo · tiempos · exclusividad territorial · qué pasa si no funciona.
 
@@ -161,11 +189,33 @@ CÓMO SE COMPARA → PLANES → TU CAMINO → FAQ → CTA
 **Hero:** *Tu marca. Nuestro sistema.*
 **Subhead:** *Construye tu agencia a tu manera — con la tecnología, el método, la formación y la red que nos tomó años construir. La marca que crezcas es tuya.*
 **La idea:** *No todos quieren operar bajo otra marca, y está bien. Te damos las herramientas y te acompañamos en el proceso; tú decides cómo se llama, cómo se ve y hacia dónde va.*
-**Para quién:** agencias boutique que quieren profesionalizarse · operadores con marca propia y red local · quien quiere construir algo suyo sin empezar de cero.
-**Qué incluye:** Plataforma [OS_NAME] · CRM white-label bajo tu marca · Academia · agentes de IA · flujos, manuales y plantillas · dashboards y lógica de proyección · **acceso a Dproperty Select (payout 2.0% del precio de venta)** · implementación acompañada · eventos y red.
-> ⚠️ **Select inclusion is a live conflict** — see [[../01_Strategy/Brand Architecture]] §6.1. Do not publish this line until confirmed.
-**Qué no incluye:** la marca Dproperty · prioridad de inversión · relaciones directas con desarrolladores del grupo.
-**Comparación honesta (side-by-side table):** Franquicia Dproperty vs. White-Label across brand, Select payout, investment, monthly, support, territory, brand equity ownership. Honest comparison builds more trust than hiding the trade-off.
+
+**TU ENFOQUE, TUS REGLAS (new block — the real freedom):**
+> *La franquicia Dproperty opera con un mandato estricto: inversión, exclusivamente. White-label no tiene ese límite.*
+>
+> *Si tu mercado son familias comprando su casa, producto de mejores acabados, o desarrollo pensado para habitar — eso es perfectamente válido, y con white-label puedes perseguirlo. Recibes el mismo sistema, la misma tecnología y la misma formación, aplicados al mercado que tú elijas.*
+
+**RESPALDADOS, NO ABSORBIDOS:**
+> *Te acompañamos y te respaldamos públicamente: puedes decir **"powered by Dproperty."** Es respaldo, no identidad. La marca que construyas es tuya, y el valor que le agregues se queda contigo.*
+
+**Para quién:** agencias boutique que quieren profesionalizarse · operadores con marca propia y red local · quien quiere construir algo suyo sin empezar de cero · **quien quiere servir a usuario final, no solo a inversionistas**.
+**Qué incluye:** Plataforma [OS_NAME] · CRM white-label bajo tu marca · Academia · agentes de IA · flujos, manuales y plantillas · dashboards y lógica de proyección · **acceso a Dproperty Select como broker aliado (1.5% del valor de venta)** · respaldo "powered by Dproperty" · implementación acompañada · eventos y red.
+**Qué no incluye:** la marca Dproperty ni su trayectoria · prioridad de inversión · relaciones directas con desarrolladores del grupo · el payout preferente de Select (2.5%).
+
+**Comparación honesta (side-by-side table — build this, don't hide it):**
+
+| | Franquicia Dproperty | White-Label |
+|---|---|---|
+| Marca | Dproperty | La tuya |
+| Reconocimiento | +10 años de trayectoria | Respaldo *"powered by Dproperty"* |
+| Enfoque | Inversión, exclusivamente | Tú decides |
+| Plataforma, CRM, IA, Academia | ✓ | ✓ |
+| Dproperty Select | **2.5%** del valor de venta | 1.5% (broker aliado) |
+| Prioridad de inversión | ✓ | — |
+| Equity de marca | De Dproperty | **Tuyo** |
+| Inversión inicial | desde $30,000 | desde $10,000 |
+
+> Honest comparison builds more trust than hiding the trade-off — and the "brand equity is **yours**" row is genuinely a *win* column for white-label. Make sure it reads that way visually.
 **Planes:** Starter — $10,000 setup / $1,500 mes · Growth — $20,000 setup / $2,500 mes. Add-ons: formación a medida, implementación extra, dashboards avanzados, integraciones, plantillas legales localizadas.
 **CTA:** Agendar una llamada → **white-label CRM pipeline**.
 
@@ -253,7 +303,7 @@ Privacidad · Términos · **Aviso de inversión** (rentabilidades no garantizad
 ## 8. Open Decisions Blocking Publish
 
 1. **Parent brand name** and **platform name**.
-2. **Does white-label get Dproperty Select access?** Conflicts with existing notes; Pillar 4 depends on it. → [[../01_Strategy/Brand Architecture]] §6.1
+2. ~~Does white-label get Dproperty Select access?~~ ✅ **RESOLVED 2026-08-03** — yes, at **1.5%** (external-partner-broker terms) vs. **2.5%** branded. Propagation to the `dproperty brain` operational project files still pending.
 3. **How much economics to publish** — exact figures vs. *"desde $30,000"* vs. fully gated. Default: gated.
 4. **Substantiate the "proven model" claim** — need a real, defensible number.
 5. **Does Dproperty Select keep the Dproperty name** under the parent architecture?

@@ -47,11 +47,13 @@ The result should feel like an "agency in a box" for serious operators, with bou
 
 ## 3. Core Business Lines
 
-### 3.1 Dproperty Branded Franchise
-A franchisee operates under the Dproperty brand and receives Dproperty OS, brand assets, manuals, training, launch support, CRM setup, templates, the Dproperty methodology, and possible access to Dproperty Select inventory. **Branded franchises have investment priority** (investors, Select access, cross-border, HQ funnel). Target GTM profiles (confirmed 2026-07-07): Agents Seeking Independence (primary), Sales Professionals from other sectors (secondary), Youth Entrepreneurs (volume). First target markets: Panama, Bogotá, Medellín.
+### 3.1 Dproperty Branded Franchise — **investment-only** (clarified 2026-08-03)
+**Dproperty is an investment brand, not a general real estate brand.** Its clients buy **to profit, not to live**. The franchise's product mandate: hunt for what is **profitable and reliable, not necessarily pretty and livable** — better finishes mean a higher entry point and therefore lower returns, which makes a "nicer" building the *wrong* product for Dproperty even when it is the right product for a white-label serving end users. End-user sales and rentals still happen, but through our own circles or partner brokers; the **marketing identity stays investor-forward at all times.** See [[../01_Strategy/Brand Architecture]] §3.1.
+
+A franchisee operates under the Dproperty brand and receives Dproperty OS, brand assets, manuals, training, launch support, CRM setup, templates, the Dproperty methodology, and access to Dproperty Select inventory at partner terms (2.5%). **Branded franchises have investment priority** (investors, Select access, cross-border, HQ funnel). Target GTM profiles (confirmed 2026-07-07): Agents Seeking Independence (primary), Sales Professionals from other sectors (secondary), Youth Entrepreneurs (volume). First target markets: Panama, Bogotá, Medellín.
 
 ### 3.2 White-label OS for Boutique Agencies
-A boutique agency keeps its own brand but licenses Dproperty's operating system, workflows, playbooks, document structure, dashboards, projection logic, training, and possibly CRM setup. White-label clients do **not** automatically get Dproperty Select access, and have a lower Select payout. Governing rule: **the brand goes where there is investment potential; the system can go anywhere.**
+A boutique agency keeps its own brand but licenses Dproperty's operating system, workflows, playbooks, document structure, dashboards, projection logic, training, and CRM setup. **They get the know-how and the tools, but not the recognition** — though we back them publicly and they may use **"powered by Dproperty."** Unlike the branded franchise, white-label carries **no investment-only mandate**: they are free to serve end users. **Select access is included at external-partner-broker terms (1.5% of sale price)** — revised 2026-08-03; the earlier blanket exclusion is retired. Governing rule: **the brand goes where there is investment potential; the system can go anywhere.**
 
 ### 3.3 Developer Sales OS
 Dproperty professionalizes the sales function for specific projects (train the developer's team, pipeline discipline, CRM, reporting, broker connections, network-sourced clients). Priced on **gross sales value**, not only salesperson commission payout.
@@ -63,7 +65,7 @@ HQ-controlled, curated premium/investor-oriented inventory (Panama or curated in
 Core rules:
 - HQ controls sensitive client/project handling.
 - Franchisees may introduce/sell Select opportunities under defined rules.
-- **Payout is a fixed % of sale price (not a 50/50 gross split — superseded):** 2.5% for branded franchises, 2.0% for white-label. Projections are always modelled at 5% total commission; any negotiated upside above 5% is retained by HQ.
+- **Payout is a fixed % of sale price (not a 50/50 gross split — superseded):** **2.5% for branded franchises, 1.5% for white-label** (revised 2026-08-03 from 2.0% — white-label transacts Select on **external-partner-broker terms**). Projections are always modelled at 5% total commission; any negotiated upside above 5% is retained by HQ.
 - Select does **not** run through the local commission waterfall (§7).
 - No unapproved projections; no direct developer negotiation without HQ approval; no edited materials without HQ approval.
 - White-label does not automatically get access.
@@ -85,7 +87,7 @@ Intentionally more conservative than an aggressive venture-scale plan.
 - **Royalty 6% + Network & Brand Fund 1.5% = 7.5%, charged on _collected_ GCI** (not signed).
 - **Minimum royalty floor: $500/month, creditable against percentage royalties, from month 7** (proposed — confirm with owners; separate from the $1,000 OS fee).
 - CRM (GoHighLevel) costs: pass-through at cost.
-- Dproperty Select payout: fixed % of sale price — 2.5% branded / 2.0% white-label.
+- Dproperty Select payout: fixed % of sale price — **2.5% branded / 1.5% white-label** (external-partner-broker terms; revised 2026-08-03).
 
 ### White-label (confirm against [[White-Label Pricing]])
 - Starter: setup ~$10,000; ~$1,500/month.
@@ -160,7 +162,7 @@ Obsidian is the project brain, not the asset warehouse.
 - Dproperty OS is a franchisable operating system, not just software; Phase 1 of an ecosystem play.
 - Three business lines: branded franchise, white-label, Developer Sales OS.
 - Private Collection / Dproperty Select stays HQ-controlled; white-label has no automatic access.
-- **Dproperty Select payout is a fixed % of sale price (2.5% branded / 2.0% white-label)** — the old 50/50 gross split is superseded.
+- **Dproperty Select payout is a fixed % of sale price (2.5% branded / 1.5% white-label)** — the old 50/50 gross split is superseded, and the white-label rate was revised from 2.0% → 1.5% on 2026-08-03 (external-partner-broker terms).
 - Branded pricing: **$30k→$40k launch, 7.5% on collected GCI, $500/mo royalty floor from month 7.**
 - Local sales run a co-broke waterfall; royalty base = gross-into-company (2.5%).
 - Developer Sales OS priced on gross sales value.
