@@ -13,7 +13,9 @@
       "Bash(cd \"./dproperty brain\" && find . -type d -empty -not -path '*/\\\\.*' -exec touch {}/.gitkeep \\\\; && echo \"=== FINAL STRUCTURE ===\" && find . -not -path '*/\\\\.git*' | sort && echo \"\" && echo \"Notes created: $\\(find . -name '*.md' | wc -l\\) | Folders: $\\(find . -type d | wc -l\\)\")",
       "Bash(cd \"C:/Users/esteb/Desktop/Dproperty_OS/Dproperty_OS/dproperty brain\" && find . -type d -empty -not -path '*/\\\\.*' -exec touch {}/.gitkeep \\\\; && echo \"=== FINAL STRUCTURE ===\" && find . -not -path '*/\\\\.git*' -not -name '.gitkeep' | sort && echo \"\" && echo \"Markdown notes: $\\(find . -name '*.md' | wc -l\\) | Folders: $\\(find . -type d | wc -l\\)\")",
       "Bash(python3 -)",
-      "PowerShell"
+      "PowerShell",
+      "Bash(cd \"$\\(dirname \"$0\"\\)\" 2>/dev/null; ls second_brain/15_Brand_Assets_Index second_brain/05_Franchise_Package/Brand 2>/dev/null; echo \"====\"; grep -rli \"website\\\\|landing page\\\\|lovable\" second_brain --include=*.md | head -20)",
+      "Bash(awk '/PAGE 7/,/PAGE 9/' \"04_Product/Public Site Wireframe.md\")"
     ]
   }
 }

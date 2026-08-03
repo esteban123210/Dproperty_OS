@@ -4,8 +4,8 @@
   "title": "we will start the session to work on the website o...",
   "titleGenerationStatus": "failed",
   "createdAt": 1785766710127,
-  "updatedAt": 1785766758380,
-  "lastResponseAt": 1785766758380,
+  "updatedAt": 1785767619081,
+  "lastResponseAt": 1785767619081,
   "sessionId": "e18dfb6a-0c12-4f70-9102-8b212dda82a0",
   "providerState": {
     "providerSessionId": "e18dfb6a-0c12-4f70-9102-8b212dda82a0"
@@ -13,11 +13,12 @@
   "currentNote": "second_brain/00_Index/AI Handoff Pack/AI Handoff Pack - Read Me.md",
   "usage": {
     "model": "opus",
-    "inputTokens": 0,
-    "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
-    "contextWindow": 200000,
-    "contextTokens": 0,
-    "percentage": 0
+    "inputTokens": 1,
+    "cacheCreationInputTokens": 1856,
+    "cacheReadInputTokens": 53081,
+    "contextWindow": 1000000,
+    "contextTokens": 54938,
+    "percentage": 5,
+    "contextWindowIsAuthoritative": true
   }
 }
