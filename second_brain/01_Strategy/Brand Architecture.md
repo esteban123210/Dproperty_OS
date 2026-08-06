@@ -18,19 +18,19 @@ tags: [strategy, brand, architecture, naming]
 ## 1. The Model
 
 ```
-        [PARENT]  ← name TBD
+         CANTERA
    a franchising ecosystem for real estate
                  │
    ┌─────────────┼─────────────┬──────────────────┐
    │             │             │                  │
-DPROPERTY    WHITE-LABEL   DEVELOPER          [OS_NAME]
+DPROPERTY    WHITE-LABEL   DEVELOPER           PLANO
 (flagship    (your brand,  SALES PARTNER      ← the platform
- brand)       our system)  (embedded team)       name TBD
+ brand)       our system)  (embedded team)      (blueprint)
 ```
 
-- **[PARENT]** is the operating company and the ecosystem. It owns the method, the platform, the Academy, the network, and the Select portfolio.
+- **Cantera** is the operating company and the ecosystem. It owns the method, the platform, the Academy, the network, and the Select portfolio.
 - **Dproperty** is the flagship consumer/investor brand — proof that the model works, and the brand a franchisee can choose to operate under.
-- **[OS_NAME]** (formerly "Dproperty OS") is the platform. It must be brand-neutral, because white-label partners run on it under their own name.
+- **Plano** (formerly "Dproperty OS") is the platform. It must be brand-neutral, because white-label partners run on it under their own name.
 
 **Why this matters:** a partner is not "buying Dproperty." They are **joining an ecosystem** and choosing how much of our brand they want. That reframe is the entire commercial argument — it makes the offer bigger, the pricing defensible, and the white-label line non-embarrassing.
 
@@ -61,7 +61,7 @@ Both are **proposals, not final**. Trademark and domain clearance in Panama, Col
 | Flagship brand | Dproperty | Locked |
 | Curated portfolio | Dproperty Select (external) / Private Collection (internal) | Locked — see [[../00_Index/Project Context Brief]] §0 |
 
-**Working convention until named:** use the tokens `[PARENT]` and `[OS_NAME]` everywhere, in the same spirit as the existing `[MOCK]` convention. This lets specs, wireframes and builds proceed now and swap the name in one find-and-replace later.
+**Working convention:** keep **Cantera** and **Plano** as single-source config variables in every build until trademark clearance completes, so a rename stays a one-line change.
 
 ⚠️ **Open question:** does **Dproperty Select** keep the Dproperty name once the parent brand exists? Arguments both ways — it inherits flagship credibility, but a white-label partner selling "Dproperty Select" inventory under their own brand is a naming collision. Decide before launch.
 
@@ -153,8 +153,8 @@ These must be resolved — they are load-bearing for the website.
 
 1. ~~**White-label × Select access.**~~ ✅ **RESOLVED 2026-08-03.** White-label **does** get Select access, but on **external-partner-broker terms: 1.5% of sale price** (not the 2.0% previously written, and not the branded 2.5%). The old blanket exclusion in [[../13_White_Label/White-Label OS Guide]] is retired. This is the cleanest possible answer: it makes Pillar 4 true for every partner, keeps a real economic reason to buy the brand, and requires no special-casing — white-label simply transacts Select the way any external partner broker does.
    ⚠️ **Propagation debt:** the `dproperty brain` operational vault still carries **2.0%** in 10 live project files (`02_Projects/Private Collection/**/10_Dproperty Commercial/Commercial Terms.md`: Boreal, Cavarosa, Nayamara, Sky Parc II, Sky Parc IV, Gesti68, Dovle Selva, Dovle Cincuentenario, + the project template). These are live commercial documents — update deliberately, and check whether any already-signed terms are affected.
-2. **"Proven model" substantiation.** The profit-uplift claim needs at least one nameable or anonymised partner case with a number behind it before it goes on a public page. Right now we have zero franchisees.
-3. **Naming blocker.** No public launch under a placeholder. Build can proceed; launch cannot.
+2. ✅ **"Proven model" claim rewritten 2026-08-03.** The unsubstantiated profit-uplift statistic is **removed** from all public copy. Pillar 4 now states the *mechanism* — *"every Dproperty Select transaction is inventory you didn't have to source, at a commission you didn't have to negotiate"* — plus the real operating history since 2017. Both defensible without inventing a number. Add a genuine case study when a partner produces one.
+3. ~~**Naming blocker.**~~ ✅ Resolved 2026-08-03 — **Cantera** (company) and **Plano** (platform). Trademark/domain clearance still outstanding; keep both as config variables.
 4. **Vault-wide naming debt.** Most notes say "Dproperty OS" meaning both the company and the platform. Do not mass-rename yet — wait for the real name, then do one controlled pass.
 5. **Developer Sales OS notes are stale.** [[../11_Developer_Sales_OS/Developer Sales OS Guide]] still describes a generic enablement service. Needs rewriting to the dedicated-embedded-team positioning.
 6. **Existing site work is re-scoped, not wasted.** [[../04_Product/Public Site Wireframe]] v0.6 and [[../04_Product/Public Site Copy - ES Master]] v1.0 remain valid — but as the **Dproperty brand site**, not the company site. See [[../17_Handoff_Files/Handoff - Ecosystem Website]].

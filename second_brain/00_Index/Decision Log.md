@@ -373,3 +373,17 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Effect:** Year 1 revenue ~$87k → **~$97k**; Year 5 ~$1.59M → **~$1.89M**. **Year 3 EBITDA ~$15k → ~$125k** (breakeven no longer knife-edge); Year 5 EBITDA ~$630k → **~$924k** (49% margin).
 **Impacted Areas:** Finance, Pitch Decks, Business Plan, Website (franchise economics), White-label, Funding/Tranches.
 **Status:** Active. ⚠️ **The new line rests on two unvalidated placeholders:** white-label units/year (`C32` = 25) and white-label Select mix (`C33` = 8%). Every 4 points of Select mix ≈ **$147k of Year-5 EBITDA**. OPEX/staffing rows remain owner-unvalidated.
+
+## 2026-08-03 — Names: Cantera (company) and Plano (platform)
+
+**Decision:** The parent company is **Cantera**. The platform, formerly "Dproperty OS," is **Plano**. Dproperty remains the flagship brand.
+**Reason:** *Cantera* means both **quarry** (the source of the stone a building is made from) and, in LATAM/Spanish football culture, ***la cantera*** — the academy that develops homegrown talent. A company that supplies both the material and the people, which is precisely the stated vision: *the home of real estate talent, capital and ideas*. Short, bilingual, and brand-neutral enough that a white-label partner is not embarrassed to be powered by it. *Plano* means **blueprint** — the system as a drawing others can build from. Brand-neutral (essential, since white-label partners run on it under their own name), technical without being cold, and it ties directly to the website's architectural sketch-line visual language. *"Powered by Plano"* works.
+**Impacted Areas:** Brand, Product, Website, all handoffs, Legal (trademark), Domains, Pitch Decks, vault-wide naming.
+**Status:** Active but **provisional**. ⚠️ **Trademark and domain clearance in Panama, Colombia and Spain has NOT been done.** Both names remain single-source config variables in every build until cleared. A vault-wide rename pass is deferred until then.
+
+## 2026-08-03 — Public "Proven Model" Claim Rewritten to Remove Unsubstantiated Statistic
+
+**Decision:** The public Pillar 4 claim — *"our partners have increased their profitability simply by adding Dproperty Select"* — is **removed** from all outward copy. It is replaced by a statement of the **mechanism plus real operating history**: *"We've been running it since 2017. Every Dproperty Select transaction is inventory you didn't have to source, at a commission you didn't have to negotiate."* No percentage or uplift figure is to appear on any public asset until a genuine, sourced partner case exists.
+**Reason:** With zero franchisees there is no such figure. A quantified profitability claim with nothing behind it is the first thing a sceptical $30k buyer probes, and failing that probe costs more credibility than the claim ever bought. The mechanism statement is verifiable by construction, concrete, and arguably more persuasive — and it lets Dproperty's genuine track record ($200M+, 700+ operations, the landmark projects) carry the proof, honestly attributed to the flagship brand.
+**Impacted Areas:** Website (all pages), Pitch Decks, Franchise brochure, Sales Playbook, Acquisition Playbook.
+**Status:** Active. Standing rule: **no unsourced performance statistics in public-facing material.** Add a real case study when one exists.
