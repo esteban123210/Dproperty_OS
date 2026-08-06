@@ -110,16 +110,17 @@ Base franchise scenario: 50 units/year; $300,000 average unit price; owner-opera
 
 **Royalty base:** the 6% + 1.5% is charged on **gross-into-company (the 2.5%)**, not franchise net — un-gameable. HQ nets ~$562 per $300k local unit. The 50/50 external-advisor share is an editable model input. Dproperty Select uses its own structure and does not run through this waterfall.
 
-## 8. Conservative Financial Projection Summary (Model v0.7, 2026-07-05)
+## 8. Conservative Financial Projection Summary (Model v0.8, 2026-08-03)
 
-- Year 1 revenue: ~$87k.
-- Year 5 revenue: ~$1.59M.
-- EBITDA: negative early; **positive in Year 3 (~$15k, thin)**, rising to **~$630k by Year 5**.
+- Year 1 revenue: ~$97k.
+- Year 5 revenue: ~$1.89M.
+- EBITDA: negative early; **positive in Year 3 (~$125k)**, rising to **~$924k by Year 5** (49% margin).
 - Local royalty computed on gross-into-company after the 50/50 external-advisor split.
-- CAUTION: OPEX/staffing rows are planning estimates and need owner validation; Year 3 breakeven is thin.
+- **v0.8 change:** added the **white-label Dproperty Select** revenue line, which did not exist in v0.7 (white-label had no Select access, so Select revenue counted branded franchises only). HQ retains **3.5% of sale price** on a white-label Select unit ($10,500) vs **2.5%** on a branded one ($7,500) — more per unit, across 4× more partners. This alone moved Year-3 EBITDA from a knife-edge ~$15k to ~$125k.
+- ⚠️ CAUTION: OPEX/staffing rows are planning estimates and need owner validation. The new line rests on **two unvalidated placeholders** — white-label units/year (25) and Select mix (8%). Every 4 points of Select mix ≈ **$147k of Year-5 EBITDA**; this is the highest-leverage open input in the model.
 - A separate **Phase-2 (ecosystem) financial model** still needs to be built.
 
-`09_Exports/Dproperty_OS_Financial_Model.xlsx` **v0.7** is the source of truth for projections.
+`09_Exports/Dproperty_OS_Financial_Model.xlsx` **v0.8** is the source of truth for projections (v0.7 archived alongside it). Detail: [[../07_Finance/Financial Model Summary]].
 
 ## 9. Internal Funding Logic
 

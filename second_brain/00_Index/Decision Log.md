@@ -365,3 +365,11 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Reason:** Gives white-label partners real, transferable credibility without diluting the flagship or blurring the two doors. It also makes the white-label offer materially stronger without touching the branded franchise's exclusivity.
 **Impacted Areas:** Brand Manual, White-label, Legal templates (endorsement usage rules), Website.
 **Status:** Active. ⚠️ **Needs brand-usage rules drafted** — where the endorsement may appear, at what size, in what contexts, and how it is withdrawn on termination.
+
+## 2026-08-03 — Financial Model v0.8: White-Label Select Revenue Line Added
+
+**Decision:** Rebuild the financial model to **v0.8**, adding a **"Dproperty Select — white-label HQ retained"** revenue line (Model row 19) and revising `Assumptions!C14` from 2.0% → **1.5%**. Source of truth is now `09_Exports/Dproperty_OS_Financial_Model.xlsx` **v0.8**; v0.7 archived as `Dproperty_OS_Financial_Model_v0.7_ARCHIVE_20260803.xlsx`.
+**Reason:** v0.7 contained a **structural gap**, not merely a stale rate. Cell `C14` existed but was **never referenced by any formula** — Select revenue counted branded franchises only, which was correct while white-label had no Select access and became wrong the moment access was granted. Because HQ retains commission net of the partner payout, HQ keeps **3.5% of sale price on a white-label Select unit ($10,500) vs 2.5% on a branded one ($7,500)** — 40% more per unit, across 4× more partners by Year 5.
+**Effect:** Year 1 revenue ~$87k → **~$97k**; Year 5 ~$1.59M → **~$1.89M**. **Year 3 EBITDA ~$15k → ~$125k** (breakeven no longer knife-edge); Year 5 EBITDA ~$630k → **~$924k** (49% margin).
+**Impacted Areas:** Finance, Pitch Decks, Business Plan, Website (franchise economics), White-label, Funding/Tranches.
+**Status:** Active. ⚠️ **The new line rests on two unvalidated placeholders:** white-label units/year (`C32` = 25) and white-label Select mix (`C33` = 8%). Every 4 points of Select mix ≈ **$147k of Year-5 EBITDA**. OPEX/staffing rows remain owner-unvalidated.
