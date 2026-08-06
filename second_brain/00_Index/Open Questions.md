@@ -196,7 +196,7 @@ Opened by the house-of-brands restructure. See [[../01_Strategy/Brand Architectu
 
 - 🔴 **What is the realistic white-label Select attach rate?** Model placeholder: **8% of units** (`Assumptions!C33`). This is now arguably the **most leveraged single number in the business** — every 4 percentage points ≈ **$147k of Year-5 EBITDA**. Currently a guess. Needs either a pilot, a partner conversation, or a defensible analogue.
 - 🔴 **How many units per year does a typical white-label partner do?** Placeholder: **25** (`Assumptions!C32`), vs 50 for branded. Unvalidated.
-- **Should Select attach-rate be instrumented in [OS_NAME] from day one?** If it is the key operating metric, it needs to be measured per partner from the first deal, not reconstructed later.
+- **Should Select attach-rate be instrumented in Plano from day one?** If it is the key operating metric, it needs to be measured per partner from the first deal, not reconstructed later.
 - **Does the Year-3 EBITDA improvement (~$15k → ~$125k) change the funding ask or tranche timing?** See [[../07_Finance/Funding and Tranches]].
 - **Standing:** OPEX/staffing rows still owner-unvalidated — they move EBITDA more than any revenue line.
 - **Standing:** Phase-2 (ecosystem/hub) financial model still not built.

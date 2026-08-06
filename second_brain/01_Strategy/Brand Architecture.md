@@ -135,7 +135,7 @@ Every public asset — website, deck, brochure — should stand on these four, i
 
 1. **The boutique promise.** Everything is backed by the Dproperty way of working: curated over volume, numbers over hype, trust over transactions. Premium, but reachable.
 2. **Freedom.** Franchise your way. We provide the tools and accompany the process; the brand can still be yours. Two doors — our brand or yours — and neither is the consolation prize.
-3. **The tools are real and already built.** [OS_NAME] platform · white-label CRM · AI agents · Academy/learning platform · networking events · **Dproperty Select portfolio access** · full template and manual library.
+3. **The tools are real and already built.** Plano platform · white-label CRM · AI agents · Academy/learning platform · networking events · **Dproperty Select portfolio access** · full template and manual library.
 4. **It is a proven model.** Partners have materially increased operating profit **simply by adding Dproperty Select to what they already offer their own clients**. What's for sale is not a brochure — it's entry into everything Dproperty's experience has built.
 
 ## 5. Tone Rule for This Restructure
