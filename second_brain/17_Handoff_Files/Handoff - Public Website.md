@@ -21,8 +21,8 @@ tags: [handoff, production, website, brand, marketing]
 > **This handoff is still valid**, but only as the **Dproperty consumer/investor brand site** (`dproperty.com`) — buyers, sellers, investors, Select. It is no longer the company's main site.
 >
 > **Two changes required before building this one:**
-> 1. **PAGE 7 (Franquicias) is removed** from this site. Franchise/white-label/developer recruitment now lives on the parent site → [[Handoff - Ecosystem Website]]. Replace with a single banner + footer line: *"Dproperty es parte de [PARENT]"* → link out.
-> 2. Add a *"Dproperty es parte de [PARENT]"* line to the footer.
+> 1. **PAGE 7 (Franquicias) is removed** from this site. Franchise/white-label/developer recruitment now lives on the parent site → [[Handoff - Ecosystem Website]]. Replace with a single banner + footer line: *"Dproperty es parte de Cantera"* → link out.
+> 2. Add a *"Dproperty es parte de Cantera"* line to the footer.
 >
 > **Build order:** the ecosystem site first (that's where the revenue conversation is). This one after.
 

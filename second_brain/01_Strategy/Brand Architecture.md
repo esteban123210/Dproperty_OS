@@ -34,12 +34,30 @@ DPROPERTY    WHITE-LABEL   DEVELOPER          [OS_NAME]
 
 **Why this matters:** a partner is not "buying Dproperty." They are **joining an ecosystem** and choosing how much of our brand they want. That reframe is the entire commercial argument — it makes the offer bigger, the pricing defensible, and the white-label line non-embarrassing.
 
-## 2. Naming Status — OPEN
+## 2. Naming — PROPOSED 2026-08-03
 
-| Item | Current name | Status |
+### Cantera — the parent company
+
+In Spanish, **cantera** carries two meanings at once:
+1. **A quarry** — the source of the stone a building is made from.
+2. ***La cantera*** — in football culture across LATAM and Spain, the academy that develops homegrown talent.
+
+A company that supplies both **the material and the people**. It maps precisely onto the stated vision — *"the home of real estate talent, capital and ideas"* — and onto the actual business, which is developing operators and giving them what they need to build. Short, pronounceable in both languages, and brand-neutral enough that a white-label partner is not embarrassed to be powered by it.
+
+### Plano — the platform
+
+**Plano** = *blueprint / floor plan*. The system rendered as a drawing others can build from. It is brand-neutral (essential — white-label partners run on it under their own name), unmistakably technical without being cold, and it ties directly to the website's visual language of thin architectural sketch lines. *"Powered by Plano"* works.
+
+### Status
+
+Both are **proposals, not final**. Trademark and domain clearance in Panama, Colombia and Spain has **not** been done. Keep both as find-replaceable config variables in every build until cleared.
+
+## 2b. Naming Status
+
+| Item | Name | Status |
 |---|---|---|
-| Parent company / ecosystem | — | **TBD — blocker for public launch** |
-| Platform | "Dproperty OS" | **TBD — must be brand-neutral** |
+| Parent company / ecosystem | **Cantera** | Proposed 2026-08-03 — pending trademark clearance |
+| Platform | **Plano** | Proposed 2026-08-03 — pending trademark clearance |
 | Flagship brand | Dproperty | Locked |
 | Curated portfolio | Dproperty Select (external) / Private Collection (internal) | Locked — see [[../00_Index/Project Context Brief]] §0 |
 
