@@ -192,3 +192,9 @@ This file lists the baseline files in the B_RealEstate ecosystem and BluePrint O
 - `18_Ecosystem/14 - Unit Economics Registry.md`
 - `18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16.md`
 - `18_Ecosystem/16 - Roadmap and Governance.md`
+
+## Canonical BluePrint Product Files (added 2026-08-16)
+
+- `04_Product/BluePrint Product Map.md`
+- `04_Product/BluePrint Product Constitution.md`
+- `04_Product/BluePrint Golden Workflow - Wireframe and Validation.md`

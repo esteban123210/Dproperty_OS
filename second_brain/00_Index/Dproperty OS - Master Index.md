@@ -72,6 +72,9 @@ This is the main navigation page for the B_RealEstate ecosystem and the BluePrin
 
 ## 04 Product
 
+- [[../04_Product/BluePrint Product Map]] *(CANONICAL 2026-08-16 — start here for BluePrint product work)*
+- [[../04_Product/BluePrint Product Constitution]] *(CANONICAL v1.0 — promise, boundaries, ownership, CRM modes, entities, MVP and Copilot authority)*
+- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation]] *(CANONICAL architecture test v1.0 — wireframe + three-mode desk-test)*
 - [[../04_Product/Product Vision]]
 - [[../04_Product/Platform Information Architecture]] *(NEW 2026-07-18 — platform IA, public site + OS)*
 - [[../04_Product/Platform Scenario Playbook]] *(NEW 2026-07-18 — 72+ tested scenarios)*

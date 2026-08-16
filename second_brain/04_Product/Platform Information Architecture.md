@@ -2,8 +2,8 @@
 project: B_RealEstate
 title: "Platform Information Architecture"
 type: product_spec
-status: Draft v0.5
-version: 0.5
+status: Supporting Draft v0.6
+version: 0.6
 owner: Esteban
 last_updated: 2026-08-16
 source: Claude working session 2026-07-18
@@ -14,9 +14,9 @@ tags: [product, architecture, platform, wireframe, information-architecture]
 
 > **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
 
-> Parent document for the BluePrint platform wireframe. Sits one layer **above** [[Prototype Spec]] (which defines screens) and defines the whole ecosystem: public site + logged-in OS + how CRM/Academy/files plug in + who does what.
+> **Precedence update (2026-08-16):** [[BluePrint Product Constitution]] controls the product boundary and [[BluePrint Golden Workflow - Wireframe and Validation]] controls the MVP journey. This file remains supporting information architecture for the wider public/logged-in ecosystem.
 >
-> Companion notes: [[Platform Scenario Playbook]] (72+ tested scenarios) and [[Roles and Access Matrix]] (hierarchy, human/AI split, agent pricing).
+> Companion notes: [[BluePrint Product Map]], [[Platform Scenario Playbook]] (72+ scenarios), and [[Roles and Access Matrix]] (hierarchy and permissions).
 
 ---
 
@@ -27,21 +27,25 @@ One login. A persistent **Command Bar** (top of every screen) + a **Launcher gri
 
 > If you work with us, you log into our site and within a few clicks you reach anything in our ecosystem — files, contacts, websites, information, prices, projections, templates, anything.
 
-### Principle 2 — "Automation first, AI second" (cost control)
-Most of what the platform does is **not** generative AI — it's forms, search, templating, and file-routing, which are deterministic and free. Route every task to the cheapest tier that does the job:
+### Principle 2 — Deterministic core, governed Copilot
 
-| Tier | Tech | Cost | Handles |
-|------|------|------|---------|
-| **T0 — No AI** | Forms, rules, search index, mail-merge templating, file-naming automation (Make / n8n / Power Automate) | ~$0 | ~85% of daily tasks: registering, filing, finding, generating docs from templates, dashboards, payments |
-| **T1 — Cheap/Local AI** | DeepSeek local, or cheap batch API | ~$0 | Writing a listing description, summarizing, extracting data from a messy PDF, Q&A over own files (RAG), categorizing tickets |
-| **T2 — Premium AI** | Optional add-on | Paid | Rare heavy reasoning; sold as upsell |
+BluePrint includes the Copilot from MVP, but it does not turn deterministic workflow into probabilistic workflow. Route each task to the lowest-cost reliable mechanism:
+
+| Tier | Mechanism | Handles |
+|---|---|---|
+| **T0 — Deterministic** | Forms, rules, search index, templates, workflow services and calculations | Filing/routing, stage gates, document assembly, commissions, dashboards and audit |
+| **T1 — Cost-efficient GPT** | Permission-filtered retrieval, classification, extraction and summaries | Q&A over approved knowledge, transaction summaries, missing-item explanations |
+| **T2 — Stronger GPT** | Controlled complex drafting/analysis | Approved-template document drafts and management narratives |
 
 **Hard rules:**
-- AI never **files, names, or routes** anything — rules do.
-- AI never **calculates, approves, pays, or deletes** — humans + deterministic logic do.
-- AI only **writes language** (drafts, summaries, extraction, Q&A).
 
-This keeps the platform deterministic (critical for legal/financial), cheap, and consistent with [[AI Layer Notes]] and the "data first, documents second" principle in [[Product Vision]].
+- Deterministic rules own filing, routing, calculations, stage gates and audit.
+- AI may prepare a low-risk record action only with preview, explicit confirmation and authorization.
+- AI never approves, signs, pays, publishes templates, waives controls or makes regulated decisions.
+- Tenant/role/record permissions are enforced before retrieval and tool execution.
+- Company/process/metric answers cite sources, definitions and period.
+
+See [[BluePrint Product Constitution]] §10 and [[AI Layer Notes]].
 
 ---
 
@@ -142,7 +146,7 @@ Extends [[File Storage Rules]]. The OS is the single pane of glass.
 | Brochures / brand assets / decks | SharePoint/Drive | Resource Library (links + preview) |
 | Signed / legal documents | Secure legal archive | Linked from the Deal, read-only |
 | Generated docs & projections | OS document store | Attached to the Deal |
-| Structured data (clients, units, deals) | OS database | The source of truth |
+| Structured operational data (party references, units, transactions) | BluePrint database | Source of truth only for BluePrint-owned fields; CRM-owned fields retain provenance |
 
 ---
 
@@ -193,5 +197,5 @@ DISCOVER → APPLY → SIGN → ONBOARD → LAUNCH → OPERATE → GROW
 3. Wireframes → Figma (per [[Figma Handoff Notes]] and [[File Storage Rules]])
 
 ## Related
-- [[Product Vision]] · [[Product Modules]] · [[Prototype Spec]] · [[MVP Scope]] · [[Data Model]] · [[AI Layer Notes]]
+- [[BluePrint Product Map]] · [[BluePrint Product Constitution]] · [[BluePrint Golden Workflow - Wireframe and Validation]] · [[Product Vision]] · [[Product Modules]] · [[Prototype Spec]] · [[MVP Scope]] · [[Data Model]] · [[AI Layer Notes]]
 - [[GoHighLevel Role]] · [[Training Academy Outline]] · [[File Storage Rules]]

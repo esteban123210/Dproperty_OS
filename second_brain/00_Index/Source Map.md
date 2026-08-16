@@ -47,6 +47,12 @@ Add actual links and citations here as research is finalized:
 | Real estate franchise comps | TBD | TBD | Competition | No |
 
 
+## Canonical BluePrint Product Sources — 2026-08-16
+
+- [[../04_Product/BluePrint Product Map|BluePrint Product Map]] — product navigation and decision hierarchy.
+- [[../04_Product/BluePrint Product Constitution|BluePrint Product Constitution]] — binding product promise, ownership, CRM modes, entities, MVP and Copilot authority.
+- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|BluePrint Golden Workflow]] — screen-by-screen MVP journey and three-mode architecture test.
+
 ## Canonical Ecosystem Sources — 2026-08-16
 
 - [[../18_Ecosystem/README|18_Ecosystem — Start Here]] — canonical architecture and component registry.
@@ -58,7 +64,9 @@ Add actual links and citations here as research is finalized:
 
 ## Technology Decisions
 
-- BluePrint — B_RealEstate back-office control plane.
+- BluePrint — CRM-neutral B_RealEstate back-office operating platform; supports GoHighLevel, external CRM and direct-intake modes.
 - GoHighLevel — white-labeled CRM and marketing automation.
 - Open edX — Academy/LMS technology.
 - VAULTED — invitation-only off-market marketplace.
+
+- BluePrint Copilot — permission-aware MVP assistant using approved foundation-model APIs; deterministic services retain calculations and decisions.

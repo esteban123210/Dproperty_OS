@@ -1,18 +1,21 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Roles and Access Matrix"
 type: product_spec
 status: Draft v0.5
 version: 0.5
 owner: Esteban
-last_updated: 2026-07-18
+last_updated: 2026-08-16
 source: Claude working session 2026-07-18
 tags: [product, architecture, roles, permissions, hr, ai-agents, pricing]
 ---
 
 # Roles and Access Matrix
 
-> Defines the platform hierarchy, the minimum roles a franchise office must have, which roles are human vs AI, the confidentiality rules, and how AI agents are priced into the plan. Companion to [[Platform Information Architecture]] and [[Platform Scenario Playbook]].
+> **Precedence update (2026-08-16):** Role names remain abstract/configurable. Need-to-know access and AI-0–AI-4 authority are controlled by [[BluePrint Product Constitution]]; Golden Workflow actors and separation rules are in [[BluePrint Golden Workflow - Wireframe and Validation]].
+
+
+> Defines the platform hierarchy, the minimum roles a franchise office must have, where the Copilot may support human roles, the confidentiality rules, and how AI usage is priced into the plan. Companion to [[Platform Information Architecture]] and [[Platform Scenario Playbook]].
 >
 > **Key insight:** the roles defined here become BOTH the permission tiers in the software AND the minimum staffing requirement in the franchise agreement.
 
@@ -60,24 +63,24 @@ FRANCHISE OFFICE
 
 ---
 
-## Human vs AI agent map
+## Human roles and AI support map
 
 | Role / Function | Human or AI | Notes |
 |---|---|---|
 | Franchise Principal | **Human** | Accountability, legal signatory |
 | Sales Advisor (closing) | **Human** | Relationship + legal duty; AI assists, doesn't replace |
 | Ops / Compliance sign-off | **Human** | Final checks, heavily AI-assisted |
-| SDR / Lead qualifier | **AI agent (T1)** | First response, qualify, book calls (via GHL) |
-| Nurture / follow-up | **AI agent (T1)** | Sequences, reminders, re-engagement |
-| Document drafter | **AI agent (T1)** | Fills approved templates → human approves |
-| Projection drafter | **AI agent (T1)** | Within HQ-locked assumptions → human approves |
-| Meeting summarizer / CRM updater | **AI agent (T1)** | Notes, data entry, next-actions |
-| Reporting analyst | **AI agent (T1)** | Weekly dashboards, alerts |
-| Training coach | **AI agent (T1)** | Onboarding Q&A, role-play partner |
-| Receipt reader (reimbursements) | **AI agent (T1)** | Extraction only; human approves payment |
-| Ticket categorizer / glitch clustering | **AI agent (T1)** | Routing only; humans resolve |
+| SDR / lead qualifier | **GoHighLevel automation / human** | Front-office function outside the BluePrint Copilot; qualified handoff enters BluePrint |
+| Nurture / follow-up | **GoHighLevel automation / human** | Front-office function outside the BluePrint Copilot |
+| Document drafting support | **Copilot AI-2** | Uses approved versioned templates and structured inputs; output remains draft |
+| Projection support | **Deterministic service + Copilot AI-1/2** | Service calculates; Copilot explains or drafts narrative; human approves where required |
+| Meeting/transaction summarizer | **Copilot AI-1/3** | Summarizes immediately; proposed record actions require confirmation |
+| Reporting support | **Deterministic metrics + Copilot AI-1/2** | Metrics are governed; Copilot explains and drafts narrative |
+| Knowledge/training support | **Copilot AI-0/1** | Answers from authorized BluePrint/company/Academy sources with citations |
+| Receipt/evidence extraction | **Copilot AI-1** | Extraction only; human validates and approves financial action |
+| Ticket/glitch assistance | **Rules + Copilot AI-1/3** | Rules route; Copilot summarizes/clusters or prepares confirmed changes; humans resolve |
 
-**The pattern:** AI does the volume work up to the approval line; a human crosses it. Consistent with [[AI Layer Notes]]: AI drafts and operates; humans approve anything legal, financial, or client-facing. **AI never calculates, approves, pays, deletes, files, or routes.**
+**The pattern:** deterministic services calculate, gate, file and route; the Copilot retrieves, explains, summarizes, drafts and prepares confirmed low-risk actions. Authorized humans approve, sign, pay, publish templates, waive controls and make regulated decisions. See [[BluePrint Product Constitution]] §10.
 
 ---
 
@@ -91,7 +94,7 @@ FRANCHISE OFFICE
 
 ---
 
-## How AI agents are priced into the plan
+## How Copilot usage is priced into the plan
 
 Three models — recommended hybrid:
 
@@ -101,7 +104,7 @@ Three models — recommended hybrid:
 
 **Recommendation:** Base plan includes **2–3 core agents** (positioned as "a virtual team member included — worth one salary, included in your license"), premium agents as add-ons, and a **credit cap** to protect margin.
 
-Because ~85% of platform work is T0 (free automation) and T1 runs on cheap/local models (DeepSeek local), **AI is a sales weapon, not a feared cost line.** Flows into [[Pricing Model]] and [[Unit Economics]].
+Most workflow remains deterministic. Copilot usage runs through cost-aware approved GPT routing, tenant allowances and priced overage, so assistance can increase product value without silently eroding margin. See [[BluePrint Product Constitution]] §10 and the financial model.
 
 ---
 

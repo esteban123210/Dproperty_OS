@@ -1,15 +1,18 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Data Model"
 type: product_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-08-16
 source: ChatGPT baseline vault package
 tags: [product]
 ---
 
 # Data Model
+
+> **Precedence update (2026-08-16):** This is a supporting exploration. The binding core entities, ownership boundaries, required provenance fields and three intake modes are in [[BluePrint Product Constitution]] §§4–7. Reconcile this file against that model before implementation.
+
 
 ## Core Objects
 

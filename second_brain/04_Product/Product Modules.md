@@ -11,7 +11,7 @@ tags: [product]
 
 # Product Modules
 
-> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
+> **Scope control (2026-08-16):** [[BluePrint Product Constitution]] controls the product/MVP boundary and [[BluePrint Golden Workflow - Wireframe and Validation]] controls the build gate. A capability listed here is not automatically included in MVP.
 
 ## HQ Dashboard
 

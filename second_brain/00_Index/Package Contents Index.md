@@ -4,7 +4,7 @@ title: "Package Contents Index"
 type: package_index
 status: Generated
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-08-16
 source: ChatGPT baseline vault package
 tags: [package]
 ---
@@ -44,6 +44,12 @@ This baseline package contains:
 4. Open [[../16_Task_Management/Next 10 Tasks Working Plan]].
 5. Start with [[../05_Franchise_Package/Franchise Launch Package Index]].
 
+
+## Canonical BluePrint product package
+
+- [[../04_Product/BluePrint Product Map|BluePrint Product Map]]
+- [[../04_Product/BluePrint Product Constitution|BluePrint Product Constitution]]
+- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|BluePrint Golden Workflow]]
 
 ## Canonical ecosystem package
 
