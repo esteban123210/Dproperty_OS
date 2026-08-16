@@ -418,3 +418,25 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 **Status:** Open decision. See [[../18_Ecosystem/10 - DpropertyLiving]].
 
+
+## 2026-08-16 — BluePrint Product Constitution Is the Product Boundary
+
+**Decision:** [[../04_Product/BluePrint Product Constitution|BluePrint Product Constitution v1.0]] is the definitive product-boundary document. BluePrint is a CRM-neutral, multi-tenant back-office operating platform. It supports three modes—GoHighLevel ecosystem connected, external CRM connected, and BluePrint Direct—through one Intake/Transaction model. It does not replace CRM, LMS, marketplace, file storage, e-signature or accounting systems.
+
+**Reason:** Prevent scope reopening, CRM lock-in and separate product variants while preserving a complete standalone value proposition.
+
+**Status:** Active. Material changes require a Decision Log entry and coordinated Constitution/map/spec updates.
+
+## 2026-08-16 — Golden Workflow Is the BluePrint MVP Spine
+
+**Decision:** The MVP is controlled by one workflow: qualified CRM/manual intake → transaction workspace → compliance → document generation → human approval/signature handoff → closing → commission → report. [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|The Golden Workflow]] passes a product-architecture desk-test for an independent agency with another CRM, a Dproperty franchise with GoHighLevel and a small agency using BluePrint Direct. Variation is limited to adapters, configuration, branding, rules and entitlements.
+
+**Status:** Active at architecture level. Clickable prototype, technical integration and usability validation remain required.
+
+## 2026-08-16 — Permission-Aware Copilot Included in MVP
+
+**Decision:** BluePrint includes a hyperfocused Copilot from MVP. It may retrieve/explain (AI-0), summarize/analyze through governed data/tools (AI-1), draft from approved sources/templates (AI-2), and prepare low-risk actions that require explicit confirmation (AI-3). It may not approve, sign, pay, publish templates, waive controls or make legal/compliance/financial decisions (AI-4 remains human-only).
+
+**Reason:** The assistant is central to reducing back-office burden, but its authority must remain narrower than the requesting user's permissions and consequential decisions must stay attributable to humans.
+
+**Status:** Active. See Product Constitution §10.

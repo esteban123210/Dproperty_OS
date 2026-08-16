@@ -135,5 +135,8 @@ When in doubt, ask before editing.
 - Parent/company: **B_RealEstate**.
 - Platform: **BluePrint** (historical “Dproperty OS” / “Plano”).
 - Core identity: **B_**; BluePrint wordmark uses B_ + underlined “luePrint”.
-- Before ecosystem, website, product, CRM, Academy, VAULTED, Select, white-label or developer work, read `18_Ecosystem/README.md` and the relevant component file.
-- GoHighLevel is the CRM, Open edX is the Academy technology, VAULTED is the marketplace, and BluePrint is the back-office control plane. Never collapse them into one database or one product claim.
+- Before ecosystem, website, CRM, Academy, VAULTED, Select, white-label or developer work, read `18_Ecosystem/README.md` and the relevant component file.
+- Before BluePrint product work, read `04_Product/BluePrint Product Map.md`, then the Product Constitution and Golden Workflow.
+- BluePrint supports GoHighLevel, another CRM or direct/manual intake through one core product. The Product Constitution controls data ownership and the Golden Workflow controls the MVP.
+- GoHighLevel is the configured B_RealEstate CRM, Open edX is the Academy technology, VAULTED is the marketplace, and BluePrint is the back-office operating platform. Never collapse them into one database or one product claim.
+- The permission-aware Copilot is included from MVP, but AI may never approve, sign, pay, publish templates, waive controls or make regulated decisions.

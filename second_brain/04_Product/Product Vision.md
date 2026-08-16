@@ -2,48 +2,37 @@
 project: B_RealEstate
 title: "Product Vision"
 type: product_note
-status: Baseline Created
+status: "Canonical summary v1.0"
 owner: Esteban
 last_updated: 2026-08-16
-source: ChatGPT baseline vault package
-tags: [product]
+source: BluePrint Product Constitution
+tags: [product, blueprint, vision]
 ---
 
-# Product Vision
+# BluePrint Product Vision
 
-> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
+> Start in [[BluePrint Product Map]]. The binding definition is [[BluePrint Product Constitution]].
 
-BluePrint is the operating platform that connects HQ, franchises, white-label agencies, developers, brokers, clients, projects, units, documents, projections, commissions, training, and reporting.
+BluePrint gives a real-estate company a professional back office from day one. It converts qualified opportunities into controlled, documented and financially visible transactions while coordinating—not replacing—the CRM, storage, e-signature, accounting, Academy and marketplace systems around it.
 
-## Product Principle
+## Product principles
 
-Data first, documents second.
+- Standalone first; ecosystem amplified.
+- One transaction spine for GoHighLevel, another CRM or BluePrint Direct.
+- One owner per fact.
+- Structured data creates documents.
+- Deterministic rules control calculations and gates.
+- Human accountability survives automation.
+- Need-to-know permissions apply to people, integrations and the Copilot.
+- Exceptions remain visible and auditable.
+- Measure operational outcomes, not module count.
 
-The product should reduce scattered files by creating one source of truth for:
+## Product experience
 
-- Clients.
-- Brokers.
-- Developers.
-- Projects.
-- Units.
-- Deals.
-- Documents.
-- Projections.
-- Commissions.
-- Training progress.
-- Reporting.
+BluePrint should feel premium, calm, structured and boutique rather than corporate. It opens on what requires attention, explains what happens next and keeps evidence close to every decision.
 
-## Product Experience
+The Copilot is present from MVP as a hyperfocused operational assistant that understands authorized company knowledge and the current BluePrint record. It explains, summarizes, drafts and prepares permitted work; it does not approve, sign, pay, waive controls or act as a general chatbot.
 
-The product should feel:
+## MVP goal
 
-- Premium.
-- Simple.
-- Structured.
-- Not overloaded.
-- Boutique rather than corporate.
-- Reliable enough for legal/financial workflows.
-
-## MVP Goal
-
-The MVP does not need every feature. It must make the first franchise operational and controllable.
+Prove the same Golden Workflow for a Dproperty franchise using GoHighLevel, an independent agency using another CRM and a small agency using direct/manual intake. See [[BluePrint Golden Workflow - Wireframe and Validation]].

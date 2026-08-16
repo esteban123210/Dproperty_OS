@@ -2,7 +2,7 @@
 project: B_RealEstate
 title: "Ecosystem Roadmap and Governance"
 type: governance_roadmap
-status: Canonical v1.0
+status: Canonical v1.1
 owner: Esteban
 last_updated: 2026-08-16
 tags: [ecosystem, roadmap, governance]
@@ -21,11 +21,13 @@ tags: [ecosystem, roadmap, governance]
 
 ## Phase 1 — Golden workflow
 
-Build and pilot one end-to-end operating path:
+**Architecture definition completed 2026-08-16:** [[../04_Product/BluePrint Product Constitution|Product Constitution]] and [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|Golden Workflow]] now control the product boundary and MVP journey.
 
-GoHighLevel qualified opportunity → BluePrint transaction → approved project/unit or VAULTED reference → deterministic projection → approved documents/e-signature → reservation/closing → commission/royalty calculation → management report.
+Build and pilot one end-to-end operating path for all three modes:
 
-Minimum BluePrint scope: tenancy/roles, project/unit master, transaction detail, document checklist/generator, projection engine, commission engine, dashboard, audit trail and simple integration launchers.
+GoHighLevel, external CRM or BluePrint Direct intake → normalized Intake → transaction workspace → compliance → approved document generation → human approval/e-signature handoff → closing → deterministic commission → management report.
+
+The Golden Workflow passes a product-architecture desk-test. Remaining gates are clickable/working implementation, technical connector/security validation and five-participant usability testing. The Copilot is included from MVP under AI-0–AI-4 authority rules.
 
 ## Phase 2 — Partner readiness
 
@@ -44,7 +46,7 @@ Minimum BluePrint scope: tenancy/roles, project/unit master, transaction detail,
 - Cases and escalation engine.
 - Tenant lifecycle automation.
 - Finance reconciliation and close integrations.
-- AI language assistants after structured data/templates are stable.
+- Advanced Copilot capabilities after the MVP's governed retrieval, drafting and confirmed-action foundation is proven.
 - Optional client/marketplace portals.
 
 ## Decision rights
@@ -71,8 +73,10 @@ Minimum BluePrint scope: tenancy/roles, project/unit master, transaction detail,
 ## Immediate next 30 days
 
 1. Close the P0 website audit items.
-2. Produce the 12–15 screen BluePrint golden-journey wireframe.
-3. Pilot the workflow inside the existing Dproperty agency.
-4. Measure duplicate entry, document completeness, transaction cycle and reporting time.
-5. Expand only after the pilot proves the transaction spine.
+2. Build the clickable Golden Workflow prototype from the canonical route map.
+3. Build/mock GoHighLevel, standard webhook/API and BluePrint Direct Intake paths.
+4. Create the controlled Copilot proof of concept and run the acceptance suite.
+5. Run the five-participant usability test, beginning with the existing Dproperty agency.
+6. Measure duplicate entry, document completeness, cycle time, reporting time, Copilot corrections and AI cost per successful task.
+7. Expand only after the pilot proves the transaction spine across all three modes.
 

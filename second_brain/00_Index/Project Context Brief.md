@@ -141,15 +141,25 @@ Framed as an internal venture budget from the existing owners, not an external s
 
 ## 11. BluePrint Product Architecture
 
-BluePrint is the role-gated back-office platform within the wider B_RealEstate web and product ecosystem. Full detail in [[Platform Information Architecture]], [[Platform Scenario Playbook]], and [[Roles and Access Matrix]].
+Start in [[../04_Product/BluePrint Product Map|BluePrint Product Map]]. [[../04_Product/BluePrint Product Constitution|The Product Constitution]] is binding for the product promise, ownership boundaries, CRM modes, core entities, MVP and Copilot authority. [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|The Golden Workflow]] controls the MVP journey, routes, scenario tests and acceptance criteria.
 
-Core modules: HQ dashboard, franchise workspace, client, broker, developer, project, unit, deal pipeline, document generator, projection generator, commission tracker, training academy, Private Collection, Developer Sales OS, reporting, support. Plus (2026-07-18): Command Bar, Field Mode, Resource Library, embedded Academy (LMS) and CRM, AI Assistant, and six back-office systems (Finance, People/HR, Cases, Tenant Lifecycle, Audit/Data Governance, **Glitch Report**).
+BluePrint is a CRM-neutral, multi-tenant back-office operating platform. It converts qualified opportunities into controlled, documented and financially visible transactions while coordinating specialist systems. It supports:
 
-Cost principle: **automation first, AI second** — T0 (no AI: forms/rules/templating/routing) handles ~85% of work; T1 (cheap/local AI, e.g. DeepSeek local) handles only language tasks; T2 (premium) is a rare add-on. AI never files, names, routes, calculates, approves, pays, or deletes. Initial build can use low-code (SharePoint, Dataverse, Power Apps/Automate/BI) + automation tools (Make/n8n). Principle: **data first, documents second.**
+1. **Ecosystem Connected:** configured GoHighLevel handoff and optional B_RealEstate entitlements.
+2. **External CRM Connected:** standard API/webhook while the customer's CRM remains front-office source of truth.
+3. **BluePrint Direct:** guided form or CSV intake without CRM/marketing functionality.
 
-## 12. GoHighLevel Role
+All three modes use one Intake, Transaction, state model, screen system and permission-aware Copilot. The MVP spine is: intake → transaction workspace → compliance → documents → human approval/signature handoff → closing → deterministic commission → report.
 
-GoHighLevel is the front-office CRM and marketing automation layer (lead capture, funnels/landing pages, follow-up, calendars, pipelines, automation), white-labeled and embedded in the OS via SSO. It is **not** the legal or operational source of truth. BluePrint owns project/developer/unit data, deals, broker relationships, documents, projections, commission logic, franchise reporting, training, compliance, and Private Collection workflows.
+The Copilot is included from MVP. It may retrieve/explain, summarize/analyze, create drafts from approved templates and prepare confirmed low-risk actions. It cannot approve, sign, pay, publish templates, waive controls or make regulated decisions. Calculations, permissions, filing, routing and gates remain deterministic.
+
+## 12. CRM and External-System Role
+
+GoHighLevel is B_RealEstate's configured front-office CRM, but BluePrint does not require it. An independent agency may retain another CRM, and a small agency may use BluePrint Direct.
+
+The CRM owns lead capture, marketing source, conversations, campaigns, nurturing, appointments and pre-handoff qualification. BluePrint owns the operational Intake, Transaction, compliance workflow, template/document lineage, tasks, approvals, commission control, management reports and audit events. Shared fields retain external IDs, provenance, field ownership and synchronization direction.
+
+Open edX owns course delivery; VAULTED owns marketplace discovery; specialist storage owns assigned files; e-signature owns the signing ceremony/evidence; accounting/payment providers own ledger and money movement. BluePrint stores governed references, status and the operational consequence.
 
 ## 13. Obsidian / File Ecosystem Decision
 

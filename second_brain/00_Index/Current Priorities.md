@@ -13,13 +13,29 @@ tags: [priorities, next-actions, execution]
 
 > **Canonical note (2026-08-16):** This file is the single source of truth. The AI Handoff Pack copy is a pointer.
 
+## Session Update (2026-08-16) — BluePrint Constitution + Golden Workflow
+
+Completed the product-definition gate:
+
+- [[../04_Product/BluePrint Product Constitution|Product Constitution]] is canonical for promise, boundaries, data ownership, three CRM modes, core entities, MVP and Copilot authority.
+- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|Golden Workflow]] defines the screen journey and passes an architecture desk-test for GoHighLevel, another CRM and BluePrint Direct without separate product variants.
+- [[../04_Product/BluePrint Product Map|Product Map]] is the new entry point for all BluePrint work.
+
+**Next product actions:**
+
+1. Build the clickable Golden Workflow prototype using the canonical routes and acceptance criteria.
+2. Create the controlled Copilot proof of concept with approved templates, SOPs, anonymized transactions and governed KPIs.
+3. Implement/mock the canonical Intake contract: GoHighLevel adapter, standard webhook/API and guided manual/CSV intake.
+4. Run the five-participant usability test and record time, errors, terminology confusion and Copilot trust.
+5. Do not expand secondary modules until all three intake modes complete the same workflow.
+
 ## Session Update (2026-08-16) — B_RealEstate Ecosystem + BluePrint
 
 Canonical architecture and naming are now documented in [[../18_Ecosystem/README|18_Ecosystem]]. Immediate order of work:
 
 1. **Approve one commercial economics baseline** across the live website, contracts, pitch materials, and finance model.
 2. **Correct the live-site P0 claims and routes** documented in [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|Website Audit]]—especially the BluePrint name, GoHighLevel disclosure, source-of-truth language, Dproperty Select governance, forms, and legal pages.
-3. **Prototype BluePrint's golden back-office workflow:** opportunity handoff from GoHighLevel → compliance gate → contract/task/document workflow → commission approval → executive reporting.
+3. ~~**Define BluePrint's golden back-office workflow.**~~ Completed at product-architecture level in [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|Golden Workflow]]; clickable implementation/usability validation is next.
 4. **Decide DpropertyLiving's status** before presenting it as a fourth ecosystem door.
 5. **Define VAULTED's access, monetization, compliance, and integration rules** before implementation.
 

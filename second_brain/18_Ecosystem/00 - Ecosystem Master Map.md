@@ -2,7 +2,7 @@
 project: B_RealEstate
 title: "Ecosystem Master Map"
 type: ecosystem_architecture
-status: Canonical v1.0
+status: Canonical v1.1
 owner: Esteban
 last_updated: 2026-08-16
 tags: [ecosystem, architecture, map]
@@ -43,7 +43,7 @@ flowchart TD
 | Component | Job | Primary user | Source of truth for | Is not |
 |---|---|---|---|---|
 | B_RealEstate | Ecosystem governance, product portfolio, standards and partner growth | HQ and prospective partners | Brands, service lines, governance and network rules | A consumer property brand |
-| BluePrint | Back-office control plane | HQ, principals, operations, agents | Transactions, project intelligence, documents, projections, commissions, approvals, operating KPIs | CRM, LMS, marketplace, Drive or accounting system |
+| BluePrint | CRM-neutral, multi-tenant back-office operating platform | HQ, principals, operations, agents and independent agencies | Operational intake, transactions, compliance, document lineage, tasks, approvals, commissions, reports and audit | CRM, LMS, marketplace, Drive, e-signature or accounting system |
 | GoHighLevel | Front-office acquisition and communication | Sales and marketing teams | Leads, contacts, conversations, calendars, campaigns and pre-qualification pipeline | Legal, project, commission or document source of truth |
 | B_Academy / Open edX | Learning delivery and assessment | Franchise and partner teams | Courses, lessons, assessments and learning activity | Operations manual repository or user-permission engine |
 | VAULTED | Private off-market discovery and exchange | Approved brokers, investors and ecosystem members | Marketplace listings, invitations and marketplace engagement | Internal project underwriting or transaction back office |
@@ -57,7 +57,7 @@ flowchart TD
 
 ### Demand flow
 
-Public site or campaign → GoHighLevel → qualification → BluePrint transaction → project/unit match → documents/projection → reservation/closing → commission and reporting → milestones returned to GoHighLevel.
+Public site or campaign → GoHighLevel/external CRM qualification, or BluePrint Direct intake → normalized BluePrint Intake → transaction → project/unit match → compliance → documents/approval → closing → commission and reporting → permitted milestones returned to the source CRM.
 
 ### Inventory flow
 
@@ -86,11 +86,14 @@ DpropertyLiving is documented separately because the live site presents it as a 
 3. Automation first; AI only where language work benefits.
 4. Human approval for legal, financial and client-facing commitments.
 5. One identity, role-gated experiences and clear tenant isolation.
-6. No duplicate manual entry between GoHighLevel, BluePrint, Open edX and VAULTED.
+6. No uncontrolled duplicate entry between GoHighLevel or another CRM, BluePrint, Open edX and VAULTED.
 7. Build the transaction spine before secondary modules.
 
 ## Canonical related files
 
+- [[../04_Product/BluePrint Product Map]]
+- [[../04_Product/BluePrint Product Constitution]]
+- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation]]
 - [[12 - System of Record and Integration Matrix]]
 - [[13 - Personas and Jobs to Be Done]]
 - [[14 - Unit Economics Registry]]
