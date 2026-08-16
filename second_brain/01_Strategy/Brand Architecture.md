@@ -1,67 +1,69 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Brand Architecture"
 type: strategy_note
-status: "Active Draft"
+status: "Canonical — naming confirmed 2026-08-16"
 version: 0.1
 owner: Esteban
 created: 2026-08-03
-last_updated: 2026-08-03
-source: "Session 2026-08-03 — parent-brand / house-of-brands restructure"
+last_updated: 2026-08-16
+source: "Sessions 2026-08-03 and 2026-08-16 — house-of-brands and final naming"
 tags: [strategy, brand, architecture, naming]
 ---
 
 # Brand Architecture
+
+> **Final naming decision (2026-08-16):** **B_RealEstate** is the parent ecosystem and **BluePrint** is the platform. This supersedes the former working names. The visual system centers on **B_**; in the BluePrint wordmark, `B_` is the anchor and `luePrint` is underlined. See [[../18_Ecosystem/README|18_Ecosystem]] for the canonical operating map.
 
 > **Restructure decided 2026-08-03.** We are not "Dproperty." We are a **franchising ecosystem for real estate**, and **Dproperty is our flagship brand** — the relationship Mercure has to Accor.
 
 ## 1. The Model
 
 ```
-         CANTERA
+         B_RealEstate
    a franchising ecosystem for real estate
                  │
    ┌─────────────┼─────────────┬──────────────────┐
    │             │             │                  │
-DPROPERTY    WHITE-LABEL   DEVELOPER           PLANO
+DPROPERTY    WHITE-LABEL   DEVELOPER           BLUEPRINT
 (flagship    (your brand,  SALES PARTNER      ← the platform
  brand)       our system)  (embedded team)      (blueprint)
 ```
 
-- **Cantera** is the operating company and the ecosystem. It owns the method, the platform, the Academy, the network, and the Select portfolio.
+- **B_RealEstate** is the operating company and the ecosystem. It owns the method, the platform, the Academy, the network, and the Select portfolio.
 - **Dproperty** is the flagship consumer/investor brand — proof that the model works, and the brand a franchisee can choose to operate under.
-- **Plano** (formerly "Dproperty OS") is the platform. It must be brand-neutral, because white-label partners run on it under their own name.
+- **BluePrint** (formerly "Dproperty OS") is the platform. It must be brand-neutral, because white-label partners run on it under their own name.
 
 **Why this matters:** a partner is not "buying Dproperty." They are **joining an ecosystem** and choosing how much of our brand they want. That reframe is the entire commercial argument — it makes the offer bigger, the pricing defensible, and the white-label line non-embarrassing.
 
-## 2. Naming — PROPOSED 2026-08-03
+## 2. Naming — CONFIRMED 2026-08-16
 
-### Cantera — the parent company
+### B_RealEstate — the parent company
 
-In Spanish, **cantera** carries two meanings at once:
-1. **A quarry** — the source of the stone a building is made from.
-2. ***La cantera*** — in football culture across LATAM and Spain, the academy that develops homegrown talent.
+**B_** is the core identity. The underscore behaves like an intentional open slot: a recognizable system marker that can extend across products without forcing every offer to carry the Dproperty name.
 
-A company that supplies both **the material and the people**. It maps precisely onto the stated vision — *"the home of real estate talent, capital and ideas"* — and onto the actual business, which is developing operators and giving them what they need to build. Short, pronounceable in both languages, and brand-neutral enough that a white-label partner is not embarrassed to be powered by it.
+**B_RealEstate** states the category clearly while preserving that extensible core. It is the parent operating system and commercial ecosystem—not a fourth customer-facing service line and not a replacement name for Dproperty.
 
-### Plano — the platform
+### BluePrint — the platform
 
-**Plano** = *blueprint / floor plan*. The system rendered as a drawing others can build from. It is brand-neutral (essential — white-label partners run on it under their own name), unmistakably technical without being cold, and it ties directly to the website's visual language of thin architectural sketch lines. *"Powered by Plano"* works.
+**BluePrint** is the back-office operating platform. Its wordmark should visually preserve **B_** as the anchor while underlining **luePrint**. The name communicates a repeatable plan from which an operator can build a real estate company. It is brand-neutral, which is essential for white-label partners.
+
+Use **BluePrint** in prose and metadata. Do not abbreviate it to “the Platform” when a reader could confuse it with GoHighLevel, Open edX, VAULTED, or a website.
 
 ### Status
 
-Both are **proposals, not final**. Trademark and domain clearance in Panama, Colombia and Spain has **not** been done. Keep both as find-replaceable config variables in every build until cleared.
+The names are now the active business decision. Trademark, domain and legal-entity clearance remains required before relying on exclusive rights.
 
 ## 2b. Naming Status
 
 | Item | Name | Status |
 |---|---|---|
-| Parent company / ecosystem | **Cantera** | Proposed 2026-08-03 — pending trademark clearance |
-| Platform | **Plano** | Proposed 2026-08-03 — pending trademark clearance |
+| Parent company / ecosystem | **B_RealEstate** | Confirmed 2026-08-16 — clearance pending |
+| Platform | **BluePrint** | Confirmed 2026-08-16 — clearance pending |
 | Flagship brand | Dproperty | Locked |
 | Curated portfolio | Dproperty Select (external) / Private Collection (internal) | Locked — see [[../00_Index/Project Context Brief]] §0 |
 
-**Working convention:** keep **Cantera** and **Plano** as single-source config variables in every build until trademark clearance completes, so a rename stays a one-line change.
+**Working convention:** keep **B_RealEstate** and **BluePrint** as single-source config variables in every build until trademark clearance completes, so a rename stays a one-line change.
 
 ⚠️ **Open question:** does **Dproperty Select** keep the Dproperty name once the parent brand exists? Arguments both ways — it inherits flagship credibility, but a white-label partner selling "Dproperty Select" inventory under their own brand is a naming collision. Decide before launch.
 
@@ -135,7 +137,7 @@ Every public asset — website, deck, brochure — should stand on these four, i
 
 1. **The boutique promise.** Everything is backed by the Dproperty way of working: curated over volume, numbers over hype, trust over transactions. Premium, but reachable.
 2. **Freedom.** Franchise your way. We provide the tools and accompany the process; the brand can still be yours. Two doors — our brand or yours — and neither is the consolation prize.
-3. **The tools are real and already built.** Plano platform · white-label CRM · AI agents · Academy/learning platform · networking events · **Dproperty Select portfolio access** · full template and manual library.
+3. **The tools are real and already built.** BluePrint platform · white-label CRM · AI agents · Academy/learning platform · networking events · **Dproperty Select portfolio access** · full template and manual library.
 4. **It is a proven model.** Partners have materially increased operating profit **simply by adding Dproperty Select to what they already offer their own clients**. What's for sale is not a brochure — it's entry into everything Dproperty's experience has built.
 
 ## 5. Tone Rule for This Restructure
@@ -154,8 +156,8 @@ These must be resolved — they are load-bearing for the website.
 1. ~~**White-label × Select access.**~~ ✅ **RESOLVED 2026-08-03.** White-label **does** get Select access, but on **external-partner-broker terms: 1.5% of sale price** (not the 2.0% previously written, and not the branded 2.5%). The old blanket exclusion in [[../13_White_Label/White-Label OS Guide]] is retired. This is the cleanest possible answer: it makes Pillar 4 true for every partner, keeps a real economic reason to buy the brand, and requires no special-casing — white-label simply transacts Select the way any external partner broker does.
    ⚠️ **Propagation debt:** the `dproperty brain` operational vault still carries **2.0%** in 10 live project files (`02_Projects/Private Collection/**/10_Dproperty Commercial/Commercial Terms.md`: Boreal, Cavarosa, Nayamara, Sky Parc II, Sky Parc IV, Gesti68, Dovle Selva, Dovle Cincuentenario, + the project template). These are live commercial documents — update deliberately, and check whether any already-signed terms are affected.
 2. ✅ **"Proven model" claim rewritten 2026-08-03.** The unsubstantiated profit-uplift statistic is **removed** from all public copy. Pillar 4 now states the *mechanism* — *"every Dproperty Select transaction is inventory you didn't have to source, at a commission you didn't have to negotiate"* — plus the real operating history since 2017. Both defensible without inventing a number. Add a genuine case study when a partner produces one.
-3. ~~**Naming blocker.**~~ ✅ Resolved 2026-08-03 — **Cantera** (company) and **Plano** (platform). Trademark/domain clearance still outstanding; keep both as config variables.
-4. **Vault-wide naming debt.** Most notes say "Dproperty OS" meaning both the company and the platform. Do not mass-rename yet — wait for the real name, then do one controlled pass.
+3. ~~**Naming blocker.**~~ ✅ Resolved 2026-08-16 — **B_RealEstate** (company) and **BluePrint** (platform). Trademark/domain clearance still outstanding; keep both as config variables.
+4. **Vault-wide naming migration.** Controlled pass started 2026-08-16 across canonical index, strategy, product and handoff files. Historical paths remain where changing them would break links.
 5. **Developer Sales OS notes are stale.** [[../11_Developer_Sales_OS/Developer Sales OS Guide]] still describes a generic enablement service. Needs rewriting to the dedicated-embedded-team positioning.
 6. **Existing site work is re-scoped, not wasted.** [[../04_Product/Public Site Wireframe]] v0.6 and [[../04_Product/Public Site Copy - ES Master]] v1.0 remain valid — but as the **Dproperty brand site**, not the company site. See [[../17_Handoff_Files/Handoff - Ecosystem Website]].
 

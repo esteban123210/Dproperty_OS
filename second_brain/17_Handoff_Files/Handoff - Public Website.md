@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Handoff - Public Website"
 type: handoff
 deliverable: "Public marketing website (pre-login)"
@@ -9,11 +9,13 @@ source_notes: ["04_Product/Public Site Wireframe.md (v0.6)", "04_Product/Public 
 version: 1.1
 status: "RE-SCOPED 2026-08-03 — this is now the DPROPERTY BRAND site (consumer/investor), not the company site. Build after the ecosystem site."
 owner: Esteban
-last_updated: 2026-08-03
+last_updated: 2026-08-16
 tags: [handoff, production, website, brand, marketing]
 ---
 
 # HANDOFF — Public Website (Dproperty brand site)
+
+> **Live-site/naming update (2026-08-16):** B_RealEstate and BluePrint are the active names; https://bfranchising.com is live. This handoff remains production history. Before further build work, use [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|the live-site audit]] and [[../18_Ecosystem/14 - Unit Economics Registry|the economics registry]] as the correction list.
 
 > ⚠️ **RE-SCOPED 2026-08-03 — read before building.**
 > The brand architecture changed: we are **not** Dproperty. Dproperty is the **flagship brand** of a parent company that operates a franchising ecosystem (Mercure : Accor). See [[../01_Strategy/Brand Architecture]].
@@ -21,8 +23,8 @@ tags: [handoff, production, website, brand, marketing]
 > **This handoff is still valid**, but only as the **Dproperty consumer/investor brand site** (`dproperty.com`) — buyers, sellers, investors, Select. It is no longer the company's main site.
 >
 > **Two changes required before building this one:**
-> 1. **PAGE 7 (Franquicias) is removed** from this site. Franchise/white-label/developer recruitment now lives on the parent site → [[Handoff - Ecosystem Website]]. Replace with a single banner + footer line: *"Dproperty es parte de Cantera"* → link out.
-> 2. Add a *"Dproperty es parte de Cantera"* line to the footer.
+> 1. **PAGE 7 (Franquicias) is removed** from this site. Franchise/white-label/developer recruitment now lives on the parent site → [[Handoff - Ecosystem Website]]. Replace with a single banner + footer line: *"Dproperty es parte de B_RealEstate"* → link out.
+> 2. Add a *"Dproperty es parte de B_RealEstate"* line to the footer.
 >
 > **Build order:** the ecosystem site first (that's where the revenue conversation is). This one after.
 
@@ -77,7 +79,7 @@ tags: [handoff, production, website, brand, marketing]
   - *2017 — Una firma diferente.* Nació para cerrar la brecha entre las verdaderas oportunidades de inversión y los asesores que entendían sus complejidades — ser la firma especializada en inversión inmobiliaria, sin convertirse en un fondo, y acercar ese mundo a las personas de a pie.
   - *Construyendo el método.* Portafolio curado: validado por el mercado, respaldado por desarrolladores con trayectoria, resguardado por debida diligencia y transparencia → condiciones preferenciales para nuevos inversionistas.
   - *Ganándonos el nombre.* Voz reconocida en Panamá y la región (SIMA Madrid, ELDI Panamá, Gran Salón Inmobiliario Bogotá); CEO en la junta de la Lonja de Bogotá. Preventas fuera de mercado convertidas en referentes: Bioma, Mova, Cavarrosa, Nayamara, Playa Escondida, La Maison by Fendi.
-  - *El punto de inflexión — un paso generacional.* La siguiente generación lleva el conocimiento más allá de Panamá. *Dproperty OS es solo el software que permite que este ecosistema exista; no es el producto. El producto es el ecosistema, y el conocimiento detrás de él.*
+  - *El punto de inflexión — un paso generacional.* La siguiente generación lleva el conocimiento más allá de Panamá. *BluePrint es solo el software que permite que este ecosistema exista; no es el producto. El producto es el ecosistema, y el conocimiento detrás de él.*
 - **Misión:** *Conectar a quienes tienen los medios para construir con quienes tienen la visión para liderar, para que el talento nunca dependa de los recursos o los contactos, y los mejores bienes raíces se vuelvan inevitables.*
 - **Visión:** *Convertirnos en la casa del talento, el capital y las ideas de los bienes raíces en Latinoamérica e Iberia, concentrando la cadena de valor en un solo lugar curado, para que mejores edificios creen mejores vidas.*
 - **Valores (6):** Confianza por encima de la transacción · Curaduría por encima del volumen · Números por encima del ruido · Oficio boutique · Excelencia sistematizada · Mentalidad de ecosistema.
@@ -89,7 +91,7 @@ tags: [handoff, production, website, brand, marketing]
 - **El ecosistema:** *Usar nuestro conocimiento, experiencia y red para potenciar la visión de quienes pueden mover los bienes raíces en sus regiones… los mejores reunidos como maestros artesanos en un gran taller. El alma de un lugar como 19M, aplicada a los bienes raíces.*
 - **Diagrama:** Talento · Capital · Ideas → [ Hub curado ] → mejores bienes raíces + nuevos proyectos.
 - **¿Por qué Panamá? (6):** economía dolarizada · cruce de las Américas · destino estable y amigable con la inversión · puente LATAM–Iberia · donde nació Dproperty · mercado que premia la curaduría. *Ciudad de Panamá es el primer hogar natural del hub.*
-- **Cómo llegamos:** Fase 1 — Franquicia y Dproperty OS (hoy) · Fase 2 — El ecosistema (estrella polar, financiado por la Fase 1). **CTA:** Súmate a la visión.
+- **Cómo llegamos:** Fase 1 — Franquicia y BluePrint (hoy) · Fase 2 — El ecosistema (estrella polar, financiado por la Fase 1). **CTA:** Súmate a la visión.
 
 ### 4. Servicios
 - **Encabezado:** *Cómo ayudamos.*
@@ -113,7 +115,7 @@ Filtros (Ubicación · Tipo · Presupuesto · Estado); tarjeta (imagen · nombre
 - **CTAs:** [ Agendar una llamada ] · [ Descargar información ].
 - **Por qué Dproperty:** *Todo lo que nos tomó construir desde 2017… listo para operar en tu mercado desde el primer día.*
 - **Tu camino:** Descubre → Aplica → Firma → Onboarding → Lanzamiento.
-- **Qué incluye:** Dproperty OS · CRM white-label · la Academia · marca y manuales · acompañamiento de lanzamiento · agentes de IA incluidos.
+- **Qué incluye:** BluePrint · CRM white-label · la Academia · marca y manuales · acompañamiento de lanzamiento · agentes de IA incluidos.
 - **Inversión y retorno:** `[pull from Pricing Model / Unit Economics: $30k→$40k, 7.5%, etc.]`.
 - **Territorios:** mapa. **Prueba:** *Testimonios muy pronto: podrías ser parte de nuestra primera generación.* **FAQ:** financiamiento · riesgo · tiempos · exclusividad. **CTA:** Agendar una llamada.
 

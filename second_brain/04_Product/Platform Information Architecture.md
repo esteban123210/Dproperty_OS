@@ -1,18 +1,20 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Platform Information Architecture"
 type: product_spec
 status: Draft v0.5
 version: 0.5
 owner: Esteban
-last_updated: 2026-07-18
+last_updated: 2026-08-16
 source: Claude working session 2026-07-18
 tags: [product, architecture, platform, wireframe, information-architecture]
 ---
 
 # Platform Information Architecture
 
-> Parent document for the Dproperty OS platform wireframe. Sits one layer **above** [[Prototype Spec]] (which defines screens) and defines the whole ecosystem: public site + logged-in OS + how CRM/Academy/files plug in + who does what.
+> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
+
+> Parent document for the BluePrint platform wireframe. Sits one layer **above** [[Prototype Spec]] (which defines screens) and defines the whole ecosystem: public site + logged-in OS + how CRM/Academy/files plug in + who does what.
 >
 > Companion notes: [[Platform Scenario Playbook]] (72+ tested scenarios) and [[Roles and Access Matrix]] (hierarchy, human/AI split, agent pricing).
 
@@ -99,7 +101,7 @@ HQ Control Center · Franchise Workspace Home · Clients · Brokers · Developer
 
 ### Modules added by this session
 - **Resource Library** — templates, brochures, brand assets (surfaced from Drive, **not re-hosted**)
-- **Learning / Academy** — embedded LMS (LearnWorlds/edX), SSO, gated certifications
+- **Learning / Academy** — embedded LMS (Open edX), SSO, gated certifications
 - **CRM & Marketing** — embedded, white-labeled GoHighLevel, SSO
 - **AI Assistant** — the T1 agent layer
 - **Support / Help Desk** — tickets to HQ, knowledge base
@@ -124,9 +126,9 @@ HQ Control Center · Franchise Workspace Home · Clients · Brokers · Developer
 | System | Recommendation | Why |
 |--------|---------------|-----|
 | **GoHighLevel (CRM)** | White-label + embed via iframe/SSO inside "CRM & Marketing" | GHL is built for white-label reselling; franchisee never sees "GoHighLevel" |
-| **LearnWorlds / edX (Academy)** | White-label + SSO, embed course player; deep-link for full LMS | Onboarding feels native, gated to certifications. LearnWorlds likely the stronger boutique fit — **confirm (Open Question)** |
+| **Open edX (Academy)** | White-label + SSO, embed course player; deep-link for full LMS | Selected Academy engine. Onboarding should feel native and certifications must gate relevant BluePrint permissions/workflows. |
 
-**Single sign-on is the glue.** One login to the OS carries into CRM and Academy without re-auth. The OS is the **hub/launcher**; GHL and the LMS are **engines behind it**.
+**Single sign-on is the glue.** One login to the OS carries into CRM and Academy without re-auth. The OS is the **hub/launcher**; GoHighLevel and Open edX are **connected engines behind it**.
 
 ---
 

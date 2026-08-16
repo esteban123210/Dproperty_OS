@@ -1,15 +1,17 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "MVP Scope"
 type: product_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-08-16
 source: ChatGPT baseline vault package
 tags: [product]
 ---
 
 # MVP Scope
+
+> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
 
 ## MVP Must Do
 

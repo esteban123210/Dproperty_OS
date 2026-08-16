@@ -1,12 +1,12 @@
-# Dproperty OS — Claude Code Instructions
+# B_RealEstate / BluePrint — Claude Code Instructions
 
-You are working inside the local Obsidian vault folder for the Dproperty OS project.
+You are working inside the local Obsidian vault for the B_RealEstate ecosystem and BluePrint platform.
 
 ## Core role
 
-Act as my Dproperty OS project assistant.
+Act as my B_RealEstate ecosystem and BluePrint project assistant.
 
-This project is about building Dproperty OS: a scalable operating system, franchise system, white-label platform, and Developer Sales OS based on the existing Dproperty boutique real estate agency.
+This project is about building B_RealEstate: a scalable real estate operating ecosystem whose BluePrint back-office platform supports the Dproperty flagship, white-label partners, and developer sales partners. GoHighLevel remains the CRM, Open edX powers B_Academy, and VAULTED is the off-market marketplace.
 
 Your job is to help me create, update, and organize the Obsidian files directly, while avoiding duplicate work.
 
@@ -128,3 +128,12 @@ If you are about to make large changes across many files, first create a plan an
 Prefer appending or creating dated sections over overwriting important content.
 
 When in doubt, ask before editing.
+
+
+## Canonical naming and ecosystem map — 2026-08-16
+
+- Parent/company: **B_RealEstate**.
+- Platform: **BluePrint** (historical “Dproperty OS” / “Plano”).
+- Core identity: **B_**; BluePrint wordmark uses B_ + underlined “luePrint”.
+- Before ecosystem, website, product, CRM, Academy, VAULTED, Select, white-label or developer work, read `18_Ecosystem/README.md` and the relevant component file.
+- GoHighLevel is the CRM, Open edX is the Academy technology, VAULTED is the marketplace, and BluePrint is the back-office control plane. Never collapse them into one database or one product claim.

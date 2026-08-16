@@ -1,15 +1,17 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Product Modules"
 type: product_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-08-16
 source: ChatGPT baseline vault package
 tags: [product]
 ---
 
 # Product Modules
+
+> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
 
 ## HQ Dashboard
 
@@ -73,7 +75,7 @@ The modules above are the operating core. The full platform architecture (public
 - **Command Bar** — persistent universal search + command palette on every screen ("three clicks to anything").
 - **Report a Glitch** — persistent no-blame improvement button on every screen.
 - **Resource Library** — templates, brochures, brand assets surfaced from Drive (not re-hosted).
-- **Learning / Academy** — embedded LMS (LearnWorlds/edX) via white-label + SSO.
+- **Learning / Academy** — embedded LMS (Open edX) via white-label + SSO.
 - **CRM & Marketing** — embedded, white-labeled GoHighLevel via SSO.
 - **AI Assistant** — the T1 agent layer.
 - **Support / Help Desk** — tickets to HQ, knowledge base.

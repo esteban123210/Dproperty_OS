@@ -1,10 +1,10 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Source Map"
 type: source_map
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-08-16
 source: ChatGPT baseline vault package
 tags: [research, sources]
 ---
@@ -45,3 +45,20 @@ Add actual links and citations here as research is finalized:
 | Power Platform pricing | TBD | TBD | Product Build Plan | No |
 | PropTech market size | TBD | TBD | TAM/SAM/SOM | No |
 | Real estate franchise comps | TBD | TBD | Competition | No |
+
+
+## Canonical Ecosystem Sources — 2026-08-16
+
+- [[../18_Ecosystem/README|18_Ecosystem — Start Here]] — canonical architecture and component registry.
+- [[../18_Ecosystem/00 - Ecosystem Master Map|Ecosystem Master Map]] — full component/value-flow map.
+- [[../18_Ecosystem/12 - System of Record and Integration Matrix|System of Record Matrix]] — data ownership and integration boundaries.
+- [[../18_Ecosystem/14 - Unit Economics Registry|Unit Economics Registry]] — reconciliation gate for public/internal numbers.
+- [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|Website Audit]] — direct live-page inspection on 2026-08-16.
+- https://bfranchising.com — live B_RealEstate B2B website.
+
+## Technology Decisions
+
+- BluePrint — B_RealEstate back-office control plane.
+- GoHighLevel — white-labeled CRM and marketing automation.
+- Open edX — Academy/LMS technology.
+- VAULTED — invitation-only off-market marketplace.

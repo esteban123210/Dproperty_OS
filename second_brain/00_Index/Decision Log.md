@@ -1,10 +1,10 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Decision Log"
 type: decision_log
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-21
+last_updated: 2026-08-16
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [decisions, source-of-truth]
 ---
@@ -13,7 +13,7 @@ tags: [decisions, source-of-truth]
 
 This note records decisions that should not be re-opened accidentally in future chats.
 
-> **Sync note (2026-07-14):** This file is the merged canonical Decision Log. The `00_Index/Decision Log.md` and `00_Index/AI Handoff Pack/02_Decision Log.md` copies are now identical. Keep them in sync going forward.
+> **Canonical note (2026-08-16):** This file is the single source of truth. The AI Handoff Pack copy is a pointer.
 
 ## 2026-07-01 — Obsidian as Source of Truth
 
@@ -227,7 +227,7 @@ This note records decisions that should not be re-opened accidentally in future 
 **Decision:** GoHighLevel (CRM) and the LMS (LearnWorlds or edX) are white-labeled and embedded inside the OS with single sign-on. The OS is the hub/launcher; they are engines behind it.
 **Reason:** Feels like one product; franchisee never re-authenticates or sees third-party branding.
 **Impacted Areas:** Product, CRM, Training.
-**Status:** Active (LMS vendor choice still open — see [[Open Questions]]).
+**Status:** Architecture active; LMS vendor resolved to **Open edX** on 2026-08-16. Hosting, SSO and white-label implementation remain open.
 
 ## 2026-07-18 — Minimum Franchise Office = 3 Human Roles
 
@@ -308,7 +308,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Decision:** We are **not** "Dproperty." We are a **franchising ecosystem for real estate** operating under a new parent brand (name TBD), and **Dproperty is our flagship brand** — the relationship **Mercure has to Accor**. "Dproperty OS" is renamed to a brand-neutral platform name (TBD), because white-label partners run on it under their own brand. Working placeholders `[PARENT]` and `[OS_NAME]` are used across all specs until named, in the same spirit as `[MOCK]`. Governed by [[../01_Strategy/Brand Architecture|Brand Architecture]].
 **Reason:** A partner should be joining an **ecosystem** and choosing how much of our brand they want — not buying a brand licence. This makes the offer larger, the pricing defensible, and the white-label line a legitimate equal option rather than a discount tier. It also frees the platform to be sold under partner brands without a naming conflict.
 **Impacted Areas:** Brand, Product, Website, Franchise Package, White-label, Developer Sales OS, Pitch Decks, Legal, all vault naming.
-**Status:** Active. **Naming is an open blocker** — no public launch until the parent and platform names exist.
+**Status:** Architecture active. Naming resolved 2026-08-16 to **B_RealEstate** and **BluePrint**; trademark/domain clearance remains required.
 
 ## 2026-08-03 — Three Service Lines, Presented as Equal Doors
 
@@ -379,7 +379,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Decision:** The parent company is **Cantera**. The platform, formerly "Dproperty OS," is **Plano**. Dproperty remains the flagship brand.
 **Reason:** *Cantera* means both **quarry** (the source of the stone a building is made from) and, in LATAM/Spanish football culture, ***la cantera*** — the academy that develops homegrown talent. A company that supplies both the material and the people, which is precisely the stated vision: *the home of real estate talent, capital and ideas*. Short, bilingual, and brand-neutral enough that a white-label partner is not embarrassed to be powered by it. *Plano* means **blueprint** — the system as a drawing others can build from. Brand-neutral (essential, since white-label partners run on it under their own name), technical without being cold, and it ties directly to the website's architectural sketch-line visual language. *"Powered by Plano"* works.
 **Impacted Areas:** Brand, Product, Website, all handoffs, Legal (trademark), Domains, Pitch Decks, vault-wide naming.
-**Status:** Active but **provisional**. ⚠️ **Trademark and domain clearance in Panama, Colombia and Spain has NOT been done.** Both names remain single-source config variables in every build until cleared. A vault-wide rename pass is deferred until then.
+**Status:** **Superseded 2026-08-16** by B_RealEstate / BluePrint. Retained here only as decision history.
 
 ## 2026-08-03 — Public "Proven Model" Claim Rewritten to Remove Unsubstantiated Statistic
 
@@ -387,3 +387,34 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Reason:** With zero franchisees there is no such figure. A quantified profitability claim with nothing behind it is the first thing a sceptical $30k buyer probes, and failing that probe costs more credibility than the claim ever bought. The mechanism statement is verifiable by construction, concrete, and arguably more persuasive — and it lets Dproperty's genuine track record ($200M+, 700+ operations, the landmark projects) carry the proof, honestly attributed to the flagship brand.
 **Impacted Areas:** Website (all pages), Pitch Decks, Franchise brochure, Sales Playbook, Acquisition Playbook.
 **Status:** Active. Standing rule: **no unsourced performance statistics in public-facing material.** Add a real case study when one exists.
+
+## 2026-08-16 — Final Naming: B_RealEstate and BluePrint
+
+**Decision:** The parent ecosystem/company is **B_RealEstate**. The core identity and logo device is **B_**. The back-office platform is **BluePrint**; in the visual lockup, `B_` is the anchor and `luePrint` is underlined. In plain text, always write **BluePrint**.
+
+**Supersedes:** the 2026-08-03 Cantera / Plano working-name decision. Historical Decision Log entries remain unchanged as history; all current product, website, brand and legal work uses B_RealEstate and BluePrint.
+
+**Status:** Active. Trademark/domain/legal-entity verification remains an execution task, not a naming placeholder.
+
+## 2026-08-16 — Canonical Ecosystem Architecture
+
+**Decision:** `second_brain/18_Ecosystem/` is the canonical ecosystem map. B_RealEstate governs the ecosystem; BluePrint is the back-office system of record and control plane; GoHighLevel is the white-labeled front-office CRM; Open edX is the Academy technology; VAULTED is the invitation-only off-market marketplace; Dproperty Select is the HQ-controlled curated inventory program; Drive/SharePoint, e-signature and accounting/payment providers retain their specialist system-of-record roles.
+
+**Reason:** Prevent BluePrint from becoming an unbuildable “everything app” and prevent duplicate truth across CRM, LMS, marketplace, files and finance.
+
+**Status:** Active. See [[../18_Ecosystem/00 - Ecosystem Master Map]], [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
+
+## 2026-08-16 — bfranchising.com Is the Live B2B Ecosystem Site
+
+**Decision:** https://bfranchising.com is the live B_RealEstate B2B site. The former Cantera website handoff is now a historical production source, not the current naming authority.
+
+**Audit ruling:** preserve the current editorial visual direction, but correct BluePrint naming, GoHighLevel disclosure, “one database” language, Dproperty Select governance, lead capture, DpropertyLiving ambiguity and all conflicting economics before paid/high-stakes acquisition.
+
+**Status:** Active. See [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16]].
+
+## 2026-08-16 — DpropertyLiving Requires a Separate Approval
+
+**Decision:** DpropertyLiving appears on the live site but is not yet an approved fourth commercial door. It remains a documented concept under decision until its brand role, audience, territory rights, economics and relationship to white-label are approved.
+
+**Status:** Open decision. See [[../18_Ecosystem/10 - DpropertyLiving]].
+

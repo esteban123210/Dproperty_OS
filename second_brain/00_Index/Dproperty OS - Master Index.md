@@ -1,17 +1,19 @@
 ---
-project: Dproperty OS
-title: "Dproperty OS - Master Index"
+project: B_RealEstate
+title: "B_RealEstate Ecosystem - Master Index"
 type: master_index
 status: Active
 owner: Esteban
-last_updated: 2026-07-18
+last_updated: 2026-08-16
 source: Rebuilt 2026-07-18 vault cleanup — reconciled against actual files
 tags: [index, navigation]
 ---
 
-# Dproperty OS - Master Index
+# B_RealEstate Ecosystem - Master Index
 
-This is the main navigation page for the Dproperty OS project. Rebuilt 2026-07-18 to match the actual files in the vault.
+> **Canonical naming (2026-08-16):** Parent ecosystem = **B_RealEstate**. Back-office platform = **BluePrint** (formerly Dproperty OS / Plano). Flagship investment brand = **Dproperty**. Canonical ecosystem architecture lives in [[../18_Ecosystem/README|18_Ecosystem]]. Historical file names remain where renaming would break links.
+
+This is the main navigation page for the B_RealEstate ecosystem and the BluePrint product. Rebuilt 2026-07-18 and reconciled again on 2026-08-16 against the actual files in the vault.
 
 > **Naming convention (Decision 2026-07-18):** Keep **"Private Collection"** internally (vault, `12_Private_Collection/` folder, file names). Use **"Dproperty Select"** on all handouts / external / client-facing materials. Same program, two names by context.
 
@@ -177,3 +179,24 @@ This is the main navigation page for the Dproperty OS project. Rebuilt 2026-07-1
 - [[../16_Task_Management/GTM Execution Summary - Week 5 Kickoff]]
 - [[../16_Task_Management/Your Weekly Tasks - Jul to Sept]]
 - [[../16_Task_Management/Miguel's Weekly Tasks - Jul to Sept]]
+
+## 18 Ecosystem — Canonical Architecture
+
+- [[../18_Ecosystem/README|Ecosystem - Start Here]]
+- [[../18_Ecosystem/00 - Ecosystem Master Map|Ecosystem Master Map]]
+- [[../18_Ecosystem/01 - B_RealEstate|B_RealEstate]]
+- [[../18_Ecosystem/02 - BluePrint|BluePrint]]
+- [[../18_Ecosystem/03 - GoHighLevel CRM|GoHighLevel CRM]]
+- [[../18_Ecosystem/04 - B_Academy - Open edX|B_Academy - Open edX]]
+- [[../18_Ecosystem/05 - VAULTED|VAULTED]]
+- [[../18_Ecosystem/06 - Dproperty Select|Dproperty Select]]
+- [[../18_Ecosystem/07 - Dproperty Flagship|Dproperty Flagship]]
+- [[../18_Ecosystem/08 - White-Label Partner Model|White-Label Partner Model]]
+- [[../18_Ecosystem/09 - Developer Sales Partner|Developer Sales Partner]]
+- [[../18_Ecosystem/10 - DpropertyLiving|DpropertyLiving - Decision Required]]
+- [[../18_Ecosystem/11 - Web Presence and Funnel Architecture|Web Presence and Funnel Architecture]]
+- [[../18_Ecosystem/12 - System of Record and Integration Matrix|System of Record and Integration Matrix]]
+- [[../18_Ecosystem/13 - Personas and Jobs to Be Done|Personas and Jobs to Be Done]]
+- [[../18_Ecosystem/14 - Unit Economics Registry|Unit Economics Registry]]
+- [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|Live Website Audit]]
+- [[../18_Ecosystem/16 - Roadmap and Governance|Roadmap and Governance]]

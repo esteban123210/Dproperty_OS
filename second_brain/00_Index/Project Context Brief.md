@@ -1,19 +1,21 @@
 ---
-project: Dproperty OS
-title: "Project Context Brief"
+project: B_RealEstate
+title: "B_RealEstate Ecosystem - Project Context Brief"
 type: project_context
 status: Active
 owner: Esteban
-last_updated: 2026-07-18
+last_updated: 2026-08-16
 source: Refreshed 2026-07-18 to match Decision Log (pricing, splits, projections, cap table, ecosystem reframe)
 tags: [ai-handoff, strategy, source-of-truth]
 ---
 
-# Dproperty OS - Project Context Brief
+# B_RealEstate Ecosystem - Project Context Brief
+
+> **Canonical naming update (2026-08-16):** Company/ecosystem = **B_RealEstate**; platform = **BluePrint**; core identity = **B_**. The Cantera / Plano working names are superseded. See [[../18_Ecosystem/README|18_Ecosystem]] for the current map. Historical path names remain where changing them would break links.
 
 ## Purpose of This Brief
 
-This is the main context document for the Dproperty OS project. Upload this file at the start of any new ChatGPT or Claude conversation together with the latest [[Vault Manifest]], [[Decision Log]], [[Open Questions]], [[Current Priorities]], and [[../16_Task_Management/Deliverables Tracker - Compact MD|Deliverables Tracker - Compact MD]].
+This is the main context document for the B_RealEstate ecosystem and its BluePrint platform. Upload this file at the start of any new ChatGPT or Claude conversation together with the latest [[Vault Manifest]], [[Decision Log]], [[Open Questions]], [[Current Priorities]], and [[../16_Task_Management/Deliverables Tracker - Compact MD|Deliverables Tracker - Compact MD]].
 
 The goal is to make Obsidian the long-term memory of the project instead of relying on a single AI chat's memory.
 
@@ -25,9 +27,9 @@ The goal is to make Obsidian the long-term memory of the project instead of rely
 - **External / handouts / client-facing:** **"Dproperty Select."**
 - Same HQ-curated inventory program; two names by context (Decision 2026-07-18).
 
-## 1. What Dproperty OS Is
+## 1. What B_RealEstate Is
 
-Dproperty OS is a new venture being developed from the existing Dproperty boutique real estate agency. The project turns Dproperty's real estate know-how, project access, broker relationships, sales process, document templates, projection logic, and franchise methodology into a scalable operating system.
+B_RealEstate is the parent operating ecosystem being developed from the existing Dproperty boutique real estate agency. The project turns Dproperty's real estate know-how, project access, broker relationships, sales process, document templates, projection logic, and franchise methodology into a scalable operating system.
 
 It is not only a software product. It is a complete operating model for:
 
@@ -41,7 +43,7 @@ It is not only a software product. It is a complete operating model for:
 
 Dproperty should not compete only by being another agency. It should become a system.
 
-The value is the combination of: curated project access; trust-based investor guidance; broker/developer relationship management; client qualification; projection logic; standardized sales and documentation processes; training; compliance; reporting; Dproperty OS software; and HQ-controlled Private Collection (Dproperty Select) inventory.
+The value is the combination of: curated project access; trust-based investor guidance; broker/developer relationship management; client qualification; projection logic; standardized sales and documentation processes; training; compliance; reporting; BluePrint software; and HQ-controlled Private Collection (Dproperty Select) inventory.
 
 The result should feel like an "agency in a box" for serious operators, with boutique positioning rather than mass-market franchise culture. The durable long-term moat is the **hub network effect** (Phase 2), on top of near-term advantages: curated deal flow, founder credibility, installed network, and speed.
 
@@ -50,7 +52,7 @@ The result should feel like an "agency in a box" for serious operators, with bou
 ### 3.1 Dproperty Branded Franchise — **investment-only** (clarified 2026-08-03)
 **Dproperty is an investment brand, not a general real estate brand.** Its clients buy **to profit, not to live**. The franchise's product mandate: hunt for what is **profitable and reliable, not necessarily pretty and livable** — better finishes mean a higher entry point and therefore lower returns, which makes a "nicer" building the *wrong* product for Dproperty even when it is the right product for a white-label serving end users. End-user sales and rentals still happen, but through our own circles or partner brokers; the **marketing identity stays investor-forward at all times.** See [[../01_Strategy/Brand Architecture]] §3.1.
 
-A franchisee operates under the Dproperty brand and receives Dproperty OS, brand assets, manuals, training, launch support, CRM setup, templates, the Dproperty methodology, and access to Dproperty Select inventory at partner terms (2.5%). **Branded franchises have investment priority** (investors, Select access, cross-border, HQ funnel). Target GTM profiles (confirmed 2026-07-07): Agents Seeking Independence (primary), Sales Professionals from other sectors (secondary), Youth Entrepreneurs (volume). First target markets: Panama, Bogotá, Medellín.
+A franchisee operates under the Dproperty brand and receives BluePrint, brand assets, manuals, training, launch support, CRM setup, templates, the Dproperty methodology, and access to Dproperty Select inventory at partner terms (2.5%). **Branded franchises have investment priority** (investors, Select access, cross-border, HQ funnel). Target GTM profiles (confirmed 2026-07-07): Agents Seeking Independence (primary), Sales Professionals from other sectors (secondary), Youth Entrepreneurs (volume). First target markets: Panama, Bogotá, Medellín.
 
 ### 3.2 White-label OS for Boutique Agencies
 A boutique agency keeps its own brand but licenses Dproperty's operating system, workflows, playbooks, document structure, dashboards, projection logic, training, and CRM setup. **They get the know-how and the tools, but not the recognition** — though we back them publicly and they may use **"powered by Dproperty."** Unlike the branded franchise, white-label carries **no investment-only mandate**: they are free to serve end users. **Select access is included at external-partner-broker terms (1.5% of sale price)** — revised 2026-08-03; the earlier blanket exclusion is retired. Governing rule: **the brand goes where there is investment potential; the system can go anywhere.**
@@ -137,9 +139,9 @@ Framed as an internal venture budget from the existing owners, not an external s
 - **Esteban & Miguel are the operators.** Miguel: communications/creative (reports into Simon's org), salary **$0 for now** (comp via 15% equity). Esteban: strategy/management (reports into Luz Adriana's org), Co-founder & Venture Lead / Product & Strategy Lead; salary requirement ≥ **€5,000/month** — **restate as a USD figure (OPEN)**.
 - **Operator equity growth mechanism is under exploration:** protect investor capital first via a 1x liquidation preference / convertible shareholder instrument; let operators grow equity via a milestone-based earn-in / performance ratchet. Full proposal in [[Ownership & Investor Protection One-Pager]] (v0.1) — needs owner + lawyer sign-off before any cap-table change.
 
-## 11. Product Architecture
+## 11. BluePrint Product Architecture
 
-Dproperty OS is a two-layer platform accessed through one login (role-gated). Full detail in [[Platform Information Architecture]], [[Platform Scenario Playbook]], and [[Roles and Access Matrix]].
+BluePrint is the role-gated back-office platform within the wider B_RealEstate web and product ecosystem. Full detail in [[Platform Information Architecture]], [[Platform Scenario Playbook]], and [[Roles and Access Matrix]].
 
 Core modules: HQ dashboard, franchise workspace, client, broker, developer, project, unit, deal pipeline, document generator, projection generator, commission tracker, training academy, Private Collection, Developer Sales OS, reporting, support. Plus (2026-07-18): Command Bar, Field Mode, Resource Library, embedded Academy (LMS) and CRM, AI Assistant, and six back-office systems (Finance, People/HR, Cases, Tenant Lifecycle, Audit/Data Governance, **Glitch Report**).
 
@@ -147,7 +149,7 @@ Cost principle: **automation first, AI second** — T0 (no AI: forms/rules/templ
 
 ## 12. GoHighLevel Role
 
-GoHighLevel is the front-office CRM and marketing automation layer (lead capture, funnels/landing pages, follow-up, calendars, pipelines, automation), white-labeled and embedded in the OS via SSO. It is **not** the legal or operational source of truth. Dproperty OS owns project/developer/unit data, deals, broker relationships, documents, projections, commission logic, franchise reporting, training, compliance, and Private Collection workflows.
+GoHighLevel is the front-office CRM and marketing automation layer (lead capture, funnels/landing pages, follow-up, calendars, pipelines, automation), white-labeled and embedded in the OS via SSO. It is **not** the legal or operational source of truth. BluePrint owns project/developer/unit data, deals, broker relationships, documents, projections, commission logic, franchise reporting, training, compliance, and Private Collection workflows.
 
 ## 13. Obsidian / File Ecosystem Decision
 
@@ -160,7 +162,7 @@ Obsidian is the project brain, not the asset warehouse.
 
 ## 14. Key Decisions Already Made
 
-- Dproperty OS is a franchisable operating system, not just software; Phase 1 of an ecosystem play.
+- B_RealEstate is the parent operating ecosystem; BluePrint is its back-office platform; Dproperty is the flagship investment brand.
 - Three business lines: branded franchise, white-label, Developer Sales OS.
 - Private Collection / Dproperty Select stays HQ-controlled; white-label has no automatic access.
 - **Dproperty Select payout is a fixed % of sale price (2.5% branded / 1.5% white-label)** — the old 50/50 gross split is superseded, and the white-label rate was revised from 2.0% → 1.5% on 2026-08-03 (external-partner-broker terms).
@@ -200,4 +202,4 @@ Minimum handoff pack (canonical copies):
 
 Starter prompt:
 
-> I am continuing the Dproperty OS project. I have uploaded the Project Context Brief, Decision Log, Open Questions, Vault Manifest, Current Priorities, and Deliverables Tracker. Use these as the source of truth. Before creating anything new, check whether the deliverable already exists, what version/status it has, and how it fits into the existing strategy. Do not duplicate work. Preserve prior decisions unless I explicitly ask to revise them.
+> I am continuing the B_RealEstate ecosystem and BluePrint platform project. I have uploaded the Project Context Brief, Decision Log, Open Questions, Vault Manifest, Current Priorities, and Deliverables Tracker. Use these as the source of truth. Before creating anything new, check whether the deliverable already exists, what version/status it has, and how it fits into the existing strategy. Do not duplicate work. Preserve prior decisions unless I explicitly ask to revise them.

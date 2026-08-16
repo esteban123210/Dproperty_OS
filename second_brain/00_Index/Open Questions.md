@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Open Questions"
 type: open_questions
 status: Baseline Created
@@ -17,7 +17,7 @@ This file tracks unresolved issues.
 
 ## Ownership / Governance
 
-- Should Dproperty OS be a separate NewCo or an internal Dproperty division first?
+- ~~Should Dproperty OS be a separate NewCo or an internal Dproperty division first?~~ → Reframed: B_RealEstate is the parent ecosystem; confirm final legal-entity implementation.
 - **RESOLVED (2026-07-14):** Esteban equity = 15% vesting (not the 10%+5% option). Cap table 35/35/15/15.
 - **KEY OPEN (2026-07-14): How do operators (Esteban + Miguel) grow their equity as the company grows, while protecting the investors' capital first?** Recommended direction (needs owner + lawyer sign-off):
   - Protect investors: put the $650k in as a **convertible shareholder instrument / loan with a 1x liquidation preference** (capital returned before equity splits on a sale) — cleaner than issuing them more equity.
@@ -123,7 +123,7 @@ This file tracks unresolved issues.
 
 ## Platform / Product Architecture (2026-07-18)
 
-- **LMS vendor:** LearnWorlds vs edX for the embedded Academy (affects white-labeling, SSO, and Academy role provisioning). Leaning LearnWorlds — confirm.
+- ~~**LMS vendor:** LearnWorlds vs edX.~~ → **Resolved 2026-08-16: Open edX.** Hosting, SSO, white-labeling and role-provisioning implementation remain open.
 - **Default AI agent bundle** per plan tier (which 2–3 agents are "included")?
 - **AI credit-cap sizing** to protect margin against heavy T1 usage?
 - **Build stack:** does the "automation-first" model run on Microsoft Power Platform, or a custom web app + Make/n8n? (Links to existing Product open question.)
@@ -154,10 +154,10 @@ This file tracks unresolved issues.
 Opened by the house-of-brands restructure. See [[../01_Strategy/Brand Architecture|Brand Architecture]].
 
 - **What is the parent company / ecosystem name?** 🔴 **Blocks public launch of the ecosystem website, decks, and all outward assets.**
-- **What is the platform's new name** (replacing "Dproperty OS")? Must be brand-neutral so white-label partners can run on it under their own brand. 🔴 Blocker.
+- ~~What is the platform's new name?~~ ✅ Resolved 2026-08-16: **BluePrint**.
 - **Does Dproperty Select keep the "Dproperty" name** under the parent architecture? A white-label partner selling "Dproperty Select" inventory under their own brand is a naming collision — but the name carries the flagship's credibility.
 - Does the parent brand get its **own visual identity**, or does it inherit the Dproperty system (current interim assumption: inherit)?
-- When and how do we do the **vault-wide rename pass**? (Currently "Dproperty OS" ambiguously means both the company and the platform. Recommendation: one controlled pass after naming, not incremental.)
+- Controlled rename pass started 2026-08-16 in canonical ecosystem, product, index and handoff documents; historical file paths remain where renaming would break links.
 
 ## White-Label × Dproperty Select (2026-08-03) — P0 CONFLICT
 
@@ -196,7 +196,16 @@ Opened by the house-of-brands restructure. See [[../01_Strategy/Brand Architectu
 
 - 🔴 **What is the realistic white-label Select attach rate?** Model placeholder: **8% of units** (`Assumptions!C33`). This is now arguably the **most leveraged single number in the business** — every 4 percentage points ≈ **$147k of Year-5 EBITDA**. Currently a guess. Needs either a pilot, a partner conversation, or a defensible analogue.
 - 🔴 **How many units per year does a typical white-label partner do?** Placeholder: **25** (`Assumptions!C32`), vs 50 for branded. Unvalidated.
-- **Should Select attach-rate be instrumented in Plano from day one?** If it is the key operating metric, it needs to be measured per partner from the first deal, not reconstructed later.
+- **Should Select attach-rate be instrumented in BluePrint from day one?** If it is the key operating metric, it needs to be measured per partner from the first deal, not reconstructed later.
 - **Does the Year-3 EBITDA improvement (~$15k → ~$125k) change the funding ask or tranche timing?** See [[../07_Finance/Funding and Tranches]].
 - **Standing:** OPEX/staffing rows still owner-unvalidated — they move EBITDA more than any revenue line.
 - **Standing:** Phase-2 (ecosystem/hub) financial model still not built.
+
+
+## Resolved / Reframed 2026-08-16
+
+- **Naming resolved:** parent = B_RealEstate; platform = BluePrint; the former Cantera/Plano working-name question is closed.
+- **Academy technology selected:** Open edX. Implementation, hosting and white-label details remain open.
+- **VAULTED added:** business model, access rules, legal ownership and integration details remain open; see [[../18_Ecosystem/05 - VAULTED]].
+- **DpropertyLiving:** remains an explicit open decision; it is not yet a fourth commercial door.
+- **Economics:** live-site values conflict with the financial model; use [[../18_Ecosystem/14 - Unit Economics Registry]] as the reconciliation checklist.

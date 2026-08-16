@@ -1,16 +1,18 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Public Site Copy - ES Master"
 type: product_spec
 status: Final v1.0 (ES production copy)
 version: 1.0
 owner: Esteban
-last_updated: 2026-07-18
+last_updated: 2026-08-16
 source: Claude working session 2026-07-18
 tags: [product, wireframe, public-site, copy, spanish, figma-handoff]
 ---
 
 # Public Site — Copy Maestro (Español)
+
+> **Architecture note (2026-08-16):** B_RealEstate is the parent ecosystem and BluePrint is the back-office platform. This file remains specific to the Dproperty consumer/flagship site. The live B2B ecosystem site is https://bfranchising.com; use [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]] and [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16]].
 
 > Texto de producción **final** para el sitio público (pre-login), listo para Figma. Estructura/wireframe: [[Public Site Wireframe]]. Español es el idioma principal; la versión EN se traduce de aquí.
 > **Tono:** sereno y prestigioso, con cercanía humana. **Nombre externo:** "Dproperty Select". `[MOCK]` = reemplazar antes de publicar.
@@ -61,7 +63,7 @@ tags: [product, wireframe, public-site, copy, spanish, figma-handoff]
 
 **Ganándonos el nombre.** Dproperty se convirtió en una voz reconocida de la inversión inmobiliaria en Panamá y la región, en escenarios como SIMA (Madrid), ELDI (Panamá) y el Gran Salón Inmobiliario (Bogotá); y nuestra CEO integra la junta directiva de la Lonja de Bogotá. Nuestras preventas fuera de mercado se convirtieron en referentes: Bioma, Mova, Cavarrosa, Nayamara, Playa Escondida y La Maison by Fendi.
 
-**El punto de inflexión — un paso generacional.** Dproperty fue construida desde cero por nuestra fundadora. La siguiente generación ve que lo que ella creó puede llegar mucho más allá de Panamá. Creemos que mejores edificios crean mejores estilos de vida: queremos mejores bienes raíces. Esa convicción, y una mirada formada en la psicología, la inteligencia artificial y los negocios, reveló una oportunidad mayor: convertir el conocimiento de toda una carrera en un sistema sobre el cual otros puedan construir. **Dproperty OS es solo el software que permite que este ecosistema exista; no es el producto. El producto es el ecosistema, y el conocimiento detrás de él.**
+**El punto de inflexión — un paso generacional.** Dproperty fue construida desde cero por nuestra fundadora. La siguiente generación ve que lo que ella creó puede llegar mucho más allá de Panamá. Creemos que mejores edificios crean mejores estilos de vida: queremos mejores bienes raíces. Esa convicción, y una mirada formada en la psicología, la inteligencia artificial y los negocios, reveló una oportunidad mayor: convertir el conocimiento de toda una carrera en un sistema sobre el cual otros puedan construir. **BluePrint es solo el software que permite que este ecosistema exista; no es el producto. El producto es el ecosistema, y el conocimiento detrás de él.**
 
 ### Misión
 Conectar a quienes tienen los medios para construir con quienes tienen la visión para liderar, para que el talento nunca dependa de los recursos o los contactos, y los mejores bienes raíces se vuelvan inevitables.
@@ -111,7 +113,7 @@ Imagina a los mejores del sector —desarrolladores, asesores, inversionistas, i
 Ciudad de Panamá es el primer hogar natural del hub.
 
 ### Cómo llegamos
-- **Fase 1 — Franquicia y Dproperty OS (hoy):** probamos el modelo, crecemos la marca y generamos el capital.
+- **Fase 1 — Franquicia y BluePrint (hoy):** probamos el modelo, crecemos la marca y generamos el capital.
 - **Fase 2 — El ecosistema (nuestra estrella polar):** el hub curado, financiado por la Fase 1. Una dirección con la que estamos comprometidos, no una promesa con fecha.
 
 **CTA:** Súmate a la visión
@@ -163,7 +165,7 @@ Ciudad de Panamá es el primer hogar natural del hub.
 
 **Tu camino:** Descubre → Aplica → Firma → Onboarding → Lanzamiento.
 
-**Qué incluye:** Dproperty OS · CRM white-label · la Academia · marca y manuales · acompañamiento de lanzamiento · agentes de IA incluidos.
+**Qué incluye:** BluePrint · CRM white-label · la Academia · marca y manuales · acompañamiento de lanzamiento · agentes de IA incluidos.
 
 **Inversión y retorno:** *(tomar cifras de [[Pricing Model]] / [[Unit Economics]]: $30k→$40k, 7.5%, etc.)*
 

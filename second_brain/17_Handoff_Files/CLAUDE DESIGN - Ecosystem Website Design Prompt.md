@@ -1,8 +1,8 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "CLAUDE DESIGN - Ecosystem Website Design Prompt"
 type: design_brief
-deliverable: "Cantera ecosystem website — full visual + motion design"
+deliverable: "B_RealEstate ecosystem website — full visual + motion design"
 target_tool: "Claude Design"
 version: 1.0
 status: "Ready to paste"
@@ -11,7 +11,9 @@ created: 2026-08-03
 tags: [handoff, design, website, motion, claude-design]
 ---
 
-# DESIGN PROMPT — Cantera Ecosystem Website
+# DESIGN PROMPT — B_RealEstate Ecosystem Website
+
+> **Live-site/naming update (2026-08-16):** B_RealEstate and BluePrint are the active names; https://bfranchising.com is live. This handoff remains production history. Before further build work, use [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|the live-site audit]] and [[../18_Ecosystem/14 - Unit Economics Registry|the economics registry]] as the correction list.
 
 **Paste this entire document into Claude Design.**
 
@@ -21,9 +23,9 @@ tags: [handoff, design, website, motion, claude-design]
 
 A marketing website for a company that operates **a franchising ecosystem for real estate**. Not a franchise directory. Not a SaaS landing page. Something closer to a **well-made architectural monograph that moves**.
 
-The company is **Cantera**. Dproperty is its **flagship brand**, the way Mercure belongs to Accor. The platform is **Plano**.
+The company is **B_RealEstate**. Dproperty is its **flagship brand**, the way Mercure belongs to Accor. The platform is **BluePrint**.
 
-> **Cantera** — in Spanish, both *quarry* (the source of the stone a building is made from) and, in football, *la cantera*: the academy that develops homegrown talent. A company that supplies both the material and the people. **Plano** — *blueprint*. The system as a drawing others can build from, which is also the visual language of this entire site.
+> **B_RealEstate** is the parent ecosystem. **B_** is the core visual identity and extensible marker. **BluePrint** is the back-office platform; in its wordmark, `B_` remains the anchor and `luePrint` is underlined. The name also supports the site's architectural drawing language.
 
 ## The strategic job of the design
 
@@ -199,7 +201,7 @@ Route changes: content fades out (300ms), the line **stays continuous** across t
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  Cantera                                              ☰     │
+│  B_RealEstate                                              ☰     │
 └──────────────────────────────────────────────────────────────┘
 ```
 
@@ -235,7 +237,7 @@ The homepage **is the franchisee's growth path**, start to finish. Each section 
 
 ```
 ┌──────────────────────────────────────────────────────────────┐
-│  Cantera                                              ☰     │
+│  B_RealEstate                                              ☰     │
 │                                                              │
 │                                                              │
 │         Boutique no es solo cómo trabajamos.                 │
@@ -383,7 +385,7 @@ The line sprouts **annotation ticks**, each labelling a tool — like a plan dra
 │   LO QUE RECIBES                                             │
 │                                                              │
 │         │                                                    │
-│    ─────┼──── Plataforma Plano                           │
+│    ─────┼──── Plataforma BluePrint                           │
 │         │                                                    │
 │    ─────┼──── CRM white-label                                │
 │         │                                                    │
@@ -438,7 +440,7 @@ Three consecutive full-width sections, one per product. **This is where "techy" 
 
 | # | Product | ES headline | EN headline | Video content |
 |---|---|---|---|---|
-| 01 | **Plataforma Plano** | *Todo tu negocio en un solo lugar.* | *Your whole business in one place.* | Screen capture: dashboard → pipeline → a projection being built → reporting view. Smooth, real UI, no cursor jitter. |
+| 01 | **Plataforma BluePrint** | *Todo tu negocio en un solo lugar.* | *Your whole business in one place.* | Screen capture: dashboard → pipeline → a projection being built → reporting view. Smooth, real UI, no cursor jitter. |
 | 02 | **CRM white-label** | *Tu marca. Nuestra maquinaria.* | *Your brand. Our machinery.* | The CRM rebranding itself — logo/colour swapping to a partner's identity, then a lead moving through pipeline stages, automation firing. |
 | 03 | **La Academia** | *Tu equipo, formado desde la semana uno.* | *Your team, trained from week one.* | Course library → a lesson playing → a progress dashboard → certification. Show a real person learning, briefly. |
 
@@ -538,10 +540,10 @@ Explicitly requested. A **horizontal sketch timeline**, drawn as you scroll.
 │   No estás comprando una marca.                              │
 │   Estás entrando a un ecosistema.                            │
 │                                                              │
-│                      Cantera                                │
+│                      B_RealEstate                                │
 │                          │                                   │
 │         ┌────────────┬───┴───┬────────────┐                  │
-│      DPROPERTY   WHITE-LABEL  DESARROL.  Plano           │
+│      DPROPERTY   WHITE-LABEL  DESARROL.  BluePrint           │
 │      (insignia)  (marcas propias) (alianzas) (plataforma)    │
 │                                                              │
 │   Dproperty es nuestra marca insignia — la prueba de que     │
@@ -586,9 +588,9 @@ Explicitly requested. A **horizontal sketch timeline**, drawn as you scroll.
 
 Minimal. Bone Deep background.
 
-- Left: `Cantera` logo + tagline — *Un ecosistema de franquicias para el sector inmobiliario.* / *A real estate franchising ecosystem.*
+- Left: `B_RealEstate` logo + tagline — *Un ecosistema de franquicias para el sector inmobiliario.* / *A real estate franchising ecosystem.*
 - Columns: **Marcas** (Dproperty) · **Compañía** · **Contacto**
-- Bottom row: `© Cantera` · Privacidad · Términos · Aviso de inversión · `ES | EN`
+- Bottom row: `© B_RealEstate` · Privacidad · Términos · Aviso de inversión · `ES | EN`
 - One thin sketch line across the top of the footer. No heavy divider.
 
 ---
@@ -648,7 +650,7 @@ Design these as reusable components:
 - **Performance is non-negotiable** — the site's speed *is* the product claim. Target Lighthouse ≥ 90. Lazy-load all video, `will-change` only on actively animating elements, `IntersectionObserver` to pause offscreen video, preload only the hero.
 - **Bilingual:** full ES/EN, route-based (`/es`, `/en`), Spanish default. All strings in locale files. Full copy in [[LOVABLE - Ecosystem Website Build Brief]].
 - **Accessibility:** WCAG AA. Full `prefers-reduced-motion` fallback. Keyboard-navigable menu. Video is decorative — must not carry information unavailable in text.
-- **Names:** `Cantera` (company) and `Plano` (platform) should still live as **config variables**, single source — trademark clearance is not yet complete, so keep them trivially swappable.
+- **Names:** `B_RealEstate` (company) and `BluePrint` (platform) should still live as **config variables**, single source — trademark clearance is not yet complete, so keep them trivially swappable.
 - **Remaining `[MOCK]`:** contact details only (office, email, phone, social). Everything else is resolved.
 
 ---

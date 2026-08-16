@@ -1,17 +1,29 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Current Priorities"
 type: priorities
 status: Active
 owner: Esteban
-last_updated: 2026-07-21
+last_updated: 2026-08-16
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [priorities, next-actions, execution]
 ---
 
 # Current Priorities
 
-> **Sync note (2026-07-14):** Merged canonical. `00_Index/Current Priorities.md` and `00_Index/AI Handoff Pack/05_Current Priorities.md` are now identical.
+> **Canonical note (2026-08-16):** This file is the single source of truth. The AI Handoff Pack copy is a pointer.
+
+## Session Update (2026-08-16) — B_RealEstate Ecosystem + BluePrint
+
+Canonical architecture and naming are now documented in [[../18_Ecosystem/README|18_Ecosystem]]. Immediate order of work:
+
+1. **Approve one commercial economics baseline** across the live website, contracts, pitch materials, and finance model.
+2. **Correct the live-site P0 claims and routes** documented in [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|Website Audit]]—especially the BluePrint name, GoHighLevel disclosure, source-of-truth language, Dproperty Select governance, forms, and legal pages.
+3. **Prototype BluePrint's golden back-office workflow:** opportunity handoff from GoHighLevel → compliance gate → contract/task/document workflow → commission approval → executive reporting.
+4. **Decide DpropertyLiving's status** before presenting it as a fourth ecosystem door.
+5. **Define VAULTED's access, monetization, compliance, and integration rules** before implementation.
+
+**Decision rule:** BluePrint complements GoHighLevel; it does not replace the CRM. Open edX remains the Academy delivery engine. Each system has one declared source-of-truth responsibility.
 
 ## Session Update (2026-07-21) — Manuals System + Process Library
 

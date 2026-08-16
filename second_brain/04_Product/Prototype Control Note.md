@@ -1,23 +1,25 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Prototype Control Note"
 type: product_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-08-16
 source: ChatGPT baseline vault package
 tags: [product]
 ---
 
 # Prototype Control Note
 
+> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
+
 ## Purpose
 
-This note prepares the Dproperty OS product for Figma and build planning.
+This note prepares the BluePrint product for Figma and build planning.
 
 ## Product Vision
 
-Dproperty OS is the operating system for HQ, franchises, white-label agencies, and developer sales projects.
+BluePrint is the operating system for HQ, franchises, white-label agencies, and developer sales projects.
 
 ## Main User Types
 

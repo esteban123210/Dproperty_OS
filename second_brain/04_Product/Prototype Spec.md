@@ -1,15 +1,17 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Prototype Spec"
 type: product_spec
 status: Draft Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-08-16
 source: ChatGPT baseline vault package
 tags: [product, figma]
 ---
 
-# Dproperty OS — Prototype Specification for Figma
+# BluePrint — Prototype Specification for Figma
+
+> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
 
 > **Note (2026-07-18):** This spec defines the OS screens. The broader platform architecture — public marketing site, "Become a Franchise" recruitment hub, the always-on Command Bar and Glitch Report, back-office systems (Finance, HR, Cases, Tenant Lifecycle, Audit, Glitch), and the embedded CRM/Academy — now lives in [[Platform Information Architecture]]. Roles are detailed in [[Roles and Access Matrix]]; workflows validated in [[Platform Scenario Playbook]]. Read those first when wireframing.
 
@@ -332,4 +334,4 @@ Minimum Figma screens:
 16. Settings / Permissions
 
 ## Figma prompt
-Design a premium boutique real estate operating platform called Dproperty OS. The product is used by headquarters, franchisees, white-label agencies, and developers. It should feel calm, editorial, high-end, and operationally precise. Avoid a generic SaaS dashboard look. Use warm off-white backgrounds, charcoal text, muted deep blue, and champagne accents. Create screens for HQ Control Center, Franchise Workspace, Client Profile, Project Profile, Deal Detail, Document Generator, Projection Generator, Private Collection, Developer Sales Dashboard, Training Academy, and Template Control. The core experience should show how data becomes documents, documents move through approvals, signed files return to the archive, and dashboards update automatically.
+Design a premium boutique real estate operating platform called BluePrint. The product is used by headquarters, franchisees, white-label agencies, and developers. It should feel calm, editorial, high-end, and operationally precise. Avoid a generic SaaS dashboard look. Use warm off-white backgrounds, charcoal text, muted deep blue, and champagne accents. Create screens for HQ Control Center, Franchise Workspace, Client Profile, Project Profile, Deal Detail, Document Generator, Projection Generator, Private Collection, Developer Sales Dashboard, Training Academy, and Template Control. The core experience should show how data becomes documents, documents move through approvals, signed files return to the archive, and dashboards update automatically.
