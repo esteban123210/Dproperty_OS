@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Package Contents Index"
 type: package_index
 status: Generated
@@ -43,3 +43,12 @@ This baseline package contains:
 3. Open [[Current Priorities]].
 4. Open [[../16_Task_Management/Next 10 Tasks Working Plan]].
 5. Start with [[../05_Franchise_Package/Franchise Launch Package Index]].
+
+
+## Canonical ecosystem package
+
+- [[../18_Ecosystem/README|18_Ecosystem — Start Here]]
+- [[../18_Ecosystem/00 - Ecosystem Master Map|Ecosystem Master Map]]
+- [[../18_Ecosystem/12 - System of Record and Integration Matrix|System of Record Matrix]]
+- [[../18_Ecosystem/14 - Unit Economics Registry|Unit Economics Registry]]
+- [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|Website Audit]]

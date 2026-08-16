@@ -1,17 +1,17 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "README - Start Here"
 type: project_index
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-08-16
 source: ChatGPT baseline vault package
 tags: [start-here, obsidian, project-management]
 ---
 
-# Dproperty OS - Start Here
+# B_RealEstate Ecosystem - Start Here
 
-This vault is the working brain for the Dproperty OS project.
+This vault is the working brain for the B_RealEstate ecosystem and BluePrint platform.
 
 Start here every time:
 
@@ -27,6 +27,11 @@ Start here every time:
 Obsidian is the source of truth for thinking, decisions, specs, manuals, and links.
 
 SharePoint/Drive/Figma/Canva/PowerPoint/Excel store heavy or final production files.
+
+
+## Canonical Ecosystem Architecture
+
+Start new ecosystem/product work in [[18_Ecosystem/README|18_Ecosystem — Start Here]]. Parent = **B_RealEstate**; platform = **BluePrint**; flagship = **Dproperty**.
 
 ## Current Working Priority
 

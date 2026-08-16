@@ -1,10 +1,10 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "04_Vault Manifest (pointer)"
 type: pointer
 status: Pointer
 owner: Esteban
-last_updated: 2026-07-18
+last_updated: 2026-08-16
 tags: [ai-handoff, pointer]
 ---
 
@@ -15,3 +15,4 @@ tags: [ai-handoff, pointer]
 > For AI handoff, upload `00_Index/Vault Manifest.md`.
 
 De-duplicated 2026-07-18 (strategy: `00_Index/` canonical + Handoff Pack pointers). This file was previously a full duplicate that could drift out of sync.
+

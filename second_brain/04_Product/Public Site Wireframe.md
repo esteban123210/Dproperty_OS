@@ -1,16 +1,18 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Public Site Wireframe"
 type: product_spec
 status: Draft v0.6 — copy filled
 version: 0.6
 owner: Esteban
-last_updated: 2026-07-18
+last_updated: 2026-08-16
 source: Claude working session 2026-07-18 (content from Esteban)
 tags: [product, wireframe, public-site, brand, marketing, copy]
 ---
 
 # Public Site Wireframe (Pre-Login)
+
+> **Architecture note (2026-08-16):** B_RealEstate is the parent ecosystem and BluePrint is the back-office platform. This file remains specific to the Dproperty consumer/flagship site. The live B2B ecosystem site is https://bfranchising.com; use [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]] and [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16]].
 
 > Low-fidelity wireframe + **filled copy** for the public-facing Dproperty site (pre-login). Parent: [[Platform Information Architecture]] (Layer 1). Next: high-fidelity build in Figma per [[Figma Handoff Notes]].
 >
@@ -110,7 +112,7 @@ PROJECTS (optional) · BECOME A FRANCHISE (hub) · CONTACT · LOG IN · LEGAL
 
 **Earning our name.** Dproperty became a recognized voice in real estate investment in Panama and the region — on stage at **SIMA (Madrid), ELDI (Panama), and the Gran Salón Inmobiliario (Bogotá)** — and our CEO joined the board of the **Lonja de Bogotá**. Our off-market pre-sales became landmarks: **Bioma, Mova, Cavarrosa, Nayamara, Playa Escondida, La Maison by Fendi.**
 
-**The turning point — a generational step.** Dproperty was built from the ground up by our founder. The next generation sees that what she created can reach far beyond Panama. We believe better buildings create better lifestyles — we want **better real estate**. That conviction, and a perspective shaped by psychology, AI, and business, revealed a bigger opportunity: to turn a career's worth of knowledge into a system others can build on. **Dproperty OS is only the software that lets this ecosystem exist — it is not the product. The product is the ecosystem, and the knowledge behind it.**
+**The turning point — a generational step.** Dproperty was built from the ground up by our founder. The next generation sees that what she created can reach far beyond Panama. We believe better buildings create better lifestyles — we want **better real estate**. That conviction, and a perspective shaped by psychology, AI, and business, revealed a bigger opportunity: to turn a career's worth of knowledge into a system others can build on. **BluePrint is only the software that lets this ecosystem exist — it is not the product. The product is the ecosystem, and the knowledge behind it.**
 
 ### Mission
 > **To connect those with the means to build with those with the vision to lead — so talent is never gated by resources or network, and better real estate becomes inevitable.**
@@ -172,7 +174,7 @@ Picture the best in real estate — developers, agents, investors, innovators �
 Panama City is the natural first home for the hub.
 
 ### How we get there (honest)
-- **Phase 1 — Franchise & Dproperty OS (now):** prove the model, grow the brand, generate the cash.
+- **Phase 1 — Franchise & BluePrint (now):** prove the model, grow the brand, generate the cash.
 - **Phase 2 — The Ecosystem (north star):** the curated hub, funded by Phase 1. A direction we're committed to — not a dated promise.
 
 ---
@@ -220,7 +222,7 @@ WHAT'S INCLUDED → TERRITORIES → PROOF → FAQ → strong CTA
 **Hero:** *"Own a Dproperty. Bring investment-grade, boutique real estate to your market — with our brand, our system, our training, and our network behind you."*
 **CTAs:** `[ Book a call ]` · `[ Download info pack ]`
 **One-line why:** *"Everything it took us since 2017 to build — the method, the technology, the training, and the network — ready to run in your market from day one."*
-**What's included:** Dproperty OS · white-label CRM · the Academy · brand & manuals · launch support · included AI agents.
+**What's included:** BluePrint · white-label CRM · the Academy · brand & manuals · launch support · included AI agents.
 **Proof:** *"Testimonials coming soon — you could be part of our founding cohort of franchisees."*
 - Feeds the **separate franchise-recruitment CRM pipeline**; booking triggers the **Prep Pack** automation.
 - Public numbers must match [[Unit Economics]] / [[Pricing Model]] ($30k→$40k, 7.5%, etc.) — pull, don't retype.

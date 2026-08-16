@@ -1,21 +1,21 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Vault Manifest"
 type: vault_manifest
 status: Generated
 owner: Esteban
-last_updated: 2026-07-21
+last_updated: 2026-08-16
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [manifest, ai-handoff]
 ---
 
 # Vault Manifest
 
-Last generated: 2026-07-21
+Last generated: 2026-08-16
 
-This file lists the baseline files in the Dproperty OS Obsidian vault package.
+This file lists the baseline files in the B_RealEstate ecosystem and BluePrint Obsidian vault package.
 
-> **Sync note (2026-07-14):** Merged canonical. `00_Index/Vault Manifest.md` and `00_Index/AI Handoff Pack/04_Vault Manifest.md` are now identical.
+> **Canonical note (2026-08-16):** This file is the single source of truth. `00_Index/AI Handoff Pack/04_Vault Manifest.md` is a pointer only.
 
 ## New / Notable (2026-07-21) — Manuals System + Process Library
 - [[05_Franchise_Package/Manuals System Index|Manuals System Index]] — **NEW**, 6-manual / 3-audience architecture, one master source.
@@ -170,3 +170,25 @@ This file lists the baseline files in the Dproperty OS Obsidian vault package.
 - [[16_Task_Management/Next 10 Tasks Working Plan|Next 10 Tasks Working Plan]] — `16_Task_Management/Next 10 Tasks Working Plan.md`
 - [[16_Task_Management/Weekly Review Workflow|Weekly Review Workflow]] — `16_Task_Management/Weekly Review Workflow.md`
 - [[README - Start Here|README - Start Here]] — `README - Start Here.md`
+
+
+## 18_Ecosystem — Canonical B_RealEstate Map (added 2026-08-16)
+
+- `18_Ecosystem/README.md`
+- `18_Ecosystem/00 - Ecosystem Master Map.md`
+- `18_Ecosystem/01 - B_RealEstate.md`
+- `18_Ecosystem/02 - BluePrint.md`
+- `18_Ecosystem/03 - GoHighLevel CRM.md`
+- `18_Ecosystem/04 - B_Academy - Open edX.md`
+- `18_Ecosystem/05 - VAULTED.md`
+- `18_Ecosystem/06 - Dproperty Select.md`
+- `18_Ecosystem/07 - Dproperty Flagship.md`
+- `18_Ecosystem/08 - White-Label Partner Model.md`
+- `18_Ecosystem/09 - Developer Sales Partner.md`
+- `18_Ecosystem/10 - DpropertyLiving.md`
+- `18_Ecosystem/11 - Web Presence and Funnel Architecture.md`
+- `18_Ecosystem/12 - System of Record and Integration Matrix.md`
+- `18_Ecosystem/13 - Personas and Jobs to Be Done.md`
+- `18_Ecosystem/14 - Unit Economics Registry.md`
+- `18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16.md`
+- `18_Ecosystem/16 - Roadmap and Governance.md`

@@ -1,8 +1,8 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "LOVABLE - Ecosystem Website Build Brief"
 type: build_brief
-deliverable: "Cantera ecosystem website — bilingual ES/EN"
+deliverable: "B_RealEstate ecosystem website — bilingual ES/EN"
 target_tool: Lovable
 version: 1.0
 status: "Ready to paste into Lovable"
@@ -11,7 +11,9 @@ created: 2026-08-03
 tags: [handoff, lovable, website, bilingual, production]
 ---
 
-# BUILD BRIEF — Cantera Ecosystem Website
+# BUILD BRIEF — B_RealEstate Ecosystem Website
+
+> **Live-site/naming update (2026-08-16):** B_RealEstate and BluePrint are the active names; https://bfranchising.com is live. This handoff remains production history. Before further build work, use [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|the live-site audit]] and [[../18_Ecosystem/14 - Unit Economics Registry|the economics registry]] as the correction list.
 
 **Paste this entire document into Lovable as the project brief.**
 
@@ -39,8 +41,8 @@ Never write copy implying the company *is* Dproperty. Dproperty appears as **pro
 
 ## Names
 
-- **Cantera** — the parent company. In Spanish both *quarry* (the source of the stone a building is made from) and *la cantera*, the academy that develops homegrown talent. A company that supplies both the material and the people.
-- **Plano** — the platform (formerly "Dproperty OS"). *Blueprint*: the system as a drawing others can build from. Brand-neutral, so white-label partners can run on it under their own name.
+- **B_RealEstate** — the parent ecosystem. **B_** is the core identity: the underscore is an extensible marker across products and services.
+- **BluePrint** — the back-office platform (formerly Dproperty OS / Plano). In the wordmark, `B_` is the anchor and `luePrint` is underlined. Brand-neutral, so white-label partners can run on it under their own name.
 - `[MOCK]` — remaining placeholder data (contact details only). Keep visible.
 
 **Trademark clearance is not yet complete.** Implement both names as **variables in one config file** so a single edit updates the whole site.
@@ -103,11 +105,11 @@ Secondary      #B89B5E   (champagne)
 | `/es/nosotros` | `/en/about` | About |
 | `/es/contacto` | `/en/contact` | Contact |
 | `/es/legal` | `/en/legal` | Legal |
-| `/login` | `/login` | Login (→ Plano) |
+| `/login` | `/login` | Login (→ BluePrint) |
 
 ## Header (sticky, minimal)
 
-`Cantera` logo · nav · `ES|EN` · `[Iniciar sesión / Log in]` (ghost) · `[Agendar llamada / Book a call]` (champagne, primary)
+`B_RealEstate` logo · nav · `ES|EN` · `[Iniciar sesión / Log in]` (ghost) · `[Agendar llamada / Book a call]` (champagne, primary)
 
 **Nav ES:** Ecosistema · Franquicias ▾ (Franquicia Dproperty, White-Label) · Desarrolladores · Plataforma · Nosotros
 **Nav EN:** Ecosystem · Franchising ▾ (Dproperty Franchise, White-Label) · Developers · Platform · About
@@ -117,8 +119,8 @@ Secondary      #B89B5E   (champagne)
 **ES:** *Un ecosistema de franquicias para el sector inmobiliario.*
 **EN:** *A real estate franchising ecosystem.*
 
-Columns — **ES:** Marcas (Dproperty) · Compañía · Contacto · © Cantera · Privacidad · Términos · Aviso de inversión
-**EN:** Brands (Dproperty) · Company · Contact · © Cantera · Privacy · Terms · Investment Disclaimer
+Columns — **ES:** Marcas (Dproperty) · Compañía · Contacto · © B_RealEstate · Privacidad · Términos · Aviso de inversión
+**EN:** Brands (Dproperty) · Company · Contact · © B_RealEstate · Privacy · Terms · Investment Disclaimer
 
 ---
 
@@ -174,13 +176,13 @@ Three cards, **equal height, equal visual weight**. No card is highlighted, badg
 **ES**
 1. **La promesa boutique.** *Todo se apoya en la forma de trabajar de Dproperty: curaduría sobre volumen, números sobre ruido, confianza sobre transacción.*
 2. **Franquicia a tu manera.** *Damos las herramientas y acompañamos el proceso — la marca puede seguir siendo tuya.*
-3. **Las herramientas ya existen.** *Plataforma Plano, CRM white-label, agentes de IA, academia, eventos de networking, acceso a Dproperty Select, plantillas y manuales.*
+3. **Las herramientas ya existen.** *Plataforma BluePrint, CRM white-label, agentes de IA, academia, eventos de networking, acceso a Dproperty Select, plantillas y manuales.*
 4. **Es un modelo probado.** *Llevamos desde 2017 operándolo. Cada operación de Dproperty Select es inventario que no tuviste que conseguir, con una comisión que no tuviste que negociar.*
 
 **EN**
 1. **The boutique promise.** *Everything rests on the Dproperty way of working: curation over volume, numbers over noise, trust over transactions.*
 2. **Franchise your way.** *We provide the tools and walk beside you — the brand can still be yours.*
-3. **The tools already exist.** *Plano platform, white-label CRM, AI agents, academy, networking events, Dproperty Select access, templates and manuals.*
+3. **The tools already exist.** *BluePrint platform, white-label CRM, AI agents, academy, networking events, Dproperty Select access, templates and manuals.*
 4. **It's a proven model.** *We've been running it since 2017. Every Dproperty Select transaction is inventory you didn't have to source, at a commission you didn't have to negotiate.*
 
 > **Pillar 4 makes no unverifiable claim.** It states the mechanism (sourced inventory, pre-negotiated commission) plus a real operating history — both defensible. Do **not** add a "partners increased profit by X%" statistic: with zero franchisees there is no such figure, and an unsourced number is the first thing a sceptical buyer will probe. Add a genuine case study when one exists.
@@ -194,8 +196,8 @@ Flagship card — Dproperty, since 2017, Panama. Landmark projects: **Bioma · M
 
 ### Tools grid (8 items)
 
-**ES:** Plataforma Plano · CRM white-label · Agentes de IA · Academia · Eventos y red · Dproperty Select · Manuales y plantillas · Acompañamiento de lanzamiento
-**EN:** Plano platform · White-label CRM · AI agents · Academy · Events & network · Dproperty Select · Manuals & templates · Launch support
+**ES:** Plataforma BluePrint · CRM white-label · Agentes de IA · Academia · Eventos y red · Dproperty Select · Manuales y plantillas · Acompañamiento de lanzamiento
+**EN:** BluePrint platform · White-label CRM · AI agents · Academy · Events & network · Dproperty Select · Manuals & templates · Launch support
 
 ### Vision strip → Ecosystem page
 
@@ -214,10 +216,10 @@ Flagship card — Dproperty, since 2017, Panama. Landmark projects: **Bioma · M
 Render as a clean line-art diagram with champagne accents:
 
 ```
-                    Cantera
+                    B_RealEstate
                         │
     ┌───────────┬───────┴───────┬──────────────┐
- DPROPERTY   WHITE-LABEL    DESARROLLADORES  Plano
+ DPROPERTY   WHITE-LABEL    DESARROLLADORES  BluePrint
  (marca       (marcas        (alianzas)      (la plataforma
   insignia)    propias)                       que lo conecta)
 ```
@@ -292,8 +294,8 @@ Sub: *Bring boutique investment real estate to your market — with our brand, o
 
 ### What's included
 
-**ES:** Marca Dproperty y manuales · Plataforma Plano · CRM white-label · Academia · Agentes de IA · **Acceso completo a Dproperty Select** · Plantillas legales y comerciales · Plan de lanzamiento 30/60/90 · Acompañamiento y reporting de HQ · Prioridad de inversión y red internacional
-**EN:** Dproperty brand and manuals · Plano platform · White-label CRM · Academy · AI agents · **Full Dproperty Select access** · Legal and commercial templates · 30/60/90 launch plan · HQ support and reporting · Investment priority and international network
+**ES:** Marca Dproperty y manuales · Plataforma BluePrint · CRM white-label · Academia · Agentes de IA · **Acceso completo a Dproperty Select** · Plantillas legales y comerciales · Plan de lanzamiento 30/60/90 · Acompañamiento y reporting de HQ · Prioridad de inversión y red internacional
+**EN:** Dproperty brand and manuals · BluePrint platform · White-label CRM · Academy · AI agents · **Full Dproperty Select access** · Legal and commercial templates · 30/60/90 launch plan · HQ support and reporting · Investment priority and international network
 
 ### Your path
 
@@ -385,8 +387,8 @@ Sub: *Build your agency your way — with the technology, method, training and n
 
 ### What's included
 
-**ES:** Plataforma Plano · CRM white-label bajo tu marca · Academia · Agentes de IA · Flujos, manuales y plantillas · Dashboards y lógica de proyección · **Acceso a Dproperty Select como broker aliado (1.5% del valor de venta)** · Respaldo "powered by Dproperty" · Implementación acompañada · Eventos y red
-**EN:** Plano platform · White-label CRM under your brand · Academy · AI agents · Workflows, manuals and templates · Dashboards and projection logic · **Dproperty Select access as a partner broker (1.5% of sale value)** · "Powered by Dproperty" endorsement · Guided implementation · Events and network
+**ES:** Plataforma BluePrint · CRM white-label bajo tu marca · Academia · Agentes de IA · Flujos, manuales y plantillas · Dashboards y lógica de proyección · **Acceso a Dproperty Select como broker aliado (1.5% del valor de venta)** · Respaldo "powered by Dproperty" · Implementación acompañada · Eventos y red
+**EN:** BluePrint platform · White-label CRM under your brand · Academy · AI agents · Workflows, manuals and templates · Dashboards and projection logic · **Dproperty Select access as a partner broker (1.5% of sale value)** · "Powered by Dproperty" endorsement · Guided implementation · Events and network
 
 ### What's not included
 
@@ -482,7 +484,7 @@ Sub: *A dedicated team that learns the soul of your product and stays with you p
 
 ---
 
-## PAGE 6 — THE PLATFORM (Plano)
+## PAGE 6 — THE PLATFORM (BluePrint)
 
 **Hero ES:** *La plataforma que hace que todo esto funcione.*
 **Hero EN:** *The platform that makes all of this work.*
@@ -490,8 +492,8 @@ Sub: *A dedicated team that learns the soul of your product and stays with you p
 **Modules ES:** CRM · Pipeline · Portafolio Dproperty Select · Proyecciones · Dashboards y reporting · Academia · Agentes de IA · Plantillas y documentos · Cumplimiento
 **Modules EN:** CRM · Pipeline · Dproperty Select portfolio · Projections · Dashboards and reporting · Academy · AI agents · Templates and documents · Compliance
 
-**Framing ES:** *Plano no es el producto. Es el software que permite que el ecosistema exista.*
-**Framing EN:** *Plano isn't the product. It's the software that lets the ecosystem exist.*
+**Framing ES:** *BluePrint no es el CRM. Es el núcleo operativo de back office que conecta el ecosistema.*
+**Framing EN:** *BluePrint is not the CRM. It is the back-office operating core that connects the ecosystem.*
 
 **White-label note ES:** *Se adapta a tu marca.* · **EN:** *It adapts to your brand.*
 **CTA ES:** Ver una demo · **EN:** See a demo
@@ -546,13 +548,13 @@ SIMA · ELDI · Gran Salón Inmobiliario · Lonja de Bogotá
 **ES:** "Quiero una franquicia Dproperty" · "Quiero white-label" · "Soy desarrollador"
 **EN:** "I want a Dproperty franchise" · "I want white-label" · "I'm a developer"
 
-**Right:** short form (name, email, country, which route, message) + `[MOCK]` Office: Panama City · hello@Cantera.— · +507 …-…. · Instagram · LinkedIn
+**Right:** short form (name, email, country, which route, message) + `[MOCK]` Office: Panama City · hello@B_RealEstate.— · +507 …-…. · Instagram · LinkedIn
 
 ---
 
 ## PAGE 9 — LOGIN
 
-Branded login → Plano. SSO-ready.
+Branded login → BluePrint. SSO-ready.
 **ES:** *¿Nuevo socio? Escríbenos.* · *¿Olvidaste tu contraseña?*
 **EN:** *New partner? Get in touch.* · *Forgot your password?*
 
@@ -588,7 +590,7 @@ Branded login → Plano. SSO-ready.
 - SEO: per-page translated meta titles/descriptions, Open Graph tags, `hreflang`, sitemap.xml, semantic headings.
 - Accessible: WCAG AA, keyboard navigation, alt text, visible focus states.
 - All copy in locale files — no hardcoded strings.
-- `Cantera`, `Plano`, `[MOCK]` as config variables, single source.
+- `B_RealEstate`, `BluePrint`, `[MOCK]` as config variables, single source.
 
 ---
 
@@ -603,7 +605,7 @@ Branded login → Plano. SSO-ready.
 - [ ] Developers page leads with continuity and product understanding, not headcount.
 - [ ] Payback block renders correctly and stacks well on mobile.
 - [ ] Three CRM pipelines wired separately; locale passed through.
-- [ ] `Cantera`, `Plano`, `[MOCK]` still visible and centrally editable.
+- [ ] `B_RealEstate`, `BluePrint`, `[MOCK]` still visible and centrally editable.
 - [ ] Signature Spanish phrase present in both locales.
 - [ ] Investment + franchise disclaimers on Legal.
 - [ ] Lighthouse ≥ 90 on performance and accessibility.
@@ -617,4 +619,4 @@ Branded login → Plano. SSO-ready.
 3. Photography and logos.
 4. Product videos for the Platform / CRM / Academy showcases.
 
-**Names (Cantera, Plano) are resolved but pending trademark clearance — keep them as config variables.**
+**Names (B_RealEstate, BluePrint) are resolved but pending trademark clearance — keep them as config variables.**
