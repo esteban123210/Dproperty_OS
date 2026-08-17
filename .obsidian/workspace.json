@@ -312,7 +312,7 @@
             }
           },
           {
-            "id": "0cab61b4f641215e",
+            "id": "7a3f5d083bc9c1bb",
             "type": "leaf",
             "state": {
               "type": "claudian-view",
@@ -343,7 +343,7 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "e06847a82d76fa04",
+  "active": "7a3f5d083bc9c1bb",
   "lastOpenFiles": [
     "second_brain/07_Finance/Financial Model Summary.md",
     "OS_Platform",
