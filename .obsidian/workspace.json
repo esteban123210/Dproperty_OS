@@ -357,8 +357,9 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "512b8614c3466b37",
+  "active": "7a3f5d083bc9c1bb",
   "lastOpenFiles": [
+    "dproperty brain/00_Dashboard/_tmp_stats.py",
     "dproperty brain/00_Dashboard/Home.md",
     "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
     "second_brain/00_Index/Current Priorities.md.tmp.2252.0fc3634c3ffa",
@@ -393,7 +394,6 @@
     "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/00_Project Control/Executive Summary.md",
     "dproperty brain/02_Projects/Private Collection/Active/BIOMA/05_Payment & Financing/Payment Plan.md",
     "dproperty brain/02_Projects/Private Collection/Active/BIOMA/12_Documents & Media/Document Index.md",
-    "dproperty brain/02_Projects/Private Collection/Active/BIOMA/04_Inventory & Pricing/Availability & Prices.md",
-    "dproperty brain/02_Projects/Private Collection/Active/BIOMA/00_Project Control/Update Log.md"
+    "dproperty brain/02_Projects/Private Collection/Active/BIOMA/04_Inventory & Pricing/Availability & Prices.md"
   ]
 }
