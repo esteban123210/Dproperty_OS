@@ -4,6 +4,21 @@
   "title": "Compile project table with prices and delivery",
   "titleGenerationStatus": "success",
   "createdAt": 1786974397639,
-  "updatedAt": 1786974402747,
-  "sessionId": null
+  "updatedAt": 1786987913906,
+  "lastResponseAt": 1786987913906,
+  "sessionId": "23814dee-ca5d-46e6-acd4-82ff63be92b4",
+  "providerState": {
+    "providerSessionId": "23814dee-ca5d-46e6-acd4-82ff63be92b4"
+  },
+  "currentNote": "dproperty brain/00_Dashboard/Quick Capture.md",
+  "usage": {
+    "model": "sonnet",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 4967,
+    "cacheReadInputTokens": 130483,
+    "contextWindow": 1000000,
+    "contextTokens": 135452,
+    "percentage": 14,
+    "contextWindowIsAuthoritative": true
+  }
 }

@@ -18,6 +18,10 @@ updated: 2026-07-27
 | [[../Active/BIOMA/00_Project Control/Executive Summary|BIOMA]] | Costa del Este | TheVelopers | Unknown | 73 priced positions | $330,000-$620,400 | Stack dated 2026-05-28; live status unconfirmed |
 | [[../Active/Playa Escondida - Torre 200/00_Project Control/Executive Summary|Playa Escondida - Torre 200]] | Playa Escondida | Confirm developer | 104 visible positions | 88 priced / 16 reserved | $422,636-$1,174,380 | Stack dated 2026-07-24; live status unconfirmed |
 
+## Quick reference
+
+- [[Pricing & Delivery Quick List]] — every requested project (in and out of the vault), unit types, min/median/mean/max price and sqm, delivery date, contract-signing date.
+
 ## Examples and modeling standards
 
 - [[Examples/Manual Estandar - Excel de Flujo y Proyeccion Inmobiliaria]]
