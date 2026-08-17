@@ -27,7 +27,8 @@
       "Bash(python -)",
       "Bash(cd \"C:/Users/esteb/Desktop/Dproperty_OS/Dproperty_OS/second_brain\" && sed -i 's/\\\\[OS_NAME\\\\] platform · white-label CRM/Plano platform · white-label CRM/' \"01_Strategy/Brand Architecture.md\" && sed -i 's/instrumented in \\\\[OS_NAME\\\\] from day one/instrumented in Plano from day one/' \"00_Index/Open Questions.md\" && grep -rn \"\\\\[PARENT\\\\]\\\\|\\\\[OS_NAME\\\\]\" 01_Strategy/ 00_Index/Open\\\\ Questions.md 17_Handoff_Files/ 2>/dev/null | head -5; echo \"clean \\(Decision Log entries intentionally left as historical record\\)\")",
       "Read(//tmp/**)",
-      "Bash(python3 _tmp_stats.py)"
+      "Bash(python3 _tmp_stats.py)",
+      "Bash(python _tmp_stats.py)"
     ]
   }
 }
