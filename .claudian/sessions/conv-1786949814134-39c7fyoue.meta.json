@@ -4,8 +4,8 @@
   "title": "Audit and align Second Brain folder structure",
   "titleGenerationStatus": "success",
   "createdAt": 1786949814134,
-  "updatedAt": 1786950464549,
-  "lastResponseAt": 1786950464549,
+  "updatedAt": 1786972311338,
+  "lastResponseAt": 1786972311338,
   "sessionId": "e119138a-cf1a-40c9-9987-9ead5d149b46",
   "providerState": {
     "providerSessionId": "e119138a-cf1a-40c9-9987-9ead5d149b46",
@@ -353,12 +353,12 @@
   "currentNote": "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
   "usage": {
     "model": "sonnet",
-    "inputTokens": 0,
-    "cacheCreationInputTokens": 0,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 222561,
     "cacheReadInputTokens": 0,
     "contextWindow": 1000000,
-    "contextTokens": 0,
-    "percentage": 0,
+    "contextTokens": 222563,
+    "percentage": 22,
     "contextWindowIsAuthoritative": true
   }
 }
