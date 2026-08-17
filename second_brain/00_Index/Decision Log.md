@@ -440,3 +440,20 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Reason:** The assistant is central to reducing back-office burden, but its authority must remain narrower than the requesting user's permissions and consequential decisions must stay attributable to humans.
 
 **Status:** Active. See Product Constitution §10.
+
+## 2026-08-17 — Vault-Wide Propagation Audit: White-Label Select Rate, Currency
+
+**Decision:** Ran a full consistency audit of `second_brain/` against the Decision Log and fixed every live file still carrying superseded figures instead of just noting the drift.
+
+**Findings and fixes:**
+1. **White-label Dproperty Select payout (2026-08-03 revision: 2.0% → 1.5%, external-partner-broker terms, blanket exclusion retired) had not propagated into ~20 live files**, including investor-facing content ([[../03_Pitch/Pitch Deck Outline|Pitch Deck Outline]], [[../17_Handoff_Files/Handoff - Pitch Deck (Deck 1)|Handoff - Pitch Deck]]), agent-facing content ([[../05_Franchise_Package/Sales/Sales Playbook|Sales Playbook]], [[../17_Handoff_Files/Handoff - Sales Playbook (M4)|Handoff - Sales Playbook]]), the tool-ready [[../17_Handoff_Files/Handoff - Financial Model|Handoff - Financial Model]], and the core Business Plan, Pricing Model, Unit Economics, Strategy, and Private Collection notes. All were still saying "no automatic white-label access, 2.0% if granted" — directly contradicting the retired-exclusion decision. Fixed to 1.5% / "access included, external-partner-broker terms" throughout, with matching dollar-math corrections ($4,500 partner / $10,500 HQ per $300k unit, replacing the stale $6,000 / $9,000).
+2. **[[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook|Franchisee Acquisition Playbook]] was still fully EUR-denominated** (€30k launch fee, €1k/month, objection scripts) against the 2026-07-14 USD-everywhere decision — converted to USD throughout (same numbers, since €30k/€1k already matched the USD figures used everywhere else).
+3. **[[../04_Product/Roles and Access Matrix|Roles and Access Matrix]]** still framed LMS vendor as an open LearnWorlds-vs-edX question — updated to reflect the 2026-08-16 Open edX resolution.
+4. [[Open Questions]] P0 conflict section and two other stale line items marked resolved to match.
+5. **Not fixed (flagged only, needs owner call, not a mechanical fix):** `03_Pitch/Pitch_Deck_Content.md` (v0.9, dated 2026-07-02, predates the 2026-07-04 pricing restructure entirely — substantially stale throughout, not just on Select; recommend regenerating from [[../03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] or archiving) and `09_Exports/*.md` (frozen early snapshots, superseded by canonical `02_Business_Plan/` and `03_Pitch/` notes — left as historical exports per existing vault convention). EUR salary figures for Esteban (Your Compensation Package, Founder Pitch, Pitch_Deck_Content) were **not** touched — that restatement is a pending owner decision (see Open Questions), not a copy error.
+
+**Reason:** A decision recorded in the Decision Log is not "done" until every downstream file agrees with it — otherwise different chats/readers get contradictory numbers depending which file they open. This is exactly the drift the AI Handoff Pack de-dup (2026-07-18) fixed at the index layer; this pass extends the same discipline to content files.
+
+**Impacted Areas:** Business Plan, Pricing Model, Unit Economics, Strategy, Pitch Deck, Sales Playbook, Compliance, Private Collection, Multi-Line Manual Strategy, Handoff Files (3), Franchisee Acquisition Playbook, Roles and Access Matrix, Open Questions.
+
+**Status:** Active. `16_Task_Management/Deliverables Tracker - Compact MD.md` is separately flagged as stale (last real content update 2026-07-21; does not yet list `18_Ecosystem/` (17 files), `17_Handoff_Files/` (14 files), or the BluePrint Product Map/Constitution/Golden Workflow) — a full tracker regeneration needs an Excel-tracker pass, not a text edit, and is queued as next-session work rather than done inline here.

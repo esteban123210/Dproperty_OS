@@ -87,7 +87,7 @@ Ask: buying for investment/lifestyle/family/residency/diversification/income? Bu
 **Objection handling:** never pressure. Acknowledge → clarify the real concern → reframe with data → propose a small next step. For price/financing, involve OC/SD early.
 
 ### 8. Dproperty Select — advisor rules
-HQ-controlled. You **may** present it and earn the fixed originator payout `[local: 2.5% branded / 2.0% white-label of sale price]`. You **may not** create/edit projections or materials without HQ approval, negotiate directly with the developer, or bypass HQ on registration.
+HQ-controlled. You **may** present it and earn the fixed originator payout `[local: 2.5% branded / 1.5% white-label of sale price]`. You **may not** create/edit projections or materials without HQ approval, negotiate directly with the developer, or bypass HQ on registration.
 
 ### 9. Weekly routine
 Mon: pipeline review (SD). Tue: outreach. Wed: broker/developer follow-up. Thu: meetings/presentations. Fri: CRM hygiene, follow-ups, report to SD.

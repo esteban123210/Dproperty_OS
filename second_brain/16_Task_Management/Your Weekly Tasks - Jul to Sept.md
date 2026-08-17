@@ -32,7 +32,7 @@ tags: [tasks, execution, strategic, weekly]
 **Your Hours: 35 hrs**
 
 - [ ] **Business Model Finalization (10 hrs):**
-  - [ ] Confirm franchise model: launch fee ($30k/$40k), royalty (6%), Network & Brand Fund (1.5%), Dproperty Select (2.5%/2.0%)
+  - [x] Confirm franchise model: launch fee ($30k/$40k), royalty (6%), Network & Brand Fund (1.5%), Dproperty Select (2.5% branded / 1.5% white-label) — locked, see Decision Log 2026-07-04 & 2026-08-03
   - [ ] Define "successful franchise" metrics (how many deals/year? revenue target?)
   - [ ] Confirm franchisee profile: location, capital, experience, network requirements
   - [ ] Lock territory strategy: exclusive? geographic? how protected?
@@ -218,7 +218,7 @@ tags: [tasks, execution, strategic, weekly]
 
 - [ ] **Financial Model Final Validation (8 hrs):**
   - [ ] Confirm 5% vs. other commission % (get confirmation from Fernando/Ernesto if needed)
-  - [ ] Finalize Select (formerly Private Collection) payout: 2.5% (branded) / 2.0% (white-label)?
+  - [x] Finalize Select (formerly Private Collection) payout: 2.5% (branded) / 1.5% (white-label, external-partner-broker terms) — locked 2026-08-03
   - [ ] Confirm OPEX assumptions (salaries, software, legal, marketing, etc.)
   - [ ] Lock Financial Model v1.0 (this is now the source of truth for all pitch materials)
   - [ ] Confirm break-even point (when does HQ break even? when does franchisee?)

@@ -69,7 +69,7 @@ Dproperty operates across borders in a **regulated** industry (real estate, mone
 - Retain executed documents per retention policy; store in approved systems only.
 
 ### 3.9 Dproperty Select controls
-- HQ-controlled inventory. Franchisee may present under rules and earn the fixed originator payout `[local: 2.5% branded / 2.0% white-label]`.
+- HQ-controlled inventory. Franchisee may present under rules and earn the fixed originator payout `[local: 2.5% branded / 1.5% white-label]`.
 - **No** direct developer negotiation, **no** unapproved projections, **no** edited materials, **no** bypassing HQ registration. See [[Private Collection Guide]].
 
 ### 3.10 Commission & financial integrity

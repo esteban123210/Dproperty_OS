@@ -46,7 +46,7 @@ Brand material development; shared network campaigns; regional content; commerci
 - Enterprise: $50,000+ setup + $5,000+/month.
 - Monthly OS fee positioned **higher than branded**, because white-label builds no Dproperty brand value.
 - Plus GoHighLevel sub-account resale margin per client.
-- **No automatic Dproperty Select access.** If a white-label partner participates in Dproperty Select: **2.0% of sale price.**
+- **Dproperty Select access included**, on external-partner-broker terms (revised 2026-08-03; the earlier blanket exclusion is retired): **1.5% of sale price.**
 
 ## Developer Sales OS
 
@@ -59,7 +59,7 @@ Brand material development; shared network campaigns; regional content; commerci
 
 - **Projection assumption: always model at 5% total commission.** If HQ negotiates 6%–8% on a select project, that upside is retained by HQ, not shared — so the model is never inflated by optimistic commission assumptions.
 - Payout to **branded franchise: 2.5% of sale price.**
-- Payout to **white-label partner: 2.0% of sale price.**
+- Payout to **white-label partner: 1.5% of sale price** (external-partner-broker terms, revised 2026-08-03 from 2.0%).
 - HQ retains control of developer relationships, materials, pricing, projections and negotiation.
 
 ## GoHighLevel

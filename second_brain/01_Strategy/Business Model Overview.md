@@ -44,7 +44,7 @@ Target customer:
 
 - Existing boutique agency.
 - Wants better systems but wants to keep its own brand.
-- Does not automatically access Dproperty Select; if participating, earns 2.0% of sale price.
+- Accesses Dproperty Select on external-partner-broker terms; earns 1.5% of sale price (revised 2026-08-03 from 2.0%; branded earns 2.5%).
 
 ## 3. Developer Sales OS
 

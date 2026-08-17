@@ -23,7 +23,7 @@ tags: [acquisition, franchise, sales, tactical]
 
 A qualified franchisee candidate has:
 
-✅ **Capital:** €30-50k available to invest (willingness to commit)  
+✅ **Capital:** $30-50k available to invest (willingness to commit)  
 ✅ **Motivation:** Clear reason for wanting to start/scale real estate (ambition, income, autonomy)  
 ✅ **Credibility:** Either sales background, business experience, or real estate knowledge (lowers onboarding risk)  
 ✅ **Coachability:** Willing to follow Dproperty system, ask for help, iterate  
@@ -36,7 +36,7 @@ Use this simple scoring model to prioritize follow-up:
 | Criteria | Score |
 |----------|-------|
 | **Persona fit** (Agent seeking independence = 3, Career-changer = 2, Youth = 1) | 1-3 |
-| **Capital readiness** (Has €50k+ = 3, Has €30-40k = 2, Needs financing = 1) | 1-3 |
+| **Capital readiness** (Has $50k+ = 3, Has $30-40k = 2, Needs financing = 1) | 1-3 |
 | **Market advantage** (Local network in target market = 3, Can build network = 2, New to market = 1) | 1-3 |
 | **Timeline** (Ready to sign within 6 weeks = 3, 8-12 weeks = 2, TBD = 1) | 1-3 |
 | **Real estate background** (Licensed/selling = 3, Business ops = 2, Learning fresh = 1) | 1-3 |
@@ -92,7 +92,7 @@ Use this simple scoring model to prioritize follow-up:
 
 **4. Dproperty Pitch (5 min)**
 - "Here's what Dproperty solves: We've spent 10+ years building a real estate system, and we're packaging it as a franchise. It includes software (CRM), manuals (sales, compliance, ops), training, brand, and ongoing HQ support."
-- "Investment is €30k launch + €1k/month. You keep 55% of commissions. Time to first deal: weeks, not months."
+- "Investment is $30k launch + $1k/month. You keep 55% of commissions. Time to first deal: weeks, not months."
 - "You get access to Dproperty Select — curated premium deals HQ brings to you."
 - "And you're not alone — you're part of a network of other franchisees, plus HQ support."
 - *Pause for reaction.*
@@ -113,7 +113,7 @@ Use this simple scoring model to prioritize follow-up:
 
 ## Part 3: Objection Handling Scripts
 
-### "€30k is a lot of money"
+### "$30k is a lot of money"
 
 **Response (build the case):**
 "I hear you. Let's do the math. If you started alone:
@@ -123,9 +123,9 @@ Use this simple scoring model to prioritize follow-up:
 - Still no deal access, no brand, no methodology.
 - Plus: 12-18 months to first deal.
 
-With Dproperty, you earn that €30k back in 7-8 deals. And your first deal often comes in Weeks 3-4 because you're not learning from scratch. You're leveraging a proven system."
+With Dproperty, you earn that $30k back in 7-8 deals. And your first deal often comes in Weeks 3-4 because you're not learning from scratch. You're leveraging a proven system."
 
-**Follow-up:** "And the €1k/month fee is covered by your first 2-3 deals. After that, it's just the cost of the system — like a subscription software, but you own your business."
+**Follow-up:** "And the $1k/month fee is covered by your first 2-3 deals. After that, it's just the cost of the system — like a subscription software, but you own your business."
 
 ---
 

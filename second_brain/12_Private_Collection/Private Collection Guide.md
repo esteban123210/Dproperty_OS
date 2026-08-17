@@ -37,14 +37,14 @@ It protects:
 
 ## Access
 
-Branded franchises access Dproperty Select through the approved workflow. White-label partners do **not** get automatic access; if they participate, they earn a lower payout (see below).
+Branded franchises access Dproperty Select through the approved workflow. White-label partners also get access, on external-partner-broker terms, at a lower payout (see below; the earlier blanket exclusion is retired, 2026-08-03).
 
 ## Commission (revised 2026-07-04 — replaces 50/50)
 
 The originator earns a fixed % of sale price:
 
 - **Branded franchise: 2.5% of sale price.**
-- **White-label partner: 2.0% of sale price.**
+- **White-label partner: 1.5% of sale price** (external-partner-broker terms, revised 2026-08-03 from 2.0%).
 - Projections always modelled at 5% total commission; upside above 5% retained by HQ.
 
 ## What Originators Cannot Do

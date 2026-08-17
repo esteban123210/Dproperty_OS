@@ -22,7 +22,7 @@ tags: [private-collection]
 7. Franchise presents or co-presents with HQ.
 8. HQ manages sensitive developer/project questions.
 9. Reservation/contract process follows HQ rules.
-10. Fixed-% payout is recorded (2.5% of sale price branded / 2.0% white-label).
+10. Fixed-% payout is recorded (2.5% of sale price branded / 1.5% white-label, external-partner-broker terms).
 
 ## Required Controls
 

@@ -54,7 +54,7 @@ This file tracks unresolved issues.
 
 - Which existing projects qualify for Dproperty Select? (Candidates from Simon: Dovle Selva, Dovle Cincuentenario, potentially Nayamara, Cavarrosa, the Victory's — confirm which are committed.)
 - Who approves client registration?
-- What exact steps trigger the fixed-% payout (2.5% branded / 2.0% white-label of sale price)?
+- What exact steps trigger the fixed-% payout (2.5% branded / 1.5% white-label of sale price)?
 - **Does the franchisee pay any royalty/Network fee on Dproperty Select earnings? (Default assumption: no.)**
 - What happens if a franchisee introduces a client and HQ closes months later?
 - How are disputes over client ownership handled?
@@ -159,12 +159,11 @@ Opened by the house-of-brands restructure. See [[../01_Strategy/Brand Architectu
 - Does the parent brand get its **own visual identity**, or does it inherit the Dproperty system (current interim assumption: inherit)?
 - Controlled rename pass started 2026-08-16 in canonical ecosystem, product, index and handoff documents; historical file paths remain where renaming would break links.
 
-## White-Label × Dproperty Select (2026-08-03) — P0 CONFLICT
+## White-Label × Dproperty Select (2026-08-03) — RESOLVED, see below
 
-- **Do white-label partners get Dproperty Select access?** 🔴 **Direct conflict in the vault.** [[../13_White_Label/White-Label OS Guide|White-Label OS Guide]] says Select is explicitly **not** included; [[Project Context Brief]] says white-label does **not** automatically get access — but the new Pillar 4 makes Select-driven profit uplift the headline proof point for **all** partners, and a 2.0% white-label payout is already defined. These cannot all be true.
-  - Likely resolution: white-label **does** get Select at the 2.0% payout as standard; the old exclusion is retired. **Confirm with owners.**
-  - Knock-on: if white-label gets Select, what remains genuinely exclusive to the branded franchise? (Currently: brand, investment priority, direct developer relationships, 2.5% vs 2.0%.) Is that enough to justify $30k vs $10k?
-- Does a white-label partner pay royalty / Network & Brand Fund on Select earnings? (Existing default for branded: no.)
+- ~~**Do white-label partners get Dproperty Select access?**~~ ✅ **Resolved 2026-08-03 — see "RESOLVED 2026-08-03" section below.** White-label does get access, on external-partner-broker terms (1.5%); the old blanket exclusion is retired. [[../13_White_Label/White-Label OS Guide|White-Label OS Guide]] and all other live files were propagated to 1.5% on 2026-08-17 (were still showing the superseded 2.0% figure).
+  - What remains exclusive to branded: brand, investment priority, direct developer relationships, and the full extra point of Select upside (2.5% vs 1.5%).
+- Does a white-label partner pay royalty / Network & Brand Fund on Select earnings? (Existing default for branded: no.) — still open, see follow-ups below.
 
 ## Proof & Substantiation (2026-08-03) — P0
 
@@ -175,7 +174,7 @@ Opened by the house-of-brands restructure. See [[../01_Strategy/Brand Architectu
 
 - **How much of the franchise economics do we publish?** Exact figures ($30k / $1,000 mo / 7.5%) vs. *"desde $30,000"* vs. fully gated behind the info pack. Trade-off: qualification versus negotiating room and locking in a number publicly. Interim default: **"desde $30,000," detail gated.**
 - Same question for white-label plans and the developer pricing model.
-- **Currency inconsistency:** [[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook|Franchisee Acquisition Playbook]] quotes **€30k**; everything else is **USD $30k**. Fix before anything public.
+- ~~**Currency inconsistency:** [[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook|Franchisee Acquisition Playbook]] quotes €30k; everything else is USD $30k.~~ ✅ **Fixed 2026-08-17** — playbook converted to USD throughout.
 
 ## RESOLVED 2026-08-03
 

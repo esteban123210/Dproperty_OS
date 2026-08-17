@@ -112,7 +112,7 @@ Most workflow remains deterministic. Copilot usage runs through cost-aware appro
 - Final default agent bundle per plan tier
 - Credit cap sizing to protect margin
 - Whether Sales Manager is required above N advisors
-- LMS choice (LearnWorlds vs edX) affects Academy role provisioning
+- ~~LMS choice (LearnWorlds vs edX)~~ Resolved 2026-08-16: Open edX. Hosting, SSO and role-provisioning implementation still affects Academy role setup.
 
 ## Related
 - [[Platform Information Architecture]] · [[Platform Scenario Playbook]] · [[AI Layer Notes]] · [[Prototype Spec]] · [[Pricing Model]] · [[Unit Economics]]

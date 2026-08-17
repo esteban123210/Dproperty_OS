@@ -24,7 +24,7 @@ tags: [business-plan]
 > **Pricing revision (2026-07-04b):** Franchise launch fee raised to a staged **$30k/$40k**;
 > "brand/network fee" renamed **Network & Brand Fund**; **Private Collection renamed
 > Dproperty Select** and moved from a 50/50 gross split to a **fixed % of sale price**
-> (2.5% branded / 2.0% white-label).
+> (2.5% branded / 1.5% white-label, external-partner-broker terms — revised 2026-08-03 from 2.0%).
 >
 > **Commission waterfall (2026-07-05):** Local sales now modelled as 5% charged → 50/50
 > external-advisor co-broke → **2.5% into the company** (35% seller / 10% director / 55%
@@ -123,7 +123,7 @@ Pricing:
 - Enterprise: $50,000+ setup + $5,000+/month.
 - Monthly OS fee positioned **higher than branded**, because white-label builds no Dproperty brand value.
 - Plus GoHighLevel sub-account resale margin per client.
-- **No automatic Dproperty Select access.** If participating: **2.0% of sale price** (vs 2.5% for branded — see §5.4).
+- **Dproperty Select access included**, on external-partner-broker terms (revised 2026-08-03; the earlier blanket exclusion is retired): **1.5% of sale price** (vs 2.5% for branded — see §5.4).
 
 ### 5.3 Developer Sales OS
 Developers use Dproperty to train, structure, manage, and monitor project sales.
@@ -136,7 +136,7 @@ Pricing:
 Per-project revenue varies widely with project size and sales mix (see the illustrative $15M example in Section 12). For **aggregate five-year projections the model uses a conservative blended assumption of ~$40k of Dproperty revenue per project [MODEL v0.5 / VALIDATE]**, not the high-end single-project illustration.
 
 ### 5.4 Strategic difference: branded vs white-label
-Branded and white-label are **not the same product with a different logo**. Dproperty branded franchises carry **investment priority**: they are oriented to investors, select-project access, Dproperty Select participation, cross-border investment, high-capacity clients, and feeding the HQ opportunity funnel. White-label focuses on local boutique operation, transactional efficiency, and internal process improvement (CRM, OS, templates, reports, training) with lower access to the select portfolio and lower Dproperty Select upside (2.0% vs 2.5%).
+Branded and white-label are **not the same product with a different logo**. Dproperty branded franchises carry **investment priority**: they are oriented to investors, select-project access, Dproperty Select participation, cross-border investment, high-capacity clients, and feeding the HQ opportunity funnel. White-label focuses on local boutique operation, transactional efficiency, and internal process improvement (CRM, OS, templates, reports, training), and receives Dproperty Select access on external-partner-broker terms with a lower payout than branded (1.5% vs 2.5%, revised 2026-08-03).
 
 **Governing rule: the Dproperty brand goes where there is investment potential; the system can go anywhere.** This also guides which markets should be branded vs white-label.
 
@@ -145,7 +145,7 @@ Dproperty Select is a controlled HQ-managed portfolio of premium, investor-ready
 
 **Economics (revised 2026-07-04 — replaces the 50/50 split):** HQ pays the originator a **fixed percentage of sale price**, not a share of commission:
 - Branded franchise originator: **2.5% of sale price.**
-- White-label partner originator: **2.0% of sale price.**
+- White-label partner originator: **1.5% of sale price** (external-partner-broker terms, revised 2026-08-03 from 2.0%).
 
 **Projection assumption:** always model Dproperty Select at **5% total commission**. If HQ negotiates 6%–8% on a select project, the originator payout stays fixed and **HQ captures the upside** — so projections are never inflated by optimistic commission assumptions. At exactly 5% the branded payout equals the old 50/50 ($7,500 on a $300k unit); above 5% the fixed-percentage structure is strictly better for HQ.
 
@@ -234,7 +234,7 @@ Create inter-franchise referrals, shared developer inventory, Dproperty Select e
 |---|---|---|---|
 | Branded franchise - local sale | $300k unit, 5% = $15k → 50/50 co-broke → **$7,500 into company** | 7.5% on the $7,500 into-company (not on franchise net) | HQ $562 / unit (franchise net $4,125) |
 | Dproperty Select - branded | $300k unit, model at 5% = $15k GCI | Franchisee 2.5% of sale price; HQ keeps remainder; upside >5% to HQ | HQ $7,500 / franchise $7,500 per unit |
-| Dproperty Select - white-label | $300k unit, model at 5% = $15k GCI | Partner 2.0% of sale price; HQ keeps remainder | HQ $9,000 / partner $6,000 per unit |
+| Dproperty Select - white-label | $300k unit, model at 5% = $15k GCI | Partner 1.5% of sale price; HQ keeps remainder | HQ $10,500 / partner $4,500 per unit |
 | White-label starter | $10k setup + $1.5k/month + GHL resale margin | Platform/implementation revenue + recurring + CRM margin | ~$28k launch-year / ~$18k recurring (+ GHL margin) |
 | Developer Sales OS (illustrative high case) | $15M project, 40 team sales + 10 Dproperty/network sales | 0.5% team + 2.5% network | $135k (single large project — illustrative only) |
 | Developer Sales OS (model blended) | Average project across portfolio | Conservative blended | **~$40k per project [MODEL v0.5]** |

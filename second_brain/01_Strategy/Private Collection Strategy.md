@@ -39,7 +39,7 @@ HQ controls:
 
 ## Access & Economics (revised 2026-07-04)
 
-Branded franchises access Dproperty Select under rules and earn a fixed **2.5% of sale price**. White-label partners have no automatic access; if they participate they earn **2.0% of sale price**. HQ retains the balance and keeps any negotiated upside above the 5% modelled commission.
+Branded franchises access Dproperty Select under rules and earn a fixed **2.5% of sale price**. White-label partners also access Dproperty Select, on external-partner-broker terms, earning **1.5% of sale price** (revised 2026-08-03 from 2.0%; the earlier blanket exclusion is retired). HQ retains the balance and keeps any negotiated upside above the 5% modelled commission.
 
 The old 50/50 gross split is retired: a fixed % of sale price is predictable for the originator and protects HQ's negotiation upside on premium projects.
 

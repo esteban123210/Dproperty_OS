@@ -13,6 +13,17 @@ tags: [priorities, next-actions, execution]
 
 > **Canonical note (2026-08-16):** This file is the single source of truth. The AI Handoff Pack copy is a pointer.
 
+## Session Update (2026-08-17) — Vault Consistency Audit
+
+Ran a full propagation audit across `second_brain/` before starting BluePrint product work (see [[Decision Log]] 2026-08-17). Headline: the **2026-08-03 white-label Dproperty Select revision (2.0% → 1.5%, access no longer excluded) had not propagated into ~20 live files**, including the pitch deck, sales playbook, and three tool-ready handoff files — all fixed. Also fixed: EUR→USD in the Franchisee Acquisition Playbook, a stale LMS-vendor question in Roles and Access Matrix, and two resolved-but-still-open-looking items in Open Questions.
+
+**Known remaining staleness (not fixed, flagged for a deliberate pass):**
+- `16_Task_Management/Deliverables Tracker - Compact MD.md` — last real content update 2026-07-21; does not list the `18_Ecosystem/` folder (17 files), `17_Handoff_Files/` (14 files), or the BluePrint Product Map/Constitution/Golden Workflow. Needs an Excel-tracker regen, not a text patch.
+- `03_Pitch/Pitch_Deck_Content.md` (v0.9, 2026-07-02) — predates the pricing restructure entirely; recommend regenerating from [[../03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] or archiving rather than patching.
+- Esteban's EUR salary figures (Compensation Package, Founder Pitch) — untouched; USD restatement is an owner decision, not a copy fix (see Open Questions).
+
+**Next first action:** proceed to BluePrint product work — see the 2026-08-16 session update below, which is now the live work queue.
+
 ## Session Update (2026-08-16) — BluePrint Constitution + Golden Workflow
 
 Completed the product-definition gate:

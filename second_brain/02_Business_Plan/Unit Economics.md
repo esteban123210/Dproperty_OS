@@ -49,7 +49,7 @@ Into the company (2.5%) ............... $7,500   ← ROYALTY BASE
 Projection assumption: HQ signs the select project at 5% total commission = $15,000 on a $300k unit. The originator earns a **fixed % of sale price**:
 
 **Branded franchise:** 2.5% × $300,000 = **$7,500** to franchisee; HQ retains **$7,500**.
-**White-label partner:** 2.0% × $300,000 = **$6,000** to partner; HQ retains **$9,000**.
+**White-label partner:** 1.5% × $300,000 = **$4,500** to partner; HQ retains **$10,500** (external-partner-broker terms, revised 2026-08-03 from 2.0%).
 
 Dproperty Select does **not** run through the seller/director waterfall or the external-advisor split — it is HQ-controlled and priced separately. Upside above 5% is retained by HQ.
 

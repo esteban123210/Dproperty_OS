@@ -3,10 +3,10 @@ project: Dproperty OS
 title: "Dproperty Select Commission (formerly Private Collection Split)"
 type: private_collection_note
 status: In Review
-version: 0.6
+version: 0.7
 owner: Esteban
-last_updated: 2026-07-04
-source: Updated per 2026-07-04 pricing restructure
+last_updated: 2026-08-17
+source: Updated per 2026-08-03 white-label Select revision (propagation pass 2026-08-17)
 tags: [private-collection, dproperty-select]
 ---
 
@@ -21,7 +21,7 @@ tags: [private-collection, dproperty-select]
 The originator (whoever brings/sells the deal) earns a fixed % of the **sale price**, not a share of commission:
 
 - **Dproperty branded franchise: 2.5% of sale price.**
-- **White-label partner: 2.0% of sale price.**
+- **White-label partner: 1.5% of sale price** (external-partner-broker terms, revised 2026-08-03 from 2.0%; the earlier blanket exclusion on white-label access is retired).
 
 HQ retains the balance of the negotiated commission.
 
@@ -38,13 +38,13 @@ Always model Dproperty Select at **5% total commission**. If HQ negotiates 6%–
 ## Example (white-label, $300,000 unit, modelled at 5%)
 
 - Total commission (5%): $15,000.
-- Partner payout (2.0% of price): **$6,000**.
-- HQ retains: **$9,000**.
+- Partner payout (1.5% of price): **$4,500**.
+- HQ retains: **$10,500**.
 
 ## Notes
 
 - At exactly 5%, the branded payout equals the old 50/50 ($7,500). Above 5%, the fixed-% structure is strictly better for HQ.
-- **Open item:** whether the franchisee pays any royalty/Network fee on Dproperty Select earnings. Default assumption: **no** (2.5% / 2.0% is net to the originator).
+- **Open item:** whether the franchisee pays any royalty/Network fee on Dproperty Select earnings. Default assumption: **no** (2.5% / 1.5% is net to the originator).
 
 ## Reason
 

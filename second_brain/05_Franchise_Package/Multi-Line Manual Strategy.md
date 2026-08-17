@@ -40,7 +40,7 @@ Each line **inherits** the shared core and only **overrides** what genuinely dif
 | Compliance (M5) | ✅ | ✅ | ✅ (developer-deal specifics) |
 | Brand Manual | ✅ Dproperty brand | ❌ **client's own brand** | ✅ Dproperty (as sales partner) |
 | Localization | ✅ | ✅ | ✅ |
-| **Dproperty Select access** | ✅ (2.5% payout) | ⚠️ **no automatic access** (2.0% if granted) | ❌ n/a |
+| **Dproperty Select access** | ✅ (2.5% payout) | ✅ external-partner-broker terms (1.5% payout) | ❌ n/a |
 | Pricing model | Launch fee + 7.5% royalty + OS fee | Setup + monthly subscription | % of **gross sales value** |
 | Who operates | Franchisee + their team | Client agency's own team | **Developer's** sales team (Dproperty trains/manages) |
 | Onboarding/Launch | M1 + M3 | White-label onboarding | Developer engagement plan |
@@ -53,7 +53,7 @@ M1 Onboarding · M2 Operations · M3 Launch · M4 Sales · M5 Compliance (+ M0 H
 ### 3.2 White-Label OS overlay `[to build]`
 Governing rule: **the brand goes where there's investment potential; the system can go anywhere.** Overlay must specify:
 - **Brand neutrality:** client keeps their brand; Dproperty brand assets are *not* applied. Manuals delivered are un-branded/white-labeled.
-- **No automatic Dproperty Select**; lower payout (2.0%) if access is granted.
+- **Dproperty Select access on external-partner-broker terms**; payout 1.5% (revised 2026-08-03 from 2.0%; the earlier blanket exclusion is retired).
 - **Pricing:** setup + monthly subscription (see [[White-Label Pricing]]), not a royalty-on-GCI model.
 - **Contract differences:** licence to the *system*, not the brand; non-copy/non-compete considerations.
 - Inherits: Process Library, Compliance, Localization. Sources: [[White-Label OS Guide]], [[White-Label Onboarding]], [[White-Label Strategy]].

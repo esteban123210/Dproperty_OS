@@ -17,6 +17,11 @@ This file lists the baseline files in the B_RealEstate ecosystem and BluePrint O
 
 > **Canonical note (2026-08-16):** This file is the single source of truth. `00_Index/AI Handoff Pack/04_Vault Manifest.md` is a pointer only.
 
+## New / Notable (2026-08-17) — Vault Consistency Audit
+- Full propagation audit of `second_brain/` against the Decision Log. Fixed: white-label Dproperty Select payout (2.0%→1.5%, access exclusion retired per 2026-08-03) across ~20 files including Pitch Deck Outline, Sales Playbook, and 3 Handoff Files; EUR→USD in Franchisee Acquisition Playbook; stale LMS question in Roles and Access Matrix; two resolved-but-stale Open Questions items.
+- **Flagged, not fixed:** `16_Task_Management/Deliverables Tracker - Compact MD.md` is stale since 2026-07-21 (missing 18_Ecosystem, 17_Handoff_Files, BluePrint product docs) — needs Excel-tracker regen. `03_Pitch/Pitch_Deck_Content.md` (v0.9, 2026-07-02) predates the pricing restructure — recommend regenerate-or-archive.
+- See [[Decision Log]] 2026-08-17 and [[AI Handoff Pack/07_Latest Session Closeout|Latest Session Closeout]] for full detail.
+
 ## New / Notable (2026-07-21) — Manuals System + Process Library
 - [[05_Franchise_Package/Manuals System Index|Manuals System Index]] — **NEW**, 6-manual / 3-audience architecture, one master source.
 - [[05_Franchise_Package/Operations/Process Library/00 - Process Library Index|Process Library Index + Role Map]] — **NEW**, project-wide role taxonomy.

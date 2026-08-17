@@ -104,7 +104,7 @@ Qualification determines the process (§2) and the priority (Hot/Warm/Cold per [
 
 ## 8. Dproperty Select — advisor rules
 
-Dproperty Select (internally "Private Collection") is **HQ-controlled**. As an SA you **may present it** under rules and earn the fixed originator payout `[local: 2.5% branded / 2.0% white-label of sale price]`. You **may not**:
+Dproperty Select (internally "Private Collection") is **HQ-controlled**. As an SA you **may present it** under rules and earn the fixed originator payout `[local: 2.5% branded / 1.5% white-label of sale price]`. You **may not**:
 
 - create or edit projections or materials without HQ approval;
 - negotiate directly with the developer;

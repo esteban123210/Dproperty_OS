@@ -157,9 +157,9 @@ tags: [pitch, ecosystem, franchise]
 ## Slide 13 — Dproperty Select: HQ-Controlled Upside
 **On slide:**
 - HQ-controlled, curated, investor-grade inventory.
-- **50/50 gross commission** basis; franchisee earns a **fixed % of sale price** (2.5% branded / 2.0% white-label); upside above 5% stays with HQ.
+- Franchisee earns a **fixed % of sale price** (2.5% branded / 1.5% white-label, external-partner-broker terms); upside above 5% stays with HQ.
 - No unapproved projections. No direct developer negotiation. No edited materials.
-- **White-label gets no automatic access.**
+- **White-label gets access too, at the external-partner-broker rate (1.5%) — not the branded rate.**
 
 **Purpose:** "Do we lose control of our crown jewels?" No.
 
@@ -176,7 +176,7 @@ Into the company (2.5%) ............... $7,500   ← royalty base
 → **HQ take: ~$562/unit** (6% royalty + 1.5% Network & Brand Fund on the $7,500).
 
 **② Commission on Dproperty Select** (HQ-curated inventory, per $300k unit):
-- Franchisee paid a fixed **2.5% of sale price = $7,500**; **HQ retains ~$7,500** (white-label: partner 2.0% = $6,000, HQ ~$9,000). Upside above 5% → HQ.
+- Franchisee paid a fixed **2.5% of sale price = $7,500**; **HQ retains ~$7,500** (white-label: partner 1.5% = $4,500, HQ ~$10,500). Upside above 5% → HQ.
 - This is the **margin engine** — HQ keeps ~50% of a premium deal.
 
 **③ Franchise fees** (the recurring + one-time platform layer):

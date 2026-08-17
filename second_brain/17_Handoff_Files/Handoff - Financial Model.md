@@ -38,7 +38,7 @@ tags: [handoff, production, finance, model]
 | OS/platform fee | $1,000/month |
 | Min royalty floor | $500/month, creditable, from month 7 |
 | Launch fee | $30,000 → $40,000 after 5 successful franchises |
-| Dproperty Select payout | 2.5% branded / 2.0% white-label of sale price; HQ retains balance; model at 5% total |
+| Dproperty Select payout | 2.5% branded / 1.5% white-label of sale price (external-partner-broker terms, revised 2026-08-03 from 2.0%); HQ retains balance; model at 5% total |
 | White-label | Starter setup ~$10k + ~$1,500/mo; Growth setup ~$20k + ~$2,500/mo |
 | Developer Sales OS | 0.5% dev-team sales / 2.5–3% Dproperty-sourced; $3–5k/mo desk min |
 | 5-yr targets | 5 branded · 20 white-label · 15 developer |
@@ -46,11 +46,11 @@ tags: [handoff, production, finance, model]
 | HQ support cost per franchise, OPEX/staffing | **OPEN — needs owner validation (BLOCKS accuracy)** |
 
 ## 3. Tool Instructions (the prompt)
-> "Build a **formula-driven 5-year financial model** in the tab structure of *Section 1*, driven entirely by the Assumptions tab (*Section 2*). Implement: (a) the **local commission waterfall** (5% → 50/50 co-broke → 2.5% into company → 35/10/55; royalty 7.5% on the into-company 2.5%); (b) **Dproperty Select** economics (franchisee 2.5%/2.0%, HQ retains balance); (c) the **franchise-fees bundle** (launch + OS + royalty/fund + floor + CRM margin); (d) white-label and developer lines; (e) a consolidated **5-Year P&L** with revenue by line and EBITDA. No hardcoded outputs — every result is a formula referencing assumptions. Add charts for revenue-by-line and EBITDA. Flag OPEX/staffing rows as 'owner-validation required'."
+> "Build a **formula-driven 5-year financial model** in the tab structure of *Section 1*, driven entirely by the Assumptions tab (*Section 2*). Implement: (a) the **local commission waterfall** (5% → 50/50 co-broke → 2.5% into company → 35/10/55; royalty 7.5% on the into-company 2.5%); (b) **Dproperty Select** economics (franchisee 2.5% branded / 1.5% white-label, HQ retains balance); (c) the **franchise-fees bundle** (launch + OS + royalty/fund + floor + CRM margin); (d) white-label and developer lines; (e) a consolidated **5-Year P&L** with revenue by line and EBITDA. No hardcoded outputs — every result is a formula referencing assumptions. Add charts for revenue-by-line and EBITDA. Flag OPEX/staffing rows as 'owner-validation required'."
 
 ## 4. Reference Outputs (from v0.7 — must reconcile)
 - **Per $300k local unit:** GCI into company $7,500; **HQ royalty ~$562**; franchise net 55% ($4,125).
-- **Dproperty Select per $300k:** franchisee $7,500; **HQ retains ~$7,500** (white-label HQ ~$9,000).
+- **Dproperty Select per $300k:** franchisee $7,500; **HQ retains ~$7,500** (white-label: partner $4,500, HQ ~$10,500).
 - **Revenue:** Y1 ~$87k → Y3 ~$660k → **Y5 ~$1.59M.**
 - **EBITDA:** negative Y1–2 → +$15k Y3 → **+$630k Y5.**
 - **Y5 revenue mix:** Select (HQ-retained) ~$360k · franchise-fees bundle ~$197k · white-label ~$438k · developer ~$600k.

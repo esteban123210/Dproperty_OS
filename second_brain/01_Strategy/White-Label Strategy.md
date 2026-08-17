@@ -63,4 +63,4 @@ Monthly OS fee is positioned **higher than branded**, because white-label builds
 
 ## Strategic Restriction
 
-White-label clients do **not** automatically receive access to Dproperty Select (formerly Private Collection). That access remains a differentiator for branded franchises. If a white-label partner participates in a Dproperty Select deal, the payout is **2.0% of sale price** (vs 2.5% for branded) — a deliberate strategic gap. Branded gets the brand and the investment upside; white-label gets the system.
+White-label clients **do** receive access to Dproperty Select (formerly Private Collection), on external-partner-broker terms — the earlier blanket exclusion is retired (2026-08-03). The payout is **1.5% of sale price** (vs 2.5% for branded, revised from 2.0%) — branded keeps a full point of extra upside plus investment priority; white-label gets the system and Select access at the external-partner rate.
