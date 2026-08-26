@@ -13,6 +13,8 @@ tags: [product, figma]
 
 > **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
 
+> **⚠ Prototype precedence (2026-08-26 — supersedes the note below):** The binding build specification is now [[BluePrint Wireframe - Back Office OS (Developer Handoff)]] for **Release 1 (Back Office Brain)** and [[BluePrint Golden Workflow - Wireframe and Validation]] for **Release 2 (Transaction Spine)**. This file is **historical**. Several screens here — embedded CRM, embedded Academy, Field Mode, and any sales-advisor-facing view — are **out of scope**: BluePrint is back-office-only and never re-renders what GoHighLevel or B_Academy owns ([[BluePrint Product Constitution]] §2, §3.11). Do not build from this file.
+
 > **Prototype precedence (2026-08-16):** Use [[BluePrint Golden Workflow - Wireframe and Validation]] for the canonical MVP routes, screens, three-mode scenarios and acceptance criteria. Reconcile older screens here before building.
 
 > **Note (2026-07-18):** This spec defines the OS screens. The broader platform architecture — public marketing site, "Become a Franchise" recruitment hub, the always-on Command Bar and Glitch Report, back-office systems (Finance, HR, Cases, Tenant Lifecycle, Audit, Glitch), and the embedded CRM/Academy — now lives in [[Platform Information Architecture]]. Roles are detailed in [[Roles and Access Matrix]]; workflows validated in [[Platform Scenario Playbook]]. Read those first when wireframing.

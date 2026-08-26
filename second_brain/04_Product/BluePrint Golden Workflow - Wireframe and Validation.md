@@ -2,18 +2,30 @@
 project: B_RealEstate
 title: "BluePrint Golden Workflow - Wireframe and Validation"
 type: product_wireframe_and_validation
-status: "Canonical architecture test v1.0"
+status: "Canonical architecture test v1.0 — RELEASE 2 SCOPE"
 version: 1.0
 owner: Esteban
 created: 2026-08-16
-last_updated: 2026-08-16
+last_updated: 2026-08-26
 source: "BluePrint Product Constitution + three-mode scenario desk-test, 2026-08-16"
-tags: [blueprint, wireframe, workflow, mvp, copilot, crm, validation, transactions]
+tags: [blueprint, wireframe, workflow, copilot, crm, validation, transactions, release-2]
 ---
 
 # BluePrint Golden Workflow — Wireframe and Validation
 
-> **Scope:** This document designs and desk-tests the canonical BluePrint MVP journey. It validates the information architecture and workflow rules; it is not evidence that production software has been implemented or technically tested.
+> ## ⚠ This is the RELEASE 2 specification — re-sequenced 2026-08-26
+>
+> [[BluePrint Product Constitution]] v2.0 §9 re-sequenced delivery. The transaction/compliance/document/commission spine specified in this document is **Release 2**, not the first release.
+>
+> **Release 1 is the Back Office Brain** — glitch report and service recovery, tasks, people and licence records, legal and asset tracking, template and manual library, resource directory, performance. Its build specification is [[BluePrint Wireframe - Back Office OS (Developer Handoff)]].
+>
+> **Nothing in this document is cancelled or superseded.** The workflow, invariants, state model, three-mode desk test, screens and acceptance criteria below remain binding for Release 2 and are unchanged. The Release 1 foundation is deliberately built at full strength — including the connector contract and field-ownership model of Constitution §6 — so that Release 2 is an extension rather than a retrofit.
+>
+> **Do not build the eight screens below as part of Release 1.**
+>
+> Reason for the change: the founder pain assessment of 2026-08-26 established that the office's actual daily pain is back-office administration rather than transaction control, and that the daily Glitch Review provides an adoption anchor the transaction spine cannot. See the Decision Log entry of 2026-08-26.
+
+> **Scope:** This document designs and desk-tests the canonical BluePrint transaction journey. It validates the information architecture and workflow rules; it is not evidence that production software has been implemented or technically tested.
 
 > **Controlling document:** [[BluePrint Product Constitution]]. If a screen or scenario conflicts with the Constitution, the Constitution wins until a formal change decision is recorded.
 
@@ -90,7 +102,7 @@ Tenant role mapping may use different job titles, but these responsibilities rem
 | Region | Contents | Behavior |
 |---|---|---|
 | Global header | Tenant/workspace switcher, universal search, notifications, help, user menu | Tenant switch changes the entire authorization context |
-| Primary navigation | Home, Transactions, Projects & Inventory, Documents, Tasks & Approvals, Finance, Reports, Knowledge, Integrations, Administration | Capabilities appear according to role and entitlement |
+| Primary navigation | **Release 2 extends the Release 1 shell rather than replacing it.** The Release 1 shell (Today · Glitches · Tasks · Performance · People · Legal · Library · Directory · Administration) gains **Transactions**, **Projects & Inventory**, **Documents** and **Finance**. Constitution §13 | Capabilities appear according to role and entitlement |
 | Page header | Record title, status, owner, risk/blocker indicator, next action, primary action | Always answers “what is this and what happens next?” |
 | Main canvas | Stage-specific information and work surface | Structured inputs before free-text attachments |
 | Context rail | Checklist, activity, related records and deadlines | Collapsible; preserves operational context |

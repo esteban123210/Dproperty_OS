@@ -4,7 +4,7 @@ title: "Handoff Index"
 type: handoff_index
 status: Active
 owner: Esteban
-last_updated: 2026-07-21
+last_updated: 2026-08-26
 tags: [handoff, production, source-of-truth]
 ---
 
@@ -38,8 +38,12 @@ tags: [handoff, production, source-of-truth]
 | Brand Manual | [[Handoff - Brand Manual]] | Brand book + kit | Design tool | 🟢 v0.5 |
 | Welcome Kit | [[Handoff - Welcome Kit]] | Print + physical spec | Design/print | 🟢 v0.5 |
 | Financial Model | [[Handoff - Financial Model]] | Spreadsheet | Excel/Sheets | 🟢 v0.7 |
+| **BluePrint app — Release 1 (Back Office OS)** | [[../04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff)]] | **Working web application** | Developers / AI code generator | 🟢 v1.0 |
+| **BluePrint app — DESIGN PROMPT** | [[CLAUDE DESIGN - BluePrint App Design Prompt]] | **Functional clickable app prototype** | Claude Design | 🟢 v1.0 |
 
 *(Add a row whenever a new deliverable begins. HQ manual M0 and white-label/developer overlays get handoffs once drafted.)*
+
+> **Exception — BluePrint app handoff lives in `04_Product/`, not here.** It is self-contained and tool-ready in the required sense (design tokens, screens, primitives, permissions, build order and acceptance criteria in one file), but it is also the *canonical product specification* under [[../04_Product/BluePrint Product Map]]. Copying it into `17_Handoff_Files/` would create exactly the source-vs-handoff drift the standing rule exists to prevent, on the vault's most load-bearing spec. It is therefore registered here and maintained in place. Decision 2026-08-26.
 
 ## Coverage note
 All current major deliverables now have a handoff (11 files). **Not yet built** (deliverable itself not ready): M0 HQ manual, white-label overlay, developer overlay, and the Phase-2 ecosystem financial model — each gets a handoff once its source exists.

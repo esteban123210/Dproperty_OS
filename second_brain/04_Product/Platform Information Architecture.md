@@ -18,6 +18,26 @@ tags: [product, architecture, platform, wireframe, information-architecture]
 >
 > Companion notes: [[BluePrint Product Map]], [[Platform Scenario Playbook]] (72+ scenarios), and [[Roles and Access Matrix]] (hierarchy and permissions).
 
+> ## ⚠ Scope redirection — 2026-08-26 (read this before Layer 2 below)
+>
+> [[BluePrint Product Constitution]] v2.0 confirms BluePrint as the **back-office brain for administrative staff only** and sequences delivery into **Release 1 (Back Office Brain)** and **Release 2 (Transaction Spine)**.
+>
+> **What survives from this document and is now canonical:** Principle 1 (three clicks to anything, Command Bar), Principle 2 (deterministic core / governed Copilot, T0–T2 routing), the Glitch Report system, the People/HR and Cases systems, the Audit/Data Governance system, the file-storage rules, Layer 1 (public site) and the franchisee lifecycle. The 2026-07-18 architecture was correct; Constitution v1.0 had narrowed it away and v2.0 restores it.
+>
+> **What changed:**
+>
+> | 2026-07-18 position | 2026-08-26 position |
+> |---|---|
+> | ~25 OS modules including embedded CRM and embedded Academy | ~9 nav items. CRM and Academy are **launch links only** — never embedded, never rendered inside BluePrint (Constitution §2 non-duplication rendering rule) |
+> | Everyone in a franchise office logs into the OS | **Administrative staff only.** Sales advisors use GoHighLevel and receive no BluePrint seat (Constitution §3.11) |
+> | Cases and Glitch Report as two separate engines | One **Ticket** primitive, two configurations with deliberately opposite UI tone. Same for the six registries, which share one **Registry** primitive (Constitution §3.13) |
+> | Field Mode (mobile) for in-meeting advisors | Removed — that user is now a CRM user |
+> | Resource Library + Support/Help Desk as distinct systems | Absorbed into the Registry and Ticket primitives |
+>
+> **The Release 1 navigation is:** Today · Glitches · Tasks · Performance · People · Legal · Library · Directory · Administration, with Command Bar, Report a Glitch and Copilot on every screen. Release 2 adds Transactions, Documents and Finance to this shell rather than replacing it.
+>
+> **The binding Release 1 build specification — design system, screens, primitives, permissions, build order — is [[BluePrint Wireframe - Back Office OS (Developer Handoff)]].** Where that document and the Layer 2 inventory below disagree, the Wireframe wins.
+
 ---
 
 ## The two design principles (these drive every decision)
@@ -45,7 +65,7 @@ BluePrint includes the Copilot from MVP, but it does not turn deterministic work
 - Tenant/role/record permissions are enforced before retrieval and tool execution.
 - Company/process/metric answers cite sources, definitions and period.
 
-See [[BluePrint Product Constitution]] §10 and [[AI Layer Notes]].
+See [[BluePrint Product Constitution]] §11 and [[AI Layer Notes]].
 
 ---
 

@@ -11,6 +11,8 @@ tags: [product]
 
 # Prototype Control Note
 
+> **⚠ Superseded for build purposes (2026-08-26):** The prototype to build is the **Release 1 Back Office OS**, specified end-to-end in [[BluePrint Wireframe - Back Office OS (Developer Handoff)]] — screens, design tokens, primitives, permissions, build order and acceptance criteria. Use that file's §9 build order in place of any sequencing below.
+
 > **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
 
 ## Purpose

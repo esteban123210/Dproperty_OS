@@ -14,6 +14,25 @@ tags: [product, architecture, roles, permissions, hr, ai-agents, pricing]
 
 > **Precedence update (2026-08-16):** Role names remain abstract/configurable. Need-to-know access and AI-0–AI-4 authority are controlled by [[BluePrint Product Constitution]]; Golden Workflow actors and separation rules are in [[BluePrint Golden Workflow - Wireframe and Validation]].
 
+> ## ⚠ Access boundary update — 2026-08-26 (read before using the tables below)
+>
+> **BluePrint is licensed and designed for administrative staff only.** Sales advisors work in GoHighLevel and **do not receive BluePrint seats**. Their time belongs with clients, not behind an internal system. This is a product boundary, not a configuration preference ([[BluePrint Product Constitution]] §3.11), and it governs seat design and pricing.
+>
+> A sales advisor may exist in BluePrint **as a record** — appearing in People, in team KPIs and in licence tracking — without ever having a login.
+>
+> The Release 1 access tiers are:
+>
+> | Tier | Who | Scope |
+> |---|---|---|
+> | **T4 — HQ / Network Admin** | HQ operations, franchise oversight | All tenants; cross-office glitch, recovery and performance patterns; template governance; tenant provisioning |
+> | **T3 — Principal / C-Suite** | Office owner, director | Everything in own tenant, including confidential HR and full financial visibility |
+> | **T2 — Manager** | Operations, sales or office manager | Own tenant operations; team KPIs for their team; glitch review; tasks; registries. **Not** confidential HR cases about themselves or peers |
+> | **T1 — Coordinator / Secretary** | Admin coordinator, receptionist, assistant | Day-to-day: glitch logging, tasks, registries, library, directory, own personal KPIs. No team-wide financials, no HR case detail |
+>
+> The **Sales Advisor** row in the tables below therefore describes a **CRM** user and a BluePrint *record*, not a BluePrint login. The **Marketing Lead** row likewise describes a GoHighLevel user.
+>
+> Full permission matrix per surface: [[BluePrint Wireframe - Back Office OS (Developer Handoff)]] §8.
+
 
 > Defines the platform hierarchy, the minimum roles a franchise office must have, where the Copilot may support human roles, the confidentiality rules, and how AI usage is priced into the plan. Companion to [[Platform Information Architecture]] and [[Platform Scenario Playbook]].
 >
@@ -80,7 +99,7 @@ FRANCHISE OFFICE
 | Receipt/evidence extraction | **Copilot AI-1** | Extraction only; human validates and approves financial action |
 | Ticket/glitch assistance | **Rules + Copilot AI-1/3** | Rules route; Copilot summarizes/clusters or prepares confirmed changes; humans resolve |
 
-**The pattern:** deterministic services calculate, gate, file and route; the Copilot retrieves, explains, summarizes, drafts and prepares confirmed low-risk actions. Authorized humans approve, sign, pay, publish templates, waive controls and make regulated decisions. See [[BluePrint Product Constitution]] §10.
+**The pattern:** deterministic services calculate, gate, file and route; the Copilot retrieves, explains, summarizes, drafts and prepares confirmed low-risk actions. Authorized humans approve, sign, pay, publish templates, waive controls and make regulated decisions. See [[BluePrint Product Constitution]] §11.
 
 ---
 
@@ -104,7 +123,7 @@ Three models — recommended hybrid:
 
 **Recommendation:** Base plan includes **2–3 core agents** (positioned as "a virtual team member included — worth one salary, included in your license"), premium agents as add-ons, and a **credit cap** to protect margin.
 
-Most workflow remains deterministic. Copilot usage runs through cost-aware approved GPT routing, tenant allowances and priced overage, so assistance can increase product value without silently eroding margin. See [[BluePrint Product Constitution]] §10 and the financial model.
+Most workflow remains deterministic. Copilot usage runs through cost-aware approved GPT routing, tenant allowances and priced overage, so assistance can increase product value without silently eroding margin. See [[BluePrint Product Constitution]] §11 and the financial model.
 
 ---
 

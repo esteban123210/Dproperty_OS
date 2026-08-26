@@ -1,0 +1,24 @@
+{
+  "id": "conv-1787731549707-gkh3u4lw7",
+  "providerId": "claude",
+  "title": "Restructure Blueprint backoffice scope and feat...",
+  "titleGenerationStatus": "success",
+  "createdAt": 1787731549707,
+  "updatedAt": 1787733727307,
+  "lastResponseAt": 1787733727307,
+  "sessionId": "c7cc0c5e-500e-45d7-8fac-164022eb044e",
+  "providerState": {
+    "providerSessionId": "c7cc0c5e-500e-45d7-8fac-164022eb044e"
+  },
+  "currentNote": "second_brain/04_Product/BluePrint Product Constitution.md",
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 525,
+    "cacheReadInputTokens": 203852,
+    "contextWindow": 1000000,
+    "contextTokens": 204379,
+    "percentage": 20,
+    "contextWindowIsAuthoritative": true
+  }
+}

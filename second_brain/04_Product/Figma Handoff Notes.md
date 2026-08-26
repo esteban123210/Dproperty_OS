@@ -11,6 +11,12 @@ tags: [product]
 
 # Figma Handoff Notes
 
+> **⚠ Design system update (2026-08-26):** The BluePrint application's visual system is now **fixed and specified**, inherited from the live `bfranchising.com` stylesheet. Do not invent colors, type or components in Figma. Use [[BluePrint Wireframe - Back Office OS (Developer Handoff)]] §3 as the source: bone `#FAF8F3` · offwhite `#F7F4ED` · sand `#EFEAE0` · ink `#1A1A1A` · warm `#55514C` · champagne `#B89B5E` · destructive `#A13B2A`, plus the desaturated semantic status palette; Playfair Display (display) / Inter (UI) / JetBrains Mono (labels, data); radius 16px cards, 8px controls; flat surfaces, no drop shadows.
+>
+> Two constraints that are easy to get wrong: **champagne fails WCAG AA on light backgrounds (2.5:1)** and may never be used for small text; and the marketing site's generous spacing must be **compressed to application density** (44px table rows, 24–32px section padding) or the app becomes unusable for daily back-office work.
+>
+> Screens to prototype are the Release 1 set in the Wireframe, not the older screen list below.
+
 > **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
 
 ## Goal

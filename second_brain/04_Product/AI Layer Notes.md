@@ -11,9 +11,11 @@ tags: [product, blueprint, ai, copilot]
 
 # BluePrint Copilot — AI Layer Notes
 
-> **Control:** [[BluePrint Product Constitution]] §10 defines the Copilot promise, AI-0 to AI-4 permission levels, guardrails and economics. [[BluePrint Golden Workflow - Wireframe and Validation]] defines its stage-by-stage context and acceptance tests.
+> **Control:** [[BluePrint Product Constitution]] §11 defines the Copilot promise, AI-0 to AI-4 permission levels, guardrails and economics. (Renumbered from §10 in Constitution v2.0.)
 
-The Copilot is included from MVP, after the minimum authorized data, templates and knowledge sources needed for each tested capability exist. It is a hyperfocused BluePrint assistant—not a general chatbot.
+> **Release update (2026-08-26):** The Copilot ships in **Release 1**, where its knowledge base is the operating manuals, the registries (contracts, licences, people, templates, directory), the glitch history and the metric definitions — **not** transactions. Release 1 interaction design: [[BluePrint Wireframe - Back Office OS (Developer Handoff)]] Screen 11. The stage-by-stage transaction context and acceptance tests in [[BluePrint Golden Workflow - Wireframe and Validation]] apply from **Release 2**.
+
+The Copilot is included from Release 1, after the minimum authorized data, templates and knowledge sources needed for each tested capability exist. It is a hyperfocused BluePrint assistant—not a general chatbot.
 
 ## MVP capabilities
 

@@ -13,6 +13,8 @@ tags: [product]
 
 > **Precedence update (2026-08-16):** This is a supporting exploration. The binding core entities, ownership boundaries, required provenance fields and three intake modes are in [[BluePrint Product Constitution]] §§4–7. Reconcile this file against that model before implementation.
 
+> **Release 1 additions (2026-08-26):** Constitution v2.0 §7 adds the **Registry**, **Ticketing**, **Service recovery** and **People** domains, and extends **Reporting** with metric provenance and surveys. Most Release 1 objects below are instantiations of two primitives rather than bespoke tables — see [[BluePrint Wireframe - Back Office OS (Developer Handoff)]] §5 and §7 for the field-level schema. The transaction, inventory, compliance, document and finance objects in this file belong to **Release 2**.
+
 
 ## Core Objects
 

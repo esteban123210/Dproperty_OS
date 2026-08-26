@@ -9,8 +9,12 @@
         "draftModel": "sonnet",
         "tabId": "tab-1786973048284-1fue9c1",
         "conversationId": null
+      },
+      {
+        "tabId": "tab-1787731174431-dp4fkma",
+        "conversationId": "conv-1787731549707-gkh3u4lw7"
       }
     ],
-    "activeTabId": "tab-1786972737099-p27ux0y"
+    "activeTabId": "tab-1787731174431-dp4fkma"
   }
 }

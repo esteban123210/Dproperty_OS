@@ -14,6 +14,8 @@ tags: [product, architecture, scenarios, ux, wireframe]
 
 > 72+ real-world scenarios used to pressure-test the [[Platform Information Architecture]] before wireframing. Framework for every answer: **3 clicks · automation-first · AI only for language.** Tiers defined in [[Platform Information Architecture]] (T0 = no AI, T1 = cheap/local AI, T2 = premium).
 
+> **⚠ Scope filter (2026-08-26):** BluePrint is now back-office-only ([[BluePrint Product Constitution]] §3.11). **Part A scenarios written for a sales advisor inside the OS are out of scope** — that user works in GoHighLevel and has no BluePrint seat. Read them as CRM scenarios or as back-office scenarios performed on the advisor's behalf. Scenarios covering glitches, HR, cases, obligations, templates, resources and reporting remain valid and are now core Release 1 regression material.
+
 ---
 
 ## Part A — Agent / franchisee (post-login), 20 scenarios

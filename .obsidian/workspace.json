@@ -125,12 +125,68 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Pricing & Delivery Quick List.md",
+                "file": "second_brain/04_Product/BluePrint Product Constitution.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Pricing & Delivery Quick List"
+              "title": "BluePrint Product Constitution"
+            }
+          },
+          {
+            "id": "aca89284840cfdb8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "second_brain/04_Product/BluePrint Product Constitution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BluePrint Product Constitution"
+            }
+          },
+          {
+            "id": "9fd8fea3cf01984b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "second_brain/04_Product/BluePrint Product Constitution.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BluePrint Product Constitution"
+            }
+          },
+          {
+            "id": "8a08de3227cb2a72",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "second_brain/04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff).md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "BluePrint Wireframe - Back Office OS (Developer Handoff)"
+            }
+          },
+          {
+            "id": "5b974428fb686e58",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "second_brain/17_Handoff_Files/CLAUDE DESIGN - BluePrint App Design Prompt.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "CLAUDE DESIGN - BluePrint App Design Prompt"
             }
           },
           {
@@ -186,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 8
+        "currentTab": 12
       }
     ],
     "direction": "vertical"
@@ -371,10 +427,19 @@
       "realclaudian:Open Claudian": false
     }
   },
-  "active": "45a8f1a8e9be682a",
+  "active": "5b974428fb686e58",
   "lastOpenFiles": [
-    "dproperty brain/00_Dashboard/Quick Capture.md",
+    "second_brain/04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff).md",
+    "second_brain/17_Handoff_Files/CLAUDE DESIGN - BluePrint App Design Prompt.md",
+    "second_brain/04_Product/BluePrint Product Constitution.md",
+    "second_brain/04_Product/BluePrint Product Constitution.md.tmp.16968.213b0190ec1b",
+    "second_brain/second_brain/04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff).md",
+    "second_brain/second_brain/04_Product",
+    "second_brain/second_brain",
+    "second_brain/04_Product/BluePrint Product Map.md",
+    "second_brain/04_Product/BluePrint Golden Workflow - Wireframe and Validation.md",
     "dproperty brain/02_Projects/Private Collection/00_Portfolio Control/Pricing & Delivery Quick List.md",
+    "dproperty brain/00_Dashboard/Quick Capture.md",
     "dproperty brain/00_Dashboard/_tmp_stats.py",
     "dproperty brain/00_Dashboard/Home.md",
     "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
@@ -388,9 +453,6 @@
     "second_brain/17_Handoff_Files/sedTszce1",
     "second_brain/09_Exports/Dproperty_OS_Financial_Model_v0.7_ARCHIVE_20260803.xlsx",
     "second_brain/17_Handoff_Files/Handoff - Ecosystem Website.md",
-    "second_brain/17_Handoff_Files/00 - Handoff Index.md.tmp.14004.bf78bf1ff21d",
-    "second_brain/17_Handoff_Files/LOVABLE - Ecosystem Website Build Brief.md.tmp.14004.6b86239f310d",
-    "second_brain/11_Developer_Sales_OS/Developer Sales OS Guide.md.tmp.14004.c3203673fd85",
     "second_brain/17_Handoff_Files/Handoff - Public Website.md",
     "second_brain/01_Strategy/Brand Architecture.md",
     "second_brain/00_Index/AI Handoff Pack/AI Handoff Pack - Read Me.md",
@@ -402,12 +464,6 @@
     "second_brain/05_Franchise_Package/Sales/Sales Playbook.md",
     "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/12_Documents & Media/Document Index.md",
     "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/04_Inventory & Pricing/Availability & Prices.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/05_Payment & Financing/Payment Plan.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/00_Project Control/Update Log.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/00_Project Control/Source Register.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/00_Project Control/Missing Information.md",
-    "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/00_Project Control/Executive Summary.md",
-    "dproperty brain/02_Projects/Private Collection/Active/BIOMA/05_Payment & Financing/Payment Plan.md",
-    "dproperty brain/02_Projects/Private Collection/Active/BIOMA/12_Documents & Media/Document Index.md"
+    "dproperty brain/02_Projects/Private Collection/Active/Playa Escondida - Torre 200/05_Payment & Financing/Payment Plan.md"
   ]
 }

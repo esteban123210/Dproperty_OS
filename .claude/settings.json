@@ -29,7 +29,18 @@
       "Read(//tmp/**)",
       "Bash(python3 _tmp_stats.py)",
       "Bash(python _tmp_stats.py)",
-      "Bash(grep -v \"^\\\\./\\\\.obsidian\")"
+      "Bash(grep -v \"^\\\\./\\\\.obsidian\")",
+      "WebFetch(domain:bfranchising.com)",
+      "Bash(curl -sL --max-time 30 https://bfranchising.com -o bf.html)",
+      "Bash(curl -sL --compressed --max-time 30 https://bfranchising.com -o bf.html)",
+      "Bash(xxd)",
+      "Bash(curl -sL --compressed --max-time 30 https://bfranchising.com/assets/styles-D1Axz5EQ.css -o bf.css)",
+      "Bash(grep -nE '^#{1,3} ' \"04_Product/BluePrint Golden Workflow - Wireframe and Validation.md\")",
+      "Bash(cd \"C:/Users/esteb/Desktop/Dproperty_OS/Dproperty_OS/second_brain\" && for f in \"04_Product/Product Vision.md\" \"04_Product/Prototype Spec.md\" \"04_Product/Prototype Control Note.md\" \"04_Product/Data Model.md\" \"04_Product/AI Layer Notes.md\" \"04_Product/Platform Scenario Playbook.md\" \"04_Product/Figma Handoff Notes.md\"; do echo \"--- $f | lines: $\\(wc -l < \"$f\"\\)\"; sed -n '1,12p' \"$f\" | grep -E 'status:|version:' ; done)",
+      "Bash(cd \"C:/Users/esteb/Desktop/Dproperty_OS/Dproperty_OS/second_brain\" && for f in \"Prototype Spec\" \"Figma Handoff Notes\" \"Data Model\" \"Prototype Control Note\" \"Platform Scenario Playbook\" \"AI Layer Notes\"; do echo \"=== $f ===\"; sed -n '11,20p' \"04_Product/$f.md\"; done)",
+      "Bash(awk '{print $5\" bytes\"}')",
+      "Bash(mv \"second_brain/04_Product/BluePrint Wireframe - Back Office OS \\(Developer Handoff\\).md\" \"04_Product/BluePrint Wireframe - Back Office OS \\(Developer Handoff\\).md\")",
+      "Bash(rmdir \"second_brain/04_Product\" \"second_brain\")"
     ]
   }
 }

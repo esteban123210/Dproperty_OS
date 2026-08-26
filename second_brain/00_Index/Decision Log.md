@@ -4,7 +4,7 @@ title: "Decision Log"
 type: decision_log
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-08-26
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [decisions, source-of-truth]
 ---
@@ -439,7 +439,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 **Reason:** The assistant is central to reducing back-office burden, but its authority must remain narrower than the requesting user's permissions and consequential decisions must stay attributable to humans.
 
-**Status:** Active. See Product Constitution §10.
+**Status:** Active. See Product Constitution §11 (was §10 before the v2.0 renumbering of 2026-08-26).
 
 ## 2026-08-17 — Vault-Wide Propagation Audit: White-Label Select Rate, Currency
 
@@ -457,3 +457,29 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Impacted Areas:** Business Plan, Pricing Model, Unit Economics, Strategy, Pitch Deck, Sales Playbook, Compliance, Private Collection, Multi-Line Manual Strategy, Handoff Files (3), Franchisee Acquisition Playbook, Roles and Access Matrix, Open Questions.
 
 **Status:** Active. `16_Task_Management/Deliverables Tracker - Compact MD.md` is separately flagged as stale (last real content update 2026-07-21; does not yet list `18_Ecosystem/` (17 files), `17_Handoff_Files/` (14 files), or the BluePrint Product Map/Constitution/Golden Workflow) — a full tracker regeneration needs an Excel-tracker pass, not a text edit, and is queued as next-session work rather than done inline here.
+
+## 2026-08-26 — BluePrint Is the Back-Office Brain; Transaction Spine Re-Sequenced to Release 2
+
+**Decision:** BluePrint is redefined as the **operating brain of a lean real-estate back office**, used by administrative staff only, and delivery is re-sequenced into two releases.
+
+**1. Scope.** BluePrint's canonical scope now explicitly includes the domains Constitution v1.0 omitted: service recovery (Glitch Report), HR cases and people/licence records, legal-contract/corporate-licence/software-licence/tax tracking, the approved template and manual library, the external resource directory, and personal/team performance with satisfaction surveys. These were originally specified on 2026-07-18 in [[../04_Product/Platform Information Architecture|Platform Information Architecture]] and [[../04_Product/Product Modules|Product Modules]]; Constitution v1.0 had narrowed them away. v2.0 restores them.
+
+**2. Access boundary.** BluePrint is **back-office only**. Sales advisors work in GoHighLevel and receive **no BluePrint seat** — their time belongs with clients, not behind an internal system. A salesperson may exist in BluePrint as a *record* (People, KPIs, licence tracking) without a login. This is a product boundary, not a configuration preference, and it governs seat design and pricing.
+
+**3. Non-duplication is now a rendering rule, not only an architecture claim.** BluePrint may not render any surface that reproduces what a specialist system owns: no lead pipelines/campaigns/message threads (GoHighLevel), no lesson content or course delivery (B_Academy), no marketplace browsing (VAULTED), no file browser (Drive/SharePoint), no signed-document archive (secure legal archive). Each appears only as a marked SSO launch link, a status value, or an inbound metric. Embedded-CRM and embedded-LMS modules are removed from scope.
+
+**4. Release sequencing.** **Release 1 = Back Office Brain** (foundation, Registry + Ticket primitives, Glitch Report and daily review, tasks, legal/asset registries, people and HR, library, directory, performance, Copilot, administration). **Release 1.5** = GoHighLevel metrics connector replacing the Release 1 CSV bridge. **Release 2 = Transaction Spine** — the Golden Workflow, unchanged and uncancelled. The multi-tenancy, permission, confidentiality, audit and connector-contract foundation is built at **full strength in Release 1** so Release 2 is an extension, not a rewrite.
+
+**5. Service recovery is constitutional.** The Glitch Report implements the Four Seasons model: daily transparent review, grouped by responsible department, unrecovered items roll forward with a day counter, closure requires a recorded recovery action and an explicit client-made-whole statement, and **no fault field exists anywhere in schema or UI**. Metric rule: *under-reporting is the failure mode, not glitch volume* — reporting rate is a health signal with a healthy floor and may never be penalised; recovery rate and recovery time are the performance measures. For HQ, cross-office glitch and recovery rates convert "premium boutique experience" from a brand promise into an enforceable franchise standard.
+
+**6. Build primitives, not modules.** Most back-office surfaces are one of two objects — **Registry** (tracked record with owner, status, expiry, renewal rules, external links) or **Ticket** (reported item with routing, SLA, confidentiality, resolution). Each is built once and instantiated by configuration. Glitch and HR case share one engine with deliberately opposite UI tone.
+
+**Reason:** The founder pain assessment established that the office's real daily pain is back-office administration — expiring licences, scattered templates, HR issues with nowhere to go, no visibility on performance — and that **none of it was in the v1.0 MVP**, which was aimed at the transaction spine. Adoption physics support the reversal: the back-office brain removes work from the people who must adopt it, whereas the transaction spine adds data entry for benefits accruing to management. The daily Glitch Review supplies a habit loop the transaction spine cannot. Process standardization (manuals, templates, registries) must also precede process automation (compliance and commission engines), so Release 1 produces the inputs Release 2 needs.
+
+**Impacted Areas:** Product (Constitution, Product Map, MVP Scope, Product Modules, Platform Information Architecture, Roles and Access Matrix, Golden Workflow), Ecosystem (02 - BluePrint), Franchise Package (service standard, minimum staffing), Finance (seat design and pricing — sales advisors are not BluePrint seats), Brand (BluePrint app adopts the bfranchising.com design system).
+
+**Design baseline:** The BluePrint application adopts the live `bfranchising.com` visual system — bone `#FAF8F3`, offwhite `#F7F4ED`, sand `#EFEAE0`, ink `#1A1A1A`, warm `#55514C`, champagne `#B89B5E`, destructive `#A13B2A`; Playfair Display / Inter / JetBrains Mono — extended with a desaturated semantic status palette and compressed to application density. Champagne fails WCAG AA on light backgrounds (2.5:1) and is restricted to non-text use.
+
+**Status:** Active. Supersedes the 2026-08-16 "Golden Workflow Is the BluePrint MVP Spine" decision **as to sequencing only** — the Golden Workflow remains the binding Release 2 specification and its content is unchanged. The 2026-08-16 Copilot authority decision (AI-0 to AI-4) is unchanged and now sits at Constitution §11.
+
+**Build specification:** [[../04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff)|BluePrint Wireframe — Back Office OS (Developer Handoff)]].
