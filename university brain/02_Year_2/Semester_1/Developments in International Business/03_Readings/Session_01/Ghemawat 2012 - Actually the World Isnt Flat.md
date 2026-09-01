@@ -2,84 +2,676 @@
 
 **Author:** Pankaj Ghemawat  
 **Source:** TEDGlobal 2012  
-**Official link:** https://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat  
-**Status:** Required reading / viewing  
-**Transcript:** supplied by the student for this course workspace.
+**Role:** Required Session 1 reading/viewing  
+**Transcript source:** Full transcript supplied by the student  
+**Official link:** https://www.ted.com/talks/pankaj_ghemawat_actually_the_world_isn_t_flat
 
 ## Core thesis
-Managers and the public systematically **overestimate how globalized the world is**. National borders still matter substantially. The world is neither fully local nor borderless; it is better understood as **semi-globalized**.
 
-## Evidence used in the talk
-Ghemawat compares the share of activities that occur across borders with the total amount of those activities.
+Managers and the public systematically **overestimate how globalized the world is**. National borders still matter substantially. Cross-border flows are important, but they are nowhere near the levels that would exist in a genuinely borderless world. Ghemawat calls the gap between perceived and actual globalization **globaloney**.
 
-Key figures from the talk:
-- Cross-border voice-calling minutes: about **2%**; including internet telephony, perhaps **6-7%**.
-- First-generation immigrants as a share of world population: about **3%**.
-- Foreign direct investment as a share of total real investment in 2010: **less than 10%**.
-- Exports as a share of GDP: official figures were a little above 30%, but after adjusting conceptually for double-counting of intermediate goods, Ghemawat suggests the true figure may be **below 20%**.
-- Foreign Facebook friendships: roughly **10-15%**.
+The most useful conceptual description is **semi-globalization**: the world is neither fully domestic nor fully integrated.
 
-These figures are far below the 85-95% levels one might expect in a genuinely borderless world.
+# Full supplied transcript
+
+I'm here to talk to you about how globalized we are,
+
+how globalized we aren't,
+
+and why it's important to actually be accurate
+
+in making those kinds of assessments.
+
+And the leading point of view on this, whether measured
+
+by number of books sold, mentions in media,
+
+or surveys that I've run with groups ranging from
+
+my students to delegates to the World Trade Organization,
+
+is this view that national borders
+
+really don't matter very much anymore,
+
+cross-border integration is close to complete,
+
+and we live in one world.
+
+And what's interesting about this view
+
+is, again, it's a view that's held by pro-globalizers
+
+like Tom Friedman, from whose book this quote is obviously excerpted,
+
+but it's also held by anti-globalizers, who see this giant
+
+globalization tsunami that's about to wreck all our lives
+
+if it hasn't already done so.
+
+## 01:07
+
+The other thing I would add is that this is not a new view.
+
+I'm a little bit of an amateur historian, so I've spent
+
+some time going back, trying to see the first mention
+
+of this kind of thing. And the best, earliest quote
+
+that I could find was one from David Livingstone,
+
+writing in the 1850s about how the railroad, the steam ship,
+
+and the telegraph were integrating East Africa perfectly
+
+with the rest of the world.
+
+Now clearly, David Livingstone
+
+was a little bit ahead of his time,
+
+but it does seem useful to ask ourselves,
+
+"Just how global are we?"
+
+before we think about where we go from here.
+
+## 01:54
+
+So the best way I've found of trying to get people
+
+to take seriously the idea that the world may not be flat,
+
+may not even be close to flat, is with some data.
+
+So one of the things I've been doing over the last few years
+
+is really compiling data on things that could either happen
+
+within national borders or across national borders,
+
+and I've looked at the cross-border component
+
+as a percentage of the total.
+
+I'm not going to present all the data that I have here today,
+
+but let me just give you a few data points.
+
+I'm going to talk a little bit about one kind of information flow,
+
+one kind of flow of people, one kind of flow of capital,
+
+and, of course, trade in products and services.
+
+## 02:45
+
+So let's start off with plain old telephone service.
+
+Of all the voice-calling minutes in the world last year,
+
+what percentage do you think were accounted for
+
+by cross-border phone calls?
+
+Pick a percentage in your own mind.
+
+The answer turns out to be two percent.
+
+If you include Internet telephony, you might be able
+
+to push this number up to six or seven percent,
+
+but it's nowhere near what people tend to estimate.
+
+## 03:21
+
+Or let's turn to people moving across borders.
+
+One particular thing we might look at, in terms of
+
+long-term flows of people, is what percentage
+
+of the world's population is accounted for
+
+by first-generation immigrants?
+
+Again, please pick a percentage.
+
+Turns out to be a little bit higher.
+
+It's actually about three percent.
+
+## 03:48
+
+Or think of investment. Take all the real investment
+
+that went on in the world in 2010.
+
+What percentage of that was accounted for
+
+by foreign direct investment?
+
+Not quite ten percent.
+
+## 04:06
+
+And then finally, the one statistic
+
+that I suspect many of the people in this room have seen:
+
+the export-to-GDP ratio.
+
+If you look at the official statistics, they typically indicate
+
+a little bit above 30 percent.
+
+However, there's a big problem with the official statistics,
+
+in that if, for instance, a Japanese component supplier
+
+ships something to China to be put into an iPod,
+
+and then the iPod gets shipped to the U.S.,
+
+that component ends up getting counted multiple times.
+
+So nobody knows how bad this bias
+
+with the official statistics actually is, so I thought I would
+
+ask the person who's spearheading the effort
+
+to generate data on this, Pascal Lamy,
+
+the Director of the World Trade Organization,
+
+what his best guess would be
+
+of exports as a percentage of GDP,
+
+without the double- and triple-counting,
+
+and it's actually probably a bit under 20 percent, rather than
+
+the 30 percent-plus numbers that we're talking about.
+
+## 05:12
+
+So it's very clear that if you look at these numbers
+
+or all the other numbers that I talk about in my book,
+
+"World 3.0," that we're very, very far from
+
+the no-border effect benchmark, which would imply
+
+internationalization levels of the order of 85, 90, 95 percent.
+
+So clearly, apocalyptically-minded authors
+
+have overstated the case.
+
+But it's not just the apocalyptics, as I think of them,
+
+who are prone to this kind of overstatement.
+
+I've also spent some time surveying audiences
+
+in different parts of the world
+
+on what they actually guess these numbers to be.
+
+Let me share with you the results of a survey
+
+that Harvard Business Review was kind enough to run
+
+of its readership as to what people's guesses
+
+along these dimensions actually were.
+
+## 06:13
+
+So a couple of observations stand out for me from this slide.
+
+First of all, there is a suggestion of some error.
+
+Okay. (Laughter)
+
+Second, these are pretty large errors. For four quantities
+
+whose average value is less than 10 percent,
+
+you have people guessing three, four times that level.
+
+Even though I'm an economist, I find that
+
+a pretty large error.
+
+And third, this is not just confined to the readers
+
+of the Harvard Business Review.
+
+I've run several dozen such surveys in different parts
+
+of the world, and in all cases except one,
+
+where a group actually underestimated
+
+the trade-to-GDP ratio, people have this tendency
+
+towards overestimation, and so I thought it important
+
+to give a name to this, and that's what I refer to
+
+as globaloney, the difference between the dark blue bars
+
+and the light gray bars.
+
+## 07:19
+
+Especially because, I suspect, some of you may still be
+
+a little bit skeptical of the claims, I think it's important
+
+to just spend a little bit of time thinking about
+
+why we might be prone to globaloney.
+
+A couple of different reasons come to mind.
+
+First of all, there's a real dearth of data in the debate.
+
+Let me give you an example. When I first published
+
+some of these data a few years ago
+
+in a magazine called Foreign Policy,
+
+one of the people who wrote in, not entirely in agreement,
+
+was Tom Friedman. And since my article was titled
+
+"Why the World Isn't Flat," that wasn't too surprising. (Laughter)
+
+What was very surprising to me was Tom's critique,
+
+which was, "Ghemawat's data are narrow."
+
+And this caused me to scratch my head, because
+
+as I went back through his several-hundred-page book,
+
+I couldn't find a single figure, chart, table,
+
+reference or footnote.
+
+So my point is, I haven't presented a lot of data here
+
+to convince you that I'm right, but I would urge you
+
+to go away and look for your own data
+
+to try and actually assess whether some of these
+
+hand-me-down insights that we've been bombarded with
+
+actually are correct.
+
+So dearth of data in the debate is one reason.
+
+## 08:49
+
+A second reason has to do with peer pressure.
+
+I remember, I decided to write my
+
+"Why the World Isn't Flat" article, because
+
+I was being interviewed on TV in Mumbai,
+
+and the interviewer's first question to me was,
+
+"Professor Ghemawat, why do you still believe
+
+that the world is round?" And I started laughing,
+
+because I hadn't come across that formulation before. (Laughter)
+
+And as I was laughing, I was thinking,
+
+I really need a more coherent response, especially
+
+on national TV. I'd better write something about this. (Laughter)
+
+But what I can't quite capture for you
+
+was the pity and disbelief
+
+with which the interviewer asked her question.
+
+The perspective was, here is this poor professor.
+
+He's clearly been in a cave for the last 20,000 years.
+
+He really has no idea
+
+as to what's actually going on in the world.
+
+So try this out with your friends and acquaintances,
+
+if you like. You'll find that it's very cool
+
+to talk about the world being one, etc.
+
+If you raise questions about that formulation,
+
+you really are considered a bit of an antique.
+
+## 10:08
+
+And then the final reason, which I mention,
+
+especially to a TED audience, with some trepidation,
+
+has to do with what I call "techno-trances."
+
+If you listen to techno music for long periods of time,
+
+it does things to your brainwave activity. (Laughter)
+
+Something similar seems to happen
+
+with exaggerated conceptions of how technology
+
+is going to overpower in the very immediate run
+
+all cultural barriers, all political barriers,
+
+all geographic barriers, because at this point
+
+I know you aren't allowed to ask me questions,
+
+but when I get to this point in my lecture with my students,
+
+hands go up, and people ask me,
+
+"Yeah, but what about Facebook?"
+
+And I got this question often enough that I thought
+
+I'd better do some research on Facebook.
+
+Because, in some sense, it's the ideal kind of technology
+
+to think about. Theoretically, it makes it
+
+as easy to form friendships halfway around the world
+
+as opposed to right next door.
+
+What percentage of people's friends on Facebook
+
+are actually located in countries other than where
+
+people we're analyzing are based?
+
+The answer is probably somewhere between
+
+10 to 15 percent.
+
+Non-negligible, so we don't live in an entirely local
+
+or national world, but very, very far from the 95 percent level
+
+that you would expect, and the reason's very simple.
+
+We don't, or I hope we don't, form friendships at random
+
+on Facebook. The technology is overlaid
+
+on a pre-existing matrix of relationships that we have,
+
+and those relationships are what the technology
+
+doesn't quite displace. Those relationships are why
+
+we get far fewer than 95 percent of our friends
+
+being located in countries other than where we are.
+
+## 12:15
+
+So does all this matter? Or is globaloney
+
+just a harmless way of getting people to pay more attention
+
+to globalization-related issues?
+
+I want to suggest that actually,
+
+globaloney can be very harmful to your health.
+
+First of all, recognizing that the glass
+
+is only 10 to 20 percent full is critical to seeing
+
+that there might be potential for additional gains
+
+from additional integration,
+
+whereas if we thought we were already there,
+
+there would be no particular point to pushing harder.
+
+It's a little bit like, we wouldn't be having a conference
+
+on radical openness if we already thought we were totally open
+
+to all the kinds of influences that are being talked about
+
+at this conference.
+
+So being accurate about how limited globalization levels are
+
+is critical to even being able to notice
+
+that there might be room for something more,
+
+something that would contribute further to global welfare.
+
+## 13:22
+
+Which brings me to my second point.
+
+Avoiding overstatement is also very helpful
+
+because it reduces and in some cases even reverses
+
+some of the fears that people have about globalization.
+
+So I actually spend most of my "World 3.0" book
+
+working through a litany of market failures and fears
+
+that people have that they worry globalization is going to exacerbate.
+
+I'm obviously not going to be able to do that for you today,
+
+so let me just present to you two headlines
+
+as an illustration of what I have in mind.
+
+Think of France and the current debate about immigration.
+
+When you ask people in France what percentage
+
+of the French population is immigrants,
+
+the answer is about 24 percent. That's their guess.
+
+Maybe realizing that the number is just eight percent
+
+might help cool some of the superheated rhetoric
+
+that we see around the immigration issue.
+
+Or to take an even more striking example,
+
+when the Chicago Council on Foreign Relations
+
+did a survey of Americans, asking them to guess
+
+what percentage of the federal budget went to foreign aid,
+
+the guess was 30 percent, which is
+
+slightly in excess of the actual level — ("actually about ... 1%") (Laughter) —
+
+of U.S. governmental commitments to federal aid.
+
+The reassuring thing about this particular survey was,
+
+when it was pointed out to people how far
+
+their estimates were from the actual data,
+
+some of them — not all of them — seemed to become
+
+more willing to consider increases in foreign aid.
+
+## 15:11
+
+So foreign aid is actually a great way
+
+of sort of wrapping up here, because
+
+if you think about it, what I've been talking about today
+
+is this notion -- very uncontroversial amongst economists --
+
+that most things are very home-biased.
+
+"Foreign aid is the most aid to poor people,"
+
+is about the most home-biased thing you can find.
+
+If you look at the OECD countries and how much
+
+they spend per domestic poor person,
+
+and compare it with how much they spend
+
+per poor person in poor countries,
+
+the ratio — Branko Milanovic at the World Bank did the calculations —
+
+turns out to be about 30,000 to one.
+
+Now of course, some of us, if we truly are cosmopolitan,
+
+would like to see that ratio being brought down
+
+to one-is-to-one.
+
+I'd like to make the suggestion that we don't need to aim
+
+for that to make substantial progress from where we are.
+
+If we simply brought that ratio down to 15,000 to one,
+
+we would be meeting those aid targets that were agreed
+
+at the Rio Summit 20 years ago that the summit
+
+that ended last week made no further progress on.
+
+## 16:31
+
+So in summary, while radical openness is great,
+
+given how closed we are,
+
+even incremental openness could make things
+
+dramatically better. Thank you very much. (Applause)
+
+(Applause)
+
+# Key figures to retrieve
+
+| Indicator in the talk | Approximate cross-border share |
+|---|---:|
+| International voice calls | 2% |
+| Voice calls incl. internet telephony | 6-7% |
+| First-generation immigrants / world population | 3% |
+| FDI / total real investment (2010) | <10% |
+| Exports / GDP after conceptual correction for multiple counting | <20% estimate |
+| Facebook friends located abroad | 10-15% |
+| Hypothetical no-border benchmark | 85-95% |
+
+The numbers are historical examples from the 2012 talk. The exam value lies primarily in the logic: **actual cross-border integration is substantial but far below a no-border world**.
+
+# Core concepts
+
+## Semi-globalization
+The world is neither closed nor borderless. Cross-border activity is material but systematically constrained by borders and distance.
 
 ## Globaloney
-Ghemawat calls the gap between perceived and actual globalization **globaloney**.
+The systematic tendency to overestimate how internationalized the world actually is.
 
-Survey participants repeatedly guessed cross-border shares several times higher than the actual figures. The managerial implication is important: strategy based on an exaggerated image of a borderless world can lead firms to underestimate the real costs of distance, borders, institutions, and local differences.
+## Home bias
+Economic and social activity remains disproportionately concentrated within countries or nearby relationships rather than being randomly distributed globally.
 
-## Why people overestimate globalization
-The talk identifies several reasons:
+## Technology does not erase distance
+Technology can reduce certain information/communication costs without automatically removing cultural, political, institutional, geographic, and relational barriers.
 
-### 1. Lack of data in public debate
-Claims about globalization are often repeated without empirical validation.
+# Why people overestimate globalization
 
-### 2. Social / peer pressure
-Saying the world is fully connected is often treated as modern and sophisticated; questioning it can sound outdated.
+Ghemawat offers three explanations:
 
-### 3. 'Techno-trances'
-Managers can overestimate the speed with which technology eliminates geographic, cultural, political, and administrative barriers.
+1. **Data scarcity in the debate** - globalization narratives often circulate without measurement.
+2. **Peer pressure** - the borderless-world narrative sounds modern, while skepticism can be framed as outdated.
+3. **Techno-trances** - new technologies are assumed to eliminate all barriers much faster than they actually do.
 
-Technology reduces some frictions, but it does not erase the structure of human relationships or national institutions.
+# Why accurate measurement matters
 
-## What the talk does NOT claim
-Ghemawat is **not** saying that globalization is unimportant or that countries are isolated.
+## Opportunity side
+If globalization is only partly developed, there can still be major gains from additional cross-border integration. Believing the world is already fully integrated can hide those opportunities.
 
-His argument is more precise:
-- international flows are economically meaningful;
-- globalization has increased in important ways;
-- but domestic and local interactions still dominate many activities;
-- therefore, borders and distance remain strategically relevant.
+## Political side
+Overestimating international exposure can intensify fears about immigration, foreign aid, trade, and globalization more broadly. Better data can change preferences and policy judgments.
 
-## Managerial implications
-1. Do not assume a product, business model, capability, or relationship will transfer frictionlessly across borders.
-2. Measure actual cross-border integration rather than relying on slogans about globalization.
-3. Expect differences between home and host markets to affect costs, customer behavior, institutions, regulation, and organizational design.
-4. Treat international expansion as a strategic problem requiring adaptation and selective integration.
-5. Recognize that technology may reduce certain transaction costs without eliminating liability of foreignness.
+# Managerial implications
 
-## Connection to Altman et al. (2024)
-Altman et al. extend this empirical tradition. Their newer evidence shows that the opposite popular narrative—broad **deglobalization**—is also overstated. International flows have remained resilient, but they remain shaped by geography, geopolitics, and large country-level differences.
+- Do not design strategy around the slogan that the world is "flat."
+- Measure the actual cross-border intensity relevant to the industry and activity.
+- Expect borders, institutions, geography, and relationships to continue creating costs.
+- Recognize that incomplete integration also creates opportunities for firms capable of overcoming those frictions.
+- Separate technological accessibility from actual behavioral and economic integration.
 
-So the combined lesson is:
+# Connection to Altman et al. (2024)
 
-> Avoid both extremes: the world is neither fully borderless nor clearly retreating into national autarky.
+Ghemawat warns against exaggerating **globalization**. Altman et al. warn against the opposite overcorrection of exaggerating **deglobalization**.
 
-## Connection to Zaheer (1995)
-Ghemawat operates mainly at the macro level: **borders and distance still matter**.
+Together they support a semi-globalized, empirically grounded view: international flows are significant and resilient, but borders, distance, institutions, and geopolitics still structure them.
 
-Zaheer translates that reality to the firm level: foreign firms bear **additional costs that local firms do not**, creating liability of foreignness.
+# Connection to Zaheer (1995)
 
-## Connection to Session 1 slides
-The talk provides the environmental premise for the rest of Session 1:
+Ghemawat provides the macro premise: borders and home bias remain consequential.
 
-**The world is not flat**  
-→ borders generate friction  
-→ cross-border business creates additional costs  
-→ firms need firm-specific advantages  
-→ transaction costs influence whether activities are coordinated through markets or inside the MNE.
+Zaheer provides the firm-level consequence: foreign firms incur costs local firms do not, producing **liability of foreignness**.
 
-## Exam-ready version
-**Core claim:** Cross-border integration is significant but far from complete; managers systematically overestimate it.  
-**Concept:** Semi-globalization / globaloney.  
-**Use when:** A case implicitly assumes borders, distance, or technology no longer matter.  
-**Managerial implication:** Test actual cross-border frictions and adapt strategy to persistent country differences.  
-**Best comparison:** Altman et al. (2024): globalization has not disappeared either.
+# Connection to Bean of Africa
+
+The coffee transaction demonstrates the micro-foundations of home bias and cross-border friction through payment failures, logistics, customs uncertainty, documentation, information gaps, and reliance on local intermediaries.
+
+# Exam retrieval cue
+
+**Use Ghemawat when a case or question assumes that technology or globalization has eliminated borders.** Challenge the flat-world assumption with semi-globalization/home bias, then identify the specific cross-border frictions that still matter for the focal firm.
+
+---
+
+Related: [[00 - Session 1 Source Pack]] | [[Altman et al 2024 - Challenging the Deglobalization Narrative]] | [[Zaheer 1995 - Overcoming the Liability of Foreignness]]
