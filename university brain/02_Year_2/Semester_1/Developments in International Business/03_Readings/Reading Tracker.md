@@ -1,20 +1,29 @@
 # Reading Tracker
 
-Use this as the single checklist for course readings. Detailed reading notes should live inside the relevant session file unless a reading becomes important enough to deserve its own note.
+Use this as the single checklist for course readings. Detailed reading notes should live inside the relevant session folder when source material is available.
 
 ## Status legend
-- [ ] Not read
-- [x] Read
-- [~] Skimmed / partial
+- [ ] Not read / not completed by student
+- [x] Read / completed by student
+- 📚 Source available in course pack
+- 📝 Structured Brain note available
 
 ## Session 1 - What is International Business? Why do MNEs exist?
+**Source pack:** [[Session_01/00 - Session 1 Source Pack|Open Session 1 Source Pack]]
+
+### Lecture material
+- 📚 📝 `Session_1.pdf` → [[Session_01/Session 1 Slides - Lecture Notes|Session 1 Slides - Lecture Notes]]
+
 ### Required
-- [ ] Ghemawat, P. (2012). *Actually the world isn't flat*. TEDGlobal 2012.
+- [ ] 📚 📝 Ghemawat, P. (2012). *Actually the world isn't flat*. TEDGlobal 2012. → [[Session_01/Ghemawat 2012 - Actually the World Isnt Flat|Reading Note]]
 
 ### Supplementary
-- [ ] Altman, S. A., Bastian, C. R., & Fattedad, D. (2024). Challenging the deglobalization narrative: Global flows have remained resilient through successive shocks. *Journal of International Business Policy, 7*(4), 416-439.
-- [ ] Zaheer, S. (1995). Overcoming the liability of foreignness. *Academy of Management Journal, 38*(2), 341-363.
-- [ ] Lindner & Puck (2025), Chapters 2, 7.1, 7.2.
+- [ ] 📚 📝 Altman, S. A., Bastian, C. R., & Fattedad, D. (2024). Challenging the deglobalization narrative: Global flows have remained resilient through successive shocks. *Journal of International Business Policy, 7*(4), 416-439. → [[Session_01/Altman et al 2024 - Challenging the Deglobalization Narrative|Reading Note]]
+- [ ] 📚 📝 Zaheer, S. (1995). Overcoming the liability of foreignness. *Academy of Management Journal, 38*(2), 341-363. → [[Session_01/Zaheer 1995 - Overcoming the Liability of Foreignness|Reading Note]]
+- [ ] Lindner & Puck (2025), Chapters 2, 7.1, 7.2. **Source not yet uploaded.**
+
+### Discussion case
+- 📚 📝 Puhr, H. (2026). *The Bean of Africa: Cross-Border Trade, Intermediaries, and the True Cost of a Morning Cup*. → [[../04_Cases/Session_01/Bean of Africa - Case Note|Case Note]]
 
 ## Session 2 - Where to invest?
 ### Required
