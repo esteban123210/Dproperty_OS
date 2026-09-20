@@ -1,64 +1,44 @@
 ---
 project: B_RealEstate
-title: "White-Label Partner Model"
-type: ecosystem_component
-status: Canonical v1.0
+title: "B_ Partner — Managed Own-Brand Model"
+type: distribution_channel
+status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-08-16
-tags: [ecosystem, white-label, partner]
+last_updated: 2026-09-20
+tags: [ecosystem, partner, white-label, managed-service]
 ---
 
-# White-Label Partner Model
+# B_ Partner — Managed Own-Brand Model
 
-## What it is
+> Historical files may call this “White-Label.” Current strategic framing: **B_ Partner**.
 
-The white-label model lets an established or emerging boutique agency operate under its own brand while using B_RealEstate infrastructure, methods, BluePrint, configured CRM, Academy, templates, benchmarks and eligible shared inventory.
+## Definition
 
-## What it is not
+An agency keeps its own consumer brand but buys a deeper managed implementation of B_ infrastructure and operating standards.
 
-- Not a discounted or inferior Dproperty franchise.
-- Not required to adopt Dproperty's investment-only mandate.
-- Not a transfer of ownership of B_RealEstate IP.
-- Not unrestricted access to modify Dproperty Select materials or commercial terms.
+## Why this is not “BluePrint at $1,500/month”
 
-## Purpose
+BluePrint is standalone SaaS. B_ Partner can justify a materially higher price only if it includes meaningful services/advantages such as:
 
-Help operators professionalize and scale without surrendering the brand equity, positioning or local knowledge they have already built.
+- implementation/migration;
+- operating-model setup;
+- process/manual packs;
+- BlankCRM configuration;
+- Academy onboarding;
+- integration support;
+- ongoing operating guidance;
+- network participation;
+- eligible Dproperty Select/VAULTED access.
 
-## Primary persona
+## Strategic role
 
-An agency principal with an existing name, client base or local thesis who recognizes back-office weaknesses and wants stronger systems without becoming Dproperty.
+Distribution + higher-ARPA managed package, **not a separate software product**.
 
-## Client proposition
+## Economics
 
-“Your brand. Our operating infrastructure.” The partner may focus on investors, end users or lifestyle markets according to the approved local model.
+Historical $10k/$20k setup and $1.5k/$2.5k monthly plans are **not automatically current**. Rebuild pricing from:
+software bundle + onboarding effort + ongoing service cost + network rights + target gross margin.
 
-## Included capabilities
+## Data/brand rule
 
-BluePrint tenant and branding, GoHighLevel configuration, Academy access, process/manual library, implementation support, dashboards, approved templates, integration support, network participation and Dproperty Select access as an external partner broker.
-
-## Canonical economics
-
-Repository baseline:
-
-- Starter: $10,000 setup and $1,500/month.
-- Growth: $20,000 setup and $2,500/month.
-- Dproperty Select payout: 1.5% of sale price.
-- No Dproperty brand royalty.
-
-The live site currently publishes $12,000 installation, $1,500/month and a 3% fee on commission. The 3% performance fee is not present in the canonical pricing notes and requires explicit approval.
-
-## Data and brand rules
-
-The partner owns its consumer brand and local client proposition. B_RealEstate owns the shared platform, methods, ecosystem standards and aggregated network intelligence. Use of “powered by Dproperty” requires a controlled brand-usage policy and termination provisions.
-
-## KPIs
-
-- Implementation time and migrated users.
-- Monthly recurring revenue and contribution margin.
-- Active usage of BluePrint and CRM.
-- Partner retention and expansion.
-- Transaction performance improvement.
-- Dproperty Select transactions and HQ retained revenue.
-- Support load per tenant.
-
+Customer owns their brand and tenant data. B_RealEstate cannot treat B_ Partner data as a competitor's shared dataset.

@@ -2,62 +2,50 @@
 project: B_RealEstate
 title: "Web Presence and Funnel Architecture"
 type: ecosystem_architecture
-status: Canonical v1.0
+status: Needs redesign for product-led model
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-20
 tags: [ecosystem, web, funnel, domains]
 ---
 
 # Web Presence and Funnel Architecture
 
-## Principle
+## New principle
 
-Separate audiences and jobs. B_RealEstate sells partnerships; Dproperty serves investors; BluePrint operates the back office; VAULTED serves approved marketplace participants.
+The site should no longer communicate three equal commercial doors as the entire company.
 
-## Web properties
+Primary company story:
+**B_ operating infrastructure → BluePrint + BlankCRM + VAULTED, supported by Academy.**
 
-| Property | Audience | Primary job | Conversion |
-|---|---|---|---|
-| https://bfranchising.com | Agents, agencies, developers | Explain B_RealEstate and route to the correct commercial model | GoHighLevel model-specific pipeline / booked call |
-| Dproperty consumer site | Investors and Dproperty clients | Explain the investment method and generate qualified investor demand | GoHighLevel investor pipeline |
-| BluePrint portal | Contracted ecosystem users | Authenticate and operate the business | Role-based workspace |
-| Open edX Academy | Provisioned learners | Deliver courses, assessments and certification | Completion status back to BluePrint |
-| VAULTED | Invited buyers, brokers and sellers | Controlled off-market discovery and matching | Qualified marketplace introduction / BluePrint transaction |
+Distribution choices appear after the product story:
+Direct SaaS · B_ Partner · Dproperty Franchise · Developer Partnerships.
 
-## bfranchising.com sitemap
+## Public hierarchy
 
-Recommended canonical navigation:
+1. Problem / operating thesis.
+2. BluePrint.
+3. BlankCRM.
+4. VAULTED/network.
+5. How the products connect.
+6. Who it is for.
+7. Ways to adopt: direct / B_ Partner / franchise / developer.
+8. Dproperty proof and relationships.
+9. Contact/demo.
 
-- Home
-- Ecosystem
-- Dproperty Franchise
-- White-Label
-- Developers
-- BluePrint
-- About
-- Contact
-- Log in
-- Legal
+## Product transparency
 
-The current `/franquicia` and `/franquicias` pair creates avoidable semantic and SEO confusion. Keep `/franquicia` for the branded model and rename `/franquicias` to `/modelos`, `/sistema` or another clearly different route with redirects.
+- Say **BlankCRM is powered by GoHighLevel**.
+- Never claim “one shared database.”
+- Do not imply VAULTED liquidity/GMV that is not proven.
+- Do not claim BluePrint is full accounting/ERP.
+- Remove DpropertyLiving from active navigation.
+- Physical hub is not a headline near-term promise.
 
-## Funnel design
+## Funnel
 
-Every CTA must carry source page, model of interest, language, campaign attribution and consent into GoHighLevel. Maintain separate pipelines for branded, white-label and developer prospects. Booking and form completion should trigger model-specific information packs and internal assignment.
+All commercial leads can enter BlankCRM/GHL, but keep product-interest fields distinct:
+BluePrint / BlankCRM / VAULTED / B_ Partner / Dproperty Franchise / Developer Partnership.
 
-## Public claims policy
+## Current site
 
-- Attribute Dproperty operating figures to Dproperty, not B_RealEstate.
-- Do not imply that BluePrint, Academy, VAULTED or live integrations are complete unless demonstrable.
-- Label demo data clearly.
-- No payback, ROI, profit uplift or performance claim without a sourced model and disclaimer.
-- Do not claim one shared database; describe a connected ecosystem with governed systems of record.
-
-## Login principle
-
-No public self-service BluePrint registration. Contracted users receive provisioned accounts, MFA and tenant/role-based access. White-label users should not be forced through a Dproperty-branded login experience.
-
-## Naming on the web
-
-Replace “La Plataforma” as a product name with **BluePrint**. The first mention may read “BluePrint, la plataforma de back office de B_RealEstate.” Replace “CRM propio” with “CRM white-label configurado sobre GoHighLevel.”
-
+bfranchising.com is strategically outdated after the 2026-09-20 reset. Preserve visual strengths, but rewrite information architecture and claims before using it as the authoritative investor/customer explanation.

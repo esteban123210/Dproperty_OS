@@ -1,53 +1,27 @@
 ---
 project: B_RealEstate
-title: "GoHighLevel CRM"
-type: ecosystem_component
-status: Canonical v2.0
+title: "GoHighLevel — BlankCRM Engine"
+type: technology_component
+status: Canonical v3.0
 owner: Esteban
 last_updated: 2026-09-20
-tags: [ecosystem, crm, gohighlevel, front-office]
+tags: [ecosystem, crm, gohighlevel, blankcrm]
 ---
 
-# GoHighLevel CRM
+# GoHighLevel — BlankCRM Engine
 
-## What it is
+GoHighLevel is third-party infrastructure used to power the commercial product **BlankCRM**.
 
-GoHighLevel is a configured/white-label **front-office CRM and sales/marketing automation option** for B_RealEstate customers.
+## Owns / excels at
 
-## What it owns
+Leads, contacts, communications, calendars, campaigns, funnels, agent tasks, follow-up automation and sales pipeline.
 
-- leads and contacts;
-- communications;
-- campaigns and attribution;
-- appointments;
-- sales-agent workflows;
-- agent-entered opportunity/pipeline state;
-- nurture/follow-up automation.
+## Does not own
 
-## What it is not
+Management truth, accounting ledger, process assurance, long-term BluePrint audit, marketplace inventory or VAULTED attribution.
 
-- not proprietary B_ software;
-- not BluePrint;
-- not the accounting ledger;
-- not the long-term management audit system;
-- not the authoritative source for whether reported revenue is operationally/financially verified.
+## Strategic rule
 
-## Relationship to BluePrint
+Be transparent: **BlankCRM is powered by GoHighLevel.** B_ deliberately avoids spending proprietary engineering capital rebuilding commodity CRM infrastructure.
 
-BluePrint may consume selected GHL data for management. Example:
-
-GHL: “deal won” → BluePrint: **Reported**.  
-Supporting operational evidence → **Operationally verified**.  
-Accounting/payment evidence → **Financially verified**.
-
-BluePrint does not require GHL. Independent customers may retain another CRM.
-
-## Why keep the products separate
-
-GHL is optimized for reach, communication, follow-up and sales productivity. BluePrint is optimized for management truth, financial/operational control, processes, incidents, reporting and audit.
-
-The strategic rule is: **do not rebuild what GHL does well; do not force management control into a CRM data model merely because GHL can be configured to approximate it.**
-
-## Unit economics
-
-Treat GHL/sub-account/communications costs as external or bundled costs. Any resale margin must be explicit. Never market it as B_'s proprietary CRM.
+See [[03A - BlankCRM]] for the sellable product definition.

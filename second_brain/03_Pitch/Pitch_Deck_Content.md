@@ -1,3 +1,7 @@
+> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> Current source: [[Pitch Deck Outline]]
+
 ---
 project: Dproperty OS
 title: "Pitch Deck Content"

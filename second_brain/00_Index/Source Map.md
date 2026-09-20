@@ -10,40 +10,35 @@ tags: [research, sources]
 
 # Source Map
 
-## Canonical BluePrint sources — 2026-09-20 reset
+## Current canonical architecture
 
-- [[../04_Product/BluePrint/00 - README - Product Map|BluePrint v3.0 Product Map]] — controlling navigation.
-- [[../04_Product/BluePrint/01 - Product Constitution|Product Constitution]] — binding promise and boundaries.
-- [[../04_Product/BluePrint/02 - ICP and Jobs To Be Done|ICP and JTBD]] — target customer and economic job.
-- [[../04_Product/BluePrint/03 - Architecture and System Boundaries|Architecture]] — CRM/accounting/BluePrint separation.
-- [[../04_Product/BluePrint/05 - Data Trust Audit and Process Assurance|Trust & Process Assurance]] — verification, audit and glitches.
-- [[../04_Product/BluePrint/07 - MVP and Validation Plan|MVP & Validation]] — build/kill gates.
-- [[../04_Product/BluePrint/08 - Pricing and Packaging|Pricing]] — working commercial hypotheses.
-- [[../04_Product/BluePrint/09 - Competitive Positioning - GHL Odoo SAP|Competitive Positioning]] — GHL/Odoo/SAP framing.
-- [[../04_Product/BluePrint/11 - Decision Record - 2026-09-20|Decision Record]] — product reset rationale.
+- [[../18_Ecosystem/README|Ecosystem Start Here]]
+- [[../18_Ecosystem/00 - Ecosystem Master Map|Master Map]]
+- [[../18_Ecosystem/17 - Product and Channel Hierarchy|Product & Channel Hierarchy]]
+- [[../04_Product/BluePrint/00 - README - Product Map|BluePrint v3.0]]
+- [[../18_Ecosystem/03A - BlankCRM|BlankCRM]]
+- [[../18_Ecosystem/05 - VAULTED|VAULTED]]
+- [[../18_Ecosystem/14 - Unit Economics Registry|Economics Registry]]
+- [[../03_Pitch/Pitch Deck Outline|Current Investor Pitch]]
 
-## Canonical ecosystem sources
+## Technology boundaries
 
-- [[../18_Ecosystem/README|18_Ecosystem — Start Here]]
-- [[../18_Ecosystem/00 - Ecosystem Master Map|Ecosystem Master Map]]
-- [[../18_Ecosystem/12 - System of Record and Integration Matrix|System of Record Matrix]]
-- [[../18_Ecosystem/14 - Unit Economics Registry|Unit Economics Registry]]
+BluePrint — proprietary management/control layer.  
+GoHighLevel — third-party engine behind BlankCRM.  
+Open edX — Academy engine.  
+Accounting — ledger.  
+Drive/SharePoint — binary documents.  
+VAULTED — marketplace/network.
 
-## Technology boundary
+## Investor research still required
 
-- BluePrint — management/control layer.
-- GoHighLevel — optional/default CRM/front office.
-- Accounting system — authoritative ledger.
-- Drive/SharePoint/legal archive — binary document authority.
-- Open edX — Academy/LMS technology.
-- VAULTED — marketplace/network layer.
+- ICP-specific firm counts by country;
+- agency size distribution;
+- BluePrint willingness to pay;
+- Odoo/SAP implementation/comparable economics;
+- BlankCRM COGS/pricing;
+- VAULTED marketplace legal/take-rate/comparable economics;
+- founder/admin time-cost evidence;
+- pilot usage/retention/value metrics.
 
-## Research still required
-
-Before investor/public claims, validate:
-- willingness to pay and price elasticity;
-- comparable costs for Odoo/SAP/ERP implementations;
-- agency size distribution by country;
-- quantified founder/admin time burden;
-- pilot retention and usage;
-- TAM/SAM/SOM bottom-up by ICP rather than broad “real-estate firms.”
+All public/investor quantitative claims must distinguish **official data / company data / assumption / management target**.
