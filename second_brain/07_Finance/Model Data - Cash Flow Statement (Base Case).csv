@@ -1,0 +1,25 @@
+Cash Flow Item,Y1,Y2,Y3,Y4,Y5
+OPERATING CASH FLOW,,
+Net Income,543037.5,2372062.5,5529037.5,11473650,19201687.5
+Add: Depreciation & Amortization,20000,30000,40000,50000,60000
+Changes in Working Capital,-50000,-100000,-150000,-200000,-250000
+Operating Cash Flow,513037.5,2302062.5,5419037.5,11323650,19011687.5
+,,
+INVESTING CASH FLOW,,
+Capitalized Software Development,-100000,-80000,-100000,-150000,-200000
+Equipment & IT,-20000,-20000,-30000,-40000,-50000
+Investing Cash Flow,-120000,-100000,-130000,-190000,-250000
+,,
+FINANCING CASH FLOW,,
+Seed Capital - Tranche 1,350000,0,0,0,0
+Seed Capital - Tranche 2,0,300000,0,0,0
+Financing Cash Flow,350000,300000,0,0,0
+,,
+NET CHANGE IN CASH,743037.5,2502062.5,5289037.5,11133650,18761687.5
+,,
+Beginning Cash Balance,0,743037.5,3245100,8534137.5,19667787.5
+Ending Cash Balance,743037.5,3245100,8534137.5,19667787.5,38429475
+,,
+Key Cash Metrics:,,,,
+Months of Runway (at avg burn),infinite,infinite,infinite,infinite,infinite
+Cash Burn / Cash Received Ratio,59%,70%,positive,positive,positive

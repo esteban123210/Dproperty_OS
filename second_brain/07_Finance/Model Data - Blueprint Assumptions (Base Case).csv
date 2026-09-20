@@ -1,0 +1,14 @@
+Year,Y1,Y2,Y3,Y4,Y5
+Orgs (End of Year),50,150,350,850,1500
+New Orgs (Year),50,110,220,550,750
+Churn Rate (monthly),4%,4%,3%,3%,2%
+Solo % of Base,40%,30%,20%,15%,15%
+Growth % of Base,40%,45%,50%,50%,50%
+Pro % of Base,15%,20%,25%,30%,30%
+Enterprise % of Base,5%,5%,5%,5%,5%
+Solo Price,120,125,130,135,140
+Growth Price,350,375,400,425,450
+Pro Price,900,950,1000,1050,1100
+Enterprise Price (avg),2000,2200,2500,2800,3000
+Expansion Uplift (annual),10%,15%,20%,20%,20%
+Blueprint COGS %,15%,14%,13%,12%,12%

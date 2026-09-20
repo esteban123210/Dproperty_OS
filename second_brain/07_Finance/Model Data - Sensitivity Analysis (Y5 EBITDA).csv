@@ -1,0 +1,32 @@
+BluePrint Churn Rate Sensitivity (Y5 EBITDA Impact),2%,3% (Base),4%,5%,6%
+What if customers are stickier?,Y5 EBITDA,Y5 EBITDA,Y5 EBITDA,Y5 EBITDA,Y5 EBITDA
+Y5 Revenue Impact,38500000,35928000,33200000,30100000,27200000
+Y5 EBITDA,27800000,25662250,23500000,21000000,18500000
+Variance vs Base,+8%,Base,-8%,-18%,-28%
+,,,,
+VAULTED GMV Sensitivity (Y5 EBITDA Impact),750M (-50%),1500M (Base),2250M (+50%),3000M (+100%)
+What if marketplace scales differently?,Y5 EBITDA,Y5 EBITDA,Y5 EBITDA,Y5 EBITDA
+Y5 Revenue Impact,31200000,35928000,40656000,45384000
+Y5 EBITDA,23700000,25662250,29600000,33500000
+Variance vs Base,-8%,Base,+15%,+30%
+,,,,
+BluePrint Growth Sensitivity (Y5 Org Count),2.5x/yr (Slow),3.0x/yr (Base),3.5x/yr (Fast),4.0x/yr (Very Fast)
+What if CAC / acquisition is faster/slower?,Y5 Orgs,Y5 Orgs,Y5 Orgs,Y5 Orgs
+Y5 BluePrint Organizations,900,1500,2100,2700
+Y5 Blueprint ARR,4050000,8100000,12150000,16200000
+Y5 EBITDA,23500000,25662250,28000000,30500000
+Variance vs Base,-8%,Base,+9%,+19%
+,,,,
+OPEX Growth Sensitivity (Y5 EBITDA Impact),1.5x/yr (Efficient),1.73x/yr (Base),2.0x/yr (Wasteful)
+What if costs grow faster than planned?,Y5 OPEX,Y5 OPEX,Y5 OPEX
+Implied Y5 OPEX,2850000,3160000,3600000
+Y5 EBITDA,26100000,25662250,24300000
+Variance vs Base,+1.7%,Base,-5%
+,,,,
+CHURN vs ACQUISITION (2-Way Sensitivity: Y5 EBITDA),,,,
+Monthly Churn →,2%,4%,6%
+Blueprint Growth ↓ (Annual),,,,
+2.5x/yr,21500000,19200000,16800000
+3.0x/yr (Base),25662250,23500000,20800000
+3.5x/yr,29500000,27200000,24500000
+,,Best,Base,Worst

@@ -1,0 +1,23 @@
+{
+  "id": "conv-1787903970720-byjusmei6",
+  "providerId": "claude",
+  "title": "ok based on all you know now of the whole franchis...",
+  "titleGenerationStatus": "failed",
+  "createdAt": 1787903970720,
+  "updatedAt": 1789941743026,
+  "lastResponseAt": 1789513951108,
+  "sessionId": "99e2ea4e-316b-437c-aa12-d95d01cd17ea",
+  "providerState": {
+    "providerSessionId": "99e2ea4e-316b-437c-aa12-d95d01cd17ea"
+  },
+  "usage": {
+    "model": "opus",
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 31948,
+    "cacheReadInputTokens": 184864,
+    "contextWindow": 1000000,
+    "contextTokens": 216814,
+    "percentage": 22,
+    "contextWindowIsAuthoritative": true
+  }
+}
