@@ -2,71 +2,48 @@
 project: B_RealEstate
 title: "Source Map"
 type: source_map
-status: Baseline Created
+status: Active
 owner: Esteban
-last_updated: 2026-08-16
-source: ChatGPT baseline vault package
+last_updated: 2026-09-20
 tags: [research, sources]
 ---
 
 # Source Map
 
-This note tracks external sources and internal references used in the project.
+## Canonical BluePrint sources — 2026-09-20 reset
 
-## Internal Sources
+- [[../04_Product/BluePrint/00 - README - Product Map|BluePrint v3.0 Product Map]] — controlling navigation.
+- [[../04_Product/BluePrint/01 - Product Constitution|Product Constitution]] — binding promise and boundaries.
+- [[../04_Product/BluePrint/02 - ICP and Jobs To Be Done|ICP and JTBD]] — target customer and economic job.
+- [[../04_Product/BluePrint/03 - Architecture and System Boundaries|Architecture]] — CRM/accounting/BluePrint separation.
+- [[../04_Product/BluePrint/05 - Data Trust Audit and Process Assurance|Trust & Process Assurance]] — verification, audit and glitches.
+- [[../04_Product/BluePrint/07 - MVP and Validation Plan|MVP & Validation]] — build/kill gates.
+- [[../04_Product/BluePrint/08 - Pricing and Packaging|Pricing]] — working commercial hypotheses.
+- [[../04_Product/BluePrint/09 - Competitive Positioning - GHL Odoo SAP|Competitive Positioning]] — GHL/Odoo/SAP framing.
+- [[../04_Product/BluePrint/11 - Decision Record - 2026-09-20|Decision Record]] — product reset rationale.
 
-- Existing Dproperty agency knowledge and project experience.
-- Prior ChatGPT strategy conversations.
-- Existing Dproperty website and brand work.
-- Existing Dproperty pitch/business plan artifacts.
-- Existing Dproperty project list: Living Bioma, Boreal, SkyParc, X, Nayamara, Movao Barrio, Cava Rosa, Playa Escondida, Sartoriale/Gesti 65/66/68, Grupo Paseo del Sendero.
-- Existing Dproperty owners and team context.
+## Canonical ecosystem sources
 
-## Market / Business Assumptions to Verify
+- [[../18_Ecosystem/README|18_Ecosystem — Start Here]]
+- [[../18_Ecosystem/00 - Ecosystem Master Map|Ecosystem Master Map]]
+- [[../18_Ecosystem/12 - System of Record and Integration Matrix|System of Record Matrix]]
+- [[../18_Ecosystem/14 - Unit Economics Registry|Unit Economics Registry]]
 
-These assumptions have been used directionally and should be verified before legal/financial finalization:
+## Technology boundary
 
-- Panama real estate commission baseline often around 5%.
-- Colombia commission range often 3%–5%.
-- Franchise models commonly use launch fees, royalties, marketing/network fees, and brand standards.
-- GoHighLevel is useful as CRM/marketing automation, but not as the full operating system.
-- Microsoft Power Platform can be used for low-code internal MVPs.
-
-## Sources To Add Later
-
-Add actual links and citations here as research is finalized:
-
-| Topic | Source | URL | Used In | Verified? |
-|---|---|---|---|---|
-| Panama commission benchmarks | TBD | TBD | Unit Economics | No |
-| Colombia commission benchmarks | TBD | TBD | Unit Economics | No |
-| Franchise legal requirements | TBD | TBD | Legal Architecture | No |
-| GoHighLevel pricing | TBD | TBD | CRM Model | No |
-| Power Platform pricing | TBD | TBD | Product Build Plan | No |
-| PropTech market size | TBD | TBD | TAM/SAM/SOM | No |
-| Real estate franchise comps | TBD | TBD | Competition | No |
-
-
-## Canonical BluePrint Product Sources — 2026-08-16
-
-- [[../04_Product/BluePrint Product Map|BluePrint Product Map]] — product navigation and decision hierarchy.
-- [[../04_Product/BluePrint Product Constitution|BluePrint Product Constitution]] — binding product promise, ownership, CRM modes, entities, MVP and Copilot authority.
-- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|BluePrint Golden Workflow]] — screen-by-screen MVP journey and three-mode architecture test.
-
-## Canonical Ecosystem Sources — 2026-08-16
-
-- [[../18_Ecosystem/README|18_Ecosystem — Start Here]] — canonical architecture and component registry.
-- [[../18_Ecosystem/00 - Ecosystem Master Map|Ecosystem Master Map]] — full component/value-flow map.
-- [[../18_Ecosystem/12 - System of Record and Integration Matrix|System of Record Matrix]] — data ownership and integration boundaries.
-- [[../18_Ecosystem/14 - Unit Economics Registry|Unit Economics Registry]] — reconciliation gate for public/internal numbers.
-- [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|Website Audit]] — direct live-page inspection on 2026-08-16.
-- https://bfranchising.com — live B_RealEstate B2B website.
-
-## Technology Decisions
-
-- BluePrint — CRM-neutral B_RealEstate back-office operating platform; supports GoHighLevel, external CRM and direct-intake modes.
-- GoHighLevel — white-labeled CRM and marketing automation.
+- BluePrint — management/control layer.
+- GoHighLevel — optional/default CRM/front office.
+- Accounting system — authoritative ledger.
+- Drive/SharePoint/legal archive — binary document authority.
 - Open edX — Academy/LMS technology.
-- VAULTED — invitation-only off-market marketplace.
+- VAULTED — marketplace/network layer.
 
-- BluePrint Copilot — permission-aware MVP assistant using approved foundation-model APIs; deterministic services retain calculations and decisions.
+## Research still required
+
+Before investor/public claims, validate:
+- willingness to pay and price elasticity;
+- comparable costs for Odoo/SAP/ERP implementations;
+- agency size distribution by country;
+- quantified founder/admin time burden;
+- pilot retention and usage;
+- TAM/SAM/SOM bottom-up by ICP rather than broad “real-estate firms.”
