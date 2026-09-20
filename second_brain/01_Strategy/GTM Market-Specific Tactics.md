@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** These market tactics apply only if/when Dproperty franchise acquisition is an active channel priority; they do not define the BluePrint/VAULTED GTM.  
+> Current source of truth: [[../18_Ecosystem/17 - Product and Channel Hierarchy]]
+
 ---
 project: Dproperty OS
 title: "GTM Market-Specific Tactics"

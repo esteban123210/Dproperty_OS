@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Developer fee bases remain historical hypotheses until reconciled.  
+> Current source of truth: [[../18_Ecosystem/09 - Developer Sales Partner]] and [[../18_Ecosystem/14 - Unit Economics Registry]]
+
 ---
 project: Dproperty OS
 title: "Developer Pricing Model"

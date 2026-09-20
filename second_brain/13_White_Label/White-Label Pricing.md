@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Historical white-label pricing is not current until rebuilt from software + managed-service economics.  
+> Current source of truth: [[../18_Ecosystem/08 - White-Label Partner Model]] and [[../18_Ecosystem/14 - Unit Economics Registry]]
+
 ---
 project: Dproperty OS
 title: "White-Label Pricing"

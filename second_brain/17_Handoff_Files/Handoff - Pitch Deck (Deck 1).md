@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** This July franchise-first deck handoff is historical and must not be generated as the current investor deck.  
+> Current source of truth: [[../03_Pitch/Pitch Deck Outline]]
+
 ---
 project: Dproperty OS
 title: "Handoff - Pitch Deck (Deck 1)"

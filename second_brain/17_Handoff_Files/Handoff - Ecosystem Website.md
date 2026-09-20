@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** This website handoff describes the old three-door franchise-first information architecture and requires a product-led rewrite.  
+> Current source of truth: [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]]
+
 ---
 project: B_RealEstate
 title: "Handoff - Ecosystem Website"

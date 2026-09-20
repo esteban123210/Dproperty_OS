@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** This is a franchise-channel GTM playbook. It is not the company-wide product-led GTM strategy after the reset.  
+> Current source of truth: [[../18_Ecosystem/17 - Product and Channel Hierarchy]]
+
 ---
 project: Dproperty OS
 title: "Go-to-Market Strategy"
