@@ -4,7 +4,7 @@ title: "B_RealEstate Ecosystem - Project Context Brief"
 type: project_context
 status: Active
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-20
 source: Refreshed 2026-07-18 to match Decision Log (pricing, splits, projections, cap table, ecosystem reframe)
 tags: [ai-handoff, strategy, source-of-truth]
 ---
@@ -139,27 +139,38 @@ Framed as an internal venture budget from the existing owners, not an external s
 - **Esteban & Miguel are the operators.** Miguel: communications/creative (reports into Simon's org), salary **$0 for now** (comp via 15% equity). Esteban: strategy/management (reports into Luz Adriana's org), Co-founder & Venture Lead / Product & Strategy Lead; salary requirement ≥ **€5,000/month** — **restate as a USD figure (OPEN)**.
 - **Operator equity growth mechanism is under exploration:** protect investor capital first via a 1x liquidation preference / convertible shareholder instrument; let operators grow equity via a milestone-based earn-in / performance ratchet. Full proposal in [[Ownership & Investor Protection One-Pager]] (v0.1) — needs owner + lawyer sign-off before any cap-table change.
 
-## 11. BluePrint Product Architecture
+## 11. BluePrint Product Architecture — reset 2026-09-20
 
-Start in [[../04_Product/BluePrint Product Map|BluePrint Product Map]]. [[../04_Product/BluePrint Product Constitution|The Product Constitution]] is binding for the product promise, ownership boundaries, CRM modes, core entities, MVP and Copilot authority. [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|The Golden Workflow]] controls the MVP journey, routes, scenario tests and acceptance criteria.
+Start in [[../04_Product/BluePrint/00 - README - Product Map|BluePrint v3.0 Product Map]]. The prior transaction-spine model is superseded.
 
-BluePrint is a CRM-neutral, multi-tenant back-office operating platform. It converts qualified opportunities into controlled, documented and financially visible transactions while coordinating specialist systems. It supports:
+BluePrint is a **chat-first, AI-native management operating system for small and growing real-estate agencies**. The target is a sales-led agency whose founders are strong revenue generators but do not want to spend hours running administration or hire a large COO/CFO/operations structure.
 
-1. **Ecosystem Connected:** configured GoHighLevel handoff and optional B_RealEstate entitlements.
-2. **External CRM Connected:** standard API/webhook while the customer's CRM remains front-office source of truth.
-3. **BluePrint Direct:** guided form or CSV intake without CRM/marketing functionality.
+The economic promise is **one capable administrator + BluePrint + specialist systems**. BluePrint turns natural-language requests and external-system evidence into structured, validated and auditable back-office work.
 
-All three modes use one Intake, Transaction, state model, screen system and permission-aware Copilot. The MVP spine is: intake → transaction workspace → compliance → documents → human approval/signature handoff → closing → deterministic commission → report.
+BluePrint owns:
+- management truth and verification state;
+- management budgets, forecast and variance;
+- processes, SOPs, controls and process health;
+- Glitches/operational incidents, root cause and corrective action;
+- management actions, approvals and decisions;
+- governed company knowledge;
+- management reporting, period close and long-term audit;
+- reconciliation/exception handling across systems;
+- permission-aware management AI.
 
-The Copilot is included from MVP. It may retrieve/explain, summarize/analyze, create drafts from approved templates and prepare confirmed low-risk actions. It cannot approve, sign, pay, publish templates, waive controls or make regulated decisions. Calculations, permissions, filing, routing and gates remain deterministic.
+BluePrint does **not** own CRM, marketing automation, property/project/unit inventory, MLS, general ledger, payroll, tax, LMS, VAULTED marketplace or generic sales-agent work.
+
+Current pricing hypothesis: organization-level Core ~$299/month, Growth ~$599/month, Scale ~$999/month, plus possible onboarding. These figures are unvalidated and must not be presented as proven willingness-to-pay. See [[../04_Product/BluePrint/08 - Pricing and Packaging]].
 
 ## 12. CRM and External-System Role
 
-GoHighLevel is B_RealEstate's configured front-office CRM, but BluePrint does not require it. An independent agency may retain another CRM, and a small agency may use BluePrint Direct.
+GoHighLevel is the default/optional front-office CRM. It owns lead capture, communications, campaigns, appointments and agent-entered pipeline state. BluePrint may read that data, but it does not treat it as automatically verified corporate truth.
 
-The CRM owns lead capture, marketing source, conversations, campaigns, nurturing, appointments and pre-handoff qualification. BluePrint owns the operational Intake, Transaction, compliance workflow, template/document lineage, tasks, approvals, commission control, management reports and audit events. Shared fields retain external IDs, provenance, field ownership and synchronization direction.
+Accounting software remains the ledger. Bank/payment systems provide settlement evidence. Drive/SharePoint/legal archives hold binary documents. E-sign providers own signature evidence. BluePrint reconciles these sources into management truth and preserves provenance.
 
-Open edX owns course delivery; VAULTED owns marketplace discovery; specialist storage owns assigned files; e-signature owns the signing ceremony/evidence; accounting/payment providers own ledger and money movement. BluePrint stores governed references, status and the operational consequence.
+The core trust hierarchy is: **Reported → Operationally verified → Financially verified → Closed-period/final.**
+
+Open edX owns course delivery; VAULTED owns marketplace listings/engagement; Dproperty Select owns its curation decision and commercial rules.
 
 ## 13. Obsidian / File Ecosystem Decision
 

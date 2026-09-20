@@ -4,7 +4,7 @@ title: "Dproperty Select"
 type: ecosystem_component
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-20
 tags: [ecosystem, dproperty-select, inventory]
 ---
 
@@ -45,7 +45,7 @@ These rules supersede the historical 50/50 split and the former 2.0% white-label
 
 ## Workflow
 
-Project intake → due diligence → approved assumptions and commercial terms → HQ Select approval → authorized channels → client registration → BluePrint transaction → documents/projection approval → reservation/closing → deterministic payout and reporting.
+Project intake → due diligence → approved assumptions and commercial terms → HQ Select approval → authorized channels → client registration in the appropriate CRM/operating workflow → reservation/closing in the responsible transaction systems → payout and reporting. BluePrint may consume verified commercial/financial outcomes for management reporting, but it is not the project/unit or transaction system of record.
 
 ## KPIs
 

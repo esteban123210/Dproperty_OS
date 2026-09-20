@@ -2,9 +2,9 @@
 project: B_RealEstate
 title: "VAULTED"
 type: ecosystem_component
-status: Canonical draft v1.0
+status: Canonical draft v2.0
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-20
 tags: [ecosystem, vaulted, marketplace, off-market]
 ---
 
@@ -12,56 +12,43 @@ tags: [ecosystem, vaulted, marketplace, off-market]
 
 ## What it is
 
-VAULTED is the ecosystem's private, invitation-based off-market marketplace. It connects approved inventory and qualified demand across participating markets without turning sensitive opportunities into public portal listings.
+VAULTED is the ecosystem's private, invitation-based off-market marketplace/network. It connects eligible inventory and qualified demand while preserving discretion and attribution.
 
 ## What it is not
 
-- Not BluePrint's internal project database.
-- Not Dproperty Select; Select is an HQ-curated program, while VAULTED is the marketplace surface.
-- Not the public projects catalogue on bfranchising.com.
-- Not the legal or commercial source of truth for a transaction.
-- Not automatically available to every visitor or lead.
+- not BluePrint;
+- not BluePrint's property/project database — BluePrint no longer owns one;
+- not Dproperty Select;
+- not the legal/accounting transaction system;
+- not automatically open to every lead.
 
 ## Purpose
 
-Create controlled liquidity and network value from off-market inventory, partner listings and qualified cross-market demand while preserving discretion and access rules.
+Create network value and transaction-linked revenue from discovery, introductions and eligible sales across participating agencies/brokers/developers.
 
 ## Primary personas
 
-- Approved ecosystem broker seeking inventory.
-- Qualified investor seeking non-public opportunities.
-- Seller requiring discretion.
-- Franchise or white-label principal contributing eligible inventory.
-- HQ marketplace/curation manager.
+Approved broker/agency, qualified buyer/investor, seller/developer with eligible inventory, marketplace operator.
 
-## Inventory relationship
+## Data relationship
 
-BluePrint owns internal project intelligence, commercial terms, approvals and transaction execution. Dproperty Select owns the HQ curation decision for its program. VAULTED owns marketplace presentation, invitations, engagement and marketplace listing state. Each listing retains links to its BluePrint project/unit ID and, where applicable, its Dproperty Select approval.
+VAULTED owns marketplace listing state, access, invitations, engagement, match/introduction records and marketplace attribution.
 
-## Access model
+The listing/property information should come from the responsible listing/developer/partner source or a dedicated marketplace inventory service—not from BluePrint.
 
-Access is invitation-based and role/eligibility controlled. Public websites may show teasers but must not expose private prices, seller identity or restricted terms. A lead is qualified in GoHighLevel before an invitation is issued. Ecosystem operators should reach VAULTED through SSO or an identity-linked launcher.
+BluePrint may receive **verified marketplace outcomes** needed for management reporting (for example fee receivable, confirmed transaction, source attribution), but it does not execute the transaction.
 
-## Unit economics to decide
+## Monetization
 
-Possible revenue levers include membership/access fees, transaction or referral fees, premium listing/curation services and inclusion within higher ecosystem plans. None is yet canonical. Do not publish marketplace economics until the commercial and legal model is approved.
+A core revenue hypothesis is a **small commission/take rate on sales completed through the platform**, potentially combined later with access/membership/premium services.
+
+Do not model revenue as “all BluePrint customers × arbitrary GMV.” Build a funnel:
+eligible organizations → VAULTED activation → listings/matches → completed attributable transactions → GMV → effective take rate.
+
+## Critical marketplace risk
+
+Leakage/circumvention. VAULTED must earn its commission through attributable introductions, protected access, commission assurance, exclusive/privileged supply or integrated value—not simply by showing an opportunity that parties can take offline.
 
 ## KPIs
 
-- Approved members and active buyers.
-- Eligible listings and listing freshness.
-- Match, introduction and transaction rates.
-- Time to qualified match.
-- Cross-market transactions.
-- Confidentiality or permission incidents.
-- Revenue per completed marketplace transaction.
-
-## Open decisions
-
-- Legal owner/entity and jurisdiction.
-- Marketplace eligibility and invitation rules.
-- Listing verification and expiry.
-- Relationship between VAULTED and Dproperty Select branding.
-- Fee model and commission waterfall.
-- Seller/broker authorization and privacy requirements.
-
+Active participants, eligible listings, match rate, attributable transactions, GMV, take rate, leakage, time to match, revenue per transaction.

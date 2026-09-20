@@ -2,9 +2,9 @@
 project: B_RealEstate
 title: "Ecosystem Master Map"
 type: ecosystem_architecture
-status: Canonical v1.1
+status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-20
 tags: [ecosystem, architecture, map]
 ---
 
@@ -12,90 +12,65 @@ tags: [ecosystem, architecture, map]
 
 ## Strategic definition
 
-B_RealEstate is the parent real-estate operating ecosystem. It turns the knowledge, operating method, inventory access, commercial relationships, data and brand equity built through Dproperty into infrastructure that other operators can use under three commercial models: Dproperty franchise, white-label partnership, and developer sales partnership.
+B_RealEstate is the parent ecosystem. The business is increasingly structured around **independently sellable software/network products**, with franchising and white-label relationships functioning as distribution and operating channels rather than defining the software itself.
 
-The ecosystem is not a single app. It is a governed operating model in which each component has one clear job and exchanges controlled data with the others.
-
-## The ecosystem in one view
+## Ecosystem view
 
 ```mermaid
 flowchart TD
-    B["B_RealEstate — ecosystem and governance"]
-    B --> D["Commercial models"]
-    B --> T["Shared tools"]
-    B --> A["Shared assets"]
+    B["B_RealEstate — ecosystem/governance"]
+    B --> BP["BluePrint — AI management/back-office OS"]
+    B --> CRM["Configured CRM / GoHighLevel option"]
+    B --> VA["VAULTED — marketplace/network"]
+    B --> AC["Academy — learning/standards"]
+    B --> FR["B_Franchising — distribution/operating channel"]
+    B --> DP["Dproperty — flagship investment brand"]
 
-    D --> F["Dproperty franchise"]
-    D --> W["White-label partner"]
-    D --> V["Developer sales partner"]
-
-    T --> BP["BluePrint — back-office control plane"]
-    T --> CRM["GoHighLevel — front-office CRM"]
-    T --> EDU["B_Academy — Open edX"]
-    T --> VM["VAULTED — off-market marketplace"]
-
-    A --> DS["Dproperty Select"]
-    A --> PL["Process library, templates and network data"]
+    CRM --> BP
+    ACC["Accounting / Bank / Drive / E-sign"] --> BP
+    BP --> M["Verified management truth"]
+    VA --> GMV["Marketplace GMV / transaction fees"]
 ```
 
 ## Component map
 
-| Component | Job | Primary user | Source of truth for | Is not |
+| Component | Job | Primary buyer/user | Owns | Is not |
 |---|---|---|---|---|
-| B_RealEstate | Ecosystem governance, product portfolio, standards and partner growth | HQ and prospective partners | Brands, service lines, governance and network rules | A consumer property brand |
-| BluePrint | CRM-neutral, multi-tenant back-office operating platform | HQ, principals, operations, agents and independent agencies | Operational intake, transactions, compliance, document lineage, tasks, approvals, commissions, reports and audit | CRM, LMS, marketplace, Drive, e-signature or accounting system |
-| GoHighLevel | Front-office acquisition and communication | Sales and marketing teams | Leads, contacts, conversations, calendars, campaigns and pre-qualification pipeline | Legal, project, commission or document source of truth |
-| B_Academy / Open edX | Learning delivery and assessment | Franchise and partner teams | Courses, lessons, assessments and learning activity | Operations manual repository or user-permission engine |
-| VAULTED | Private off-market discovery and exchange | Approved brokers, investors and ecosystem members | Marketplace listings, invitations and marketplace engagement | Internal project underwriting or transaction back office |
-| Dproperty Select | HQ-curated, investment-grade inventory program | Dproperty and eligible partner channels | Curation decision, approved terms and access rules | An open catalogue editable by franchisees |
-| Dproperty | Flagship investment brand | Investors and branded franchisees | Flagship brand promise and investment-only positioning | Parent company or generic residential brand |
-| White-label | Partner model under the partner's own brand | Established boutique agencies | Partner's brand and local client proposition | Discount Dproperty franchise |
-| Developer Sales Partner | Dedicated commercial team and operating system for developers | Developers | Project sales operating mandate and reporting | Generic broker distribution or temporary outsourced desk |
-| DpropertyLiving | Proposed end-user/lifestyle extension shown on live site | Homebuyers and Dproperty-originated end users | Not yet decided | A fourth ecosystem entry model until formally approved |
+| **BluePrint** | Chat-first management control/back-office operating system | Small/growing agencies; owner + administrator | Management truth, budgets, processes, glitches, management actions, reporting, audit | CRM, ERP ledger, property inventory, marketplace |
+| **GoHighLevel / configured CRM** | Front-office acquisition, communication and sales workflow | Sales/marketing teams | Leads, conversations, campaigns, appointments, agent pipeline state | Corporate truth or accounting system |
+| **VAULTED** | Private marketplace/network for inventory and demand | Approved brokers/agencies/investors | Marketplace listings, access, introductions, engagement and marketplace attribution | BluePrint database or Dproperty Select |
+| **Academy** | Learning, standards and certification | Operators/teams | Courses, learning activity, assessments | Management OS |
+| **B_Franchising** | Distribution/brand/operating model | Franchise principals | Franchise relationship, brand standards and support model | The core software product |
+| **Dproperty** | Flagship investment real-estate brand | Investors/franchisees | Brand/client proposition | Parent ecosystem |
+| **Dproperty Select** | HQ-curated inventory program | Dproperty/eligible partners | Curation decisions, approved terms/access rules | Open marketplace |
 
-## Value flows
+## Core flows
 
-### Demand flow
+### Sales/front-office flow
+Demand → CRM → sales activity/pipeline. BluePrint may read management-relevant outcomes, but sales execution remains in CRM.
 
-Public site or campaign → GoHighLevel/external CRM qualification, or BluePrint Direct intake → normalized BluePrint Intake → transaction → project/unit match → compliance → documents/approval → closing → commission and reporting → permitted milestones returned to the source CRM.
+### Management-control flow
+CRM + accounting + bank/payment + documents + human reports → BluePrint provenance/verification → budgets/process controls/incidents/actions → management reports/decisions.
 
-### Inventory flow
-
-Developer/project intake → BluePrint due diligence and commercial terms → Dproperty Select approval where applicable → controlled publication to VAULTED and relevant partner channels → buyer activity → BluePrint transaction.
+### VAULTED network flow
+Eligible listing/supply → VAULTED → qualified discovery/introduction → transaction executed through responsible parties/systems → marketplace attribution/fee → verified outcome may feed BluePrint management reporting.
 
 ### Capability flow
-
-Role assigned in BluePrint → required learning path assigned in Open edX → completion/certification returned to BluePrint → permission or readiness gate updated.
-
-### Knowledge flow
-
-Transactions and exceptions in BluePrint → anonymized benchmarks and process improvements → updated manuals/templates/training → improved execution across the network.
-
-## Commercial doors
-
-1. **Dproperty franchise:** operate under the flagship investment brand.
-2. **White-label partner:** keep or build the partner's own brand using B_RealEstate infrastructure.
-3. **Developer Sales Partner:** use a dedicated commercial team and system across the developer's portfolio.
-
-DpropertyLiving is documented separately because the live site presents it as a brand, but it must not be treated as a fourth commercial door until ownership, positioning, economics and brand rules are approved.
+Academy teaches standards and roles; BluePrint can reference certification/readiness where useful, but the LMS remains separate.
 
 ## Design principles
 
-1. One source of truth per object.
-2. Data first, documents second.
-3. Automation first; AI only where language work benefits.
-4. Human approval for legal, financial and client-facing commitments.
-5. One identity, role-gated experiences and clear tenant isolation.
-6. No uncontrolled duplicate entry between GoHighLevel or another CRM, BluePrint, Open edX and VAULTED.
-7. Build the transaction spine before secondary modules.
+1. One authority per data class.
+2. BluePrint does not rebuild CRM or accounting.
+3. Human language can be the interface; structured records remain underneath.
+4. CRM data is reported evidence, not automatically corporate truth.
+5. Human approval for financial/legal/sensitive consequences.
+6. Independent BluePrint customers must have tenant isolation from franchise commercial operations.
+7. Prove the management-control wedge before adding breadth.
 
-## Canonical related files
+## Canonical BluePrint sources
 
-- [[../04_Product/BluePrint Product Map]]
-- [[../04_Product/BluePrint Product Constitution]]
-- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation]]
+- [[../04_Product/BluePrint/00 - README - Product Map]]
+- [[../04_Product/BluePrint/01 - Product Constitution]]
+- [[../04_Product/BluePrint/07 - MVP and Validation Plan]]
 - [[12 - System of Record and Integration Matrix]]
-- [[13 - Personas and Jobs to Be Done]]
-- [[14 - Unit Economics Registry]]
-- [[16 - Roadmap and Governance]]
-
