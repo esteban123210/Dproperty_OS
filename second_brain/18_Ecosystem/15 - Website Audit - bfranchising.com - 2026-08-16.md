@@ -1,3 +1,5 @@
+> **2026-09-20 update:** This audit remains useful evidence about the live site's problems, but the strategy has moved further. The site now needs a **product-led rewrite** around BluePrint / BlankCRM / VAULTED, with Dproperty Franchise / B_ Partner / Developer Partnerships presented as adoption channels. DpropertyLiving is parked and the physical-hub story is not a near-term headline. See [[11 - Web Presence and Funnel Architecture]].
+
 ---
 project: B_RealEstate
 title: "Website Audit - bfranchising.com - 2026-08-16"

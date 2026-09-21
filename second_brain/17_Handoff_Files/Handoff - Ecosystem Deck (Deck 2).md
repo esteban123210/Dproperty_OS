@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** The physical-hub vision is now a long-term optional appendix, not a current raise thesis.  
+> Current source of truth: [[../03_Pitch/Pitch Deck Outline]]
+
 ---
 project: Dproperty OS
 title: "Handoff - Ecosystem Deck (Deck 2)"

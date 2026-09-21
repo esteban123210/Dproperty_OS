@@ -2,100 +2,71 @@
 project: B_RealEstate
 title: "Ecosystem Master Map"
 type: ecosystem_architecture
-status: Canonical v1.1
+status: Canonical v3.0
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-20
 tags: [ecosystem, architecture, map]
 ---
 
 # B_RealEstate — Ecosystem Master Map
 
-## Strategic definition
+## One-sentence definition
 
-B_RealEstate is the parent real-estate operating ecosystem. It turns the knowledge, operating method, inventory access, commercial relationships, data and brand equity built through Dproperty into infrastructure that other operators can use under three commercial models: Dproperty franchise, white-label partnership, and developer sales partnership.
+**B_ is operating infrastructure for real-estate businesses: BlankCRM helps the team sell, BluePrint helps management run the company, and VAULTED connects the company to a transaction network.**
 
-The ecosystem is not a single app. It is a governed operating model in which each component has one clear job and exchanges controlled data with the others.
-
-## The ecosystem in one view
+## Core architecture
 
 ```mermaid
-flowchart TD
-    B["B_RealEstate — ecosystem and governance"]
-    B --> D["Commercial models"]
-    B --> T["Shared tools"]
-    B --> A["Shared assets"]
+flowchart LR
+    C["Clients / Leads"] --> CRM["BlankCRM
+powered by GoHighLevel"]
+    CRM --> BP["BluePrint
+Management OS"]
+    EXT["Accounting · Bank · Drive · E-sign"] --> BP
+    CRM <--> VA["VAULTED
+Private marketplace/network"]
+    VA --> BP
+    AC["Academy
+Standards & training"] --> BP
 
-    D --> F["Dproperty franchise"]
-    D --> W["White-label partner"]
-    D --> V["Developer sales partner"]
+    FR["Dproperty Franchise"] --> CRM
+    FR --> BP
+    FR --> VA
 
-    T --> BP["BluePrint — back-office control plane"]
-    T --> CRM["GoHighLevel — front-office CRM"]
-    T --> EDU["B_Academy — Open edX"]
-    T --> VM["VAULTED — off-market marketplace"]
+    PT["B_ Partner"] --> CRM
+    PT --> BP
+    PT --> VA
 
-    A --> DS["Dproperty Select"]
-    A --> PL["Process library, templates and network data"]
+    DEV["Developer Partnerships"] --> VA
+    DEV --> CRM
 ```
 
-## Component map
+## Product hierarchy
 
-| Component | Job | Primary user | Source of truth for | Is not |
-|---|---|---|---|---|
-| B_RealEstate | Ecosystem governance, product portfolio, standards and partner growth | HQ and prospective partners | Brands, service lines, governance and network rules | A consumer property brand |
-| BluePrint | CRM-neutral, multi-tenant back-office operating platform | HQ, principals, operations, agents and independent agencies | Operational intake, transactions, compliance, document lineage, tasks, approvals, commissions, reports and audit | CRM, LMS, marketplace, Drive, e-signature or accounting system |
-| GoHighLevel | Front-office acquisition and communication | Sales and marketing teams | Leads, contacts, conversations, calendars, campaigns and pre-qualification pipeline | Legal, project, commission or document source of truth |
-| B_Academy / Open edX | Learning delivery and assessment | Franchise and partner teams | Courses, lessons, assessments and learning activity | Operations manual repository or user-permission engine |
-| VAULTED | Private off-market discovery and exchange | Approved brokers, investors and ecosystem members | Marketplace listings, invitations and marketplace engagement | Internal project underwriting or transaction back office |
-| Dproperty Select | HQ-curated, investment-grade inventory program | Dproperty and eligible partner channels | Curation decision, approved terms and access rules | An open catalogue editable by franchisees |
-| Dproperty | Flagship investment brand | Investors and branded franchisees | Flagship brand promise and investment-only positioning | Parent company or generic residential brand |
-| White-label | Partner model under the partner's own brand | Established boutique agencies | Partner's brand and local client proposition | Discount Dproperty franchise |
-| Developer Sales Partner | Dedicated commercial team and operating system for developers | Developers | Project sales operating mandate and reporting | Generic broker distribution or temporary outsourced desk |
-| DpropertyLiving | Proposed end-user/lifestyle extension shown on live site | Homebuyers and Dproperty-originated end users | Not yet decided | A fourth ecosystem entry model until formally approved |
+| Product | Core job | Strategic role |
+|---|---|---|
+| **BluePrint** | Run/control the company | Proprietary SaaS/IP |
+| **BlankCRM** | Generate, organize and convert demand | Attach/acquisition product; third-party engine |
+| **VAULTED** | Access/match network supply and demand | Network effect + GMV/take-rate upside |
+| **Academy** | Teach standards and close capability gaps | Retention/quality/enablement |
 
-## Value flows
+## Distribution and monetization channels
 
-### Demand flow
+| Channel | Role |
+|---|---|
+| **Dproperty Franchise** | Branded, vertically integrated deployment of the stack |
+| **B_ Partner** | Managed stack/operating model under customer's own brand |
+| **Developer Partnerships** | Revenue + supply + distribution + product learning |
+| **Direct SaaS** | BluePrint and/or BlankCRM sold to independent agencies |
+| **VAULTED network** | Marketplace participation independent of franchise status where eligible |
 
-Public site or campaign → GoHighLevel/external CRM qualification, or BluePrint Direct intake → normalized BluePrint Intake → transaction → project/unit match → compliance → documents/approval → closing → commission and reporting → permitted milestones returned to the source CRM.
+## Strategic assets
 
-### Inventory flow
+- **Dproperty** — flagship investment brand/testbed/distribution.
+- **Dproperty Select** — HQ-curated opportunities; may appear as a curated collection inside VAULTED.
+- Existing developer/broker/investor relationships — cold-start advantage.
+- Second Brain/process library — internal institutional knowledge; feeds product/Academy but is not a customer product.
 
-Developer/project intake → BluePrint due diligence and commercial terms → Dproperty Select approval where applicable → controlled publication to VAULTED and relevant partner channels → buyer activity → BluePrint transaction.
+## Long-term option
 
-### Capability flow
-
-Role assigned in BluePrint → required learning path assigned in Open edX → completion/certification returned to BluePrint → permission or readiness gate updated.
-
-### Knowledge flow
-
-Transactions and exceptions in BluePrint → anonymized benchmarks and process improvements → updated manuals/templates/training → improved execution across the network.
-
-## Commercial doors
-
-1. **Dproperty franchise:** operate under the flagship investment brand.
-2. **White-label partner:** keep or build the partner's own brand using B_RealEstate infrastructure.
-3. **Developer Sales Partner:** use a dedicated commercial team and system across the developer's portfolio.
-
-DpropertyLiving is documented separately because the live site presents it as a brand, but it must not be treated as a fourth commercial door until ownership, positioning, economics and brand rules are approved.
-
-## Design principles
-
-1. One source of truth per object.
-2. Data first, documents second.
-3. Automation first; AI only where language work benefits.
-4. Human approval for legal, financial and client-facing commitments.
-5. One identity, role-gated experiences and clear tenant isolation.
-6. No uncontrolled duplicate entry between GoHighLevel or another CRM, BluePrint, Open edX and VAULTED.
-7. Build the transaction spine before secondary modules.
-
-## Canonical related files
-
-- [[../04_Product/BluePrint Product Map]]
-- [[../04_Product/BluePrint Product Constitution]]
-- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation]]
-- [[12 - System of Record and Integration Matrix]]
-- [[13 - Personas and Jobs to Be Done]]
-- [[14 - Unit Economics Registry]]
-- [[16 - Roadmap and Governance]]
-
+A physical real-estate innovation hub may remain a future expression of the network, but the software/network business must be valuable and defensible without it.

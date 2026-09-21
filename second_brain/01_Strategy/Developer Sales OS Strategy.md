@@ -1,65 +1,22 @@
 ---
-project: Dproperty OS
-title: "Developer Sales OS Strategy"
+project: B_RealEstate
+title: "Developer Partnerships Strategy"
 type: strategy_note
-status: Baseline Created
+status: Reframed 2026-09-20
 owner: Esteban
-last_updated: 2026-07-01
-source: ChatGPT baseline vault package
-tags: [strategy]
+last_updated: 2026-09-20
+tags: [strategy, developer, channel]
 ---
 
-# Developer Sales OS Strategy
+# Developer Partnerships Strategy
 
-Developer Sales OS is a product for real estate developers who have projects but weak sales operations.
+Developer Sales OS is no longer framed as an equal standalone product.
 
-## Problem
+Developer Partnerships serve:
+1. revenue;
+2. VAULTED supply;
+3. Dproperty Select sourcing;
+4. distribution into sales organizations;
+5. product learning/case studies.
 
-Developers may have:
-
-- A building/project.
-- Marketing materials.
-- Some salespeople.
-- Broker contacts.
-
-But often lack:
-
-- Pipeline discipline.
-- CRM structure.
-- Broker follow-up process.
-- Reporting.
-- Sales scripts.
-- Investor qualification.
-- Team training.
-- Project launch rhythm.
-- Accountability.
-
-## Dproperty's Offer
-
-Dproperty can provide:
-
-- Sales team training.
-- CRM setup.
-- Broker network activation.
-- Sales scripts.
-- Weekly pipeline review.
-- Project presentation structure.
-- Investor projection support.
-- Reporting dashboard.
-- Buyer journey.
-- Dproperty/network-sourced clients.
-
-## Pricing Logic
-
-Do not price only as 10% of salesperson commission. Use gross sales value.
-
-Recommended options:
-
-- 0.5% of gross sale value on developer-team sales where Dproperty manages/trains.
-- 2.5%–3% of gross sale value on Dproperty/network-sourced sales.
-- $3,000–$5,000/month managed sales desk minimum.
-- Optional exclusive sales partner model with larger commission pool.
-
-## Why It Is Strategic
-
-Developer Sales OS creates access to inventory, revenue, credibility, case studies, and potential Private Collection projects.
+Managed sales/CRM/training/reporting services can still be sold. Commercial economics remain separate from BluePrint SaaS and must be defined on a clear fee base.

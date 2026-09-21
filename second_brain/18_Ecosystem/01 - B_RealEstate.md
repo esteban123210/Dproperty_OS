@@ -2,9 +2,9 @@
 project: B_RealEstate
 title: "B_RealEstate"
 type: ecosystem_component
-status: Canonical v1.0
+status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-20
 tags: [ecosystem, parent-brand, company]
 ---
 
@@ -12,71 +12,53 @@ tags: [ecosystem, parent-brand, company]
 
 ## What it is
 
-B_RealEstate is the parent company and operating ecosystem for boutique real-estate businesses. It owns and governs the shared method, BluePrint platform, Academy relationship, network standards, partner programs, ecosystem data rules and commercial architecture.
+B_RealEstate is the parent company for a **product-led real-estate operating infrastructure ecosystem**.
 
-Its public B2B website is https://bfranchising.com.
+Its core thesis is not “sell franchises.” It is to build products and a network that help independent real-estate businesses sell, operate and connect more effectively.
 
-## What it is not
+## Core products
 
-- Not the consumer-facing investment brand; that is Dproperty.
-- Not the software product; that is BluePrint.
-- Not a conventional volume franchise seller.
-- Not a marketplace; that is VAULTED.
-- Not an agency that must appear in front of every white-label client's customer.
+- [[02 - BluePrint|BluePrint]] — proprietary management OS.
+- [[03A - BlankCRM|BlankCRM]] — front office powered by GoHighLevel.
+- [[05 - VAULTED|VAULTED]] — marketplace/network.
+- [[04 - B_Academy - Open edX|Academy]] — standards/enablement.
 
-## Purpose
+## Channels
 
-Enable capable operators to launch or professionalize a real-estate company without building the back office, technology, training, inventory relationships and process library from zero.
-
-## Brand idea
-
-`B_` is the core visual and semantic device. The underscore is a place where the ecosystem can insert a role, capability or future metaphor. The parent name is written **B_RealEstate**. Avoid variants such as B Real Estate, B.RealEstate or B_ RealEstate in canonical metadata unless required by the final logo lockup.
-
-## Clientele
-
-1. Agents or operators ready to launch a Dproperty investment franchise.
-2. Established boutique agencies that want infrastructure under their own brand.
-3. Developers that need a dedicated, repeatable sales operation.
-
-## Primary buyer persona
-
-An ambitious operator with market relationships and selling ability who is constrained by administration, compliance, technology, documentation and operating discipline rather than by willingness to sell.
+- Dproperty Franchise.
+- B_ Partner (managed own-brand package).
+- Developer Partnerships.
+- Direct SaaS.
+- Marketplace participation.
 
 ## Value proposition
 
-Join an operating ecosystem and choose how much of the flagship brand to use. Receive the method, back-office platform, CRM configuration, Academy, inventory access, templates, reporting and implementation support appropriate to the chosen model.
+A sales-led real-estate business should not need to become an ERP expert or build a heavy management hierarchy just to operate professionally.
 
-## Business model
+B_ provides:
+- front-office sales infrastructure;
+- AI-native management control;
+- standards and training;
+- network access/opportunity flow.
 
-B_RealEstate earns through a portfolio of launch/setup fees, recurring software/service fees, royalties or performance fees, retained commission on shared inventory, and developer commercial agreements. Exact economics are controlled in [[14 - Unit Economics Registry]].
+## Economic hierarchy
 
-## Core responsibilities
+Primary: **BluePrint SaaS**.  
+Attach: **BlankCRM subscription/resale margin**.  
+Network upside: **VAULTED transaction take rate**.  
+Channel/service economics: franchise, B_ Partner, developer partnerships and Select.
 
-- Ecosystem strategy and capital allocation.
-- Brand and product governance.
-- Partner selection and onboarding.
-- BluePrint product ownership.
-- Data governance and tenant standards.
-- Network inventory and Dproperty Select governance.
-- Shared legal/template standards.
-- Cross-network reporting and improvement.
+## What it is not
 
-## Key KPIs
+- not a conventional franchise company;
+- not an all-in-one ERP;
+- not a single shared database;
+- not a physical-hub development company;
+- not dependent on customers adopting Dproperty branding.
 
-- Active partners by model and market.
-- Time from signed agreement to operational readiness.
-- Partner retention and recurring revenue.
-- Qualified-to-close conversion and transaction volume.
-- BluePrint weekly active usage and data completeness.
-- Dproperty Select usage and retained economics.
-- Academy certification completion.
-- Partner contribution margin and HQ support load.
+## Core proof required
 
-## Dependencies and risks
-
-- Trademark/domain clearance for B_RealEstate and BluePrint.
-- Local-market legal packs and counsel approval.
-- Accurate economics across website, legal templates and financial model.
-- Integration reliability and one-owner data governance.
-- Clear separation between Dproperty proof and B_RealEstate's own track record.
-
+1. Agencies pay for BluePrint's management leverage.
+2. BlankCRM can acquire/attach without distracting from proprietary IP.
+3. VAULTED can create attributable transactions without leakage destroying economics.
+4. Existing relationships materially reduce GTM/network cold start.

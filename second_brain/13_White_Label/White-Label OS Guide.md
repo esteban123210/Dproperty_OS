@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** White-label is now B_ Partner, a managed own-brand channel/package—not a standalone software product.  
+> Current source of truth: [[../18_Ecosystem/08 - White-Label Partner Model]]
+
 ---
 project: Dproperty OS
 title: "White-Label OS Guide"

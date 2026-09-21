@@ -2,62 +2,36 @@
 project: B_RealEstate
 title: "B_Academy - Open edX"
 type: ecosystem_component
-status: Canonical v1.0
+status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-20
 tags: [ecosystem, academy, open-edx, training]
 ---
 
-# B_Academy — Open edX
+# Academy — Enablement Layer
 
-## What it is
+## Role
 
-B_Academy is the ecosystem learning layer delivered on the open-source Open edX platform. The final public product name may remain “Academy” or adopt a `B_` derivative; until decided, use **B_Academy / Open edX** internally.
+Academy is the **standards, training and certification layer** of B_. It is powered by Open edX.
 
-## What it is not
+It is useful because BluePrint can connect real operating weaknesses to learning—not because an LMS itself is defensible IP.
 
-- Not a folder of PDFs.
-- Not the source of truth for operational permissions or employment records.
-- Not the process library itself; training packages approved process content for learning.
-- Not a replacement for live coaching and local legal instruction.
+## Product hierarchy
 
-## Purpose
+Academy is **not a headline standalone startup in the current investor thesis**. Default commercial role: bundled enablement/retention, with premium/custom training possible later.
 
-Make the Dproperty method teachable, assessable and repeatable across markets while letting BluePrint verify who is ready to perform controlled actions.
+## Closed loop
 
-## Primary users
+Process/SOP → execution → BluePrint Glitch/process-health signal → identified capability gap → Academy module/coaching → later operating outcome.
 
-Franchise principals, sales advisors, operations coordinators, white-label teams, developer sales teams and HQ trainers.
+## Users
 
-## Learning architecture
+Administrators, owners/managers, sales teams, franchise/partner teams and developer teams where relevant.
 
-- Ecosystem and brand onboarding.
-- Sales Advisor Certification.
-- Investment and Projection Certification.
-- Documents and Compliance Certification.
-- Project and Developer Sales Certification.
-- Operations Coordinator track.
-- Principal/owner management track.
-- Local-market packs and required legal modules.
+## Boundaries
 
-## Integration with BluePrint
+Open edX owns learning activity and assessments. BluePrint owns management/process truth. Academy never becomes the process system of record.
 
-BluePrint provisions the user and assigns the required track based on role, model and market. Open edX owns course activity and assessment results. Completion, certification and expiry return to BluePrint. BluePrint may gate high-risk actions based on valid certification, but the Academy does not grant platform permissions directly.
+## Metrics
 
-## Unit economics
-
-Academy access is bundled into ecosystem plans. Cost drivers include hosting, implementation, content production, course maintenance, translation/localization, live facilitation and support. Separate these from software-development cost. Premium custom developer training can be sold as an add-on.
-
-## KPIs
-
-- Onboarding completion before launch.
-- Certification pass and expiry rates.
-- Time to role readiness.
-- Completion by tenant and role.
-- Relationship between certification and conversion/compliance outcomes.
-- Content freshness and local-pack coverage.
-
-## Governance
-
-The process library remains the master source. Courses link back to controlled processes and versions. Local counsel must approve jurisdiction-specific legal/compliance modules before market launch.
-
+Onboarding completion, readiness, assessment performance, training triggered by operating failures, and whether performance improves after intervention.

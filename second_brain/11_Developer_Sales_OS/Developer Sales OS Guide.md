@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Developer Sales OS is now treated as a developer partnership/revenue/supply/distribution channel, not an equal software product.  
+> Current source of truth: [[../18_Ecosystem/09 - Developer Sales Partner]]
+
 ---
 project: Dproperty OS
 title: "Developer Sales OS Guide"

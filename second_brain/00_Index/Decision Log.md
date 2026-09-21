@@ -4,7 +4,7 @@ title: "Decision Log"
 type: decision_log
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-08-26
+last_updated: 2026-09-20
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [decisions, source-of-truth]
 ---
@@ -483,3 +483,74 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Status:** Active. Supersedes the 2026-08-16 "Golden Workflow Is the BluePrint MVP Spine" decision **as to sequencing only** — the Golden Workflow remains the binding Release 2 specification and its content is unchanged. The 2026-08-16 Copilot authority decision (AI-0 to AI-4) is unchanged and now sits at Constitution §11.
 
 **Build specification:** [[../04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff)|BluePrint Wireframe — Back Office OS (Developer Handoff)]].
+
+
+## 2026-09-20 — Company Reset: Product-Led Operating Infrastructure
+
+**Decision:** B_RealEstate is no longer framed primarily as a franchising ecosystem. It is a **real-estate operating-infrastructure company** organized around independently sellable products and a network: BluePrint, BlankCRM, VAULTED and Academy. Dproperty franchising, B_ Partner/white-label relationships and developer partnerships are distribution/revenue channels, not the definition of the company.
+
+**Reason:** The prior structure made the venture look like several unrelated businesses and forced BluePrint into transaction/ERP functionality. The new hierarchy creates one coherent product thesis, clearer capital allocation and a better path to SaaS/network economics.
+
+**Impacted areas:** Strategy, ecosystem architecture, pitch, website, TAM/SAM/SOM, financial model, GTM, roadmap.
+
+**Status:** Active.
+
+## 2026-09-20 — BluePrint Is the Proprietary Management OS
+
+**Decision:** BluePrint is the proprietary, chat-first AI management/back-office operating system for sales-led real-estate SMEs. It does **not** own CRM, properties/projects/units, MLS, full transaction execution, general ledger, payroll or tax.
+
+**Economic promise:** one capable administrator + BluePrint + specialist systems should let an agency operate with materially stronger management discipline without prematurely hiring a COO/CFO/operations stack.
+
+**Status:** Active. Canonical folder: [[../04_Product/BluePrint/00 - README - Product Map]].
+
+## 2026-09-20 — BlankCRM Created as Commercial Front-Office Product
+
+**Decision:** Create **BlankCRM** as B_'s configured real-estate CRM product, powered by GoHighLevel. It is transparent third-party infrastructure, not proprietary core IP.
+
+**Role:** lead capture, communication, marketing automation, calendars, follow-up, agent pipeline and sales activity. It can be sold alone or attached to BluePrint. BluePrint must remain CRM-agnostic.
+
+**Status:** Active product definition; pricing/economics still to validate.
+
+## 2026-09-20 — VAULTED Elevated to Network/Marketplace Engine
+
+**Decision:** VAULTED remains separate from BluePrint and owns private marketplace inventory, access, matching, introductions, attribution and transaction-linked marketplace economics.
+
+**Primary monetization hypothesis:** small take rate/commission on attributable transactions completed through the platform. Membership/premium layers are optional later.
+
+**Critical validation:** liquidity, attribution and leakage/circumvention.
+
+**Status:** Active hypothesis; economics not yet validated.
+
+## 2026-09-20 — Academy Is an Enablement Layer, Not a Headline Startup
+
+**Decision:** Academy remains in the ecosystem but is primarily bundled training, standards and certification. It supports BluePrint/process improvement and partner readiness; it is not a core standalone venture thesis at this stage.
+
+**Status:** Active.
+
+## 2026-09-20 — Franchising, B_ Partner and Developer Partnerships Become Channels
+
+**Decision:** Dproperty Franchise is a vertically integrated distribution/operating channel; white-label is reframed as **B_ Partner**, a managed operating package under the customer's own brand; Developer Partnerships are a supply/revenue/distribution channel.
+
+**Status:** Active.
+
+## 2026-09-20 — DpropertyLiving Parked
+
+**Decision:** DpropertyLiving is parked and removed from the active ecosystem/pitch until a separate strategic case is approved.
+
+**Status:** Parked.
+
+## 2026-09-20 — Physical Hub Downgraded to Long-Term Option
+
+**Decision:** The Station F / 19M-style physical hub remains a long-term north-star possibility only. It is not the current investable thesis, moat, funding use or Phase-2 commitment.
+
+**Reason:** The digital software/network flywheel must stand on its own without a physical real-estate project.
+
+**Status:** Long-term option only.
+
+## 2026-09-20 — Old Market Size, Forecast and Funding Ask Retired
+
+**Decision:** The prior 600k TAM / 100k SAM / 1,500 SOM exploration, the earlier franchise-based SOM, the 5-franchise/20-white-label/15-developer five-year forecast, the $1.59M–$1.89M Y5 revenue forecast and the $650k funding plan are **historical models, not current investor guidance**.
+
+**Next model:** bottom-up ICP-specific TAM/SAM/SOM; SaaS customer/ARPA/retention model; BlankCRM attach; VAULTED activation/GMV/take rate; channel economics; milestone-based capital plan.
+
+**Status:** Active reset; rebuild required before investor-grade claims.

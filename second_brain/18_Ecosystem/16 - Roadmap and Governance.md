@@ -2,81 +2,59 @@
 project: B_RealEstate
 title: "Ecosystem Roadmap and Governance"
 type: governance_roadmap
-status: Canonical v1.1
+status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-20
 tags: [ecosystem, roadmap, governance]
 ---
 
 # Ecosystem Roadmap and Governance
 
-## Phase 0 — Decision cleanup
+## Phase 0 — Investor/product reset
 
-- Lock B_RealEstate and BluePrint legal/trademark/domain status.
-- Approve the unit-economics registry and one public pricing basis.
-- Decide DpropertyLiving status.
-- Define VAULTED ownership, eligibility and fee model.
-- Record Open edX as the Academy technology choice.
-- Reconcile Dproperty Select terms in operational files and signed agreements.
+- lock current product/channel hierarchy;
+- create BlankCRM definition/economics;
+- rebuild investor deck;
+- rebuild ICP-specific TAM/SAM/SOM;
+- retire old forecast/funding ask from current guidance;
+- rewrite website architecture;
+- define VAULTED attribution/take-rate/legal model.
 
-## Phase 1 — Golden workflow
+## Phase 1 — Prove BluePrint wedge
 
-**Architecture definition completed 2026-08-16:** [[../04_Product/BluePrint Product Constitution|Product Constitution]] and [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|Golden Workflow]] now control the product boundary and MVP journey.
+Build/prototype the five BluePrint flows:
+invoice → budget/control; glitch → process intelligence; CRM reported vs verified; CEO management question; monthly management close/report.
 
-Build and pilot one end-to-end operating path for all three modes:
+Pilot first inside Dproperty, then with external design partners.
 
-GoHighLevel, external CRM or BluePrint Direct intake → normalized Intake → transaction workspace → compliance → approved document generation → human approval/e-signature handoff → closing → deterministic commission → management report.
+**Gate:** clear time/error/control value + willingness to pay.
 
-The Golden Workflow passes a product-architecture desk-test. Remaining gates are clickable/working implementation, technical connector/security validation and five-participant usability testing. The Copilot is included from MVP under AI-0–AI-4 authority rules.
+## Phase 2 — Paid design partners
 
-## Phase 2 — Partner readiness
+Target 5 design partners and at least 3 paid pilots if feasible. Measure founder hours saved, admin learning burden, discrepancies caught, reporting time, process failures found and weekly use.
 
-- Dproperty franchise tenant template.
-- White-label tenant theming and migration playbook.
-- Open edX provisioning and readiness gates.
-- VAULTED marketplace identity and listing links.
-- HQ Select governance and publication flow.
-- Developer project dashboard.
-- Local-market packs and legal go-live gates.
+## Phase 3 — BlankCRM attach
 
-## Phase 3 — Network leverage
+Package configured GHL as BlankCRM. Test standalone acquisition and attach to BluePrint. Do not let CRM customization consume core engineering resources.
 
-- Cross-tenant anonymized benchmarks.
-- Advanced developer portfolio reporting.
-- Cases and escalation engine.
-- Tenant lifecycle automation.
-- Finance reconciliation and close integrations.
-- Advanced Copilot capabilities after the MVP's governed retrieval, drafting and confirmed-action foundation is proven.
-- Optional client/marketplace portals.
+## Phase 4 — VAULTED network validation
 
-## Decision rights
+Start narrowly with supply/demand where B_ already has relationships. Prove:
+inventory contribution, buyer/broker activation, attributable transactions, leakage controls, take-rate willingness.
 
-| Decision | Accountable owner | Required reviewers |
-|---|---|---|
-| Brand architecture and public claims | B_RealEstate leadership | Brand, legal, finance |
-| BluePrint product/data model | Product lead | Operations, legal, finance, security |
-| CRM pipeline/automation | Growth lead | Product/data owner |
-| Academy curriculum/certification | Training lead | Process owner, local compliance |
-| VAULTED listing/access policy | Marketplace owner | Legal, data protection, Select manager |
-| Dproperty Select approval | HQ Select manager | Legal/commercial/finance as required |
-| Unit economics/public pricing | Leadership/finance | Legal and product configuration owner |
-| Market launch | Venture lead | Local counsel, operations, finance, brand |
+## Phase 5 — Scale channels
 
-## Change-control rules
+Use direct SaaS, B_ Partner, Dproperty Franchise and Developer Partnerships according to demonstrated CAC/ARPA/retention—not ideology.
 
-1. Record naming, scope and economics changes in the Decision Log before publishing them.
-2. Update this folder, the financial model, legal templates, website and BluePrint configuration as one controlled release.
-3. Never rewrite signed commercial terms without checking the agreement and effective date.
-4. Historical notes may retain old names when clearly marked; canonical files use B_RealEstate and BluePrint.
-5. Every component file must list open decisions and an accountable owner.
+## Long-term
 
-## Immediate next 30 days
+Cross-company anonymized benchmarks and richer process intelligence may strengthen BluePrint. A physical hub remains optional and must not consume product/network capital until the digital model is independently strong.
 
-1. Close the P0 website audit items.
-2. Build the clickable Golden Workflow prototype from the canonical route map.
-3. Build/mock GoHighLevel, standard webhook/API and BluePrint Direct Intake paths.
-4. Create the controlled Copilot proof of concept and run the acceptance suite.
-5. Run the five-participant usability test, beginning with the existing Dproperty agency.
-6. Measure duplicate entry, document completeness, cycle time, reporting time, Copilot corrections and AI cost per successful task.
-7. Expand only after the pilot proves the transaction spine across all three modes.
+## Governance
 
+BluePrint product/data: Product lead + finance/operations/security.  
+BlankCRM: Growth/CRM owner; core IP boundary protected.  
+VAULTED: Marketplace owner + legal/data/commercial.  
+Academy: Training/process owner.  
+Pricing/public claims: leadership + finance.  
+Market launch: venture lead + local legal/ops.

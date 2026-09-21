@@ -2,82 +2,54 @@
 project: B_RealEstate
 title: "Personas and Jobs to Be Done"
 type: persona_map
-status: Canonical v1.0
+status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-08-16
-tags: [ecosystem, personas, jobs-to-be-done]
+last_updated: 2026-09-20
+tags: [ecosystem, personas, jobs-to-be-done, blueprint]
 ---
 
-# Personas and Jobs to Be Done
+# Personas and Jobs To Be Done
 
-## Commercial buyers
+## BluePrint commercial buyer: sales-led agency principal
 
-### Emerging Dproperty principal
+**Profile:** owner/managing broker of a roughly 5–50-person agency; excellent at selling/networking; administration is fragmented; does not want to become a full-time manager or hire an expensive C-suite/back-office structure.
 
-**Profile:** strong seller/networker, capital and ambition, limited appetite for administration.  
-**Job:** launch a credible investment agency without inventing the operating system.  
-**Fear:** paying a franchise fee and still having to build everything.  
-**Proof needed:** launch plan, brand traction, real workflows, current inventory and transparent economics.
+**Job:** professionalize the company while preserving founder selling time.
 
-### Established white-label principal
+**Economic promise:** run a stronger back office with one capable administrator + BluePrint + specialist CRM/accounting tools.
 
-**Profile:** owns an agency brand and client base; operations are fragmented.  
-**Job:** professionalize and scale without surrendering brand equity.  
-**Fear:** hidden rebranding, data loss, vendor lock-in and support that disappears after setup.  
-**Proof needed:** migration plan, white-label experience, data ownership, integrations and measurable efficiency.
+**Fear:** buying another dashboard, paying for an ERP implementation, vendor lock-in, software that still requires the founder to clean the data.
 
-### Developer principal/commercial director
+**Proof needed:** hours saved, errors caught, reliable reports, low training burden, easy integration, credible audit trail and willingness of a normal administrator to operate it.
 
-**Profile:** has product but inconsistent sales infrastructure or broker coordination.  
-**Job:** install a disciplined team and system that improves across projects.  
-**Fear:** mercenary brokers, discounting, weak reporting and loss of product knowledge.  
-**Proof needed:** dedicated-team model, source attribution, sales dashboard, controlled messaging and aligned fees.
+## BluePrint operating users
 
-## Operating users
+### Administrator / secretary
+Primary operator. Works mostly through chat to upload, find, classify, record, prepare and route work. BluePrint supplies taxonomy and standards.
 
-### Franchise principal
+### Owner / CEO / principal
+Needs verified company health, finance, risks, exceptions, process failures, decisions and management reports.
 
-Needs business health, risk, approvals, cash/commission visibility and team readiness. Home screen: exceptions and decisions, not raw activity.
+### Finance / accountant
+Needs reconciliation, verification, budget/variance and closed-period integrity; accounting system remains ledger.
 
-### Sales advisor
+### Department manager
+Needs process health, incidents, corrective actions and management commitments.
 
-Needs qualified opportunities, project information, shortlists, projections, documents and next actions. Communication remains in GoHighLevel.
+### Sales agent
+Works primarily in CRM. BluePrint may reference the person and their reported/verified metrics, but agents are not the core BluePrint user.
 
-### Operations coordinator
+## Other ecosystem buyers
 
-Needs document/compliance queues, data completeness, approvals, signatures, closing checklists and integration exceptions.
+### Dproperty franchise principal
+Can consume BluePrint as part of the full operating stack.
 
-### HQ administrator
+### White-label agency principal
+Keeps their own brand and CRM while buying BluePrint as neutral management infrastructure.
 
-Needs tenant lifecycle, standards, templates, Select governance, network economics, support load and audit visibility.
-
-### HQ legal/compliance
-
-Needs controlled templates, local variants, approval queues, retention, access and audit evidence—not marketing communications.
-
-### HQ finance
-
-Needs deterministic commission/royalty calculations, invoices, payable status, ageing and reconciliation—not bank credentials inside BluePrint.
-
-### Developer manager
-
-Needs project-level pipeline, unit movement, source performance, team/broker activity and decisions requiring developer input.
-
-## End clients
-
-### Investor
-
-Wants curated opportunities, defensible assumptions, access and transparent execution. Interacts mainly with Dproperty/partner channels, not the full back office.
-
-### Off-market buyer/seller
-
-Wants qualified, discreet marketplace participation through VAULTED with clear access and privacy controls.
-
-### End-user buyer
-
-Wants a home/lifestyle decision with disciplined analysis. Served through white-label or, if formally approved, DpropertyLiving.
+### Developer organization
+Potential later customer where the management-control use case fits; not required for the first ICP.
 
 ## Experience principle
 
-Each role sees the minimum information required for its decisions. BluePrint opens with “what needs attention now,” not a universal dashboard with every module.
-
+The system opens with **what requires attention and why**, not with a giant module catalogue.

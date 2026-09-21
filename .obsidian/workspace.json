@@ -30,8 +30,23 @@
               "icon": "lucide-file",
               "title": "README - Your Complete Financial Model Package"
             }
+          },
+          {
+            "id": "5c1805d783ca210f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "conflict-files-obsidian-git.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "conflict-files-obsidian-git"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -216,43 +231,43 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "ccc4850c2fa4f863",
+  "active": "5c1805d783ca210f",
   "lastOpenFiles": [
-    "second_brain/00_Index/AI Handoff Pack/07_Latest Session Closeout.md",
-    "second_brain/07_Finance/MASTER INDEX - All Files & Instructions.md",
     "second_brain/07_Finance/README - Your Complete Financial Model Package.md",
-    "second_brain/07_Finance/Excel Model - BUILD & IMPORT GUIDE.md",
-    "second_brain/07_Finance/Model Data - Three Scenarios (Conservative-Base-Optimistic).csv",
-    "second_brain/07_Finance/Model Data - Sensitivity Analysis (Y5 EBITDA).csv",
-    "second_brain/07_Finance/Model Data - Key Metrics Dashboard (Base Case).csv",
-    "second_brain/07_Finance/Model Data - Cash Flow Statement (Base Case).csv",
-    "second_brain/07_Finance/Model Data - Consolidated P&L (Base Case).csv",
-    "second_brain/07_Finance/Model Data - OPEX Breakdown (Base Case).csv",
-    "second_brain/07_Finance/Model Data - OPEX Breakdown (Base Case).csv.tmp.16068.f8eb373b8734",
-    "second_brain/07_Finance/Model Data - Revenue Summary (Base Case).csv",
-    "second_brain/07_Finance/Model Data - Blueprint Assumptions (Base Case).csv",
-    "second_brain/07_Finance/Financial Model - Investor Ready - Specification.md",
-    "second_brain/01_Strategy/Executive Summary - Seed Investment Case.md",
-    "second_brain/16_Task_Management/Phased Rollout - Product & GTM - Revised.md",
-    "second_brain/16_Task_Management/Phased Rollout - Product & GTM - Revised.md.tmp.16068.1a8573f40e68",
-    "second_brain/01_Strategy/KPIs & North-Star Metrics - Revised.md",
-    "second_brain/01_Strategy/Customer Ladder & Expansion Economics.md",
-    "second_brain/07_Finance/Revenue Architecture - Revised.md",
-    "second_brain/01_Strategy/B_RealEstate Business Model - Revised.md",
-    "second_brain/16_Task_Management/Weekly Roadmap - July to Sept 2026.md",
-    "second_brain/00_Index/AI Handoff Pack/06_Deliverables Tracker - Compact MD.md",
-    "second_brain/05_Franchise_Package/Operations/Source Material/Dproperty Commercial Process Manual (v002-26).md",
-    "second_brain/05_Franchise_Package/Operations/Process Library/05 - Long-Stay Rental.md",
-    "second_brain/05_Franchise_Package/Operations/Process Library/07 - Commissions.md",
-    "second_brain/05_Franchise_Package/Operations/Process Library/06 - Property Management.md",
-    "second_brain/05_Franchise_Package/Operations/Process Library/03 - Secondary Market Sale.md",
-    "second_brain/05_Franchise_Package/Operations/Process Library/02 - Preventa (Lista Cero).md",
-    "second_brain/05_Franchise_Package/Operations/Process Library/04 - Assignment (Cesion).md",
-    "second_brain/05_Franchise_Package/Operations/Process Library/00 - Process Library Index.md",
-    "second_brain/05_Franchise_Package/Operations/Process Library/01 - Leads.md",
-    "second_brain/05_Franchise_Package/Localization/Localization Framework.md",
-    "university brain/01_Year_1/Semester_2/Paris Trip/05_Resources/Lecture notes.md",
-    "university brain/01_Year_1/Semester_2/Paris Trip/05_Resources/Lecture notes interpreted.md",
-    "university brain/01_Year_1/Semester_2/Paris Trip/04_Team/Shooting Schedule - Character-Driven Approach.md"
+    "conflict-files-obsidian-git.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/04_Cases/Session_01/Bean of Africa - Case Note.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/03_Readings/Session_01/Zaheer 1995 - Overcoming the Liability of Foreignness.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/03_Readings/Session_01/Session 1 Slides - Lecture Notes.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/03_Readings/Session_01/Ghemawat 2012 - Actually the World Isnt Flat.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/03_Readings/Session_01/Altman et al 2024 - Challenging the Deglobalization Narrative.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/03_Readings/Session_01/00 - Session 1 Source Pack.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/07_Notes/Framework Library.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/06_Exam/Exam Strategy and Framework Index.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/05_Assignments/Mini Case - Working Template.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/05_Assignments/Debate - Working Template.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/04_Cases/Session_01",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/04_Cases/Case Tracker and Weekly Workflow.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/02_Sessions/Session 07 - MNEs and the Environment.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/02_Sessions/Session 06 - MNEs and Artificial Intelligence.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/02_Sessions/Session 05 - MNEs and Geopolitics.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/02_Sessions/Session 04 - MNEs and the State.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/02_Sessions/Session 02 - Where to Invest.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/02_Sessions/Session 01 - What is International Business and Why MNEs Exist.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/02_Sessions/Session 03 - How to Invest.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/03_Readings/Session_01",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/03_Readings/Reading Tracker.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/01_Admin/Course Outline - 2026-27.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/01_Admin/Assessment & Rules.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/07_Notes",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/06_Exam",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/05_Assignments",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/03_Readings",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/04_Cases",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/02_Sessions",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/01_Admin",
+    "university brain/02_Year_2/Semester_1/Developments in International Business/00_Course Hub.md",
+    "university brain/02_Year_2/Semester_1/Developments in International Business",
+    "second_brain/04_Product/BluePrint/11 - Decision Record - 2026-09-20.md",
+    "second_brain/04_Product/BluePrint/10 - Lovable MVP Build Brief.md"
   ]
 }

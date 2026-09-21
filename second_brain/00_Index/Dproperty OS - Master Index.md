@@ -2,204 +2,66 @@
 project: B_RealEstate
 title: "B_RealEstate Ecosystem - Master Index"
 type: master_index
-status: Active
+status: Active v3.0
 owner: Esteban
-last_updated: 2026-08-16
-source: Rebuilt 2026-07-18 vault cleanup — reconciled against actual files
+last_updated: 2026-09-20
 tags: [index, navigation]
 ---
 
-# B_RealEstate Ecosystem - Master Index
+# B_RealEstate Ecosystem — Master Index
 
-> **Canonical naming (2026-08-16):** Parent ecosystem = **B_RealEstate**. Back-office platform = **BluePrint** (formerly Dproperty OS / Plano). Flagship investment brand = **Dproperty**. Canonical ecosystem architecture lives in [[../18_Ecosystem/README|18_Ecosystem]]. Historical file names remain where renaming would break links.
-
-This is the main navigation page for the B_RealEstate ecosystem and the BluePrint product. Rebuilt 2026-07-18 and reconciled again on 2026-08-16 against the actual files in the vault.
-
-> **Naming convention (Decision 2026-07-18):** Keep **"Private Collection"** internally (vault, `12_Private_Collection/` folder, file names). Use **"Dproperty Select"** on all handouts / external / client-facing materials. Same program, two names by context.
-
-## Start Here
-
+## Start here
 - [[Project Context Brief]]
-- [[Current Priorities]]
 - [[Decision Log]]
 - [[Open Questions]]
-- [[Vault Manifest]]
+- [[Current Priorities]]
 - [[Source Map]]
-- [[Package Contents Index]]
-- [[AI Handoff Pack/AI Handoff Pack - Read Me|AI Handoff Pack]] *(numbered files 01–06 are now pointers to the canonical copies above)*
+- [[Vault Manifest]]
 
-### Session Closeouts
-- [[AI Handoff Pack/07_Latest Session Closeout|Latest Session Closeout]]
-- [[Meeting Notes/2026-07-14 - Work Session Closeout]]
-- [[2026-07-05 - Work Session Closeout]]
-- [[2026-07-02 - Work Session Closeout]]
-
-## 01 Strategy
-
+## Current strategy
 - [[../01_Strategy/Strategic Thesis]]
 - [[../01_Strategy/Business Model Overview]]
+- [[../01_Strategy/Moat and Positioning]]
 - [[../01_Strategy/Franchise Strategy]]
 - [[../01_Strategy/White-Label Strategy]]
 - [[../01_Strategy/Developer Sales OS Strategy]]
-- [[../01_Strategy/Private Collection Strategy]]
-- [[../01_Strategy/Moat and Positioning]]
-- [[../01_Strategy/Ecosystem Workflow]]
-- [[../01_Strategy/Go-to-Market Strategy]]
-- [[../01_Strategy/GTM Market-Specific Tactics]]
-- [[../01_Strategy/Conversation Summary]]
 
-## 02 Business Plan
+## Current business model
+- [[../02_Business_Plan/B_ Business Model Reset - 2026-09-20]]
+- Historical pre-reset files remain in 02_Business_Plan but are marked superseded.
 
-- [[../02_Business_Plan/Dproperty OS Business Plan]]
-- [[../02_Business_Plan/Conservative 5-Year Plan]]
-- [[../02_Business_Plan/Pricing Model]]
-- [[../02_Business_Plan/Unit Economics]]
-- [[../02_Business_Plan/Funding Plan]]
-- [[../02_Business_Plan/Ownership and Governance]]
-- [[../02_Business_Plan/Ownership & Investor Protection One-Pager]]
-- [[../02_Business_Plan/Your Compensation Package]]
-- [[../02_Business_Plan/Roadmap and Milestones]]
-
-## 03 Pitch
-
-- [[../03_Pitch/Founder Pitch to Dproperty Owners]]
+## Current pitch
 - [[../03_Pitch/Pitch Deck Outline]]
-- [[../03_Pitch/Pitch_Deck_Content]]
-- [[../03_Pitch/Ecosystem Deck Outline]]
-- [[../03_Pitch/Pitch Script]]
-- [[../03_Pitch/Supervisor and Owner Q&A]]
-- [[../03_Pitch/Final Decks Index]]
+- Old Pitch_Deck_Content, Pitch Script and Ecosystem Deck are historical/superseded.
 
-## 04 Product
+## BluePrint
+- [[../04_Product/BluePrint/00 - README - Product Map]]
+- [[../04_Product/BluePrint/01 - Product Constitution]]
+- [[../04_Product/BluePrint/07 - MVP and Validation Plan]]
+- [[../04_Product/BluePrint/08 - Pricing and Packaging]]
+- [[../04_Product/BluePrint/09 - Competitive Positioning - GHL Odoo SAP]]
+- [[../04_Product/BluePrint/10 - Lovable MVP Build Brief]]
 
-- [[../04_Product/BluePrint Product Map]] *(CANONICAL 2026-08-16 — start here for BluePrint product work)*
-- [[../04_Product/BluePrint Product Constitution]] *(CANONICAL v1.0 — promise, boundaries, ownership, CRM modes, entities, MVP and Copilot authority)*
-- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation]] *(CANONICAL architecture test v1.0 — wireframe + three-mode desk-test)*
-- [[../04_Product/Product Vision]]
-- [[../04_Product/Platform Information Architecture]] *(NEW 2026-07-18 — platform IA, public site + OS)*
-- [[../04_Product/Platform Scenario Playbook]] *(NEW 2026-07-18 — 72+ tested scenarios)*
-- [[../04_Product/Roles and Access Matrix]] *(NEW 2026-07-18 — hierarchy, human/AI split, agent pricing)*
-- [[../04_Product/Public Site Wireframe]] *(NEW 2026-07-18 — pre-login public site blueprint)*
-- [[../04_Product/Public Site Copy - ES Master]] *(NEW 2026-07-18 — final Spanish production copy for Figma)*
-- [[../04_Product/Prototype Spec]]
-- [[../04_Product/Prototype Control Note]]
-- [[../04_Product/Product Modules]]
-- [[../04_Product/Data Model]]
-- [[../04_Product/MVP Scope]]
-- [[../04_Product/Figma Handoff Notes]]
-- [[../04_Product/AI Layer Notes]]
+## Ecosystem
+- [[../18_Ecosystem/README]]
+- [[../18_Ecosystem/00 - Ecosystem Master Map]]
+- [[../18_Ecosystem/17 - Product and Channel Hierarchy]]
+- [[../18_Ecosystem/01 - B_RealEstate]]
+- [[../18_Ecosystem/02 - BluePrint]]
+- [[../18_Ecosystem/03A - BlankCRM]]
+- [[../18_Ecosystem/03 - GoHighLevel CRM]]
+- [[../18_Ecosystem/04 - B_Academy - Open edX]]
+- [[../18_Ecosystem/05 - VAULTED]]
+- [[../18_Ecosystem/06 - Dproperty Select]]
+- [[../18_Ecosystem/07 - Dproperty Flagship]]
+- [[../18_Ecosystem/08 - White-Label Partner Model|B_ Partner]]
+- [[../18_Ecosystem/09 - Developer Sales Partner]]
+- [[../18_Ecosystem/10 - DpropertyLiving|DpropertyLiving — Parked]]
+- [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]]
+- [[../18_Ecosystem/12 - System of Record and Integration Matrix]]
+- [[../18_Ecosystem/13 - Personas and Jobs to Be Done]]
+- [[../18_Ecosystem/14 - Unit Economics Registry]]
+- [[../18_Ecosystem/16 - Roadmap and Governance]]
 
-## 05 Franchise Package
-
-- [[../05_Franchise_Package/Franchise Launch Package Index]]
-- [[../05_Franchise_Package/Franchise Deliverables Checklist]]
-- [[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook]]
-- [[../05_Franchise_Package/Onboarding/Franchise Onboarding PDF]]
-- [[../05_Franchise_Package/Launch/30-60-90 Day Franchise Launch Plan]]
-- [[../05_Franchise_Package/Launch/First Franchisee Launch Playbook]]
-- [[../05_Franchise_Package/Brand/Brand Manual]]
-- [[../05_Franchise_Package/Sales/Sales Playbook]]
-- [[../05_Franchise_Package/Operations/Operations Manual]]
-- [[../05_Franchise_Package/Training/Training Academy Outline]]
-- [[../05_Franchise_Package/Welcome Kit/Welcome Kit Checklist]]
-- [[../05_Franchise_Package/Compliance/Compliance Package]]
-
-## 06 Legal
-
-- [[../06_Legal/Legal Architecture]]
-- [[../06_Legal/Contract Templates Index]]
-- [[../06_Legal/Franchise Agreement Notes]]
-- [[../06_Legal/White-Label Agreement Notes]]
-- [[../06_Legal/Developer Sales OS Agreement Notes]]
-- [[../06_Legal/Commission Rules]]
-- [[../06_Legal/Data and Privacy Notes]]
-
-## 07 Finance
-
-- [[../07_Finance/Financial Model Summary]]
-- [[../07_Finance/Franchise Unit Economics]]
-- [[../07_Finance/White-Label Economics]]
-- [[../07_Finance/Developer Sales OS Economics]]
-- [[../07_Finance/EBITDA vs Net Profit]]
-- [[../07_Finance/Funding and Tranches]]
-- [[../07_Finance/Compensation Model]]
-
-## 08 Research
-
-- [[../08_Research/Research Backlog]]
-
-## 09 Exports
-
-- [[../09_Exports/Exports Index]]
-- [[../09_Exports/Dproperty_OS_Business_Plan]]
-- [[../09_Exports/Dproperty_OS_Conversation_Summary]]
-- [[../09_Exports/Dproperty_OS_Prototype_Spec]]
-
-## 10 Templates
-
-- [[../10_Templates/New Note Template]]
-- [[../10_Templates/Meeting Note Template]]
-- [[../10_Templates/Deliverable Control Note Template]]
-- [[../10_Templates/ChatGPT - Session Closeout Prompt]]
-
-## 11 Developer Sales OS
-
-- [[../11_Developer_Sales_OS/Developer Sales OS Guide]]
-- [[../11_Developer_Sales_OS/Developer Pricing Model]]
-- [[../11_Developer_Sales_OS/Developer Deal Workflow]]
-
-## 12 Private Collection (Dproperty Select)
-
-- [[../12_Private_Collection/Private Collection Guide]]
-- [[../12_Private_Collection/Private Collection Deal Workflow]]
-- [[../12_Private_Collection/Private Collection Commission Split]]
-
-## 13 White Label
-
-- [[../13_White_Label/White-Label OS Guide]]
-- [[../13_White_Label/White-Label Pricing]]
-- [[../13_White_Label/White-Label Onboarding]]
-
-## 14 CRM / GoHighLevel
-
-- [[../14_CRM_GoHighLevel/GoHighLevel Role]]
-- [[../14_CRM_GoHighLevel/GoHighLevel Setup Checklist]]
-
-## 15 Brand Assets Index
-
-- [[../15_Brand_Assets_Index/Brand Assets Index]]
-- [[../15_Brand_Assets_Index/File Storage Rules]]
-
-## 16 Task Management
-
-- [[../16_Task_Management/Deliverables Tracker - Compact MD]] *(full 269-item tracker)*
-- [[../16_Task_Management/Deliverables Tracker - MVP Only]] *(37-item Sept 15 launch set)*
-- [[../16_Task_Management/Current Sprint]]
-- [[../16_Task_Management/Next 10 Tasks Working Plan]]
-- [[../16_Task_Management/Weekly Review Workflow]]
-- [[../16_Task_Management/Pitch Sprint Roadmap - July 2026]]
-- [[../16_Task_Management/Weekly Roadmap - July to Sept 2026]]
-- [[../16_Task_Management/GTM Execution Summary - Week 5 Kickoff]]
-- [[../16_Task_Management/Your Weekly Tasks - Jul to Sept]]
-- [[../16_Task_Management/Miguel's Weekly Tasks - Jul to Sept]]
-
-## 18 Ecosystem — Canonical Architecture
-
-- [[../18_Ecosystem/README|Ecosystem - Start Here]]
-- [[../18_Ecosystem/00 - Ecosystem Master Map|Ecosystem Master Map]]
-- [[../18_Ecosystem/01 - B_RealEstate|B_RealEstate]]
-- [[../18_Ecosystem/02 - BluePrint|BluePrint]]
-- [[../18_Ecosystem/03 - GoHighLevel CRM|GoHighLevel CRM]]
-- [[../18_Ecosystem/04 - B_Academy - Open edX|B_Academy - Open edX]]
-- [[../18_Ecosystem/05 - VAULTED|VAULTED]]
-- [[../18_Ecosystem/06 - Dproperty Select|Dproperty Select]]
-- [[../18_Ecosystem/07 - Dproperty Flagship|Dproperty Flagship]]
-- [[../18_Ecosystem/08 - White-Label Partner Model|White-Label Partner Model]]
-- [[../18_Ecosystem/09 - Developer Sales Partner|Developer Sales Partner]]
-- [[../18_Ecosystem/10 - DpropertyLiving|DpropertyLiving - Decision Required]]
-- [[../18_Ecosystem/11 - Web Presence and Funnel Architecture|Web Presence and Funnel Architecture]]
-- [[../18_Ecosystem/12 - System of Record and Integration Matrix|System of Record and Integration Matrix]]
-- [[../18_Ecosystem/13 - Personas and Jobs to Be Done|Personas and Jobs to Be Done]]
-- [[../18_Ecosystem/14 - Unit Economics Registry|Unit Economics Registry]]
-- [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|Live Website Audit]]
-- [[../18_Ecosystem/16 - Roadmap and Governance|Roadmap and Governance]]
+## Legacy operating assets
+Franchise package, legal, Dproperty Select, Developer Sales, white-label and CRM folders remain valuable operating/history sources. Where they conflict with the current ecosystem/product hierarchy, current canonical files above win.

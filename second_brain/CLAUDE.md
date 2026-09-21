@@ -1,3 +1,5 @@
+> **CANONICAL RESET — 2026-09-20:** Before using older strategy/pitch/business-plan files, read `00_Index/Project Context Brief.md`, `18_Ecosystem/README.md`, `18_Ecosystem/17 - Product and Channel Hierarchy.md`, and `04_Product/BluePrint/00 - README - Product Map.md`. The company is now product-led (BluePrint / BlankCRM / VAULTED / Academy); franchise-first forecasts and the BluePrint transaction spine are superseded.
+
 # B_RealEstate / BluePrint — Claude Code Instructions
 
 You are working inside the local Obsidian vault for the B_RealEstate ecosystem and BluePrint platform.

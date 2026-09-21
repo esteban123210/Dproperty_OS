@@ -1,67 +1,55 @@
 ---
 project: B_RealEstate
 title: "VAULTED"
-type: ecosystem_component
-status: Canonical draft v1.0
+type: ecosystem_product
+status: Canonical hypothesis v3.0
 owner: Esteban
-last_updated: 2026-08-16
-tags: [ecosystem, vaulted, marketplace, off-market]
+last_updated: 2026-09-20
+tags: [ecosystem, vaulted, marketplace, network, gmv]
 ---
 
 # VAULTED
 
-## What it is
+## Definition
 
-VAULTED is the ecosystem's private, invitation-based off-market marketplace. It connects approved inventory and qualified demand across participating markets without turning sensitive opportunities into public portal listings.
+VAULTED is B_'s private marketplace/network for eligible real-estate supply, qualified demand, introductions and attributable transactions.
 
-## What it is not
+## Strategic role
 
-- Not BluePrint's internal project database.
-- Not Dproperty Select; Select is an HQ-curated program, while VAULTED is the marketplace surface.
-- Not the public projects catalogue on bfranchising.com.
-- Not the legal or commercial source of truth for a transaction.
-- Not automatically available to every visitor or lead.
+**BluePrint is the SaaS/IP engine. VAULTED is the potential network-effect and transaction-monetization engine.**
 
-## Purpose
+## Owns
 
-Create controlled liquidity and network value from off-market inventory, partner listings and qualified cross-market demand while preserving discretion and access rules.
+Listings/opportunities, access rules, participant identity, marketplace engagement, matches, introductions, attribution, completed marketplace transaction records, GMV and marketplace fees.
 
-## Primary personas
+## Does not own
 
-- Approved ecosystem broker seeking inventory.
-- Qualified investor seeking non-public opportunities.
-- Seller requiring discretion.
-- Franchise or white-label principal contributing eligible inventory.
-- HQ marketplace/curation manager.
+CRM conversations, BluePrint management processes, accounting ledger or Dproperty Select curation decisions.
 
-## Inventory relationship
+## Supply/demand interaction
 
-BluePrint owns internal project intelligence, commercial terms, approvals and transaction execution. Dproperty Select owns the HQ curation decision for its program. VAULTED owns marketplace presentation, invitations, engagement and marketplace listing state. Each listing retains links to its BluePrint project/unit ID and, where applicable, its Dproperty Select approval.
+- BlankCRM can contribute authorized demand requirements.
+- VAULTED returns eligible matches.
+- Dproperty Select can appear as a curated collection within VAULTED.
+- Developer Partnerships can seed supply.
+- Verified completed outcomes can feed BluePrint management reporting and accounting reconciliation.
 
-## Access model
+## Monetization hypothesis
 
-Access is invitation-based and role/eligibility controlled. Public websites may show teasers but must not expose private prices, seller identity or restricted terms. A lead is qualified in GoHighLevel before an invitation is issued. Ecosystem operators should reach VAULTED through SSO or an identity-linked launcher.
+Primary: **small success fee/take rate on attributable transactions completed through the platform.**
 
-## Unit economics to decide
+Potential later: access/membership/premium services.
 
-Possible revenue levers include membership/access fees, transaction or referral fees, premium listing/curation services and inclusion within higher ecosystem plans. None is yet canonical. Do not publish marketplace economics until the commercial and legal model is approved.
+## Critical risks to prove
 
-## KPIs
+1. Supply liquidity.
+2. Demand liquidity.
+3. Attribution.
+4. Leakage/circumvention.
+5. Legal/commission structure by jurisdiction.
+6. Whether network value grows sufficiently with participants.
 
-- Approved members and active buyers.
-- Eligible listings and listing freshness.
-- Match, introduction and transaction rates.
-- Time to qualified match.
-- Cross-market transactions.
-- Confidentiality or permission incidents.
-- Revenue per completed marketplace transaction.
+## Modeling rule
 
-## Open decisions
-
-- Legal owner/entity and jurisdiction.
-- Marketplace eligibility and invitation rules.
-- Listing verification and expiry.
-- Relationship between VAULTED and Dproperty Select branding.
-- Fee model and commission waterfall.
-- Seller/broker authorization and privacy requirements.
-
+Never estimate VAULTED revenue as “all BluePrint customers × arbitrary GMV.” Model:
+eligible organizations → activation → active listings/matches → attributable completed transactions → GMV → effective take rate.

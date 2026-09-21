@@ -1,3 +1,6 @@
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Do not rebuild the live site from this old brief without replacing franchise-first hierarchy with BluePrint / BlankCRM / VAULTED.  
+> Current source of truth: [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]]
+
 ---
 project: B_RealEstate
 title: "LOVABLE - Ecosystem Website Build Brief"
