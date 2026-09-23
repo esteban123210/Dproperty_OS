@@ -25,6 +25,7 @@ It has five jobs:
 - `../01_COMPANY/EXECUTIVE_SUMMARY.md` — the company in two pages.
 - `../01_COMPANY/B_RealEstate_Master_Business_Plan_2026.md` — investor business plan.
 - `../10_INVESTOR_DILIGENCE/INVESTMENT_MEMO.md` — invest/not-invest judgment.
+- `../12_INVESTOR_TWO_PAGERS/README.md` — comparable two-page business cases for all seven offers.
 
 ## Truth labels
 

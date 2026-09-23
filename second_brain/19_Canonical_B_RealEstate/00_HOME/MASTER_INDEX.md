@@ -14,6 +14,7 @@
 | `09_ROADMAP` | Gates, experiments, decisions, assumptions, KPIs and kill criteria | CEO/PM | Biweekly |
 | `10_INVESTOR_DILIGENCE` | Investment memo, attack sheet, data-room and evidence status | CEO/CFO | Before each investor process |
 | `11_TEMPLATES` | Repeatable record, decision, experiment, source and AI handoff templates | Knowledge owner | Semiannual |
+| `12_INVESTOR_TWO_PAGERS` | Comparable investor summaries for every commercial offer | CEO/CFO | Before each investor process |
 
 ## Core records
 
@@ -34,6 +35,7 @@
 | Where does data live? | `08_DATA_AI/DATA_ARCHITECTURE_AND_CANONICAL_ENTITIES.md` |
 | How does AI hand work to humans/systems? | `08_DATA_AI/AI_HANDOFF_PROTOCOL.md` |
 | What can kill the thesis? | `09_ROADMAP/KPIS_GATES_AND_KILL_CRITERIA.md` |
+| Where are the comparable investor two-pagers? | `12_INVESTOR_TWO_PAGERS/README.md` |
 
 ## Authoritative source files retained outside this folder
 
