@@ -40,7 +40,8 @@
       "Bash(cd \"C:/Users/esteb/Desktop/Dproperty_OS/Dproperty_OS/second_brain\" && for f in \"Prototype Spec\" \"Figma Handoff Notes\" \"Data Model\" \"Prototype Control Note\" \"Platform Scenario Playbook\" \"AI Layer Notes\"; do echo \"=== $f ===\"; sed -n '11,20p' \"04_Product/$f.md\"; done)",
       "Bash(awk '{print $5\" bytes\"}')",
       "Bash(mv \"second_brain/04_Product/BluePrint Wireframe - Back Office OS \\(Developer Handoff\\).md\" \"04_Product/BluePrint Wireframe - Back Office OS \\(Developer Handoff\\).md\")",
-      "Bash(rmdir \"second_brain/04_Product\" \"second_brain\")"
+      "Bash(rmdir \"second_brain/04_Product\" \"second_brain\")",
+      "Bash(cd \"C:/Users/esteb/Desktop/Dproperty_OS/second_brain\" && for f in \"00_Index/AI Handoff Pack/AI Handoff Pack - Read Me.md\" \"00_Index/AI Handoff Pack/05_Current Priorities.md\" \"00_Index/AI Handoff Pack/07_Latest Session Closeout.md\"; do echo \"=====FILE: $f\"; cat \"$f\"; done)"
     ]
   }
 }

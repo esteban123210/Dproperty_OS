@@ -4,13 +4,12 @@
   "title": "Summarize blueprint contents",
   "titleGenerationStatus": "success",
   "createdAt": 1789954729606,
-  "updatedAt": 1789954762720,
+  "updatedAt": 1790195224029,
   "lastResponseAt": 1789954762720,
   "sessionId": "0fb015e3-1e5d-4857-86f7-1b8c237731e2",
   "providerState": {
     "providerSessionId": "0fb015e3-1e5d-4857-86f7-1b8c237731e2"
   },
-  "currentNote": "second_brain/07_Finance/README - Your Complete Financial Model Package.md",
   "usage": {
     "model": "opus",
     "inputTokens": 2,
