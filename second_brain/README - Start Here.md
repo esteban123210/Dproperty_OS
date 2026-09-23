@@ -9,6 +9,10 @@ source: ChatGPT baseline vault package
 tags: [start-here, obsidian, project-management]
 ---
 
+> [!IMPORTANT]
+> **Canonical investor-ready baseline — 2026-09-23:** Open [[19_Canonical_B_RealEstate/00_HOME/README|Canonical B_RealEstate Second Brain]]. It contains the current company, franchise, product, ecosystem, finance, operations, data/AI, roadmap, and investor-diligence records. Where older notes conflict, follow its [[19_Canonical_B_RealEstate/00_HOME/SOURCE_OF_TRUTH_AND_GOVERNANCE|source-of-truth policy]] and [[19_Canonical_B_RealEstate/00_HOME/STATUS_DASHBOARD|status dashboard]].
+
+
 # B_RealEstate Ecosystem - Start Here
 
 This vault is the working brain for the B_RealEstate ecosystem and BluePrint platform.

@@ -1,4 +1,4 @@
-> **CANONICAL RESET — 2026-09-20:** Before using older strategy/pitch/business-plan files, read `00_Index/Project Context Brief.md`, `18_Ecosystem/README.md`, `18_Ecosystem/17 - Product and Channel Hierarchy.md`, and `04_Product/BluePrint/00 - README - Product Map.md`. The company is now product-led (BluePrint / BlankCRM / VAULTED / Academy); franchise-first forecasts and the BluePrint transaction spine are superseded.
+> **CANONICAL INVESTOR-READY BASELINE — 2026-09-23:** Start with `19_Canonical_B_RealEstate/00_HOME/README.md`, `MASTER_INDEX.md`, `STATUS_DASHBOARD.md`, and `SOURCE_OF_TRUTH_AND_GOVERNANCE.md`. BluePrint's post-qualification transaction spine is the current build priority. Dproperty franchising, own-brand/white-label partners, and developer programs are controlled commercial channels. BlankCRM, Building Blocks, and VAULTED are modular products with explicit boundaries and gates. When older records conflict, the 2026-09-23 canonical baseline and named source models control; preserve older files as legacy evidence until reconciled.
 
 # B_RealEstate / BluePrint — Claude Code Instructions
 
