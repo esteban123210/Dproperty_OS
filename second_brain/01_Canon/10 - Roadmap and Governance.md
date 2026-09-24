@@ -58,6 +58,6 @@ Cross-company anonymized benchmarks and richer process intelligence may strength
 BluePrint product/data: Product lead + finance/operations/security.  
 BlankCRM: Growth/CRM owner; core IP boundary protected.  
 VAULTED: Marketplace owner + legal/data/commercial.  
-Academy: Training/process owner.  
+Building Blocks: Learning/product owner (content), with process owner as source authority.  
 Pricing/public claims: leadership + finance.  
 Market launch: venture lead + local legal/ops.

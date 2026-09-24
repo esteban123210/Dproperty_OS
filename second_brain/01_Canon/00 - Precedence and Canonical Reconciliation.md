@@ -66,9 +66,9 @@ The 2026-09-20 decision record was **right to retire** the *property / project /
 | 1 | **BluePrint** | Run and control the company | Qualified opportunity → transaction file → documents/compliance evidence → approvals → closing → commission calculation → budgets/variance/KPIs → process assurance/Glitches → management actions → period close → audit trail | Proprietary core SaaS/IP |
 | 2 | **BlankCRM** | Sell | Leads, contacts, WhatsApp/email/SMS, forms/calendars, nurture, pre-qualification pipeline, campaign attribution | Attach/acquisition product, powered by GoHighLevel |
 | 3 | **VAULTED** | Access the network | Gated listings/opportunities, access rules, participant identity, matches, introductions, attribution, GMV, marketplace fees | Network-effect hypothesis; gated pilot after BluePrint stability |
-| 4 | **Academy** | Operate better | Learning content, assessments, certification evidence | Enablement layer, powered by Open edX; mostly bundled |
+| 4 | **Building Blocks** | Operate better | Learning content, curricula, assessments, certification and competency evidence | Standalone learning product, powered by Open edX |
 
-**Handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply/access. Academy owns capability. Accounting remains the ledger.
+**Handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply/access. Building Blocks owns capability. Accounting remains the ledger.
 
 ### Channels — not products
 
@@ -93,14 +93,14 @@ Dproperty brand and testbed · Dproperty Select · developer/broker/investor rel
 | **BluePrint** | Dproperty OS, Plano, "La Plataforma", `[OS_NAME]` |
 | **BlankCRM** (powered by GoHighLevel) | "CRM propio", proprietary CRM, GoHighLevel-as-product |
 | **VAULTED** | Private Collection *as a marketplace* (see below) |
-| **Academy** / **B_Academy** | **Building Blocks**, Training Academy |
+| **Building Blocks** | **Academy**, B_Academy, Training Academy |
 | **Dproperty** | — |
 | **Dproperty Select** | Private Collection |
 | **B_ Partner** | White-Label, White-Label OS |
 | **Developer Partnerships** | Developer Sales OS |
 | **DpropertyLiving** | **PARKED** — remove from all active navigation and economics |
 
-**Academy vs Building Blocks:** resolved in favour of **Academy**. An LMS is not defensible IP and must not carry investor weight as a standalone product. `19_Canonical`'s "Building Blocks" is a legacy alias for the same learning business.
+**Academy vs Building Blocks:** **resolved in favour of Building Blocks as a standalone product (2026-09-24, reversing the 2026-09-23 position).** `18_Ecosystem`'s "Academy" is the legacy alias. The portfolio is deliberately composed of separately sellable products — see [[19 - Portfolio Composition Principle]]. The investor hierarchy is unchanged: proprietary value still concentrates in BluePrint and VAULTED.
 
 **Dproperty Select vs VAULTED:** Select is *curated by us*; VAULTED is the *network marketplace*. Select may appear inside VAULTED as an identified curated collection. VAULTED never confers Select approval.
 
@@ -112,7 +112,7 @@ Dproperty brand and testbed · Dproperty Select · developer/broker/investor rel
 | BluePrint setup | **$1,500**, higher for complex migration | Implementation-heavy B2B must fund onboarding cost. |
 | BlankCRM pricing | **Open.** Build from GHL plan/sub-account + messaging/AI + onboarding/support + target margin. | Both layers agree. |
 | VAULTED | Take rate on attributable transactions. Effective base take **0.35% assumption**, unvalidated. | Model only. Never derive from "all BluePrint customers × arbitrary GMV." |
-| Academy | Mostly bundled; premium/custom later | Both layers agree. |
+| Building Blocks | **Standalone product** — $199 blended per enrollment `[A]`; core onboarding included in packages at allocated standalone value | Reversed 2026-09-24: see [[19 - Portfolio Composition Principle]]. |
 | Raise | **$950k capitalization envelope; $800k 18-month operating plan; staged against evidence gates.** | Model-backed. Supersedes both the $650k and $1.5M concepts. |
 | Franchise / B_ Partner / Developer economics | Separate **channel** models. Historical figures are hypotheses until contracts and local advice confirm them. No double-counting of software revenue inside bundles. | Both layers agree. |
 
@@ -196,6 +196,6 @@ Superseded notes keep their content and open with a visible supersession banner 
 2. **Franchise royalty structure** — 6% + 1% restricted fund (Dproperty) vs 4% no fund (own-brand) vs the isolated model's flat 6% + 1.5%. Needs contract design and local advice.
 3. **BlankCRM price** — blocked on GHL cost modelling.
 4. **VAULTED take rate and legal structure** — per jurisdiction.
-5. **Whether Academy ever becomes a standalone commercial product.** Default: no.
+5. ~~Whether Academy ever becomes a standalone commercial product.~~ **RESOLVED 2026-09-24: yes — Building Blocks is a standalone product.** See [[19 - Portfolio Composition Principle]].
 
 Tracked in [[../00_Start_Here/Open Questions]].

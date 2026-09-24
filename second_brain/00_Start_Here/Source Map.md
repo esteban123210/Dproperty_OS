@@ -27,7 +27,7 @@ tags: [research, sources]
 
 BluePrint — proprietary management/control layer; system of record for the verified transaction and commission record from qualified opportunity.  
 GoHighLevel — third-party engine behind BlankCRM.  
-Open edX — Academy engine.  
+Open edX — Building Blocks engine.  
 Accounting — ledger.  
 Drive/SharePoint — binary documents.  
 VAULTED — marketplace/network.

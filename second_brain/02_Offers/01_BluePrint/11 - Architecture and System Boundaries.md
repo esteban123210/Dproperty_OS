@@ -63,7 +63,7 @@ NOT BluePrint: inventory / listings / MLS / escrow / custody / GL / payroll
 | Verification state/provenance | BluePrint | Own |
 | Management period close/snapshots | BluePrint | Own |
 | Audit events | BluePrint | Own long-term record |
-| Academy learning activity | LMS | Read relevant completion/certification |
+| Building Blocks learning activity | LMS | Read relevant completion/certification |
 | VAULTED marketplace | VAULTED | Separate network/GMV system |
 
 ## Authority boundary

@@ -27,7 +27,7 @@ BluePrint is standalone SaaS. B_ Partner can justify a materially higher price o
 - operating-model setup;
 - process/manual packs;
 - BlankCRM configuration;
-- Academy onboarding;
+- Building Blocks onboarding;
 - integration support;
 - ongoing operating guidance;
 - network participation;

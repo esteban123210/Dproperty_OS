@@ -56,13 +56,13 @@ restructured on 2026-09-23 - the old 00_Index..19_Canonical tree no longer exist
 Key facts you must not get wrong:
 - B_RealEstate is a product-led operating-infrastructure company, NOT a franchise company.
 - Products: BluePrint (run the company) · BlankCRM (sell, powered by GoHighLevel) ·
-  VAULTED (network) · Academy (enablement, powered by Open edX).
+  VAULTED (network) · Building Blocks (learning, powered by Open edX).
 - BluePrint's system of record is the verified transaction, commission and management-control
   record, beginning at QUALIFIED OPPORTUNITY. It does NOT own property/unit inventory, MLS,
   the pre-qualification pipeline, the general ledger, payroll, or escrow.
 - Handoff line: BlankCRM owns demand until qualification; BluePrint owns everything after.
 - Channels, not products: Direct SaaS · B_ Partner · Dproperty Franchise · Developer Partnerships.
-- Naming: Academy (not Building Blocks) · B_ Partner (not White-Label) ·
+- Naming: Building Blocks (not Academy) · B_ Partner (not White-Label) ·
   Dproperty Select (not Private Collection) · BluePrint (not Dproperty OS/Plano/La Plataforma).
   DpropertyLiving is PARKED.
 - Pricing: Core $399/mo, Growth $799/mo, $1,500 setup, per organization. Raise: $950k/$800k staged.

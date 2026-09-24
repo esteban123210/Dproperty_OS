@@ -22,7 +22,7 @@ An agency keeps its own consumer brand but buys a deeper managed implementation 
 
 **Canonical name: B_ Partner.** "White-Label" is a legacy alias.
 
-**Why this is not "BluePrint at a higher price":** BluePrint is standalone SaaS. B_ Partner can justify materially higher price only because it includes real services — implementation/migration, operating-model setup, process/manual packs, BlankCRM configuration, Academy onboarding, integration support, ongoing operating guidance, network participation and eligible Dproperty Select/VAULTED access.
+**Why this is not "BluePrint at a higher price":** BluePrint is standalone SaaS. B_ Partner can justify materially higher price only because it includes real services — implementation/migration, operating-model setup, process/manual packs, BlankCRM configuration, Building Blocks onboarding, integration support, ongoing operating guidance, network participation and eligible Dproperty Select/VAULTED access.
 
 White-label partners share the same codebase and data model. **Branding and entitlements are configuration, not a fork.**
 

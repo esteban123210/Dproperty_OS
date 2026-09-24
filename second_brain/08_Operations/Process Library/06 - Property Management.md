@@ -16,7 +16,7 @@ tags: [process-library, property-management, operations]
 > This folder describes the **Dproperty Franchise** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
 >
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
-> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
+> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Building Blocks. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
 > Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 

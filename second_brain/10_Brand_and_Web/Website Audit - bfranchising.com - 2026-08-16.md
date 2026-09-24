@@ -90,7 +90,7 @@ The inspected forms use same-page GET form actions, and booking routes to Cal.co
 
 ## Recommended corrected ecosystem sentence
 
-“BluePrint coordina el back office; GoHighLevel gestiona la demanda y las conversaciones; B_Academy forma al equipo; Dproperty Select gobierna el inventario curado; y VAULTED abre el mercado off-market por invitación. Conectados, con una fuente de verdad definida para cada dato.”
+“BluePrint coordina el back office; GoHighLevel gestiona la demanda y las conversaciones; Building Blocks forma al equipo; Dproperty Select gobierna el inventario curado; y VAULTED abre el mercado off-market por invitación. Conectados, con una fuente de verdad definida para cada dato.”
 
 ## Release gate
 

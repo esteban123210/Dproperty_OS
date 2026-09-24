@@ -18,7 +18,7 @@ tags: [ecosystem, products, channels, hierarchy]
 1. **BluePrint — RUN THE COMPANY** (qualified opportunity → transaction → commission → control → audit)
 2. **BlankCRM — SELL** (demand → qualification)
 3. **VAULTED — ACCESS THE NETWORK**
-4. **Academy — OPERATE BETTER** (legacy alias: Building Blocks)
+4. **Building Blocks — OPERATE BETTER** (legacy alias: Building Blocks)
 
 ## Channels/packages
 

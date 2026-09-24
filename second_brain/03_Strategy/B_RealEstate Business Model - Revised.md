@@ -47,7 +47,7 @@ tags: [strategy, business-model, revenue-architecture, infrastructure]
               │                     │
         ┌─────┴─────┐         ┌────┴────┐
         │           │         │         │
-    BluePrint    Academy    VAULTED   B_ Network
+    BluePrint  Building Blocks  VAULTED  B_ Network
                               │
                        ┌──────┴──────┐
                        │             │
@@ -62,7 +62,7 @@ tags: [strategy, business-model, revenue-architecture, infrastructure]
 - Entry point: any real-estate agency, anywhere, at any time.
 - Pricing: tiered by organization size ($99-$1,500/mo).
 
-**Academy** (Knowledge)
+**Building Blocks** (Knowledge)
 - Training, certification, standardization.
 - Internal: B_ franchise methodology.
 - External: BluePrint certification, VAULTED certification, investment advisor certification.
@@ -306,7 +306,7 @@ But moving upward creates more value (and B_ captures more of that value).
 - B_ brand (prestige, traffic, investor network access)
 - BluePrint (included)
 - GoHighLevel white-labeled integration
-- B_Academy curriculum and certification
+- Building Blocks curriculum and certification
 - VAULTED preferred access (first dibs on Select inventory)
 - Dproperty Select inventory at preferential terms
 - Playbooks, templates, operating manuals

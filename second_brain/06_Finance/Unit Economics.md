@@ -12,7 +12,7 @@ tags: [business-plan, unit-economics]
 ---
 
 > [!WARNING] Stale figures — superseded 2026-09-23
-> This note carries **retired figures**: the $650k funding ask and/or pre-reconciliation BluePrint pricing, and it may use the legacy product name **"Building Blocks"** (now **Academy**).
+> This note carries **retired figures**: the $650k funding ask and/or pre-reconciliation BluePrint pricing, and it may use the legacy layer name **"Academy"** (now the standalone product **Building Blocks**).
 >
 > Canonical: capital **$950k / $800k staged** · BluePrint **$399 / $799 + $1,500 setup** per organization. Numbers below are earlier scenario work, **not current guidance**.
 >

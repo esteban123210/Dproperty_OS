@@ -24,7 +24,7 @@ They were reconciled and the whole vault was aligned to the result.
 1. **Three-layer architecture, one precedence order.** `01_Canon/` = what the company is · `02_Offers/01_BluePrint/` = what the product is · `01_Canon/` = how it is proven and financed. Controlled by [[../../01_Canon/00 - Precedence and Canonical Reconciliation]].
 2. **BluePrint definition merged, not chosen between.** A chat-first AI management OS **whose system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity.** Property/unit inventory and MLS stay permanently retired; the transaction/commission record is reinstated as the wedge.
 3. **Boundary in one line:** BluePrint owns *the deal as a governed management object*, not *the property as inventory*.
-4. **Naming:** Academy (not Building Blocks) · B_ Partner (not White-Label) · Dproperty Select (not Private Collection) · Developer Partnerships (not Developer Sales OS) · BluePrint (not Dproperty OS / Plano / La Plataforma). DpropertyLiving parked.
+4. **Naming:** Building Blocks (not Academy) · B_ Partner (not White-Label) · Dproperty Select (not Private Collection) · Developer Partnerships (not Developer Sales OS) · BluePrint (not Dproperty OS / Plano / La Plataforma). DpropertyLiving parked.
 5. **Pricing:** Core $399/mo · Growth $799/mo · $1,500 setup, per organization. Scale tier quoted, undefined. $299/$599/$999 retired.
 6. **Capital:** $950k capitalization / $800k 18-month plan, staged. $650k and $1.5M both retired.
 7. **Vault-wide truth labels** `[F] [D] [M] [A] [T] [R]` and the `DRAFT → REVIEW → APPROVED → SUPERSEDED → ARCHIVED` lifecycle.
@@ -34,7 +34,7 @@ They were reconciled and the whole vault was aligned to the result.
 - The reconciled BluePrint definition.
 - Whether a **Scale** tier exists, and its contents/price.
 - The $950k/$800k envelope as the single current position.
-- Academy over Building Blocks as the commercial name.
+- ~~Academy over Building Blocks.~~ **RESOLVED 2026-09-24: Building Blocks, as a standalone product.**
 
 ## Next work
 

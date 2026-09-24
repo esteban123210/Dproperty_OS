@@ -5,7 +5,7 @@
 > - `02_Offers/01_BluePrint/` — what the product **is**
 > - `01_Canon/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
 >
-> **Naming corrections that override this folder:** **Academy** (not *Building Blocks*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
+> **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
 > **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
 
@@ -35,8 +35,8 @@ Every approved record needs: owner, approver, effective date, review date, sourc
 
 ## Naming
 
-- Product/company names use: `B_RealEstate`, `B_Franchising`, `BluePrint`, `BlankCRM`, `VAULTED`, `Academy`, `Dproperty`, `Dproperty Select`, `B_ Partner`.
-- **Corrected 2026-09-23:** `Building Blocks` → **Academy** · `White-Label` → **B_ Partner** · `Private Collection` → **Dproperty Select** · `Developer Sales OS` → **Developer Partnerships**. `B_Franchising` is a gateway *function*, never the company definition.
+- Product/company names use: `B_RealEstate`, `B_Franchising`, `BluePrint`, `BlankCRM`, `VAULTED`, `Building Blocks`, `Dproperty`, `Dproperty Select`, `B_ Partner`.
+- **Corrected 2026-09-24:** `Academy` / `B_Academy` → **Building Blocks** · `White-Label` → **B_ Partner** · `Private Collection` → **Dproperty Select** · `Developer Sales OS` → **Developer Partnerships**. `B_Franchising` is a gateway *function*, never the company definition.
 - Use one canonical ID per organization, person, project, unit, opportunity, transaction, document, and decision.
 - Dates use ISO `YYYY-MM-DD`; money states currency; percentages state denominator.
 - Financial projections cite workbook, sheet, scenario, horizon, and version.

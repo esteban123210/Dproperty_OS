@@ -17,7 +17,7 @@ tags: [index, navigation]
 
 **B_RealEstate builds operating infrastructure for independent real-estate businesses.** Product-led software and network company — **not** a franchise company.
 
-**The handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Academy owns capability. Accounting remains the ledger.
+**The handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.
 
 ---
 
@@ -70,7 +70,7 @@ tags: [index, navigation]
 | 1 | **BluePrint** | Product — core | $399 / $799 + $1,500 setup | [[../02_Offers/01_BluePrint/00 - README]] |
 | 2 | **BlankCRM** | Product — attach | Open | [[../02_Offers/02_BlankCRM/00 - README]] |
 | 3 | **VAULTED** | Product — network | Take rate ~0.35% | [[../02_Offers/03_VAULTED/00 - README]] |
-| 4 | **Academy** | Product — enablement | Bundled | [[../02_Offers/04_Academy/00 - README]] |
+| 4 | **Building Blocks** | Product — learning | $199/enrollment | [[../02_Offers/04_Building_Blocks/00 - README]] |
 | 5 | **Dproperty Franchise** | Channel | Entry + 6% + 1% fund | [[../02_Offers/05_Dproperty_Franchise/00 - README]] |
 | 6 | **B_ Partner** | Channel | Entry + 4% | [[../02_Offers/06_B_Partner/00 - README]] |
 | 7 | **Developer Partnerships** | Channel | Retainer + performance | [[../02_Offers/07_Developer_Partnerships/00 - README]] |
@@ -121,7 +121,7 @@ tags: [index, navigation]
 | What did we decide about X? | [[Decision Log]] |
 | What is still open? | [[Open Questions]] |
 | What am I working on? | [[Current Priorities]] → [[../11_Execution/Deliverables Tracker - Compact MD]] |
-| What IS BluePrint / VAULTED / Academy? | that offer's `01 - Definition and Boundaries` |
+| What IS BluePrint / VAULTED / Building Blocks? | that offer's `01 - Definition and Boundaries` |
 | What does it cost? | that offer's `03 - Offer and Pricing`, or [[../01_Canon/04 - Offer Portfolio Map]] |
 | Who owns this data? | [[../01_Canon/07 - System of Record and Integration Matrix]] |
 | What do we tell investors? | [[../05_Pitch_and_Investor/README]] + each offer's `07 - Investor Two-Pager` |

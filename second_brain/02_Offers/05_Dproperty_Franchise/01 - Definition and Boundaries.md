@@ -26,7 +26,7 @@ It is not the definition of B_RealEstate's TAM and does not turn B_ into “a fr
 - product usage;
 - investment-specialist brand proposition;
 - developer/investor relationships;
-- ability to deploy BlankCRM + BluePrint + Academy + VAULTED together.
+- ability to deploy BlankCRM + BluePrint + Building Blocks + VAULTED together.
 
 ## Franchise offer
 

@@ -24,7 +24,7 @@ The ecosystem now has **different economic engines**. Do not blend them or doubl
 | **BluePrint** | organization-level SaaS + setup | **Core $399/mo · Growth $799/mo · $1,500 setup**; Scale quoted/undefined. `[A]` validate before publication |
 | **BlankCRM** | subscription/resale margin | build from GHL + messaging + support cost |
 | **VAULTED** | attributable transaction take rate | take rate/GMV/activation unvalidated |
-| **Academy** | mostly bundled; premium/custom later | supporting layer |
+| **Building Blocks** | per-enrollment ($199 blended `[A]`) + certification + enterprise cohorts; core onboarding allocated inside packages | **standalone product**; cost base unquoted `[R]` |
 | **B_ Partner** | setup + managed recurring package | historical pricing must be rebuilt |
 | **Dproperty Franchise** | launch + platform + royalty/fund + Select economics | separate channel model; conflicts remain |
 | **Developer Partnerships** | retainer + performance/commission | fee-base reconciliation required |

@@ -10,12 +10,24 @@ tags: [manifest, ai-handoff]
 
 # Vault Manifest
 
+## Latest — 2026-09-24 Building Blocks Promoted to Standalone Product
+
+Reverses the 2026-09-23 "Academy" demotion. Driven by a portfolio-packaging argument: several named standalone products make a stronger franchise offer than one monolithic platform.
+
+- **New canon:** [[../01_Canon/19 - Portfolio Composition Principle]] — every product separately definable, priced and sellable; binding allocation rule for bundled products; "a product without a standalone list price is not a product."
+- **`02_Offers/04_Academy/` → `02_Offers/04_Building_Blocks/`.**
+- **Created:** Building Blocks `02 - ICP and Jobs To Be Done`, `03 - Offer and Pricing`, `05 - Economics`; rewrote `00 - README` and `01 - Definition and Boundaries`.
+- **Pricing established:** $199 blended per enrollment `[A]`, certification programs, enterprise cohorts, core onboarding allocated at standalone value inside packages.
+- **Naming flipped vault-wide:** Building Blocks canonical; Academy / B_Academy / Training Academy are legacy aliases.
+- **Investor hierarchy unchanged** — the moat remains BluePrint + VAULTED.
+- **New blocker surfaced:** BlankCRM still has no standalone price, which the principle now makes *required* rather than optional.
+
 ## Latest — 2026-09-23 Architecture Migration
 
 The vault was restructured from the accreted `00_Index`…`19_Canonical_B_RealEstate` tree into a coherent 16-folder architecture. **263 files moved, 0 lost.** Full definition and old→new mapping: [[Vault Architecture Map]].
 
 - **Two parallel vaults eliminated.** `18_Ecosystem/` and `19_Canonical_B_RealEstate/` both covered company/strategy/product/finance/operations. They are dissolved; one topic now has one home.
-- **`02_Offers/` created** — one first-class folder per sellable thing, with a standard skeleton and an honest `00 - README.md` naming real gaps. This replaces `04_Product/` meaning "BluePrint only".
+- **`02_Offers/` created** — one first-class folder per sellable thing, with a standard skeleton and an honest `00 - README.md` naming real gaps. This replaced the old `04_Product/` folder, which in practice meant "BluePrint only".
 - **Canon sorts first** as `01_Canon/`; precedence is now impossible to miss.
 - **Legacy names removed from the folder tree:** `13_White_Label` → `02_Offers/06_B_Partner`, `12_Private_Collection` → `08_Dproperty_Select`, `11_Developer_Sales_OS` → `07_Developer_Partnerships`, `14_CRM_GoHighLevel` → `02_BlankCRM`.
 - **`98_Archive/` created** for superseded strategy, business plan, pitch, product, execution material, session closeouts, exports and parked concepts. Evidence only, never guidance.
@@ -48,7 +60,7 @@ The vault had **two competing canonical layers** three days apart. They are now 
 ## Previous — 2026-09-20 Ecosystem Reset
 
 - B_RealEstate changed from franchise-first to **product-led operating infrastructure**.
-- Canonical hierarchy: **BluePrint / BlankCRM / VAULTED / Academy**.
+- Canonical hierarchy: **BluePrint / BlankCRM / VAULTED / Building Blocks**.
 - Dproperty Franchise, B_ Partner and Developer Partnerships became channels/packages.
 - BlankCRM created as sellable GHL-powered front office.
 - VAULTED elevated as network/transaction engine.

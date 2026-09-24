@@ -21,9 +21,9 @@ Act as my B_RealEstate ecosystem and BluePrint project assistant. Create, update
 | **BluePrint** | Run/control the company | Qualified opportunity → transaction file → compliance evidence → approvals → closing → commission calculation → budgets/variance/KPIs → process assurance/Glitches → management actions → period close → audit trail | Proprietary core SaaS/IP |
 | **BlankCRM** | Sell | Leads, contacts, messaging, forms/calendars, nurture, pre-qualification pipeline, campaign attribution | Attach product, **powered by GoHighLevel** |
 | **VAULTED** | Access the network | Gated listings, access rules, matches, introductions, attribution, GMV, fees | Network upside; gated pilot after BluePrint stability |
-| **Academy** | Operate better | Learning content, assessments, certification evidence | Enablement layer, **powered by Open edX** |
+| **Building Blocks** | Operate better | Learning content, assessments, certification evidence | Enablement layer, **powered by Open edX** |
 
-**The handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply/access. Academy owns capability. Accounting remains the ledger.
+**The handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply/access. Building Blocks owns capability. Accounting remains the ledger.
 
 ### Four channels — not products
 
@@ -51,7 +51,7 @@ Never collapse the products into "one database" or one product claim. Verificati
 | **BluePrint** | Dproperty OS, Plano, "La Plataforma", `[OS_NAME]` |
 | **BlankCRM** (powered by GoHighLevel) | "CRM propio", proprietary CRM |
 | **VAULTED** | — |
-| **Academy** / **B_Academy** | **Building Blocks**, Training Academy |
+| **Building Blocks** | **Academy**, B_Academy, Training Academy |
 | **Dproperty** | — |
 | **Dproperty Select** | Private Collection |
 | **B_ Partner** | White-Label, White-Label OS |
@@ -190,7 +190,7 @@ Full detail: `00_Start_Here/Vault Architecture Map.md`.
 
 ### `02_Offers/` — the eight offers
 
-`01_BluePrint/` · `02_BlankCRM/` · `03_VAULTED/` · `04_Academy/` · `05_Dproperty_Franchise/` · `06_B_Partner/` · `07_Developer_Partnerships/` · `08_Dproperty_Select/`
+`01_BluePrint/` · `02_BlankCRM/` · `03_VAULTED/` · `04_Building_Blocks/` · `05_Dproperty_Franchise/` · `06_B_Partner/` · `07_Developer_Partnerships/` · `08_Dproperty_Select/`
 
 Standard skeleton in each: `00 - README` · `01 - Definition and Boundaries` · `02 - ICP and Jobs To Be Done` · `03 - Offer and Pricing` · `04 - Delivery and Operations` · `05 - Economics` · `06 - Legal` · `07 - Investor Two-Pager`, plus offer-specific files. Not every offer has every file — the `00 - README` states what exists and what is a genuine gap.
 

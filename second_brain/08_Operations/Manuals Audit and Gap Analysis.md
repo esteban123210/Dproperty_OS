@@ -13,7 +13,7 @@ tags: [franchise, manuals, audit, gap-analysis, compliance, localization]
 > This folder describes the **Dproperty Franchise** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
 >
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
-> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
+> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Building Blocks. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
@@ -50,7 +50,7 @@ tags: [franchise, manuals, audit, gap-analysis, compliance, localization]
 | M4 | Sales Playbook | [[../02_Offers/05_Dproperty_Franchise/04D - Sales Playbook]] | 🟢 v0.5 | **Rebuilt today** on the Process Library; role-agnostic, USD, multi-market aware |
 | M5 | Compliance Manual | [[../07_Legal_and_Compliance/Compliance Package]] | 🔴 Skeleton | **Dangerously thin for cross-border real estate** — highest-risk gap (see §4) |
 | — | Brand Manual | [[../10_Brand_and_Web/Brand Manual]] | 🟡 Draft | Voice is clear; visual system is a "to build" list; no multilingual/market-adaptation rules |
-| — | Training Academy | [[../02_Offers/04_Academy/03 - Curriculum Outline]] | 🔴 Outline | Module list only; no assessment rigor, recertification, or localization |
+| — | Training Academy | [[../02_Offers/04_Building_Blocks/10 - Curriculum Outline]] | 🔴 Outline | Module list only; no assessment rigor, recertification, or localization |
 | — | Welcome Kit | [[../02_Offers/05_Dproperty_Franchise/04E - Welcome Kit Checklist]] | 🟡 OK | Fine for purpose; low risk |
 
 ## 3. Standards violations (fix before anything ships)

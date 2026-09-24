@@ -43,7 +43,7 @@ tags: [product, architecture, scenarios, ux, wireframe]
 | 14 | Need a project's payment plan fast | Command Bar → project → Payment Plan tab. | T0 |
 | 15 | Access a Private Collection opportunity | Private Collection → project → "Request Access" → HQ senior manager auto-assigned → register client. | T0 |
 | 16 | What's my commission forecast / earnings? | Finance/Commission dashboard → personal (role-filtered) view. | T0 |
-| 17 | Onboard a new team member | Launcher → Academy (embedded LMS, SSO) → assigned track → gated certifications. | T0 |
+| 17 | Onboard a new team member | Launcher → Building Blocks (embedded LMS, SSO) → assigned track → gated certifications. | T0 |
 | 18 | Approved template to reply to a lead | Command Bar → "template" → pick email/WhatsApp template → merge fields. | T0 (+T1 opt) |
 | 19 | A document needs legal approval before sending | Doc flagged → HQ Legal queue → approve/reject → advisor notified. | T0 |
 | 20 | Working offline / traveling | Field Mode caches inventory, prices, brochures, contacts, NDA generator. | T0 |
@@ -68,7 +68,7 @@ tags: [product, architecture, scenarios, ux, wireframe]
 | 9 | Do I qualify / requirements? | Requirements section + short pre-qual form |
 | 10 | Proof it works? | Case studies / testimonials / numbers |
 | 11 | How long until I'm operational? | Roadmap 30-60-90 timeline |
-| 12 | What support from HQ? | "What's Included" → Support & Academy |
+| 12 | What support from HQ? | "What's Included" → Support & Building Blocks |
 | 13 | Info pack without a call? | "Download Info Pack" (email-gated → CRM nurture) |
 | 14 | What's the Private Collection? | Teaser page (gated depth) |
 | 15 | Objections / FAQ | FAQ page |
@@ -88,7 +88,7 @@ tags: [product, architecture, scenarios, ux, wireframe]
 
 | # | Scenario | Path | Tier |
 |---|----------|------|------|
-| 1 | Onboard a new franchise | HQ Control Center → `New Tenant` → provisions workspace, GHL sub-account, Academy, brand kit, templates, roles | T0 |
+| 1 | Onboard a new franchise | HQ Control Center → `New Tenant` → provisions workspace, GHL sub-account, Building Blocks, brand kit, templates, roles | T0 |
 | 2 | Monitor network performance & compliance | HQ Home → dashboard: revenue, deal flow, compliance score, activity, training | T0 |
 | 3 | Push a template/price update to all tenants | Template Control → edit → "Publish to network" → versioned, adoption tracked | T0 |
 | 4 | Remediate an underperforming/non-compliant franchise | Franchise profile → flags → open Case → assign remediation → track | T0 |
@@ -103,10 +103,10 @@ tags: [product, architecture, scenarios, ux, wireframe]
 
 | # | Scenario | Path | Tier |
 |---|----------|------|------|
-| 1 | Franchise hires a sales advisor | People → `Add Person` → role + permissions → auto-assign Academy + templates + CRM seat | T0 |
+| 1 | Franchise hires a sales advisor | People → `Add Person` → role + permissions → auto-assign Building Blocks + templates + CRM seat | T0 |
 | 2 | Employee requests time off | People → "Request Leave" → routes to Principal → approve → calendar | T0 |
 | 3 | Access contract / payslip / HR docs | "My Profile" → Documents (role-gated: only they + HR) | T0 |
-| 4 | Performance review / certification tracking | People → person → review + Academy cert status (gated) | T0 |
+| 4 | Performance review / certification tracking | People → person → review + Building Blocks cert status (gated) | T0 |
 | 5 | Employee offboarding | People → "Offboard": revoke access, reassign clients/deals, final pay, exit checklist | T0 |
 
 ---

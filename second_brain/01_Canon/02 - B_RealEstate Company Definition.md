@@ -24,7 +24,7 @@ Its core thesis is not “sell franchises.” It is to build products and a netw
 - [[../02_Offers/01_BluePrint/01 - Definition and Boundaries|BluePrint]] — proprietary management OS.
 - [[../02_Offers/02_BlankCRM/01 - Definition and Boundaries|BlankCRM]] — front office powered by GoHighLevel.
 - [[../02_Offers/03_VAULTED/01 - Definition and Boundaries|VAULTED]] — marketplace/network.
-- [[../02_Offers/04_Academy/01 - Definition and Boundaries|Academy]] — standards/enablement.
+- [[../02_Offers/04_Building_Blocks/01 - Definition and Boundaries|Building Blocks]] — standalone learning, onboarding and certification product.
 
 ## Channels
 

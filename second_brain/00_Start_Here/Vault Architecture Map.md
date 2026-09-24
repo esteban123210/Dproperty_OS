@@ -19,7 +19,7 @@ The vault previously ran `00_Index` through `19_Canonical_B_RealEstate`. Those f
 | Problem | Evidence |
 |---|---|
 | **Two parallel vaults** | The old `19_Canonical_B_RealEstate/` re-covered company, strategy, products, finance, operations and roadmap — the same domains as the old `01_Strategy` through `07_Finance`. Two homes for every topic, and no rule saying which won. |
-| **Products scattered across six folders** | BluePrint lived in `04_Product/`, BlankCRM in `14_CRM_GoHighLevel/`, Academy inside `05_Franchise_Package/Training/`, VAULTED only as a one-pager in `18_Ecosystem/`, Dproperty Select in `12_Private_Collection/`, B_ Partner in `13_White_Label/`, Developer Partnerships in `11_Developer_Sales_OS/`. |
+| **Products scattered across six folders** | BluePrint lived in `04_Product/`, BlankCRM in `14_CRM_GoHighLevel/`, Building Blocks (then called Academy) inside `05_Franchise_Package/Training/`, VAULTED only as a one-pager in `18_Ecosystem/`, Dproperty Select in `12_Private_Collection/`, B_ Partner in `13_White_Label/`, Developer Partnerships in `11_Developer_Sales_OS/`. |
 | **`04_Product` meant "BluePrint"** | Eight sellable things; exactly one of them had a product folder. |
 | **Canon buried at the end** | `18_Ecosystem/` held the controlling definitions but sorted second-to-last, after every superseded file. |
 | **Legacy names as folder names** | `13_White_Label` (now B_ Partner), `12_Private_Collection` (now Dproperty Select), `11_Developer_Sales_OS` (now Developer Partnerships). The folder tree actively taught retired vocabulary. |
@@ -71,7 +71,7 @@ An **offer** is anything a customer can buy. Strategy still distinguishes *produ
 | `01_BluePrint/` | BluePrint | **Product** — proprietary core | — |
 | `02_BlankCRM/` | BlankCRM | **Product** — attach, powered by GoHighLevel | — |
 | `03_VAULTED/` | VAULTED | **Product** — network/marketplace | — |
-| `04_Academy/` | Academy | **Product** — enablement layer | legacy alias: *Building Blocks* |
+| `04_Building_Blocks/` | Building Blocks | **Product** — learning/certification | legacy aliases: *Academy*, *B_Academy* |
 | `05_Dproperty_Franchise/` | Dproperty Franchise | **Channel** — branded full stack | — |
 | `06_B_Partner/` | B_ Partner | **Channel** — managed own-brand | legacy alias: *White-Label* |
 | `07_Developer_Partnerships/` | Developer Partnerships | **Channel** — revenue/supply/distribution | legacy alias: *Developer Sales OS* |
@@ -155,7 +155,7 @@ Old paths below are history; they no longer exist on disk.
 | `03_Pitch/` | `05_Pitch_and_Investor/` |
 | `04_Product/BluePrint/` | `02_Offers/01_BluePrint/` |
 | `04_Product/` loose files | `02_Offers/01_BluePrint/`, `09_Data_and_AI/`, `10_Brand_and_Web/`, `12_Handoffs/`, `98_Archive/` |
-| `05_Franchise_Package/` | `02_Offers/05_Dproperty_Franchise/` + `08_Operations/` + `07_Legal_and_Compliance/` + `10_Brand_and_Web/` + `02_Offers/04_Academy/` |
+| `05_Franchise_Package/` | `02_Offers/05_Dproperty_Franchise/` + `08_Operations/` + `07_Legal_and_Compliance/` + `10_Brand_and_Web/` + `02_Offers/04_Building_Blocks/` |
 | `06_Legal/` | `07_Legal_and_Compliance/` + each offer's `06 - Legal.md` |
 | `07_Finance/` | `06_Finance/` + each offer's `05 - Economics.md` |
 | `08_Research/` | `13_Research/` |
@@ -191,7 +191,7 @@ Every material claim carries a truth label: `[F] Fact` · `[D] Decision` · `[M]
 | "What did we decide about X?" | `00_Start_Here/Decision Log.md` |
 | "What is still undecided?" | `00_Start_Here/Open Questions.md` |
 | "What am I working on?" | `00_Start_Here/Current Priorities.md` → `11_Execution/` |
-| "What IS BluePrint / VAULTED / Academy?" | `02_Offers/0X/01 - Definition and Boundaries.md` |
+| "What IS BluePrint / VAULTED / Building Blocks?" | `02_Offers/0X/01 - Definition and Boundaries.md` |
 | "What does it cost?" | `02_Offers/0X/03 - Offer and Pricing.md` |
 | "Who owns this data?" | `01_Canon/07 - System of Record and Integration Matrix.md` |
 | "What do we tell investors?" | `05_Pitch_and_Investor/` + `02_Offers/0X/07 - Investor Two-Pager.md` |

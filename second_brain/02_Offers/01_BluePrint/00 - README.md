@@ -34,7 +34,7 @@ management truth and verification · budgets, forecast, variance · KPIs and rep
 
 ## What it does NOT own
 
-Leads, marketing automation and the **pre-qualification** pipeline (→ BlankCRM) · property/project/unit **inventory**, listings, MLS · general ledger, tax, payroll (→ accounting) · property management · LMS delivery (→ Academy) · marketplace listings and matching (→ VAULTED) · escrow, custody, money movement, FX · sales-agent prospecting workspace
+Leads, marketing automation and the **pre-qualification** pipeline (→ BlankCRM) · property/project/unit **inventory**, listings, MLS · general ledger, tax, payroll (→ accounting) · property management · LMS delivery (→ Building Blocks) · marketplace listings and matching (→ VAULTED) · escrow, custody, money movement, FX · sales-agent prospecting workspace
 
 ## Files in this folder
 

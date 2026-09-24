@@ -17,7 +17,7 @@ tags: [launch, franchise, operations, onboarding]
 > This folder describes the **Dproperty Franchise** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
 >
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
-> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
+> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Building Blocks. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
 > Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
@@ -77,14 +77,14 @@ tags: [launch, franchise, operations, onboarding]
 **Owner:** HQ Brand + PRIN (local customization)
 
 ### Training & knowledge
-- [ ] Academy access granted + first 3 modules assigned
+- [ ] Building Blocks access granted + first 3 modules assigned
 - [ ] Sales Playbook provided + reviewed in a 1-hr call ([[04D - Sales Playbook|M4]])
 - [ ] Compliance certification assigned (due by ~Week 3)
 - [ ] Dproperty Select training scheduled (~Week 2)
 - [ ] HQ support schedule locked (weekly calls)
 - [ ] Reference materials organized in Drive
 - [ ] Community channel created
-**Owner:** HQ Launch Lead + Academy
+**Owner:** HQ Launch Lead + Building Blocks
 
 ### Financial & reporting
 - [ ] First invoice sent (launch fee if not paid)
@@ -105,7 +105,7 @@ tags: [launch, franchise, operations, onboarding]
 **Success:** CRM operational; 20+ outreach sent; 5+ responses.
 
 ### Week 2 — Pipeline building & training acceleration
-**PRIN:** Dproperty Select training (deal flow, commission structure, HQ approval, rules); Sales Playbook review (scripts, weekly rhythm, objections, role-play); expand outreach to 100+; follow up Week-1 responses (schedule 5+ calls); begin broker outreach; Academy (Brand & Culture, OS Basics).
+**PRIN:** Dproperty Select training (deal flow, commission structure, HQ approval, rules); Sales Playbook review (scripts, weekly rhythm, objections, role-play); expand outreach to 100+; follow up Week-1 responses (schedule 5+ calls); begin broker outreach; Building Blocks (Brand & Culture, OS Basics).
 **HQ:** Select training (2h) + sales coaching (1.5h) + weekly call (1h).
 **Success:** 100+ messages; 15–20 interest signals; 5+ discovery calls scheduled; compliance + sales training in progress.
 
@@ -115,7 +115,7 @@ tags: [launch, franchise, operations, onboarding]
 **Success:** 8–10 discovery calls; 3–5 warm prospects; compliance certified; first presentation scheduled.
 
 ### Week 4 — First presentation & potential first deal
-**PRIN:** deliver first presentation; follow up; continue 5–8 more discovery calls; if a prospect is ready, guide reservation (**HQ reviews terms before signature**); prepare paperwork; Academy (Client Advisory, Projection intro).
+**PRIN:** deliver first presentation; follow up; continue 5–8 more discovery calls; if a prospect is ready, guide reservation (**HQ reviews terms before signature**); prepare paperwork; Building Blocks (Client Advisory, Projection intro).
 **HQ:** presentation feedback + first-deal review/compliance check + weekly call.
 **Success:** first presentation delivered; 15+ cumulative discovery calls; first deal in flight; 5+ prospects in stages.
 
@@ -125,12 +125,12 @@ tags: [launch, franchise, operations, onboarding]
 **Success:** **first deal closed**; first commission; 20+ cumulative calls; 5–8 prospects; credibility ("I just closed my first deal").
 
 ### Weeks 6–8 — Scaling pipeline & patterns
-**PRIN:** 2–3 more deals closed/advanced; weekly prospecting (8–10 calls, 1–2 presentations, follow-ups); establish repeatable rhythm + standardized templates; optionally hire first support person and onboard on Dproperty systems; Academy (Client Advisory, Projection, Private Collection certs).
+**PRIN:** 2–3 more deals closed/advanced; weekly prospecting (8–10 calls, 1–2 presentations, follow-ups); establish repeatable rhythm + standardized templates; optionally hire first support person and onboard on Dproperty systems; Building Blocks (Client Advisory, Projection, Dproperty Select certs).
 **HQ:** weekly calls + deal support + team-scaling guidance.
 **Success by Week 8:** 3+ deals closed; 5+ in pipeline; **$10k+ commission revenue**; CRM smooth; repeatable process; (optional) first hire trained.
 
 ### Weeks 9–12 — Refinement & future planning
-**PRIN:** aggressive prospecting (target 4–6 deals closed, 8–10 in pipeline by Week 12); team scaling if started; marketing launch (profile/content, business listing, local page, first campaign); broker-network building; complete remaining Academy certs; **Year-2 strategic plan** (review results, set targets, budget) with HQ.
+**PRIN:** aggressive prospecting (target 4–6 deals closed, 8–10 in pipeline by Week 12); team scaling if started; marketing launch (profile/content, business listing, local page, first campaign); broker-network building; complete remaining Building Blocks certs; **Year-2 strategic plan** (review results, set targets, budget) with HQ.
 **HQ:** weekly calls + marketing guidance + Year-2 planning (2h) + broker intros.
 **Success by Week 12:** 4–6+ deals closed; 8–10+ in pipeline; mature CRM; documented process; (optional) first hire producing; marketing foundation; Year-2 plan locked.
 

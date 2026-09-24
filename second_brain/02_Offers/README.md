@@ -23,7 +23,7 @@ An **offer** is anything a customer can buy. Full portfolio view with prices, bo
 | [[01_BluePrint/00 - README\|01_BluePrint]] | **BluePrint** | Product — proprietary core | Run and control the company |
 | [[02_BlankCRM/00 - README\|02_BlankCRM]] | **BlankCRM** | Product — attach | Sell |
 | [[03_VAULTED/00 - README\|03_VAULTED]] | **VAULTED** | Product — network | Access the network |
-| [[04_Academy/00 - README\|04_Academy]] | **Academy** | Product — enablement | Operate better |
+| [[04_Building_Blocks/00 - README\|04_Building_Blocks]] | **Building Blocks** | Product — learning | Operate better |
 | [[05_Dproperty_Franchise/00 - README\|05_Dproperty_Franchise]] | **Dproperty Franchise** | Channel | Full branded operating model |
 | [[06_B_Partner/00 - README\|06_B_Partner]] | **B_ Partner** | Channel | Managed stack, own brand |
 | [[07_Developer_Partnerships/00 - README\|07_Developer_Partnerships]] | **Developer Partnerships** | Channel | Developer sales and supply |
@@ -31,7 +31,7 @@ An **offer** is anything a customer can buy. Full portfolio view with prices, bo
 
 ## The handoff line
 
-**BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Academy owns capability. Accounting remains the ledger.**
+**BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
 
 ## Standard skeleton
 

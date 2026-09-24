@@ -17,7 +17,7 @@ tags: [franchise, manual, operations]
 > This folder describes the **Dproperty Franchise** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
 >
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
-> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
+> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Building Blocks. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
@@ -48,7 +48,7 @@ Every commercial activity runs one of these. Learn them; run them as written.
 
 ## 4. People & training
 - Define who holds each role/hat in your office; keep it current in the OS.
-- Every advisor completes **sales + compliance certification** before client-facing work ([[../02_Offers/04_Academy/03 - Curriculum Outline]]).
+- Every advisor completes **sales + compliance certification** before client-facing work ([[../02_Offers/04_Building_Blocks/10 - Curriculum Outline]]).
 - Hiring/onboarding of new staff follows HQ standards; brand and compliance are non-negotiable.
 - Recertify on cadence and whenever a process or market pack changes.
 

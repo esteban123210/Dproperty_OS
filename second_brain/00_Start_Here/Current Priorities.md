@@ -17,7 +17,7 @@ tags: [priorities, investor, product]
 1. **Ratify the reconciled BluePrint definition** — management OS whose system of record is the verified transaction/commission record from qualified opportunity. See [[../01_Canon/00 - Precedence and Canonical Reconciliation]] §2.
 2. **Ratify pricing:** Core $399 / Growth $799 / $1,500 setup. Decide whether a Scale tier exists and what it contains.
 3. **Ratify the $950k / $800k capital envelope** as the single current position.
-4. **Confirm Academy over Building Blocks** as the commercial name.
+4. ~~Confirm Academy over Building Blocks.~~ **RESOLVED 2026-09-24: Building Blocks is a standalone product.** See [[../01_Canon/19 - Portfolio Composition Principle]].
 
 ## P0 — Investor readiness
 1. Build the investor deck from [[../05_Pitch_and_Investor/Pitch Deck Outline]] using the reconciled hierarchy: BluePrint core → VAULTED network upside → BlankCRM attach → channels secondary.

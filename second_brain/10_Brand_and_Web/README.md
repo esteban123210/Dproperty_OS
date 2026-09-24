@@ -30,7 +30,7 @@ tags: [readme, navigation]
 
 ## Naming
 
-Parent **B_RealEstate / B_** · platform **BluePrint** (wordmark: B_ + underlined "luePrint") · front office **BlankCRM**, powered by GoHighLevel · network **VAULTED** · enablement **Academy**, powered by Open edX · flagship **Dproperty** · curated inventory **Dproperty Select** · own-brand channel **B_ Partner**.
+Parent **B_RealEstate / B_** · platform **BluePrint** (wordmark: B_ + underlined "luePrint") · front office **BlankCRM**, powered by GoHighLevel · network **VAULTED** · enablement **Building Blocks**, powered by Open edX · flagship **Dproperty** · curated inventory **Dproperty Select** · own-brand channel **B_ Partner**.
 
 ## Public claim rules — binding
 

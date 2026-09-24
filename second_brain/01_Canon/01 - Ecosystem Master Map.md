@@ -19,7 +19,7 @@ tags: [ecosystem, architecture, map]
 
 ## The handoff line
 
-**BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Academy owns capability. Accounting remains the ledger.**
+**BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
 
 ## Core architecture
 
@@ -35,8 +35,8 @@ transaction · commission · control · audit"]
     CRM <--> VA["VAULTED
 Private marketplace/network"]
     VA --> BP
-    AC["Academy
-Standards & training"] --> BP
+    AC["Building Blocks
+Learning & certification"] --> BP
 
     FR["Dproperty Franchise"] --> CRM
     FR --> BP
@@ -57,7 +57,7 @@ Standards & training"] --> BP
 | **BluePrint** | Run/control the company | Qualified opportunity → transaction file → compliance evidence → approvals → closing → commission calculation → budgets/variance/KPIs → process assurance → period close → audit | Proprietary SaaS/IP |
 | **BlankCRM** | Generate, organize and convert demand | Leads, contacts, messaging, forms/calendars, nurture, pre-qualification pipeline, campaign attribution | Attach/acquisition product; third-party engine |
 | **VAULTED** | Access/match network supply and demand | Gated listings, access rules, matches, introductions, attribution, GMV, fees | Network effect + GMV/take-rate upside |
-| **Academy** | Teach standards and close capability gaps | Learning content, assessments, certification evidence | Retention/quality/enablement (legacy alias: Building Blocks) |
+| **Building Blocks** | Teach standards and close capability gaps | Learning content, assessments, certification evidence | Retention/quality/enablement (legacy alias: Building Blocks) |
 
 ### What BluePrint does **not** own
 
@@ -78,7 +78,7 @@ Property/project/unit inventory · listing management/MLS · pre-qualification l
 - **Dproperty** — flagship investment brand/testbed/distribution.
 - **Dproperty Select** — HQ-curated opportunities; may appear as a curated collection inside VAULTED.
 - Existing developer/broker/investor relationships — cold-start advantage.
-- Second Brain/process library — internal institutional knowledge; feeds product/Academy but is not a customer product.
+- Second Brain/process library — internal institutional knowledge; feeds product and Building Blocks curricula but is not itself a customer product.
 
 ## Long-term option
 

@@ -5,7 +5,7 @@
 > - `02_Offers/01_BluePrint/` — what the product **is**
 > - `01_Canon/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
 >
-> **Naming corrections that override this folder:** **Academy** (not *Building Blocks*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
+> **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
 > **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
 
@@ -17,7 +17,7 @@
 |---|---|---|---|---|
 | D-001 | BluePrint transaction spine is the first build priority, **as the wedge module inside the management OS** (reconciled 2026-09-23) | 2026-09-23 | CEO | Five pilots reject authority/value |
 | D-002 | BlankCRM uses GoHighLevel; no proprietary CRM build | 2026-09-23 | CEO/Product | Vendor failure or unit economics unacceptable |
-| D-003 | **Academy** uses external LMS/Open edX integration; bundled, not a headline standalone product | 2026-09-23 | Product | Integration/cost blocks learning goals |
+| D-003 | **Building Blocks** is a standalone product on external LMS/Open edX. Separately priced and sellable; composes into packages at allocated value | 2026-09-24 | Product | No standalone demand after attach test |
 | D-004 | VAULTED is gated and post-BluePrint; no custody/escrow/investment vehicles | 2026-09-23 | CEO/Board | Counsel and transaction proof support expansion |
 | D-005 | **B_ Partner** (own-brand) uses configuration on one codebase | 2026-09-23 | CTO/Product | Enterprise economics justify dedicated option |
 | D-006 | Current raise envelope is $950k; $1.5M is superseded | 2026-09-23 | CEO/Finance | Board approves expanded scope/budget |

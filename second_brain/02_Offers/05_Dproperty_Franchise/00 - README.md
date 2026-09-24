@@ -22,7 +22,7 @@ Dproperty is the flagship investment brand, operating testbed and a vertically i
 
 It is **not** the definition of B_RealEstate's TAM and does not make B_ "a franchise company." It is a GTM and proof advantage most software startups do not have.
 
-A franchise may receive the full branded operating model: Dproperty identity, configured stack (BluePrint + BlankCRM + Academy + VAULTED), standards and training, Dproperty Select access, implementation and network participation.
+A franchise may receive the full branded operating model: Dproperty identity, configured stack (BluePrint + BlankCRM + Building Blocks + VAULTED), standards and training, Dproperty Select access, implementation and network participation.
 
 ## What it owns
 

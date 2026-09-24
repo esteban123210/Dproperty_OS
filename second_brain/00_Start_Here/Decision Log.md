@@ -4,7 +4,7 @@ title: "Decision Log"
 type: decision_log
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-24
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [decisions, source-of-truth]
 ---
@@ -222,7 +222,7 @@ This note records decisions that should not be re-opened accidentally in future 
 **Impacted Areas:** Product, Brand Assets, Legal.
 **Status:** Active.
 
-## 2026-07-18 — CRM and Academy Embedded via White-Label + SSO
+## 2026-07-18 — CRM and Building Blocks Embedded via White-Label + SSO
 
 **Decision:** GoHighLevel (CRM) and the LMS (LearnWorlds or edX) are white-labeled and embedded inside the OS with single sign-on. The OS is the hub/launcher; they are engines behind it.
 **Reason:** Feels like one product; franchisee never re-authenticates or sees third-party branding.
@@ -333,7 +333,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-08-03 — Public Argument Standardised on Four Pillars
 
-**Decision:** All public-facing assets (site, decks, brochures) stand on four pillars in this order: **1. The boutique promise** (backed by the Dproperty way of working) · **2. Freedom** (franchise your way; the brand can still be yours) · **3. The tools already exist** (platform, CRM, AI agents, Academy, events, Dproperty Select access, templates) · **4. It is a proven model** (partners increased operating profit simply by adding Dproperty Select to their existing client offer).
+**Decision:** All public-facing assets (site, decks, brochures) stand on four pillars in this order: **1. The boutique promise** (backed by the Dproperty way of working) · **2. Freedom** (franchise your way; the brand can still be yours) · **3. The tools already exist** (platform, CRM, AI agents, Building Blocks, events, Dproperty Select access, templates) · **4. It is a proven model** (partners increased operating profit simply by adding Dproperty Select to their existing client offer).
 **Reason:** Gives every asset one consistent commercial spine, and moves the sale from "buy our brand" to "join what our experience built."
 **Impacted Areas:** Website, Pitch Decks, Franchise Package, Brand, GTM.
 **Status:** Active. ⚠️ **Pillar 4 requires substantiation** — a real, defensible number — before publication, and depends on resolving whether white-label gets Dproperty Select access.
@@ -398,7 +398,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-08-16 — Canonical Ecosystem Architecture
 
-**Decision:** `second_brain/01_Canon/` is the canonical ecosystem map. B_RealEstate governs the ecosystem; BluePrint is the back-office system of record and control plane; GoHighLevel is the white-labeled front-office CRM; Open edX is the Academy technology; VAULTED is the invitation-only off-market marketplace; Dproperty Select is the HQ-controlled curated inventory program; Drive/SharePoint, e-signature and accounting/payment providers retain their specialist system-of-record roles.
+**Decision:** `second_brain/01_Canon/` is the canonical ecosystem map. B_RealEstate governs the ecosystem; BluePrint is the back-office system of record and control plane; GoHighLevel is the white-labeled front-office CRM; Open edX is the Building Blocks technology; VAULTED is the invitation-only off-market marketplace; Dproperty Select is the HQ-controlled curated inventory program; Drive/SharePoint, e-signature and accounting/payment providers retain their specialist system-of-record roles.
 
 **Reason:** Prevent BluePrint from becoming an unbuildable “everything app” and prevent duplicate truth across CRM, LMS, marketplace, files and finance.
 
@@ -466,7 +466,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 **2. Access boundary.** BluePrint is **back-office only**. Sales advisors work in GoHighLevel and receive **no BluePrint seat** — their time belongs with clients, not behind an internal system. A salesperson may exist in BluePrint as a *record* (People, KPIs, licence tracking) without a login. This is a product boundary, not a configuration preference, and it governs seat design and pricing.
 
-**3. Non-duplication is now a rendering rule, not only an architecture claim.** BluePrint may not render any surface that reproduces what a specialist system owns: no lead pipelines/campaigns/message threads (GoHighLevel), no lesson content or course delivery (B_Academy), no marketplace browsing (VAULTED), no file browser (Drive/SharePoint), no signed-document archive (secure legal archive). Each appears only as a marked SSO launch link, a status value, or an inbound metric. Embedded-CRM and embedded-LMS modules are removed from scope.
+**3. Non-duplication is now a rendering rule, not only an architecture claim.** BluePrint may not render any surface that reproduces what a specialist system owns: no lead pipelines/campaigns/message threads (GoHighLevel), no lesson content or course delivery (Building Blocks), no marketplace browsing (VAULTED), no file browser (Drive/SharePoint), no signed-document archive (secure legal archive). Each appears only as a marked SSO launch link, a status value, or an inbound metric. Embedded-CRM and embedded-LMS modules are removed from scope.
 
 **4. Release sequencing.** **Release 1 = Back Office Brain** (foundation, Registry + Ticket primitives, Glitch Report and daily review, tasks, legal/asset registries, people and HR, library, directory, performance, Copilot, administration). **Release 1.5** = GoHighLevel metrics connector replacing the Release 1 CSV bridge. **Release 2 = Transaction Spine** — the Golden Workflow, unchanged and uncancelled. The multi-tenancy, permission, confidentiality, audit and connector-contract foundation is built at **full strength in Release 1** so Release 2 is an extension, not a rewrite.
 
@@ -487,7 +487,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-09-20 — Company Reset: Product-Led Operating Infrastructure
 
-**Decision:** B_RealEstate is no longer framed primarily as a franchising ecosystem. It is a **real-estate operating-infrastructure company** organized around independently sellable products and a network: BluePrint, BlankCRM, VAULTED and Academy. Dproperty franchising, B_ Partner/white-label relationships and developer partnerships are distribution/revenue channels, not the definition of the company.
+**Decision:** B_RealEstate is no longer framed primarily as a franchising ecosystem. It is a **real-estate operating-infrastructure company** organized around independently sellable products and a network: BluePrint, BlankCRM, VAULTED and Building Blocks. Dproperty franchising, B_ Partner/white-label relationships and developer partnerships are distribution/revenue channels, not the definition of the company.
 
 **Reason:** The prior structure made the venture look like several unrelated businesses and forced BluePrint into transaction/ERP functionality. The new hierarchy creates one coherent product thesis, clearer capital allocation and a better path to SaaS/network economics.
 
@@ -521,9 +521,11 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 **Status:** Active hypothesis; economics not yet validated.
 
-## 2026-09-20 — Academy Is an Enablement Layer, Not a Headline Startup
+## 2026-09-20 — Academy Is an Enablement Layer, Not a Headline Startup — ⚠ SUPERSEDED 2026-09-24
 
 **Decision:** Academy remains in the ecosystem but is primarily bundled training, standards and certification. It supports BluePrint/process improvement and partner readiness; it is not a core standalone venture thesis at this stage.
+
+**⚠ SUPERSEDED 2026-09-24** by the Portfolio Composition Principle: the product is renamed **Building Blocks** and is a **standalone product** — separately defined, priced and sellable. What survives from this entry: it is **not** a headline venture thesis and **not** where the moat sits. Commercial standalone status and investor weighting are different questions.
 
 **Status:** Active.
 
@@ -593,7 +595,7 @@ This partially reverses the 2026-09-20 decision record. The *property/project/un
 
 ## 2026-09-23 — Naming Resolved: Academy and B_ Partner
 
-**Decision:** **Academy / B_Academy** is the canonical name for the learning layer; `19_Canonical`'s **Building Blocks** is a legacy alias. **B_ Partner** is the canonical name for the managed own-brand channel; **White-Label** is a legacy alias.
+**Decision:** **Academy / Building Blocks** is the canonical name for the learning layer; `19_Canonical`'s **Building Blocks** is a legacy alias. **B_ Partner** is the canonical name for the managed own-brand channel; **White-Label** is a legacy alias.
 
 **Reason:** An LMS is not defensible IP and must not carry investor weight as a standalone product. Consistent naming is required for the deck, website and contracts.
 
@@ -630,3 +632,41 @@ This partially reverses the 2026-09-20 decision record. The *property/project/un
 **Impacted areas:** All folders, `CLAUDE.md`, AI Handoff Pack.
 
 **Status:** Active.
+
+---
+
+## 2026-09-24 — Portfolio Composition Principle: Every Product Is Standalone
+
+**Decision:** **Every product in the portfolio is separately definable, separately priced and separately sellable — so that a package is a composition of named products, never one monolith.**
+
+**Reason:** A buyer evaluating *"you get the B_ platform"* is evaluating one thing of uncertain scope. A buyer evaluating *"you get BluePrint to run the company, BlankCRM to sell, Building Blocks to train and certify, and VAULTED for network deal flow"* is evaluating four things they can each price against a known alternative. Perceived value is additive; the bundle discount only becomes credible when each component has a standalone price; and a component that cannot survive standalone is a feature pretending to be a product.
+
+**The test:** a product without a standalone list price is not a product.
+
+**Allocation rule (binding):** when a product is included in a package, allocate it at **standalone list price** in the model; the package price must reconcile to the sum of components less an explicit stated discount; never record an included product at $0; never double-count it.
+
+**What does NOT change:** the investor hierarchy. Proprietary value still concentrates in **BluePrint** and **VAULTED**. Commercial packaging and investment thesis are different conversations for different audiences — both true at once.
+
+**Risk accepted:** portfolio drag. Mitigated by a hard rule — **BluePrint gets the engineering capital**; other products earn investment by demonstrating attach or standalone demand. Being a named product does not grant a budget.
+
+**Impacted areas:** Product, Pricing, Finance, Franchise/Partner packaging, Pitch, Brand.
+
+**Status:** Active — canonical. See [[../01_Canon/19 - Portfolio Composition Principle]].
+
+## 2026-09-24 — Building Blocks Is a Standalone Product (Reverses 2026-09-23)
+
+**Decision:** The learning, onboarding and certification product is **Building Blocks**, a **standalone product**. This reverses the 2026-09-23 decision that renamed it "Academy" and demoted it to a bundled enablement layer.
+
+**Canonical name:** Building Blocks. **Legacy aliases:** Academy, B_Academy, Training Academy.
+
+**Reason:** The 2026-09-23 demotion optimized for the investor conversation (an LMS is not defensible IP) and in doing so damaged the commercial conversation, where a named product carries real value into the franchise package. Both audiences can be served honestly at once.
+
+**What it now has:** its own ICP, its own pricing ($199 blended per enrollment `[A]`, certification programs, enterprise cohorts, core onboarding allocated inside packages), its own economics note, and its own P&L line.
+
+**What survives from the 2026-09-23 entry:** Building Blocks is **not** a headline venture thesis and **not** where the moat sits. Courseware is commodity — **the differentiator is the closed loop** where BluePrint detects a capability gap, Building Blocks remediates it, and BluePrint gates activation on certification.
+
+**Key economic warning captured:** content is a fixed cost that behaves like a subscription. Every process change in `08_Operations/Process Library/` makes a module stale. Model content maintenance as recurring from day one.
+
+**Impacted areas:** Product, Pricing, Finance, Franchise packaging, Brand, Legal (certification claims).
+
+**Status:** Active. `[R]` LMS cost base unquoted; standalone demand unvalidated; `06 - Legal.md` missing.

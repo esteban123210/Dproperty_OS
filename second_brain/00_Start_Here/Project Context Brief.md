@@ -32,12 +32,12 @@ Sellable configured front-office product **powered by GoHighLevel**. Leads, comm
 ### VAULTED — *access the network*
 Private marketplace/network. Owns gated listings/opportunities, access rules, participant identity, matches, introductions, attribution, GMV and transaction fees. Gated pilot after BluePrint stability.
 
-### Academy — *operate better*
+### Building Blocks — *operate better*
 Enablement/standards/certification layer powered by Open edX; primarily bundled. Legacy alias in `19_Canonical`: **Building Blocks**.
 
 ## 3. The handoff line
 
-**BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Academy owns capability. Accounting remains the ledger.**
+**BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
 
 ## 4. Channels
 
@@ -86,7 +86,7 @@ Agencies roughly 5–50 people (and developer sales teams), led by strong seller
 
 ## 10. Investor narrative
 
-**BlankCRM helps sell. BluePrint helps run the company — owning the deal from qualification through commission and audit. VAULTED connects the network. Academy standardizes. Dproperty, franchise and developer relationships give distribution and a cold-start advantage.**
+**BlankCRM helps sell. BluePrint helps run the company — owning the deal from qualification through commission and audit. VAULTED connects the network. Building Blocks standardizes. Dproperty, franchise and developer relationships give distribution and a cold-start advantage.**
 
 Current investor verdict: **conditional pilot investment**, staged capital, explicit kill criteria. No file may imply historical traction, signed pipeline, production security, legal approval or product-market fit until evidence exists.
 

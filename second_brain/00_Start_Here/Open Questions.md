@@ -33,7 +33,7 @@ tags: [decisions, open]
 ## Newly opened by the reconciliation
 
 - **Franchise royalty structure:** 6% + 1% restricted brand fund (Dproperty) vs 4% no fund (own-brand) vs the isolated model's flat 6% + 1.5%. Needs contract design and local advice.
-- Does Academy **ever** become a standalone commercial product? Default: no.
+- ~~Does Academy ever become a standalone commercial product?~~ **RESOLVED 2026-09-24: yes — Building Blocks is a standalone product.** See [[../01_Canon/19 - Portfolio Composition Principle]]. Open sub-question: does a standalone *buyer* exist outside the ecosystem?
 - How is the transaction spine scoped so it does not drift back into inventory/MLS?
 
 

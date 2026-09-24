@@ -18,7 +18,7 @@ tags: [product]
 
 > **⚠ Superseded for build purposes (2026-08-26):** The prototype to build is the **Release 1 Back Office OS**, specified end-to-end in [[20 - Wireframe - Back Office OS]] — screens, design tokens, primitives, permissions, build order and acceptance criteria. Use that file's §9 build order in place of any sequencing below.
 
-> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../../01_Canon/01 - Ecosystem Master Map]] and [[../../01_Canon/07 - System of Record and Integration Matrix]].
+> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Building Blocks technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../../01_Canon/01 - Ecosystem Master Map]] and [[../../01_Canon/07 - System of Record and Integration Matrix]].
 
 ## Purpose
 

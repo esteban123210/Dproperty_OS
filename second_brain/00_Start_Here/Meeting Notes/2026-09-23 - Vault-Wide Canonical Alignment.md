@@ -55,7 +55,7 @@ Property/project/unit **inventory** · listings · MLS · pre-qualification pipe
 
 1. **Three-layer architecture with one precedence order.** `01_Canon/` = what the company is · `02_Offers/01_BluePrint/` = what the product is · `01_Canon/` = how it is proven and financed.
 2. **BluePrint definition merged** (above).
-3. **Naming:** Academy (not Building Blocks) · B_ Partner (not White-Label) · Dproperty Select (not Private Collection) · Developer Partnerships (not Developer Sales OS) · BluePrint (not Dproperty OS / Plano / La Plataforma). DpropertyLiving parked.
+3. **Naming:** Building Blocks (not Academy) · B_ Partner (not White-Label) · Dproperty Select (not Private Collection) · Developer Partnerships (not Developer Sales OS) · BluePrint (not Dproperty OS / Plano / La Plataforma). DpropertyLiving parked.
 4. **Pricing:** Core $399 · Growth $799 · $1,500 setup, per organization. Scale quoted, undefined.
 5. **Capital:** $950k capitalization / $800k 18-month plan, staged. $650k and $1.5M both retired.
 6. **Vault-wide truth labels** `[F] [D] [M] [A] [T] [R]` and the `DRAFT → REVIEW → APPROVED → SUPERSEDED → ARCHIVED` lifecycle.
@@ -90,7 +90,7 @@ Each stub now carries a recovery command. **Review before reuse** — the pre-re
 1. The reconciled **BluePrint definition**.
 2. Whether a **Scale tier** exists, and its contents/price.
 3. The **$950k / $800k** envelope as the single current position.
-4. **Academy over Building Blocks** as the commercial name.
+4. ~~Academy over Building Blocks.~~ **RESOLVED 2026-09-24: Building Blocks, as a standalone product.**
 
 Also newly open: the **franchise royalty structure** (6% + 1% fund vs 4% no fund vs flat 6% + 1.5%) needs contract design and local advice.
 

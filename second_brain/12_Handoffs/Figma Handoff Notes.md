@@ -22,7 +22,7 @@ tags: [product]
 >
 > Screens to prototype are the Release 1 set in the Wireframe, not the older screen list below.
 
-> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../01_Canon/01 - Ecosystem Master Map]] and [[../01_Canon/07 - System of Record and Integration Matrix]].
+> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Building Blocks technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../01_Canon/01 - Ecosystem Master Map]] and [[../01_Canon/07 - System of Record and Integration Matrix]].
 
 ## Goal
 

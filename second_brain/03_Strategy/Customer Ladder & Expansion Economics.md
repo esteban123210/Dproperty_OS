@@ -252,7 +252,7 @@ The agency is already making money through BluePrint + VAULTED. Adding $500–2,
 **Franchisee gets:**
 - B_ brand (traffic, prestige, investor access)
 - Operating model (blueprints, playbooks, processes)
-- Technology (BluePrint, GoHighLevel, B_Academy)
+- Technology (BluePrint, GoHighLevel, Building Blocks)
 - Network (VAULTED, international referrals, benchmarking)
 - Select inventory (priority access to premium deals)
 - Support (compliance, HR, operations, sales coaching)

@@ -53,7 +53,7 @@ It is designed for agencies whose founders are strong sellers but do not want to
 - property/project/unit **inventory**, listing management or MLS;
 - general ledger/tax/payroll;
 - property management;
-- Academy/LMS delivery;
+- Building Blocks / LMS delivery;
 - VAULTED marketplace listings and matching;
 - escrow/custody, money movement, FX;
 - sales-agent prospecting workspace.
@@ -85,4 +85,4 @@ One workflow must execute **from qualified intake through commission and managem
 
 ## Role in the ecosystem
 
-BluePrint is an independently sellable software product. B_Franchising is a distribution/customer channel, not the definition of BluePrint. VAULTED is a separate transaction/network monetization layer. Academy is a capability/standards layer.
+BluePrint is an independently sellable software product. B_Franchising is a distribution/customer channel, not the definition of BluePrint. VAULTED is a separate transaction/network monetization layer. Building Blocks is a separate standalone learning product.

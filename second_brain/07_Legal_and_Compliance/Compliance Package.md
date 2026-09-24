@@ -17,7 +17,7 @@ tags: [franchise, manual, compliance, legal, aml, privacy]
 > This folder describes the **Dproperty Franchise** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
 >
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
-> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
+> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Building Blocks. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
@@ -32,7 +32,7 @@ Dproperty operates across borders in a **regulated** industry (real estate, mone
 
 ## 2. How it works
 - **Global core** (this manual) + **local pack** (per-market legal specifics from [[../08_Operations/Localization Framework]]).
-- Every franchisee completes **compliance certification** before going live and **recertifies** on cadence (see [[../02_Offers/04_Academy/03 - Curriculum Outline]]).
+- Every franchisee completes **compliance certification** before going live and **recertifies** on cadence (see [[../02_Offers/04_Building_Blocks/10 - Curriculum Outline]]).
 - Incidents route through the OS **Cases** engine; no-blame process issues through **Glitch Report** (Decision 2026-07-18).
 
 ## 3. Compliance domains

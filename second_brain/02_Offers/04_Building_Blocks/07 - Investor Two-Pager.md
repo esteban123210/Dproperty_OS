@@ -5,7 +5,7 @@
 > - `02_Offers/01_BluePrint/` — what the product **is**
 > - `01_Canon/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
 >
-> **Naming corrections that override this folder:** **Academy** (not *Building Blocks*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
+> **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
 > **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
 
@@ -88,7 +88,7 @@ Main risks: low completion; weak willingness to pay; instructor dependence; high
 - Measurable improvement in activation time or workflow error rate.
 - Positive gross contribution after content, instructor, platform, support, and acquisition costs.
 - Repeat demand, renewals, or certification value.
-- Clear naming decision: Building Blocks as the customer-facing brand; B_Academy retained only as a legacy alias if needed.
+- Clear naming decision: Building Blocks as the customer-facing brand; Building Blocks retained only as a legacy alias if needed.
 
 ## Investor conclusion
 

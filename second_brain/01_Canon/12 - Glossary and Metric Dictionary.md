@@ -5,7 +5,7 @@
 > - `02_Offers/01_BluePrint/` — what the product **is**
 > - `01_Canon/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
 >
-> **Naming corrections that override this folder:** **Academy** (not *Building Blocks*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
+> **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
 > **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
 
@@ -21,7 +21,7 @@
 | Dproperty | Branded brokerage/franchise operating model |
 | BluePrint | Post-qualification transaction/back-office system of record **and** management-control layer: transaction file, compliance, approvals, closing, commission calculation, budgets/variance, process assurance, Glitches, period close, audit. Never property/unit inventory, listings or MLS |
 | BlankCRM | Managed GoHighLevel-based front-office package |
-| Academy / B_Academy | **Canonical name** for the learning/onboarding/certification layer, powered by Open edX; mostly bundled. *Building Blocks* is a legacy alias (corrected 2026-09-23) |
+| Academy / Building Blocks | **Canonical name** for the learning/onboarding/certification layer, powered by Open edX; mostly bundled. *Building Blocks* is a legacy alias (corrected 2026-09-23) |
 | VAULTED | Gated opportunity, deal-room and distribution module |
 | GCI | Commission actually collected and retained by agency after external co-broker shares/refunds and excluding indirect tax, before internal agent payouts |
 | GMV | Completed attributable property transaction value; not revenue |

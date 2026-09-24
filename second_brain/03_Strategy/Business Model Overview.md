@@ -14,7 +14,7 @@ tags: [strategy, business-model]
 > Canon: [[../01_Canon/04 - Offer Portfolio Map]] · [[../02_Offers/01_BluePrint/03 - Offer and Pricing]]
 
 > [!NOTE] Verified against canon 2026-09-23
-> Consistent with canon. Products: BluePrint · BlankCRM · VAULTED · Academy. Channels: Direct SaaS · B_ Partner · Dproperty Franchise · Developer Partnerships.
+> Consistent with canon. Products: BluePrint · BlankCRM · VAULTED · Building Blocks. Channels: Direct SaaS · B_ Partner · Dproperty Franchise · Developer Partnerships.
 >
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
@@ -32,7 +32,7 @@ Configured GoHighLevel product sold standalone or attached. Revenue = subscripti
 
 Transaction-linked monetization on attributable marketplace transactions. Model from real activation/transaction funnel and effective take rate.
 
-## Enablement — Academy
+## Learning — Building Blocks
 
 Primarily bundled retention/standards layer; possible premium/custom training.
 

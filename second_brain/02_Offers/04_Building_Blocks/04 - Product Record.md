@@ -5,16 +5,14 @@
 > - `02_Offers/01_BluePrint/` — what the product **is**
 > - `01_Canon/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
 >
-> **Naming corrections that override this folder:** **Academy** (not *Building Blocks*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
+> **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
 > **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
 
 # Building Blocks — Standalone Product Record
 
-> [!WARNING] Renamed — this product is **Academy**
-> The commercial name is **Academy / B_Academy**, powered by Open edX. “Building Blocks” is a legacy alias and the folder name is retained only for link stability.
 >
-> **Downgraded 2026-09-23:** Academy is a **bundled enablement layer**, not a headline standalone product in the investor thesis. An LMS is not defensible IP. Premium/custom training remains a later option. See [[01 - Definition and Boundaries]].
+> **Promoted 2026-09-24:** Building Blocks is a **standalone product** — separately defined, priced and sellable, composing into the franchise/partner packages at allocated standalone value. The investor hierarchy is unchanged: the moat is BluePrint + VAULTED. See [[01 - Definition and Boundaries]] and [[../../01_Canon/19 - Portfolio Composition Principle]].
 
 ## Executive summary
 
@@ -69,5 +67,5 @@ Start with six core modules and two paid specialist courses. Validate one paid e
 
 ## Naming decision
 
-Earlier technical documents use `B_Academy`. Current commercial naming uses `Building Blocks`. Select one primary customer-facing name, secure trademark/domain rights, and treat the other as a descriptor or legacy alias.
+Earlier technical documents use `Building Blocks`. Current commercial naming uses `Building Blocks`. Select one primary customer-facing name, secure trademark/domain rights, and treat the other as a descriptor or legacy alias.
 

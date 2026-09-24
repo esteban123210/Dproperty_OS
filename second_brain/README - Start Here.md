@@ -40,7 +40,7 @@ SharePoint/Drive/Figma/Canva/PowerPoint/Excel store heavy or final production fi
 
 Start new ecosystem/product work in [[01_Canon/README|18_Ecosystem — Start Here]].
 
-Parent = **B_RealEstate** · platform = **BluePrint** · front office = **BlankCRM** (powered by GoHighLevel) · network = **VAULTED** · enablement = **Academy** (powered by Open edX) · flagship brand = **Dproperty** · curated inventory = **Dproperty Select** · own-brand channel = **B_ Partner**.
+Parent = **B_RealEstate** · platform = **BluePrint** · front office = **BlankCRM** (powered by GoHighLevel) · network = **VAULTED** · learning = **Building Blocks** (powered by Open edX) · flagship brand = **Dproperty** · curated inventory = **Dproperty Select** · own-brand channel = **B_ Partner**.
 
 **Handoff line:** BlankCRM owns demand until qualification; BluePrint owns everything after qualification.
 
