@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "63f3b252452f1fdc",
+        "id": "66407f152aadd941",
         "type": "tabs",
         "children": [
           {
-            "id": "f4ced0f66d714e8c",
+            "id": "353fec62076cafde",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "second_brain/18_Ecosystem/00 - Ecosystem Master Map.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "00 - Ecosystem Master Map"
+              "title": "New tab"
             }
           }
         ]
@@ -206,43 +202,43 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0cab61b4f641215e",
+  "active": "0bbfd0970c308a5c",
   "lastOpenFiles": [
-    "second_brain/00_Start_Here/Vault Architecture Map.md",
-    "second_brain/00_Start_Here",
-    "second_brain/10_Templates/verify_canon.py",
-    "second_brain/10_Templates/_verify_canon.py",
-    "second_brain/00_Index/Meeting Notes/2026-09-23 - Vault-Wide Canonical Alignment.md",
-    "_fix_fm.py",
-    "_verify.py",
-    "_align_tail.py",
-    "_align_19.py",
-    "_align_all.py",
-    "_revive.py",
-    "_align_bp2.py",
-    "second_brain/00_Index/AI Handoff Pack/00_Canonical Reconciliation and Precedence.md",
-    "second_brain/00_Index/Master Index.md",
-    "second_brain/18_Ecosystem/18 - Canonical Reconciliation and Precedence.md",
-    "second_brain/00_Index/AI Handoff Pack/04_Vault Manifest.md",
-    "second_brain/00_Index/AI Handoff Pack/03_Open Questions.md",
-    "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
     "second_brain/18_Ecosystem/00 - Ecosystem Master Map.md",
-    "second_brain/18_Ecosystem/16 - Roadmap and Governance.md",
-    "second_brain/18_Ecosystem/13 - Personas and Jobs to Be Done.md",
-    "second_brain/18_Ecosystem/14 - Unit Economics Registry.md",
-    "second_brain/18_Ecosystem/07 - Dproperty Flagship.md",
-    "second_brain/18_Ecosystem/01 - B_RealEstate.md",
-    "second_brain/19_Canonical_B_RealEstate/11_TEMPLATES/RECORD_TEMPLATES.md",
-    "second_brain/19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE/INVESTMENT_MEMO.md",
-    "second_brain/19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE/IC_ATTACK_SHEET.md",
-    "second_brain/19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE/DATA_ROOM_INDEX_AND_EVIDENCE_STATUS.md",
-    "second_brain/19_Canonical_B_RealEstate/09_ROADMAP/KPIS_GATES_AND_KILL_CRITERIA.md",
-    "second_brain/19_Canonical_B_RealEstate/09_ROADMAP/ROADMAP_AND_VALIDATION_EXPERIMENTS.md",
-    "second_brain/19_Canonical_B_RealEstate/09_ROADMAP/DECISIONS_ASSUMPTIONS_AND_DEPENDENCIES.md",
-    "second_brain/19_Canonical_B_RealEstate/04_ECOSYSTEM/INTEGRATION_AND_ENTITLEMENT_CONTRACTS.md",
-    "second_brain/19_Canonical_B_RealEstate/04_ECOSYSTEM/ECOSYSTEM_EXECUTIVE_SUMMARY.md",
-    "second_brain/19_Canonical_B_RealEstate/04_ECOSYSTEM/CUSTOMER_JOURNEYS_AND_HANDOFFS.md",
-    "second_brain/19_Canonical_B_RealEstate/08_DATA_AI/SYSTEM_OF_RECORD_AND_EVENT_TAXONOMY.md",
-    "second_brain/19_Canonical_B_RealEstate/08_DATA_AI/KNOWLEDGE_INGESTION_AND_RETENTION.md"
+    "second_brain/08_Operations/Process Library/README.md",
+    "second_brain/99_Templates/README.md",
+    "second_brain/98_Archive/README.md",
+    "second_brain/13_Research/README.md",
+    "second_brain/12_Handoffs/README.md",
+    "second_brain/11_Execution/README.md",
+    "second_brain/10_Brand_and_Web/README.md",
+    "second_brain/09_Data_and_AI/README.md",
+    "second_brain/08_Operations/README.md",
+    "second_brain/07_Legal_and_Compliance/README.md",
+    "second_brain/06_Finance/README.md",
+    "second_brain/05_Pitch_and_Investor/README.md",
+    "second_brain/04_Business_Plan/README.md",
+    "second_brain/03_Strategy/README.md",
+    "second_brain/02_Offers/README.md",
+    "second_brain/00_Start_Here/README.md",
+    "second_brain/02_Offers/08_Dproperty_Select/00 - README.md",
+    "second_brain/02_Offers/07_Developer_Partnerships/00 - README.md",
+    "second_brain/02_Offers/06_B_Partner/00 - README.md",
+    "second_brain/02_Offers/05_Dproperty_Franchise/00 - README.md",
+    "second_brain/02_Offers/04_Academy/00 - README.md",
+    "second_brain/02_Offers/03_VAULTED/00 - README.md",
+    "second_brain/02_Offers/02_BlankCRM/00 - README.md",
+    "second_brain/01_Canon/04 - Offer Portfolio Map.md",
+    "second_brain/01_Canon/04 - Offer Portfolio Map.md.tmp.18888.744fbf6b5ff2",
+    "second_brain/98_Archive/Exports/Dproperty_OS_Pitch_Deck.pptx",
+    "second_brain/98_Archive/Exports/Dproperty_OS_Full_Pitch_Package.zip",
+    "second_brain/98_Archive/Exports/Dproperty_OS_Financial_Model_v0.7_ARCHIVE_20260803.xlsx",
+    "second_brain/98_Archive/Exports/Dproperty_OS_Financial_Model.xlsx",
+    "second_brain/98_Archive/Exports/Dproperty_OS_Deliverables_Tracker.xlsx",
+    "second_brain/98_Archive/Exports/Dproperty_OS_Conversation_Summary.docx",
+    "second_brain/98_Archive/Exports/Dproperty_OS_Business_Plan.docx",
+    "second_brain/06_Finance/Model Data/Model Data - Three Scenarios (Conservative-Base-Optimistic).csv",
+    "second_brain/06_Finance/Model Data/Model Data - Sensitivity Analysis (Y5 EBITDA).csv",
+    "second_brain/05_Pitch_and_Investor/Investor Two-Pagers Index.md"
   ]
 }

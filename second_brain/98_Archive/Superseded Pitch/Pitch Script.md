@@ -12,13 +12,13 @@ tags: [pitch]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Script for the pre-reset franchise-first deck.
 >
-> **Current instead:** [[Pitch Deck Outline]]
+> **Current instead:** [[../../05_Pitch_and_Investor/Pitch Deck Outline]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
 > This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[Pitch Deck Outline]]
+> Current source: [[../../05_Pitch_and_Investor/Pitch Deck Outline]]
 
 # Pitch Script
 

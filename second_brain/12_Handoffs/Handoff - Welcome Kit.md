@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Franchisee Welcome Kit (physical + digital)"
 target_output: "Print + physical production spec + digital assets"
 target_tool: "Design tool (Canva/Adobe) + print vendor brief"
-source_notes: ["05_Franchise_Package/Welcome Kit/Welcome Kit Checklist.md"]
+source_notes: ["02_Offers/05_Dproperty_Franchise/04E - Welcome Kit Checklist.md"]
 version: 0.5
 status: Ready to brief (design + vendor)
 owner: Esteban
@@ -16,7 +16,7 @@ tags: [handoff, production, welcome-kit, brand]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # HANDOFF — Welcome Kit
 
@@ -65,5 +65,5 @@ tags: [handoff, production, welcome-kit, brand]
 - [ ] Consistent with Brand Manual.
 
 ## 6. Source & Change Log
-- **Source:** [[Welcome Kit Checklist]].
+- **Source:** [[../02_Offers/05_Dproperty_Franchise/04E - Welcome Kit Checklist]].
 - **Change log:** 0.5 (2026-07-21) — handoff/brief created.

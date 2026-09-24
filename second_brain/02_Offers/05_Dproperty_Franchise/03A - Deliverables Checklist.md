@@ -15,7 +15,7 @@ tags: [franchise]
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Franchise Deliverables Checklist
 

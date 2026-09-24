@@ -9,7 +9,7 @@ tags: [ecosystem, dproperty, flagship, franchise, channel]
 ---
 
 > [!IMPORTANT] Reconciled 2026-09-23
-> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this note.
 
 # Dproperty — Flagship Investment Brand
 
@@ -34,7 +34,7 @@ A franchise may receive the full branded operating model: Dproperty identity, co
 
 ## Economics
 
-Existing launch/royalty/platform assumptions remain a **separate franchise-channel model** and are not interchangeable with BluePrint SaaS pricing. Conflicts remain in [[14 - Unit Economics Registry]].
+Existing launch/royalty/platform assumptions remain a **separate franchise-channel model** and are not interchangeable with BluePrint SaaS pricing. Conflicts remain in [[../../01_Canon/09 - Unit Economics Registry]].
 
 ## Investor framing
 

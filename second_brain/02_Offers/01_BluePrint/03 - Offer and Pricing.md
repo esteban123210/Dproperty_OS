@@ -9,7 +9,7 @@ tags: [blueprint, pricing, packaging, validation]
 ---
 
 > [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
-> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+> [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
 >
 > **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
 
@@ -31,7 +31,7 @@ Price per organization/operating complexity, not per sales-agent seat. Sales age
 
 Priced **per organization/office**, never per agent seat.
 
-> **Superseded 2026-09-23:** the previous $299 / $599 / $999 tiers are retired. The $399/$799 points are tied to the integrated financial model with CAC/payback/ARR outputs. See [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] §5.
+> **Superseded 2026-09-23:** the previous $299 / $599 / $999 tiers are retired. The $399/$799 points are tied to the integrated financial model with CAC/payback/ARR outputs. See [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] §5.
 
 ## Onboarding
 

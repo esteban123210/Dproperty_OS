@@ -19,11 +19,11 @@ tags: [franchise, manual, compliance, legal, aml, privacy]
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Dproperty Compliance Manual (M5)
 
-> ⚠️ **Draft — not legal advice.** This is a structured operating draft that **must be reviewed by qualified counsel in each market** before it governs a live franchise. Legal specifics resolve from the [[Localization Framework]] per market.
+> ⚠️ **Draft — not legal advice.** This is a structured operating draft that **must be reviewed by qualified counsel in each market** before it governs a live franchise. Legal specifics resolve from the [[../08_Operations/Localization Framework]] per market.
 >
 > **Who must follow it:** everyone in a Dproperty office — the Principal (PRIN) is accountable; every role complies. **HQ owns and enforces it.**
 
@@ -31,8 +31,8 @@ tags: [franchise, manual, compliance, legal, aml, privacy]
 Dproperty operates across borders in a **regulated** industry (real estate, money movement, personal data). A breach isn't just brand damage — it can be a **licensing, AML, privacy, or franchise-law event** with legal consequences. Compliance protects the client, the franchisee, HQ, and the network.
 
 ## 2. How it works
-- **Global core** (this manual) + **local pack** (per-market legal specifics from [[Localization Framework]]).
-- Every franchisee completes **compliance certification** before going live and **recertifies** on cadence (see [[Training Academy Outline]]).
+- **Global core** (this manual) + **local pack** (per-market legal specifics from [[../08_Operations/Localization Framework]]).
+- Every franchisee completes **compliance certification** before going live and **recertifies** on cadence (see [[../02_Offers/04_Academy/03 - Curriculum Outline]]).
 - Incidents route through the OS **Cases** engine; no-blame process issues through **Glitch Report** (Decision 2026-07-18).
 
 ## 3. Compliance domains
@@ -73,15 +73,15 @@ Dproperty operates across borders in a **regulated** industry (real estate, mone
 
 ### 3.8 Contracts & document control
 - Use **approved templates** ([[Contract Templates Index]]); material changes need HQ/legal approval.
-- **Single approved contract version** signed by all parties (see rental version-control rule, [[05 - Long-Stay Rental]]).
+- **Single approved contract version** signed by all parties (see rental version-control rule, [[../08_Operations/Process Library/05 - Long-Stay Rental]]).
 - Retain executed documents per retention policy; store in approved systems only.
 
 ### 3.9 Dproperty Select controls
 - HQ-controlled inventory. Franchisee may present under rules and earn the fixed originator payout `[local: 2.5% branded / 1.5% white-label]`.
-- **No** direct developer negotiation, **no** unapproved projections, **no** edited materials, **no** bypassing HQ registration. See [[Private Collection Guide]].
+- **No** direct developer negotiation, **no** unapproved projections, **no** edited materials, **no** bypassing HQ registration. See [[../02_Offers/08_Dproperty_Select/02 - Program Guide]].
 
 ### 3.10 Commission & financial integrity
-- Respect the **three-flow firewall** (income vs. agent payout vs. HQ royalty) — [[07 - Commissions]].
+- Respect the **three-flow firewall** (income vs. agent payout vs. HQ royalty) — [[../08_Operations/Process Library/07 - Commissions]].
 - Report **collected GCI** accurately; royalty is computed on gross-into-company (Decision 2026-07-05). No hiding or misreporting deals.
 - Accurate invoicing and tax handling `[local]`.
 
@@ -115,7 +115,7 @@ Dproperty operates across borders in a **regulated** industry (real estate, mone
 - Annual recertification + refresh when a market pack or law changes.
 
 ## 8. Localization
-All `[local]` items resolve from the market's pack in [[Localization Framework]]. No market goes live until its compliance column is complete and **signed off by local counsel**. Open items feed [[Open Questions]] (Legal).
+All `[local]` items resolve from the market's pack in [[../08_Operations/Localization Framework]]. No market goes live until its compliance column is complete and **signed off by local counsel**. Open items feed [[../00_Start_Here/Open Questions]] (Legal).
 
 ---
 *v0.5 — structured draft. P0: external legal review per market before this governs a live office. Ties to Audit §4.2.*

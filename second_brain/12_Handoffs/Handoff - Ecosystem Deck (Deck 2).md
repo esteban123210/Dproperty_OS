@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Ecosystem Deck — Deck 2 (Vision / Hub)"
 target_output: "Slide deck (.pptx / Google Slides / Gamma)"
 target_tool: "AI presentation tool (Gamma, Tome, Beautiful.ai, PowerPoint Copilot)"
-source_notes: ["03_Pitch/Ecosystem Deck Outline.md (v0.6)"]
+source_notes: ["98_Archive/Superseded Pitch/Ecosystem Deck Outline.md (v0.6)"]
 version: 0.6
 status: Ready to generate (NOT raise-ready until Phase-2 P&L exists)
 owner: Esteban
@@ -13,13 +13,20 @@ last_updated: 2026-07-21
 tags: [handoff, production, pitch, deck, ecosystem]
 ---
 
+> [!WARNING] Do not produce from this file yet — superseded 2026-09-23
+> This handoff predates the 2026-09-23 canonical reconciliation. It carries the **retired $650k / 24-month ask**, and may carry the pre-reconciliation BluePrint definition, retired pricing, and legacy names (White-Label, Building Blocks, Private Collection, Developer Sales OS, Dproperty OS).
+>
+> **Regenerate against current canon before sending to any external tool or audience.**
+>
+> Canon: [[../01_Canon/00 - Precedence and Canonical Reconciliation]] · [[../01_Canon/04 - Offer Portfolio Map]]
+
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 > **⚠ STRATEGY RESET NOTICE — 2026-09-20.** The physical-hub vision is now a long-term optional appendix, not a current raise thesis.  
-> Current source of truth: [[../03_Pitch/Pitch Deck Outline]]
+> Current source of truth: [[../05_Pitch_and_Investor/Pitch Deck Outline]]
 
 # HANDOFF — Ecosystem Deck (Deck 2)
 
@@ -75,7 +82,7 @@ tags: [handoff, production, pitch, deck, ecosystem]
 - **S17 · Close — Bigger Than Us:** started as a boutique agency believing real estate should be built with trust + vision; franchising scales the belief; the ecosystem changes the field. "We want to build the place where the future of real estate happens — and we want it to outlast every one of us."
 
 ## 5. Back Pocket (SPEAKER NOTES ONLY)
-Byproducts thesis · comparables (19M, Station F, WeWork cautionary, YC/a16z economic model) · Phase-2 financial logic (to build) · risks (execution overload, capital intensity, curation at scale, key-person, category risk) · open questions (lease/own/partner, equity-fund structure, EBITDA trigger for Phase 3, Panama government angle, TAM/SAM). Full detail: [[Ecosystem Deck Outline]] Back Pocket.
+Byproducts thesis · comparables (19M, Station F, WeWork cautionary, YC/a16z economic model) · Phase-2 financial logic (to build) · risks (execution overload, capital intensity, curation at scale, key-person, category risk) · open questions (lease/own/partner, equity-fund structure, EBITDA trigger for Phase 3, Panama government angle, TAM/SAM). Full detail: [[../98_Archive/Superseded Pitch/Ecosystem Deck Outline]] Back Pocket.
 
 ## 6. Build & QA Checklist
 - [ ] 17 slides; cinematic; minimal text; headlines verbatim.
@@ -87,5 +94,5 @@ Byproducts thesis · comparables (19M, Station F, WeWork cautionary, YC/a16z eco
 - [ ] Do NOT use for external raise until Phase-2 P&L + capex exist.
 
 ## 6. Source & Change Log
-- **Source:** [[Ecosystem Deck Outline]] v0.6.
+- **Source:** [[../98_Archive/Superseded Pitch/Ecosystem Deck Outline]] v0.6.
 - **Change log:** 0.6 (2026-07-21) — handoff created from outline v0.6.

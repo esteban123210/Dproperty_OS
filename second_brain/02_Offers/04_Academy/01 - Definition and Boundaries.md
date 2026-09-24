@@ -9,7 +9,7 @@ tags: [ecosystem, academy, open-edx, training]
 ---
 
 > [!IMPORTANT] Reconciled 2026-09-23
-> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this note.
 
 # Academy — Enablement Layer
 
@@ -17,7 +17,7 @@ tags: [ecosystem, academy, open-edx, training]
 
 Academy is the **standards, training and certification layer** of B_. It is powered by Open edX.
 
-**Canonical name: Academy / B_Academy.** `19_Canonical_B_RealEstate` calls this product **Building Blocks** — that is a legacy alias for the same learning business. Resolved in favour of Academy: an LMS is not defensible IP and must not carry investor weight as a standalone product. See [[18 - Canonical Reconciliation and Precedence]] §4.
+**Canonical name: Academy / B_Academy.** `19_Canonical_B_RealEstate` calls this product **Building Blocks** — that is a legacy alias for the same learning business. Resolved in favour of Academy: an LMS is not defensible IP and must not carry investor weight as a standalone product. See [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] §4.
 
 It is useful because BluePrint can connect real operating weaknesses to learning—not because an LMS itself is defensible IP.
 

@@ -12,7 +12,7 @@ tags: [pitch, investor, blueprint, vaulted, blankcrm]
 > [!NOTE] Verified against canon 2026-09-23
 > Canonical pitch outline. Must present the hierarchy **BluePrint core → VAULTED network upside → BlankCRM attach → channels**, the **$950k** raise, **$399/$799** pricing, and the honest verdict of a **conditional pilot investment**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Investor Pitch Deck Outline — Product-Led Reset
 

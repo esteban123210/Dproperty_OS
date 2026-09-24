@@ -10,9 +10,9 @@ tags: [business-plan]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> Current for review. Founder employment/EOR jurisdiction remains an open evidence gap — see [[../19_Canonical_B_RealEstate/00_HOME/STATUS_DASHBOARD]].
+> Current for review. Founder employment/EOR jurisdiction remains an open evidence gap — see [[../01_Canon/13 - Status Dashboard]].
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Esteban Compensation Package
 

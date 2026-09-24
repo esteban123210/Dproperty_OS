@@ -9,14 +9,14 @@ tags: [blueprint, modules, legacy]
 ---
 
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
-> Pre-reset product note, replaced by the `04_Product/BluePrint/` folder.
+> Pre-reset product note, replaced by the `02_Offers/01_BluePrint/` folder.
 >
-> **Current instead:** Current: [[BluePrint/04 - Core Modules]], which now includes module 3, **Transaction Spine**.
+> **Current instead:** Current: [[../../02_Offers/01_BluePrint/12 - Core Modules]], which now includes module 3, **Transaction Spine**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # BluePrint Product Modules
 
-Canonical module map: [[BluePrint/04 - Core Modules]].
+Canonical module map: [[../../02_Offers/01_BluePrint/12 - Core Modules]].
 
 Do not infer MVP scope from the historical module inventory.

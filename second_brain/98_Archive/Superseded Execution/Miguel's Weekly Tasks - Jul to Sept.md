@@ -14,9 +14,9 @@ tags: [tasks, branding, design, weekly]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Jul–Sept 2026 task plan. Also breaches the “roles, never names” standard.
 >
-> **Current instead:** [[../00_Index/Current Priorities]]
+> **Current instead:** [[../../00_Start_Here/Current Priorities]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Miguel's Weekly Task List
 ## July 6 – September 15, 2026
@@ -33,7 +33,7 @@ tags: [tasks, branding, design, weekly]
 
 ## WEEKS 1–4 (JUL 6 – AUG 2): PITCH SPRINT
 
-**Use:** [[16_Task_Management/Pitch Sprint Roadmap - July 2026.md]]
+**Use:** [[Pitch Sprint Roadmap - July 2026]]
 
 ### Week 1: Jul 6–12 — Define the System
 - [ ] Convert Esteban's roadmap into a working tracker (must/should/nice priorities)

@@ -12,9 +12,9 @@ tags: [session, manuals, franchise, operations]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > July 2026 session record. Its “roles, never names” and manuals-architecture decisions **remain active**; its strategy framing does not.
 >
-> **Current instead:** [[../AI Handoff Pack/07_Latest Session Closeout]]
+> **Current instead:** [[../../00_Start_Here/AI Handoff Pack/07_Latest Session Closeout]]
 >
-> Precedence: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Work Session Closeout — 2026-07-21
 
@@ -28,29 +28,29 @@ Manuals / Franchise Package (with governance touches to Decision Log, Open Quest
 The user wants five franchise manuals ready (onboarding, master operations, sales playbook, compliance, launch plan), framed by three audiences: HQ, franchisee owner, franchisee's employees. We converted that into a durable system rather than one-off documents.
 
 ## What was created
-- **[[../../05_Franchise_Package/Manuals System Index|Manuals System Index]]** — the 6-manual architecture (M0 HQ deferred; M1 Onboarding; M2 Operations; M3 Launch; M4 Sales; M5 Compliance), one-master-source model.
-- **Process Library (7/7 abstracted, role-agnostic):** [[../../05_Franchise_Package/Operations/Process Library/00 - Process Library Index|Index + Role Map]], [[../../05_Franchise_Package/Operations/Process Library/01 - Leads|01 Leads]], [[../../05_Franchise_Package/Operations/Process Library/02 - Preventa (Lista Cero)|02 Preventa]], [[../../05_Franchise_Package/Operations/Process Library/03 - Secondary Market Sale|03 Secondary]], [[../../05_Franchise_Package/Operations/Process Library/04 - Assignment (Cesion)|04 Assignment]], [[../../05_Franchise_Package/Operations/Process Library/05 - Long-Stay Rental|05 Rental]], [[../../05_Franchise_Package/Operations/Process Library/06 - Property Management|06 Property Mgmt]], [[../../05_Franchise_Package/Operations/Process Library/07 - Commissions|07 Commissions]].
-- **Source material (verbatim import):** [[../../05_Franchise_Package/Operations/Source Material/Dproperty Commercial Process Manual (v002-26)|Commercial Process Manual v002-26]].
-- **[[../../05_Franchise_Package/Localization/Localization Framework|Localization Framework]]** — process-global / values-local + 18-row Market Variables Matrix.
-- **[[../../05_Franchise_Package/Multi-Line Manual Strategy|Multi-Line Manual Strategy]]** — shared core + white-label/developer overlays.
-- **[[../../05_Franchise_Package/Manuals Audit and Gap Analysis|Manuals Audit & Gap Analysis]]** — maturity, gaps, P0→P2 roadmap.
+- **[[../../08_Operations/Manuals System Index|Manuals System Index]]** — the 6-manual architecture (M0 HQ deferred; M1 Onboarding; M2 Operations; M3 Launch; M4 Sales; M5 Compliance), one-master-source model.
+- **Process Library (7/7 abstracted, role-agnostic):** [[../../08_Operations/Process Library/00 - Process Library Index|Index + Role Map]], [[../../08_Operations/Process Library/01 - Leads|01 Leads]], [[../../08_Operations/Process Library/02 - Preventa (Lista Cero)|02 Preventa]], [[../../08_Operations/Process Library/03 - Secondary Market Sale|03 Secondary]], [[../../08_Operations/Process Library/04 - Assignment (Cesion)|04 Assignment]], [[../../08_Operations/Process Library/05 - Long-Stay Rental|05 Rental]], [[../../08_Operations/Process Library/06 - Property Management|06 Property Mgmt]], [[../../08_Operations/Process Library/07 - Commissions|07 Commissions]].
+- **Source material (verbatim import):** [[../../08_Operations/Source Material/Dproperty Commercial Process Manual (v002-26)|Commercial Process Manual v002-26]].
+- **[[../../08_Operations/Localization Framework|Localization Framework]]** — process-global / values-local + 18-row Market Variables Matrix.
+- **[[../../08_Operations/Multi-Line Manual Strategy|Multi-Line Manual Strategy]]** — shared core + white-label/developer overlays.
+- **[[../../08_Operations/Manuals Audit and Gap Analysis|Manuals Audit & Gap Analysis]]** — maturity, gaps, P0→P2 roadmap.
 
 ## What was updated
-- **[[../../05_Franchise_Package/Sales/Sales Playbook|Sales Playbook (M4)]]** → v0.5 (rebuilt on Process Library; role-agnostic, USD, multi-market).
-- **[[../../05_Franchise_Package/Operations/Operations Manual|Franchise Operations Manual (M2)]]** → v0.5 (owner-facing assembly of Processes 1–7).
-- **[[../../05_Franchise_Package/Compliance/Compliance Package|Compliance Manual (M5)]]** → v0.5 (real multinational coverage; needs legal sign-off).
-- **[[../../05_Franchise_Package/Launch/First Franchisee Launch Playbook|First Franchisee Launch Playbook]]** → v0.2 (names→roles, EUR→USD, relative weeks, corrected commission math).
-- Governance: [[../Decision Log|Decision Log]] (+4 decisions), [[../Open Questions|Open Questions]] (Manuals/Documentation), [[../../CLAUDE|CLAUDE.md]] (roles-not-names standing rule), [[../../05_Franchise_Package/Manuals System Index|Manuals System Index]] (statuses).
+- **[[../../02_Offers/05_Dproperty_Franchise/04D - Sales Playbook|Sales Playbook (M4)]]** → v0.5 (rebuilt on Process Library; role-agnostic, USD, multi-market).
+- **[[../../08_Operations/Operations Manual|Franchise Operations Manual (M2)]]** → v0.5 (owner-facing assembly of Processes 1–7).
+- **[[../../07_Legal_and_Compliance/Compliance Package|Compliance Manual (M5)]]** → v0.5 (real multinational coverage; needs legal sign-off).
+- **[[../../02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook|First Franchisee Launch Playbook]]** → v0.2 (names→roles, EUR→USD, relative weeks, corrected commission math).
+- Governance: [[../../00_Start_Here/Decision Log|Decision Log]] (+4 decisions), [[../../00_Start_Here/Open Questions|Open Questions]] (Manuals/Documentation), [[../../CLAUDE|CLAUDE.md]] (roles-not-names standing rule), [[../../08_Operations/Manuals System Index|Manuals System Index]] (statuses).
 
-## Decisions made (see [[../Decision Log|Decision Log]])
+## Decisions made (see [[../../00_Start_Here/Decision Log|Decision Log]])
 1. **Manuals architecture:** 6 manuals, 3 audiences, one master source.
 2. **Roles, never names** (project-wide standing rule).
 3. **Localization model:** process global, values local; market pack + legal sign-off is a go-live gate.
 4. **Multi-line manuals:** shared core + thin line overlays (white-label, developer).
-5. **Handoff files:** one self-contained, tool-ready MD per deliverable in `17_Handoff_Files/`, **updated on every session close** (new standing rule; also in CLAUDE.md).
+5. **Handoff files:** one self-contained, tool-ready MD per deliverable in `12_Handoffs/`, **updated on every session close** (new standing rule; also in CLAUDE.md).
 
 ## Addendum — Handoff Files system (post-close, 2026-07-21)
-Created the **Handoff Files** system (`17_Handoff_Files/`): [[../../17_Handoff_Files/00 - Handoff Index|Index]] + [[../../17_Handoff_Files/_Handoff Template|template]] + **11 self-contained, tool-ready handoffs** — manuals **M1–M5**, **Pitch Deck (Deck 1)**, **Ecosystem Deck (Deck 2)**, **Public Website** (ES production copy inlined), **Brand Manual** (visual system captured: `#F6F3ED`/`#161616`/`#1F4E79`/`#B89B5E` + serif/sans), **Welcome Kit** (print brief), **Financial Model** (spreadsheet build spec). Each = production brief + design direction + assets + tool instructions (copy-paste prompt) + full inlined content + QA. From now on, closing a session must refresh the handoff for every deliverable touched. **Still to build** (source not ready): M0 HQ manual, white-label & developer overlays, Phase-2 ecosystem model.
+Created the **Handoff Files** system (`12_Handoffs/`): [[../../12_Handoffs/00 - Handoff Index|Index]] + [[../../12_Handoffs/_Handoff Template|template]] + **11 self-contained, tool-ready handoffs** — manuals **M1–M5**, **Pitch Deck (Deck 1)**, **Ecosystem Deck (Deck 2)**, **Public Website** (ES production copy inlined), **Brand Manual** (visual system captured: `#F6F3ED`/`#161616`/`#1F4E79`/`#B89B5E` + serif/sans), **Welcome Kit** (print brief), **Financial Model** (spreadsheet build spec). Each = production brief + design direction + assets + tool instructions (copy-paste prompt) + full inlined content + QA. From now on, closing a session must refresh the handoff for every deliverable touched. **Still to build** (source not ready): M0 HQ manual, white-label & developer overlays, Phase-2 ecosystem model.
 
 ## Strategic changes
 - The manuals are now a **system built on one abstracted Process Library**, not five drifting documents.

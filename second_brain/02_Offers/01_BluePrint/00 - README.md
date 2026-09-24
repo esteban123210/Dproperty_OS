@@ -1,51 +1,83 @@
 ---
 project: B_RealEstate
-title: "BluePrint — Canonical Product Map"
-type: product_index
-status: Canonical v4.0
-version: 4.0
+title: "BluePrint — Offer README"
+type: offer_readme
+status: Canonical — build priority
 owner: Esteban
 last_updated: 2026-09-23
-tags: [blueprint, product, management-os, backoffice, source-of-truth]
+tags: [offer, readme, blueprint]
 ---
 
-> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
-> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
->
-> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+> [!IMPORTANT] Start here
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] · Portfolio: [[../../01_Canon/04 - Offer Portfolio Map]] · Architecture: [[../../00_Start_Here/Vault Architecture Map]]
 
-# BluePrint — Canonical Product Map
+# BluePrint
 
-> **This folder controls BluePrint.** Property/project/unit inventory, listing and MLS specifications remain historical and retired. The **transaction and commission spine is incorporated here as of 2026-09-23.**
+**Type:** **Product** — proprietary core SaaS/IP. This is where the moat is.
+**Job:** Run and control the company.
+**Price:** Core **$399**/mo · Growth **$799**/mo · **$1,500** setup, per organization/office (never per agent seat). Scale tier quoted, undefined. `[A]`
+**Status:** Specification complete. **Current build priority.** No paid external validation yet.
 
-## One-line product definition
+BluePrint is a chat-first, AI-native management operating system for small and growing real-estate agencies, **whose system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity.**
 
-**BluePrint is a chat-first, AI-native management operating system for small and growing real-estate agencies, whose system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity. It lets a lean administrative team run institutional-quality back-office operations by turning natural-language requests, connected-system data and company standards into structured, auditable management work.**
+The 2026-09-23 reconciliation merged two competing definitions: the management-control layer (2026-09-20) and the transaction spine (2026-09-23). Both are now true. The *property/unit inventory and MLS* ambition stays permanently retired.
 
-## Read in this order
+**Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
 
-1. [[01 - Product Constitution]] — binding product promise, boundaries and non-goals.
-2. [[02 - ICP and Jobs To Be Done]] — who buys, who uses, and the economic job.
-3. [[03 - Architecture and System Boundaries]] — GHL vs accounting vs BluePrint.
-4. [[04 - Core Modules]] — what the product actually contains.
-5. [[05 - Data Trust Audit and Process Assurance]] — verified truth, audit, glitches and process health.
-6. [[06 - Chat First AI Operating Model]] — conversational UX over structured records.
-7. [[07 - MVP and Validation Plan]] — what to build first and what must be proven.
-8. [[08 - Pricing and Packaging]] — current pricing hypotheses and value logic.
-9. [[09 - Competitive Positioning - GHL Odoo SAP]] — why this is not another CRM/ERP.
-10. [[10 - Lovable MVP Build Brief]] — prototype/developer handoff.
-11. [[11 - Decision Record - 2026-09-20]] — why the product was redefined.
+## What it owns
 
-## Binding boundary
+**Transaction spine — the wedge, from qualified opportunity onward**
+qualified-opportunity intake · transaction file · parties/assets as transaction participants · documents, compliance checklists, retention · approval policies and e-signature evidence · reservation/contract milestones and closing · commission rules, calculation snapshots, adjustments, receivable/payout status
 
-BluePrint does **not** own leads, marketing automation, the pre-qualification pipeline, property/project/unit inventory, listing management, MLS, accounting ledgers, payroll, tax accounting, property management, LMS delivery, marketplace listings, or escrow/custody/money movement.
+**Management control**
+management truth and verification · budgets, forecast, variance · KPIs and reports · processes/SOPs/controls and process health · Glitches, root causes, corrective actions · management actions, approvals, decisions · governed company knowledge · reconciliation/exception queues · period close · long-term audit trail · permission-grounded Copilot
 
-BluePrint **does** own, from **qualified opportunity** onward: the transaction file, parties and assets as transaction participants, documents/compliance checklists and evidence, approval policies and e-signature evidence, reservation/contract milestones and closing, and **commission rules, calculation snapshots, adjustments and receivable/payout status**.
+## What it does NOT own
 
-BluePrint **also** owns management truth and verification state, management workflows, process assurance, operational incidents, management reporting, budget/variance oversight, management knowledge, approvals, long-term audit history and AI-assisted back-office execution.
+Leads, marketing automation and the **pre-qualification** pipeline (→ BlankCRM) · property/project/unit **inventory**, listings, MLS · general ledger, tax, payroll (→ accounting) · property management · LMS delivery (→ Academy) · marketplace listings and matching (→ VAULTED) · escrow, custody, money movement, FX · sales-agent prospecting workspace
+
+## Files in this folder
+
+| File | What it is |
+|---|---|
+| `01 - Definition and Boundaries` | Canonical definition and hard boundaries |
+| `02 - ICP and Jobs To Be Done` | Who buys, who operates, the economic job |
+| `03 - Offer and Pricing` | Tiers, setup fee, value logic, metrics to validate |
+| `04 - Product Record` | Modules, BMC, MVP acceptance, roadmap |
+| `07 - Investor Two-Pager` | Comparable investor summary |
+| `10 - Product Constitution` | Binding promise, non-goals, principles |
+| `11 - Architecture and System Boundaries` | CRM vs accounting vs BluePrint; integration rules |
+| `12 - Core Modules` | What the product contains |
+| `13 - Data Trust Audit and Process Assurance` | Verification states, audit, Glitches, process health |
+| `14 - Chat First AI Operating Model` | Conversational UX over structured records |
+| `15 - MVP and Validation Plan` | What to build first; what must be proven |
+| `16 - Competitive Positioning - GHL Odoo SAP` | Why this is not another CRM/ERP |
+| `17 - Lovable MVP Build Brief` | Prototype/developer handoff |
+| `18 - Decision Record - 2026-09-20` | Why the product was redefined (now amended) |
+| `19 - Golden Workflow Wireframe and Validation` | The wedge workflow |
+| `20 - Wireframe - Back Office OS` | Developer handoff wireframe |
+| `21 - Data Model` | Entities and relationships |
+| `22 - Platform Information Architecture` | Navigation and IA |
+| `23 - Platform Scenario Playbook` | Worked operating scenarios |
+| `24 - Prototype Control Note` | Prototype status and control |
+
+## Gaps — genuine, not placeholders
+
+- **`05 - Economics.md` missing.** BluePrint COGS (AI/integration/support per tenant) and gross margin are not modelled here. Summary lives in `06_Finance/Pricing Unit Economics and Revenue Policy.md`.
+- **`06 - Legal.md` missing.** No SaaS terms, DPA, SLA or IP-ownership note exists yet. `[R]` Required before any paid pilot.
+- **Transaction-spine module spec not yet written into `12 - Core Modules`** at the same depth as the management modules. The reconciliation reinstated it; the module detail is still thin.
+- No paid external validation. Willingness to pay at $399/$799 is `[A]`.
 
 ## Product test
 
-If BluePrint does not deliver material value to an agency that already has a good CRM and competent accounting software, the product thesis fails.
+**If BluePrint does not deliver material value to an agency that already has a good CRM and competent accounting software, the product thesis fails.**
 
-**Golden-workflow gate:** one workflow must run from **qualified intake -> transaction file -> documents/compliance -> approval -> closing -> commission snapshot -> management report** with **no shadow spreadsheet acting as the authority**.
+That is the sentence to re-read whenever scope creeps toward rebuilding a CRM or an ERP.
+
+## Next gate
+
+Prototype the golden workflow — **qualified intake → transaction file → documents/compliance → approval → closing → commission snapshot → management report** — then 5 design partners and 3 paid conversions.
+
+**Pass condition:** the workflow runs with **no shadow spreadsheet acting as the authority**.
+
+**Kill condition:** target agencies consistently prefer a configured Odoo/GHL/accounting stack and will not pay materially for the opinionated management/control layer.

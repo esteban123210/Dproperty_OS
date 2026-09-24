@@ -9,7 +9,7 @@ tags: [decisions, open]
 ---
 
 > [!IMPORTANT] Precedence
-> [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls the vault.
+> [[../01_Canon/00 - Precedence and Canonical Reconciliation]] controls the vault.
 
 # Open Questions — Current
 

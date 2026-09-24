@@ -12,12 +12,12 @@ tags: [gtm, markets, panama, bogota, medellin, tactics]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Franchise-first GTM tactics predating the product-led reset.
 >
-> **Current instead:** [[../00_Index/Current Priorities]]
+> **Current instead:** [[../00_Start_Here/Current Priorities]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ STRATEGY RESET NOTICE — 2026-09-20.** These market tactics apply only if/when Dproperty franchise acquisition is an active channel priority; they do not define the BluePrint/VAULTED GTM.  
-> Current source of truth: [[../18_Ecosystem/17 - Product and Channel Hierarchy]]
+> Current source of truth: [[../01_Canon/03 - Product and Channel Hierarchy]]
 
 # GTM Market-Specific Tactics — Panama | Bogotá | Medellín
 

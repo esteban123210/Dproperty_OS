@@ -7,24 +7,24 @@ version: 0.6
 owner: Esteban
 last_updated: 2026-07-14
 source: Session 2026-07-14 — Deck 2 built alongside Pitch Deck Outline v1.0
-related: "[[Pitch Deck Outline]]"
+related: "[[../../05_Pitch_and_Investor/Pitch Deck Outline]]"
 tags: [pitch, ecosystem, vision, deck2]
 ---
 
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Pre-reset ecosystem deck presenting franchise/white-label/developer as three equal doors, plus the physical hub.
 >
-> **Current instead:** [[Pitch Deck Outline]] — hierarchy is BluePrint core → VAULTED upside → BlankCRM attach → channels
+> **Current instead:** [[../../05_Pitch_and_Investor/Pitch Deck Outline]] — hierarchy is BluePrint core → VAULTED upside → BlankCRM attach → channels
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
 > This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[Pitch Deck Outline]]
+> Current source: [[../../05_Pitch_and_Investor/Pitch Deck Outline]]
 
 # Ecosystem Deck Outline v0.5 — "The Hub Where Real Estate's Future Is Made"
 
-**This is Deck 2.** Deck 1 ([[Pitch Deck Outline]]) sells the *franchise system* (5-year, investable, conservative). Deck 2 sells the *ecosystem* (10–15 year, category-defining, ambitious) and shows how franchise surplus funds it.
+**This is Deck 2.** Deck 1 ([[../../05_Pitch_and_Investor/Pitch Deck Outline]]) sells the *franchise system* (5-year, investable, conservative). Deck 2 sells the *ecosystem* (10–15 year, category-defining, ambitious) and shows how franchise surplus funds it.
 
 **Audience (confirmed 2026-07-14):**
 - **The two owners (Simón + Luz Adriana)** — as the north-star behind Deck 1.
@@ -260,4 +260,4 @@ The hub's *byproducts* may exceed the core, à la Station F:
 
 # Changelog
 - **v0.6 (2026-07-14):** Confirmed audience (owners + major investors + potential government) and first hub city (Panama City); added government angle to the phased build and the ask.
-- **v0.5 (2026-07-14):** Created. 17-slide ecosystem/vision deck plus Back Pocket. Companion to [[Pitch Deck Outline]].
+- **v0.5 (2026-07-14):** Created. 17-slide ecosystem/vision deck plus Back Pocket. Companion to [[../../05_Pitch_and_Investor/Pitch Deck Outline]].

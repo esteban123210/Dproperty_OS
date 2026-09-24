@@ -14,14 +14,14 @@ tags: [handoff, latest]
 
 The vault contained **two competing canonical layers** created three days apart, neither marked as losing:
 
-- `18_Ecosystem/` + `04_Product/BluePrint/` (2026-09-20) — BluePrint as a management-control layer, transaction spine **explicitly retired**, $299/$599/$999, Academy, B_ Partner.
-- `19_Canonical_B_RealEstate/` (2026-09-23) — BluePrint as a **transaction spine**, $1,500 + $399/$799, Building Blocks, White-Label, $950k raise.
+- `01_Canon/` + `02_Offers/01_BluePrint/` (2026-09-20) — BluePrint as a management-control layer, transaction spine **explicitly retired**, $299/$599/$999, Academy, B_ Partner.
+- `01_Canon/` (2026-09-23) — BluePrint as a **transaction spine**, $1,500 + $399/$799, Building Blocks, White-Label, $950k raise.
 
 They were reconciled and the whole vault was aligned to the result.
 
 ## Decisions locked
 
-1. **Three-layer architecture, one precedence order.** `18_Ecosystem/` = what the company is · `04_Product/BluePrint/` = what the product is · `19_Canonical_B_RealEstate/` = how it is proven and financed. Controlled by [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]].
+1. **Three-layer architecture, one precedence order.** `01_Canon/` = what the company is · `02_Offers/01_BluePrint/` = what the product is · `01_Canon/` = how it is proven and financed. Controlled by [[../../01_Canon/00 - Precedence and Canonical Reconciliation]].
 2. **BluePrint definition merged, not chosen between.** A chat-first AI management OS **whose system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity.** Property/unit inventory and MLS stay permanently retired; the transaction/commission record is reinstated as the wedge.
 3. **Boundary in one line:** BluePrint owns *the deal as a governed management object*, not *the property as inventory*.
 4. **Naming:** Academy (not Building Blocks) · B_ Partner (not White-Label) · Dproperty Select (not Private Collection) · Developer Partnerships (not Developer Sales OS) · BluePrint (not Dproperty OS / Plano / La Plataforma). DpropertyLiving parked.
@@ -39,8 +39,8 @@ They were reconciled and the whole vault was aligned to the result.
 ## Next work
 
 1. Ratify the four items above.
-2. Update `04_Product/BluePrint/` to carry the transaction spine as the wedge module inside the management OS, and move pricing to $399/$799 + $1,500.
-3. Rebuild the investor deck from [[../../03_Pitch/Pitch Deck Outline]] using the reconciled hierarchy.
+2. Update `02_Offers/01_BluePrint/` to carry the transaction spine as the wedge module inside the management OS, and move pricing to $399/$799 + $1,500.
+3. Rebuild the investor deck from [[../../05_Pitch_and_Investor/Pitch Deck Outline]] using the reconciled hierarchy.
 4. Prototype the golden workflow: qualified intake → transaction file → documents/compliance → approval → closing → commission snapshot → management report.
-5. Regenerate `17_Handoff_Files/` against reconciled canon before any external use.
+5. Regenerate `12_Handoffs/` against reconciled canon before any external use.
 6. Price BlankCRM from GHL COGS; define VAULTED attribution/take-rate/legal model.

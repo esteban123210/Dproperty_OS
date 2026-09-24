@@ -17,7 +17,7 @@ tags: [ecosystem, governance, precedence, decision, source-of-truth]
 
 Two internally-consistent canonical layers were built three days apart and they contradicted each other on the single most important question in the company: **what BluePrint is**.
 
-| | `18_Ecosystem` + `04_Product/BluePrint` (2026-09-20) | `19_Canonical_B_RealEstate` (2026-09-23) |
+| | `18_Ecosystem` + `02_Offers/01_BluePrint/BluePrint` (2026-09-20) | `19_Canonical_B_RealEstate` (2026-09-23) |
 |---|---|---|
 | BluePrint | Management-control layer. Transaction spine **explicitly retired**. | **Transaction spine**: qualified opportunity → close → commission → audit. |
 | 4th product | **Academy** (Open edX), bundled enablement | **Building Blocks**, commercial LMS product |
@@ -135,22 +135,26 @@ These remain **historical scenario work** and are preserved as evidence, not gui
 
 1. Executed contract, law, regulator instruction, bank/payroll record, audited actual.
 2. Board-approved decision record and budget.
-3. **This note** (`18 - Canonical Reconciliation and Precedence`).
-4. `18_Ecosystem/` canon and `04_Product/BluePrint/` product folder.
-5. `19_Canonical_B_RealEstate/` records — for finance models, data/AI architecture, operations, diligence and investor material.
-6. Current named financial model, for quantitative projections.
-7. Everything else in `00_Index` … `17_Handoff_Files`.
-8. Session closeouts, exports, and pre-2026-09-20 strategy/pitch/finance notes — **historical evidence only**.
+3. **This note** — `01_Canon/00 - Precedence and Canonical Reconciliation.md`.
+4. The rest of `01_Canon/` — company definition, hierarchy, boundaries, system of record, economics registry, governance.
+5. The offer's own `01 - Definition and Boundaries.md` and `03 - Offer and Pricing.md` in `02_Offers/0X_…/`.
+6. Current named financial model, for quantitative projections (`06_Finance/`).
+7. Everything else — `03_Strategy/` … `13_Research/`.
+8. Anything in `98_Archive/` — **historical evidence only, never guidance**.
 
 Higher precedence is not universal authority: a contract governs its parties, a model governs projections, a technical brief governs quotation scope. Never let a pitch slide override a contract or a model.
 
-### Division of labour between the two canonical folders
+### Authority is a property of documents, not folders
 
-They are no longer rivals. They are layers:
+The two rival canonical folders that made this note necessary — `18_Ecosystem/` and `19_Canonical_B_RealEstate/` — were **dissolved on 2026-09-23** into a single structure with one home per topic. See [[../00_Start_Here/Vault Architecture Map]].
 
-- **`18_Ecosystem/`** — *what the company is*: thesis, product/channel hierarchy, boundaries, naming, personas, economics registry, roadmap, governance.
-- **`04_Product/BluePrint/`** — *what the product is*: constitution, architecture, modules, MVP, pricing, build briefs.
-- **`19_Canonical_B_RealEstate/`** — *how it is proven and financed*: financial models, data/AI architecture, operating workflows, compliance, KPIs/gates/kill criteria, investor diligence and two-pagers.
+The three "layers" they represented survive as roles, now spread across the flat structure:
+
+- *What the company is* → `01_Canon/`
+- *What each offer is* → `02_Offers/0X_…/`
+- *How it is proven and financed* → `06_Finance/`, `09_Data_and_AI/`, `08_Operations/`, `05_Pitch_and_Investor/`
+
+Because folder location no longer signals authority, **every material claim must carry a truth label and a date.** That is what precedence now reads.
 
 ## 7. Truth labels — required on material claims
 
@@ -173,17 +177,18 @@ Superseded notes keep their content and open with a visible supersession banner 
 
 ## 9. Downstream consequences of this decision
 
-| Area | Required change |
-|---|---|
-| `04_Product/BluePrint/` | Reinstate the transaction/commission spine as the wedge module inside the management OS; keep the inventory/MLS retirement |
-| `04_Product/BluePrint/08 - Pricing` | Move to $399 / $799 + $1,500 setup |
-| `18_Ecosystem/02` and `12` | BluePrint owns the verified transaction and commission record |
-| `19_Canonical` | Building Blocks → Academy alias; precedence points here; franchise projections are channel models |
-| `01_Strategy`, `02_Business_Plan`, `03_Pitch`, `07_Finance` | Pre-reset franchise-first material marked superseded |
-| `13_White_Label` | Reframed as B_ Partner |
-| `11_Developer_Sales_OS` | Reframed as Developer Partnerships |
-| `12_Private_Collection` | Reframed as Dproperty Select |
-| `CLAUDE.md`, `00_Index`, AI Handoff Pack | Rebuilt around this precedence order |
+| Area | Required change | Status |
+|---|---|---|
+| `02_Offers/01_BluePrint/` | Reinstate the transaction/commission spine as the wedge module inside the management OS; keep the inventory/MLS retirement | ✅ done |
+| `02_Offers/01_BluePrint/03 - Offer and Pricing.md` | Move to $399 / $799 + $1,500 setup | ✅ done |
+| `01_Canon/01`, `02`, `07` | BluePrint owns the verified transaction and commission record | ✅ done |
+| Academy naming | "Building Blocks" demoted to legacy alias across all records | ✅ done |
+| Channel naming | White-Label → **B_ Partner**; Developer Sales OS → **Developer Partnerships**; Private Collection → **Dproperty Select** | ✅ done — folders renamed |
+| Vault architecture | Two parallel canonical folders dissolved; one home per topic; `02_Offers/` created with one folder per sellable thing | ✅ done — see [[../00_Start_Here/Vault Architecture Map]] |
+| `03_Strategy/`, `04_Business_Plan/`, `05_Pitch_and_Investor/`, `06_Finance/` | Pre-reset franchise-first material moved to `98_Archive/` or banner-marked | ✅ done |
+| `CLAUDE.md`, `00_Start_Here/`, AI Handoff Pack | Rebuilt around this precedence order and the new architecture | ✅ done |
+| `12_Handoffs/` | Regenerate every handoff against reconciled canon before external use | ⬜ pending |
+| `10_Brand_and_Web/` | Product-led website rewrite | ⬜ pending |
 
 ## 10. Open items this decision deliberately does not close
 
@@ -193,4 +198,4 @@ Superseded notes keep their content and open with a visible supersession banner 
 4. **VAULTED take rate and legal structure** — per jurisdiction.
 5. **Whether Academy ever becomes a standalone commercial product.** Default: no.
 
-Tracked in [[../00_Index/Open Questions]].
+Tracked in [[../00_Start_Here/Open Questions]].

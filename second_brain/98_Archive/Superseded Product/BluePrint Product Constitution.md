@@ -9,18 +9,18 @@ tags: [blueprint, legacy, redirect]
 ---
 
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
-> Pre-reset product note, replaced by the `04_Product/BluePrint/` folder.
+> Pre-reset product note, replaced by the `02_Offers/01_BluePrint/` folder.
 >
-> **Current instead:** Current: [[BluePrint/01 - Product Constitution]]. Note the 2026-09-23 amendment — the transaction and commission spine is **reinstated** from qualified opportunity; inventory/listings/MLS stay retired.
+> **Current instead:** Current: [[../../02_Offers/01_BluePrint/10 - Product Constitution]]. Note the 2026-09-23 amendment — the transaction and commission spine is **reinstated** from qualified opportunity; inventory/listings/MLS stay retired.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # BluePrint Product Constitution
 
 The prior transaction-spine constitution is superseded.
 
-**Canonical constitution:** [[BluePrint/01 - Product Constitution]]
+**Canonical constitution:** [[../../02_Offers/01_BluePrint/10 - Product Constitution]]
 
-**Decision record:** [[BluePrint/11 - Decision Record - 2026-09-20]]
+**Decision record:** [[../../02_Offers/01_BluePrint/18 - Decision Record - 2026-09-20]]
 
 Do not use prior property/project/unit, transaction-execution or commission-workflow ownership assumptions for new builds.

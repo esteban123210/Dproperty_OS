@@ -9,7 +9,7 @@ tags: [ecosystem, partner, white-label, managed-service]
 ---
 
 > [!IMPORTANT] Reconciled 2026-09-23
-> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this note.
 
 # B_ Partner — Managed Own-Brand Model
 

@@ -11,15 +11,15 @@ tags: [product, wireframe, public-site, brand, marketing, copy]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> Wireframe needs the product-led information architecture in [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]].
+> Wireframe needs the product-led information architecture in [[Web Presence and Funnel Architecture]].
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Public Site Wireframe (Pre-Login)
 
-> **Architecture note (2026-08-16):** B_RealEstate is the parent ecosystem and BluePrint is the back-office platform. This file remains specific to the Dproperty consumer/flagship site. The live B2B ecosystem site is https://bfranchising.com; use [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]] and [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16]].
+> **Architecture note (2026-08-16):** B_RealEstate is the parent ecosystem and BluePrint is the back-office platform. This file remains specific to the Dproperty consumer/flagship site. The live B2B ecosystem site is https://bfranchising.com; use [[Web Presence and Funnel Architecture]] and [[Website Audit - bfranchising.com - 2026-08-16]].
 
-> Low-fidelity wireframe + **filled copy** for the public-facing Dproperty site (pre-login). Parent: [[Platform Information Architecture]] (Layer 1). Next: high-fidelity build in Figma per [[Figma Handoff Notes]].
+> Low-fidelity wireframe + **filled copy** for the public-facing Dproperty site (pre-login). Parent: [[../02_Offers/01_BluePrint/22 - Platform Information Architecture]] (Layer 1). Next: high-fidelity build in Figma per [[../12_Handoffs/Figma Handoff Notes]].
 >
 > **Naming:** externally = **"Dproperty Select"** (internally = Private Collection).
 > **Language:** production is **Spanish-first with English translation** (bilingual toggle). Copy below is drafted in English as the working spec; a Spanish master is the next deliverable. Signature phrases stay in Spanish.
@@ -38,7 +38,7 @@ tags: [product, wireframe, public-site, brand, marketing, copy]
 - **Signature phrase:** *"Somos más amigos de la matemática que de la arquitectura."*
 > These facts should also flow into the [[Brand Manual]] and [[Brand Assets Index]].
 
-## Visual direction (from [[Prototype Spec]])
+## Visual direction (from [[../98_Archive/Superseded Product/Prototype Spec]])
 - Background warm off-white `#F6F3ED` · text charcoal `#161616` · accent deep blue `#1F4E79` · secondary champagne `#B89B5E`.
 - Editorial **serif** headlines; clean **sans-serif** body. Boutique, calm, editorial; generous whitespace; few, high-quality images.
 
@@ -230,7 +230,7 @@ WHAT'S INCLUDED → TERRITORIES → PROOF → FAQ → strong CTA
 **What's included:** BluePrint · white-label CRM · the Academy · brand & manuals · launch support · included AI agents.
 **Proof:** *"Testimonials coming soon — you could be part of our founding cohort of franchisees."*
 - Feeds the **separate franchise-recruitment CRM pipeline**; booking triggers the **Prep Pack** automation.
-- Public numbers must match [[Unit Economics]] / [[Pricing Model]] ($30k→$40k, 7.5%, etc.) — pull, don't retype.
+- Public numbers must match [[../06_Finance/Unit Economics]] / [[../06_Finance/Pricing Model]] ($30k→$40k, 7.5%, etc.) — pull, don't retype.
 
 ---
 
@@ -263,4 +263,4 @@ Founding (2017) · history/origin/turning point · mission/vision/values · nort
 Build the priority pages in **Figma** (Home, About, Vision/Ecosystem, Become a Franchise) using the visual direction above — or first produce the **Spanish master copy**.
 
 ## Related
-[[Platform Information Architecture]] · [[Figma Handoff Notes]] · [[Strategic Thesis]] · [[Ecosystem Deck Outline]] · [[Brand Manual]]
+[[../02_Offers/01_BluePrint/22 - Platform Information Architecture]] · [[../12_Handoffs/Figma Handoff Notes]] · [[../03_Strategy/Strategic Thesis]] · [[../98_Archive/Superseded Pitch/Ecosystem Deck Outline]] · [[Brand Manual]]

@@ -5,7 +5,7 @@ type: handoff
 deliverable: "B_RealEstate company website — the franchising ecosystem (B2B)"
 target_output: "Responsive marketing site, Lovable build"
 target_tool: "Lovable (primary) — Framer/Webflow/v0 acceptable"
-source_notes: ["01_Strategy/Brand Architecture.md (v0.1)", "04_Product/Public Site Wireframe.md (v0.6)", "05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook.md"]
+source_notes: ["10_Brand_and_Web/Brand Architecture.md (v0.1)", "10_Brand_and_Web/Public Site Wireframe.md (v0.6)", "02_Offers/05_Dproperty_Franchise/04C - Franchisee Acquisition Playbook.md"]
 version: 1.0
 status: "Live at bfranchising.com — audit corrections required"
 owner: Esteban
@@ -17,14 +17,14 @@ tags: [handoff, production, website, franchise, ecosystem, lovable]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 > **⚠ STRATEGY RESET NOTICE — 2026-09-20.** This website handoff describes the old three-door franchise-first information architecture and requires a product-led rewrite.  
-> Current source of truth: [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]]
+> Current source of truth: [[../10_Brand_and_Web/Web Presence and Funnel Architecture]]
 
 # HANDOFF — Ecosystem Website (B_RealEstate)
 
-> **Live-site/naming update (2026-08-16):** B_RealEstate and BluePrint are the active names; https://bfranchising.com is live. This handoff remains production history. Before further build work, use [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|the live-site audit]] and [[../18_Ecosystem/14 - Unit Economics Registry|the economics registry]] as the correction list.
+> **Live-site/naming update (2026-08-16):** B_RealEstate and BluePrint are the active names; https://bfranchising.com is live. This handoff remains production history. Before further build work, use [[../10_Brand_and_Web/Website Audit - bfranchising.com - 2026-08-16|the live-site audit]] and [[../01_Canon/09 - Unit Economics Registry|the economics registry]] as the correction list.
 
 > **Self-contained package** to build the **parent company's B2B site**: the franchising ecosystem for real estate. This site sells **three service lines** to partners. It is **not** the Dproperty consumer site — that is a separate build ([[Handoff - Public Website]]).
 >
@@ -184,7 +184,7 @@ INVERSIÓN Y RETORNO → DPROPERTY SELECT → TERRITORIOS → FAQ → CTA
 >
 > **Design note:** render as a clean editorial table, champagne accent on the delta row. This is the single most persuasive block on the site — give it room. It is the *más amigos de la matemática* argument made literal.
 **Territorios:** map. Panamá · Bogotá · Medellín abiertos. **Prueba:** *Testimonios muy pronto — podrías ser parte de nuestra primera generación.*
-**FAQ (source: [[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook]] objection scripts):** financiamiento · experiencia previa · por qué no hacerlo solo · tiempos · exclusividad territorial · qué pasa si no funciona.
+**FAQ (source: [[../02_Offers/05_Dproperty_Franchise/04C - Franchisee Acquisition Playbook]] objection scripts):** financiamiento · experiencia previa · por qué no hacerlo solo · tiempos · exclusividad territorial · qué pasa si no funciona.
 
 ---
 
@@ -268,7 +268,7 @@ Framing: *BluePrint no es el producto. Es el software que permite que el ecosist
 White-label note: *Se adapta a tu marca.* · CTA: Ver una demo.
 
 ### PAGE 7 — NOSOTROS
-Origin story (2017 → today, from [[../04_Product/Public Site Wireframe]] PAGE 2, **rewritten in parent voice**) · Mission · Vision · the 6 values · Recognition (SIMA · ELDI · Gran Salón · Lonja de Bogotá) · *"BluePrint es solo el software que permite que este ecosistema exista; el producto es el ecosistema y el conocimiento detrás."* · Team intentionally private for now.
+Origin story (2017 → today, from [[../10_Brand_and_Web/Public Site Wireframe]] PAGE 2, **rewritten in parent voice**) · Mission · Vision · the 6 values · Recognition (SIMA · ELDI · Gran Salón · Lonja de Bogotá) · *"BluePrint es solo el software que permite que este ecosistema exista; el producto es el ecosistema y el conocimiento detrás."* · Team intentionally private for now.
 
 ### PAGE 8 — CONTACTO
 GoHighLevel calendar with **three routes**: *"Quiero una franquicia Dproperty"* · *"Quiero white-label"* · *"Soy desarrollador"* → three separate pipelines. Short form + `[MOCK]` office/email/phone/social.
@@ -277,7 +277,7 @@ GoHighLevel calendar with **three routes**: *"Quiero una franquicia Dproperty"* 
 Branded login → BluePrint. SSO-ready. *"¿Nuevo socio? Escríbenos."*
 
 ### PAGE 10 — LEGAL
-Privacidad · Términos · **Aviso de inversión** (rentabilidades no garantizadas) · **Aviso de franquicia** (franchise-disclosure per market — see [[../05_Franchise_Package/Localization/Localization Framework]]).
+Privacidad · Términos · **Aviso de inversión** (rentabilidades no garantizadas) · **Aviso de franquicia** (franchise-disclosure per market — see [[../08_Operations/Localization Framework]]).
 
 ---
 
@@ -333,5 +333,5 @@ Privacidad · Términos · **Aviso de inversión** (rentabilidades no garantizad
 - [ ] Responsive + accessible + SEO-clean.
 
 ## 10. Source & Change Log
-- **Source:** [[../01_Strategy/Brand Architecture]] v0.1 · [[../04_Product/Public Site Wireframe]] v0.6 · [[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook]] · [[../13_White_Label/White-Label Pricing]] · [[../11_Developer_Sales_OS/Developer Sales OS Guide]].
+- **Source:** [[../10_Brand_and_Web/Brand Architecture]] v0.1 · [[../10_Brand_and_Web/Public Site Wireframe]] v0.6 · [[../02_Offers/05_Dproperty_Franchise/04C - Franchisee Acquisition Playbook]] · [[../02_Offers/06_B_Partner/03 - Offer and Pricing]] · [[../02_Offers/07_Developer_Partnerships/02A - Program Guide]].
 - **1.0 (2026-08-03)** — created. Parent-brand restructure; three service lines; developer line repositioned to dedicated embedded team; Lovable prompt written.

@@ -12,7 +12,7 @@ tags: [template]
 > [!NOTE] Verified against canon 2026-09-23
 > Template is active. New notes must use canonical naming, carry a truth label (`[F] [D] [M] [A] [T] [R]`) on material claims, and use the `DRAFT → REVIEW → APPROVED → SUPERSEDED → ARCHIVED` lifecycle.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # {{Deliverable Name}}
 

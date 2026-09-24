@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Compliance Manual (M5)"
 target_output: "Printable book (PDF)"
 target_tool: "Markdown-to-PDF book generator or AI document tool"
-source_notes: ["05_Franchise_Package/Compliance/Compliance Package.md", "05_Franchise_Package/Localization/Localization Framework.md"]
+source_notes: ["07_Legal_and_Compliance/Compliance Package.md", "08_Operations/Localization Framework.md"]
 version: 0.5
 status: Ready to generate (DRAFT — needs legal sign-off before publishing)
 owner: Esteban
@@ -16,7 +16,7 @@ tags: [handoff, production, compliance, manual, legal]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # HANDOFF — Compliance Manual (M5)
 
@@ -41,7 +41,7 @@ tags: [handoff, production, compliance, manual, legal]
 |---|---|---|---|
 | Logo | Cover, header | Drive/Brand | need |
 | Brand color hex + fonts | Whole book | Brand kit | need |
-| Market pack values `[local]` | Resolve legal specifics | [[Localization Framework]] | partial |
+| Market pack values `[local]` | Resolve legal specifics | [[../08_Operations/Localization Framework]] | partial |
 | Counsel sign-off block | Approval page | Legal | need |
 
 ## 3. Tool Instructions (the prompt)
@@ -92,9 +92,9 @@ All `[local]` items resolve from the market pack. **No market goes live until it
 - [ ] MUST / MUST NOT panels styled distinctly.
 - [ ] All `[local]` tags visible (or resolved for a market edition).
 - [ ] Counsel sign-off page included.
-- [ ] Content matches source ([[Compliance Package]] M5 v0.5) — no softened rules.
+- [ ] Content matches source ([[../07_Legal_and_Compliance/Compliance Package]] M5 v0.5) — no softened rules.
 - [ ] US-Letter + A4 exported.
 
 ## 6. Source & Change Log
-- **Source:** [[Compliance Package]] (M5 v0.5) + [[Localization Framework]].
+- **Source:** [[../07_Legal_and_Compliance/Compliance Package]] (M5 v0.5) + [[../08_Operations/Localization Framework]].
 - **Change log:** 0.5 (2026-07-21) — created from M5 v0.5. *Do not publish externally until legal sign-off.*

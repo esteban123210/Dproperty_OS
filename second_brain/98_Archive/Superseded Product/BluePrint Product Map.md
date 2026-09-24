@@ -11,13 +11,13 @@ tags: [blueprint, product, index, source-of-truth]
 
 # BluePrint Product Map
 
-> **Product reset — 2026-09-20, amended 2026-09-23.** The canonical BluePrint specification lives in [[BluePrint/00 - README - Product Map]].
+> **Product reset — 2026-09-20, amended 2026-09-23.** The canonical BluePrint specification lives in [[../../02_Offers/01_BluePrint/00 - README]].
 >
-> The 2026-09-20 reset retired the Release 1/Release 2 transaction-spine model. The 2026-09-23 reconciliation **reinstated the transaction and commission spine** (from qualified opportunity) while keeping *inventory, listings and MLS* permanently retired. See [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence]].
+> The 2026-09-20 reset retired the Release 1/Release 2 transaction-spine model. The 2026-09-23 reconciliation **reinstated the transaction and commission spine** (from qualified opportunity) while keeping *inventory, listings and MLS* permanently retired. See [[../../01_Canon/00 - Precedence and Canonical Reconciliation]].
 
 ## Start here
 
-[[BluePrint/00 - README - Product Map|Open the canonical BluePrint v3.0 product folder]]
+[[../../02_Offers/01_BluePrint/00 - README|Open the canonical BluePrint v3.0 product folder]]
 
 ## Current product definition
 
@@ -29,4 +29,4 @@ BluePrint no longer owns property/project/unit inventory, CRM, generic sales pip
 
 ## Legacy files
 
-The older files in `04_Product/` remain for historical context and link compatibility. Where they conflict with `04_Product/BluePrint/`, the **`BluePrint/` folder wins**, and the precedence note wins over it.
+The older files in `02_Offers/01_BluePrint/` remain for historical context and link compatibility. Where they conflict with `02_Offers/01_BluePrint/`, the **`BluePrint/` folder wins**, and the precedence note wins over it.

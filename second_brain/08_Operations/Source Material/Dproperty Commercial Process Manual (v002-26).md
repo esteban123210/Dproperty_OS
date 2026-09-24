@@ -10,7 +10,7 @@ owner: "Dproperty"
 output_html: "dproperty_procesos_diagrama.html"
 authority_level: "Documento base de construcción; las decisiones aprobadas prevalecen sobre este consolidado"
 migration_target: "Arquitectura modular en Commercial Processes"
-vault_role: "SOURCE MATERIAL — imported verbatim 2026-07-21. Do not edit. Abstract into the Process Library and manuals per [[../../Manuals System Index]]."
+vault_role: "SOURCE MATERIAL — imported verbatim 2026-07-21. Do not edit. Abstract into the Process Library and manuals per [[../Manuals System Index]]."
 ---
 
 > [!INFO] Channel-scoped — verified 2026-09-23
@@ -19,7 +19,7 @@ vault_role: "SOURCE MATERIAL — imported verbatim 2026-07-21. Do not edit. Abst
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Dproperty — Manual de Procesos Comerciales
 

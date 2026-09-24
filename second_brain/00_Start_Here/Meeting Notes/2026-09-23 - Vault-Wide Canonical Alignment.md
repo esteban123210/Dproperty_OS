@@ -9,17 +9,17 @@ tags: [closeout, governance, reconciliation]
 ---
 
 > [!IMPORTANT] Precedence
-> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]] controls the vault.
+> [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]] controls the vault.
 
 # 2026-09-23 — Vault-Wide Canonical Alignment
 
 ## 1. Session summary
 
-**Goal:** treat `18_Ecosystem/` as the base of truth, go document by document through the Second Brain, update every file to match, resolve collisions on business merit, and leave the vault with a correct architecture and working AI handoffs.
+**Goal:** treat `01_Canon/` as the base of truth, go document by document through the Second Brain, update every file to match, resolve collisions on business merit, and leave the vault with a correct architecture and working AI handoffs.
 
 **The central problem found:** the vault contained **two competing canonical layers** created three days apart, and neither was marked as losing.
 
-| | `18_Ecosystem/` + `04_Product/BluePrint/` (09-20) | `19_Canonical_B_RealEstate/` (09-23) |
+| | `01_Canon/` + `02_Offers/01_BluePrint/` (09-20) | `01_Canon/` (09-23) |
 |---|---|---|
 | BluePrint | Management-control layer; transaction spine **explicitly retired** | **Transaction spine**: qualified opportunity → close → commission |
 | 4th product | Academy (bundled) | Building Blocks (commercial) |
@@ -27,7 +27,7 @@ tags: [closeout, governance, reconciliation]
 | Pricing | $299 / $599 / $999 | $1,500 setup + $399 / $799 |
 | Raise | $650k retired | $950k / $800k |
 
-`CLAUDE.md` pointed at `19_Canonical` as authoritative while `04_Product/BluePrint/11 - Decision Record` said the opposite. Any AI assistant reading the vault would contradict itself.
+`CLAUDE.md` pointed at `19_Canonical` as authoritative while `02_Offers/01_BluePrint/11 - Decision Record` said the opposite. Any AI assistant reading the vault would contradict itself.
 
 ## 2. The decision
 
@@ -53,7 +53,7 @@ Property/project/unit **inventory** · listings · MLS · pre-qualification pipe
 
 ## 3. Decisions made
 
-1. **Three-layer architecture with one precedence order.** `18_Ecosystem/` = what the company is · `04_Product/BluePrint/` = what the product is · `19_Canonical_B_RealEstate/` = how it is proven and financed.
+1. **Three-layer architecture with one precedence order.** `01_Canon/` = what the company is · `02_Offers/01_BluePrint/` = what the product is · `01_Canon/` = how it is proven and financed.
 2. **BluePrint definition merged** (above).
 3. **Naming:** Academy (not Building Blocks) · B_ Partner (not White-Label) · Dproperty Select (not Private Collection) · Developer Partnerships (not Developer Sales OS) · BluePrint (not Dproperty OS / Plano / La Plataforma). DpropertyLiving parked.
 4. **Pricing:** Core $399 · Growth $799 · $1,500 setup, per organization. Scale quoted, undefined.
@@ -82,7 +82,7 @@ Each stub now carries a recovery command. **Review before reuse** — the pre-re
 - Rewrote: `CLAUDE.md`, `Project Context Brief`, `Vault Manifest`, `Current Priorities`, `AI Handoff Pack - Read Me`, `07_Latest Session Closeout`.
 - Renamed `Dproperty OS - Master Index.md` → `Master Index.md`, all inbound links fixed.
 - Normalized all 92 `project: Dproperty OS` frontmatter fields to `B_RealEstate`.
-- Amended the whole `04_Product/BluePrint/` folder to carry the transaction spine.
+- Amended the whole `02_Offers/01_BluePrint/` folder to carry the transaction spine.
 - Banner-marked every folder by category: superseded-historical, channel-scoped, or verified-current.
 
 ## 6. Open — needs Esteban's ratification
@@ -102,9 +102,9 @@ Also newly open: the **franchise royalty structure** (6% + 1% fund vs 4% no fund
 2. Recover the golden-workflow and wireframe specs from git; strip inventory scope.
 3. Rebuild the investor deck on the reconciled hierarchy.
 4. Rebuild the integrated financial model on $399/$799 + $950k.
-5. Regenerate `17_Handoff_Files/` against reconciled canon.
+5. Regenerate `12_Handoffs/` against reconciled canon.
 
-**Open first next session:** [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]], then [[../Current Priorities]].
+**Open first next session:** [[../../01_Canon/00 - Precedence and Canonical Reconciliation]], then [[../Current Priorities]].
 
 ## 8. Git
 

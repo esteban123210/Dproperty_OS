@@ -12,7 +12,7 @@ tags: [legal]
 > [!NOTE] Verified against canon 2026-09-23
 > Legal structure and drafting notes remain useful. **All economic figures require reconciliation before contract use** — franchise royalty (6% + 1% fund vs 4% no fund), B_ Partner pricing, developer fee bases and VAULTED take rate are unresolved, and each launch jurisdiction needs local counsel. Naming in contracts must be canonical: Academy, B_ Partner, Dproperty Select, BluePrint, BlankCRM.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Legal Architecture
 
@@ -54,4 +54,4 @@ The Phase-1 legal areas above are unchanged and remain the priority for the Sept
 - **Data agreements** — rights to collect, anonymize, and monetize ecosystem deal/talent data (privacy-compliant across LATAM & EU).
 - **Matchmaking / introducer terms** — fee agreements when HQ connects talent, capital, and projects.
 
-These belong in a future "Phase 2 Legal Architecture" note once the hub reaches go/no-go. See [[Ecosystem Deck Outline]] BP-5.
+These belong in a future "Phase 2 Legal Architecture" note once the hub reaches go/no-go. See [[../98_Archive/Superseded Pitch/Ecosystem Deck Outline]] BP-5.

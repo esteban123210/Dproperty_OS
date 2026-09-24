@@ -12,7 +12,7 @@ tags: [package]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Describes the original July 2026 baseline vault package, before the product-led reset and the 2026-09-23 canonical reconciliation. Folder contents and priorities have changed substantially.
 >
-> **Current instead:** [[Master Index]] · [[Vault Manifest]] · [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> **Current instead:** [[../../00_Start_Here/Master Index]] · [[../../00_Start_Here/Vault Manifest]] · [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Package Contents Index
 
@@ -43,23 +43,23 @@ This baseline package contains:
 
 ## How To Start
 
-1. Open [[Project Context Brief]].
-2. Open [[Master Index]].
-3. Open [[Current Priorities]].
-4. Open [[../16_Task_Management/Next 10 Tasks Working Plan]].
-5. Start with [[../05_Franchise_Package/Franchise Launch Package Index]].
+1. Open [[../../00_Start_Here/Project Context Brief]].
+2. Open [[../../00_Start_Here/Master Index]].
+3. Open [[../../00_Start_Here/Current Priorities]].
+4. Open [[../Superseded Execution/Next 10 Tasks Working Plan]].
+5. Start with [[../../02_Offers/05_Dproperty_Franchise/03 - Launch Package Index]].
 
 
 ## Canonical BluePrint product package
 
-- [[../04_Product/BluePrint Product Map|BluePrint Product Map]]
-- [[../04_Product/BluePrint Product Constitution|BluePrint Product Constitution]]
-- [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|BluePrint Golden Workflow]]
+- [[../Superseded Product/BluePrint Product Map|BluePrint Product Map]]
+- [[../Superseded Product/BluePrint Product Constitution|BluePrint Product Constitution]]
+- [[../../02_Offers/01_BluePrint/19 - Golden Workflow Wireframe and Validation|BluePrint Golden Workflow]]
 
 ## Canonical ecosystem package
 
-- [[../18_Ecosystem/README|18_Ecosystem — Start Here]]
-- [[../18_Ecosystem/00 - Ecosystem Master Map|Ecosystem Master Map]]
-- [[../18_Ecosystem/12 - System of Record and Integration Matrix|System of Record Matrix]]
-- [[../18_Ecosystem/14 - Unit Economics Registry|Unit Economics Registry]]
-- [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|Website Audit]]
+- [[../../01_Canon/README|18_Ecosystem — Start Here]]
+- [[../../01_Canon/01 - Ecosystem Master Map|Ecosystem Master Map]]
+- [[../../01_Canon/07 - System of Record and Integration Matrix|System of Record Matrix]]
+- [[../../01_Canon/09 - Unit Economics Registry|Unit Economics Registry]]
+- [[../../10_Brand_and_Web/Website Audit - bfranchising.com - 2026-08-16|Website Audit]]

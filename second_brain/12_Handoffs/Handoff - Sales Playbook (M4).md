@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Sales Playbook (M4)"
 target_output: "Printable book (PDF)"
 target_tool: "Markdown-to-PDF book generator (e.g. Typora/Pandoc/Prince) or an AI document tool (e.g. Gamma docs, Adobe)"
-source_notes: ["05_Franchise_Package/Sales/Sales Playbook.md", "Process Library 01–05"]
+source_notes: ["02_Offers/05_Dproperty_Franchise/04D - Sales Playbook.md", "Process Library 01–05"]
 version: 0.5
 status: Ready to generate (tracks M4 v0.5)
 owner: Esteban
@@ -16,7 +16,7 @@ tags: [handoff, production, sales, manual]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # HANDOFF — Sales Playbook (M4)
 
@@ -31,7 +31,7 @@ tags: [handoff, production, sales, manual]
 - **Language:** author master in **EN**; produce **ES** edition for Panama/Colombia `[local]`.
 
 ## 1. Design & Brand Direction
-- **Brand voice:** confident, warm, analytical, premium, international (per [[Brand Manual]]). Never pushy.
+- **Brand voice:** confident, warm, analytical, premium, international (per [[../10_Brand_and_Web/Brand Manual]]). Never pushy.
 - **Typography:** elegant serif or refined sans for headings; highly readable body. Generous white space.
 - **Color:** Dproperty palette (from brand kit — insert hex when brand finalizes). Use one accent for section dividers, callouts, and table headers.
 - **Layout:** cover page → title page → table of contents → numbered sections → process quick-reference appendix → back cover. Running header with "Dproperty · Sales Playbook"; page numbers footer.
@@ -123,8 +123,8 @@ Before use in a new market, HQ confirms currency, commission %, reservation/down
 - [ ] `[local]` placeholders visible (or resolved for a market edition).
 - [ ] Brand colors/fonts applied; logo on cover + header.
 - [ ] US-Letter + A4 PDFs exported.
-- [ ] Content matches source ([[Sales Playbook]] v0.5) — no invented material.
+- [ ] Content matches source ([[../02_Offers/05_Dproperty_Franchise/04D - Sales Playbook]] v0.5) — no invented material.
 
 ## 6. Source & Change Log
-- **Source:** [[Sales Playbook]] (M4 v0.5) + Process Library [[01 - Leads]]–[[05 - Long-Stay Rental]].
+- **Source:** [[../02_Offers/05_Dproperty_Franchise/04D - Sales Playbook]] (M4 v0.5) + Process Library [[../08_Operations/Process Library/01 - Leads]]–[[../08_Operations/Process Library/05 - Long-Stay Rental]].
 - **Change log:** 0.5 (2026-07-21) — created from M4 v0.5.

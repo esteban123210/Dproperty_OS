@@ -12,7 +12,7 @@ tags: [research]
 > [!NOTE] Verified against canon 2026-09-23
 > Active. Priority research is ICP-specific firm counts, BluePrint willingness to pay at $399/$799, BlankCRM COGS, and VAULTED take-rate/legal comparables.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Research Backlog
 
@@ -29,7 +29,7 @@ tags: [research]
 
 ## Ecosystem Research (added 2026-07-14)
 
-For [[Ecosystem Deck Outline]] (Deck 2) and the Phase-2 model. Priority: after the Sept 15 franchise package.
+For [[../98_Archive/Superseded Pitch/Ecosystem Deck Outline]] (Deck 2) and the Phase-2 model. Priority: after the Sept 15 franchise package.
 
 - **19M (Chanel / le19M, Paris)** — model deep dive: structure, funding, member mix, what made it work, lessons.
 - **Station F (Paris)** — economics: membership pricing, program revenue, corporate partnerships, occupancy, what's replicable.

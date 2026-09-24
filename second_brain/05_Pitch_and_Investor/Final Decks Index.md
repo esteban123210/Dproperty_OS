@@ -11,7 +11,7 @@ tags: [pitch, investor, decks]
 > [!NOTE] Verified against canon 2026-09-23
 > Index is current. Every deck listed must be regenerated against reconciled canon before external use.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Final Decks Index
 
@@ -21,10 +21,10 @@ tags: [pitch, investor, decks]
 
 ## Historical decks
 
-- `09_Exports/Dproperty_OS_Pitch_Deck.pptx` — pre-reset franchise-first deck; historical only.
-- [[Ecosystem Deck Outline]] — physical-hub vision; optional long-term appendix, not current raise deck.
-- [[Pitch_Deck_Content]] — superseded.
-- [[Pitch Script]] — superseded.
+- `98_Archive/Exports/Dproperty_OS_Pitch_Deck.pptx` — pre-reset franchise-first deck; historical only.
+- [[../98_Archive/Superseded Pitch/Ecosystem Deck Outline]] — physical-hub vision; optional long-term appendix, not current raise deck.
+- [[../98_Archive/Superseded Pitch/Pitch_Deck_Content]] — superseded.
+- [[../98_Archive/Superseded Pitch/Pitch Script]] — superseded.
 
 ## Future commercial decks
 

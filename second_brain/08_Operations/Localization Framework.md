@@ -15,7 +15,7 @@ tags: [franchise, localization, multi-market, compliance, source-of-truth]
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Localization Framework & Market Variables
 
@@ -25,7 +25,7 @@ tags: [franchise, localization, multi-market, compliance, source-of-truth]
 
 ## 1. How it works
 
-1. Manuals + the [[00 - Process Library Index|Process Library]] describe the process using role codes and `[local]` tags.
+1. Manuals + the [[Process Library/00 - Process Library Index|Process Library]] describe the process using role codes and `[local]` tags.
 2. This framework defines the **variable categories** (rows) that any market must specify.
 3. Each market gets a **completed column** (a "market pack"). Panama is the reference pack below.
 4. HQ + local counsel sign off the pack before go-live. Packs are versioned and dated.
@@ -73,4 +73,4 @@ Each new market produces a note `Localization/Market Pack - <Country>.md` fillin
 ## 5. Status & next steps
 - Panama pack: **partially filled from source, pending legal reconfirmation** (P0).
 - Colombia (Bogotá, Medellín): **to build** — first-target markets per strategy.
-- Every `⚠️`/`▫️` is an open localization item feeding [[Open Questions]] (Legal / Franchise Package).
+- Every `⚠️`/`▫️` is an open localization item feeding [[../00_Start_Here/Open Questions]] (Legal / Franchise Package).

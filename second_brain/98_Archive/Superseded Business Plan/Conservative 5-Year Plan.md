@@ -12,13 +12,13 @@ tags: [business-plan]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Contains the retired $1.59M–$1.89M Y5 forecast, the 5/20/15 unit SOM and the physical-hub Phase 2.
 >
-> **Current instead:** [[../19_Canonical_B_RealEstate/06_FINANCE/STANDALONE_ECOSYSTEM_PROJECTION]] plus the named integrated workbook
+> **Current instead:** [[../../06_Finance/Standalone Ecosystem Projection]] plus the named integrated workbook
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
 > This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[B_ Business Model Reset - 2026-09-20]]
+> Current source: [[../../04_Business_Plan/B_ Business Model Reset - 2026-09-20]]
 
 # Conservative 5-Year Plan
 
@@ -30,7 +30,7 @@ tags: [business-plan]
 
 ## Revenue Projection **[MODEL v0.6 — 2026-07-04, new pricing]**
 
-Source of truth: `09_Exports/Dproperty_OS_Financial_Model.xlsx v0.6`. The prior baseline
+Source of truth: `98_Archive/Exports/Dproperty_OS_Financial_Model.xlsx v0.6`. The prior baseline
 ($2.27M / $601k) is **retired** — it predated the collected-GCI royalty, the $30k/$40k
 launch fee, and the Dproperty Select fixed-payout change.
 
@@ -54,4 +54,4 @@ The Excel model is the calculation source of truth. This note explains the logic
 
 ## Ecosystem Framing Update (2026-07-14)
 
-This conservative plan **is Phase 1**. Its Year 3+ EBITDA (+$15k Y3 → +$630k Y5) is not just a return — it is the **fuel for Phase 2 (the physical ecosystem/hub)**. Read this plan as "the disciplined, self-financing base that pre-funds the bigger vision," not as the ceiling of the ambition. The Phase-2 build has its own (not-yet-built) financial model. See [[Dproperty OS Business Plan]] §20 and [[Ecosystem Deck Outline]].
+This conservative plan **is Phase 1**. Its Year 3+ EBITDA (+$15k Y3 → +$630k Y5) is not just a return — it is the **fuel for Phase 2 (the physical ecosystem/hub)**. Read this plan as "the disciplined, self-financing base that pre-funds the bigger vision," not as the ceiling of the ambition. The Phase-2 build has its own (not-yet-built) financial model. See [[Dproperty OS Business Plan]] §20 and [[../Superseded Pitch/Ecosystem Deck Outline]].

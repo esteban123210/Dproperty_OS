@@ -10,15 +10,15 @@ tags: [product]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> Superseded for build sequencing. Current build target is the **golden workflow** in [[BluePrint/07 - MVP and Validation Plan]].
+> Superseded for build sequencing. Current build target is the **golden workflow** in [[15 - MVP and Validation Plan]].
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Prototype Control Note
 
-> **⚠ Superseded for build purposes (2026-08-26):** The prototype to build is the **Release 1 Back Office OS**, specified end-to-end in [[BluePrint Wireframe - Back Office OS (Developer Handoff)]] — screens, design tokens, primitives, permissions, build order and acceptance criteria. Use that file's §9 build order in place of any sequencing below.
+> **⚠ Superseded for build purposes (2026-08-26):** The prototype to build is the **Release 1 Back Office OS**, specified end-to-end in [[20 - Wireframe - Back Office OS]] — screens, design tokens, primitives, permissions, build order and acceptance criteria. Use that file's §9 build order in place of any sequencing below.
 
-> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../18_Ecosystem/00 - Ecosystem Master Map]] and [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
+> **Naming and scope update (2026-08-16):** The platform is **BluePrint**, part of **B_RealEstate**. GoHighLevel remains the CRM, Open edX the Academy technology, and VAULTED the off-market marketplace. The canonical boundaries live in [[../../01_Canon/01 - Ecosystem Master Map]] and [[../../01_Canon/07 - System of Record and Integration Matrix]].
 
 ## Purpose
 
@@ -88,4 +88,4 @@ MVP should include:
 
 ## 2026-07-18 Update — Platform Architecture
 
-The information architecture (Figma To-Do #1) is now defined in [[Platform Information Architecture]] (public site + logged-in OS + back-office systems + embedding strategy + cost model), with [[Platform Scenario Playbook]] (72+ scenarios) and [[Roles and Access Matrix]]. Wireframe the priority screens first: Public Home, Franchise Workspace Home, Deal Detail, Resource Library, Command Bar, Glitch Report — not all 25 modules at once.
+The information architecture (Figma To-Do #1) is now defined in [[22 - Platform Information Architecture]] (public site + logged-in OS + back-office systems + embedding strategy + cost model), with [[23 - Platform Scenario Playbook]] (72+ scenarios) and [[../../09_Data_and_AI/Roles and Access Matrix]]. Wireframe the priority screens first: Public Home, Franchise Workspace Home, Deal Detail, Resource Library, Command Bar, Glitch Report — not all 25 modules at once.

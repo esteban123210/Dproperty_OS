@@ -15,7 +15,7 @@ tags: [franchise]
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Franchise Launch Package Index
 
@@ -60,9 +60,9 @@ This note tracks everything Dproperty must deliver to a new franchise owner befo
 
 ## Related Notes
 
-- [[Franchise Deliverables Checklist]]
-- [[Onboarding/Franchise Onboarding PDF]]
-- [[Launch/30-60-90 Day Franchise Launch Plan]]
-- [[Brand/Brand Manual]]
-- [[Sales/Sales Playbook]]
-- [[../12_Private_Collection/Private Collection Guide]]
+- [[03A - Deliverables Checklist]]
+- [[04 - Onboarding]]
+- [[04A - 30-60-90 Day Launch Plan]]
+- [[../../10_Brand_and_Web/Brand Manual]]
+- [[04D - Sales Playbook]]
+- [[../08_Dproperty_Select/02 - Program Guide]]

@@ -12,9 +12,9 @@ tags: [session, pitch, finance]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > July 2026 session record.
 >
-> **Current instead:** [[AI Handoff Pack/07_Latest Session Closeout]]
+> **Current instead:** [[../../00_Start_Here/AI Handoff Pack/07_Latest Session Closeout]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Work Session Closeout — 2026-07-02
 
@@ -67,19 +67,19 @@ produced full pitch deck content v0.9.
 
 ## 4. Files Created
 
-- `09_Exports/Dproperty_OS_Financial_Model.xlsx` v0.5 (SharePoint/Drive)
-- `03_Pitch/Pitch Deck Content.md` v0.9 (2 slides blocked)
-- `00_Index/Handoff Reconciliation Note.md` v0.5
+- `98_Archive/Exports/Dproperty_OS_Financial_Model.xlsx` v0.5 (SharePoint/Drive)
+- `05_Pitch_and_Investor/Pitch Deck Content.md` v0.9 (2 slides blocked)
+- `00_Start_Here/Handoff Reconciliation Note.md` v0.5
 - This closeout note
 
 ## 5. Files Updated
 
-- `03_Pitch/Pitch Deck Outline.md` -> v0.5 (restructured, 14 slides)
-- `07_Finance/Franchise Unit Economics.md` -> v0.5 (collected basis)
-- `07_Finance/Compensation Model.md` -> v0.6 (salary revision + Miguel)
-- `07_Finance/Financial Model Summary.md` -> v0.5 (logic note, stale numbers flagged)
-- `07_Finance/Developer Sales OS Economics.md` -> v0.2 (collection trigger open item)
-- `07_Finance/White-Label Economics.md` -> v0.2 (GHL margin line)
+- `05_Pitch_and_Investor/Pitch Deck Outline.md` -> v0.5 (restructured, 14 slides)
+- `02_Offers/05_Dproperty_Franchise/05 - Economics.md` -> v0.5 (collected basis)
+- `04_Business_Plan/Compensation Model.md` -> v0.6 (salary revision + Miguel)
+- `06_Finance/Financial Model Summary.md` -> v0.5 (logic note, stale numbers flagged)
+- `02_Offers/07_Developer_Partnerships/05 - Economics.md` -> v0.2 (collection trigger open item)
+- `02_Offers/06_B_Partner/05 - Economics.md` -> v0.2 (GHL margin line)
 - `Decision Log.md`, `Open Questions.md`, `Current Priorities.md` -> updated
 - Deliverables Tracker -> patch file (apply in Excel, regenerate compact MD)
 

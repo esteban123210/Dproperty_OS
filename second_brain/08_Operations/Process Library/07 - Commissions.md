@@ -18,7 +18,7 @@ tags: [process-library, commissions, finance, operations]
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Process 7 — Commissions
 
@@ -32,7 +32,7 @@ tags: [process-library, commissions, finance, operations]
 > |---|---|---|
 > | **1. Income collection** | Developer/client/counterparty pays commission to the office | This process, steps 1–6 |
 > | **2. Agent payout** | Office pays its own advisors (agency scheme: e.g. Junior 35%/70%, Senior 40%/45%) | This process, steps 7–14 — **office-configurable, `[local-market variable]`** |
-> | **3. HQ franchise royalty** | Office pays HQ (7.5% on **collected GCI**, computed on gross-into-company) | **NOT here** — franchise reporting / [[../../../00_Index/Decision Log|Decision Log 2026-07-05]] |
+> | **3. HQ franchise royalty** | Office pays HQ (7.5% on **collected GCI**, computed on gross-into-company) | **NOT here** — franchise reporting / [[../../00_Start_Here/Decision Log|Decision Log 2026-07-05]] |
 >
 > The agent-payout percentages are the *originating agency's* internal scheme and are **not** a Dproperty OS mandate. A franchise sets its own advisor payout; HQ royalty is computed independently and is un-gameable (based on gross-into-company, not net).
 

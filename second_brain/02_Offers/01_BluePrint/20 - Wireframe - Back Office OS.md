@@ -14,15 +14,15 @@ tags: [blueprint, legacy, handoff]
 > It was replaced by this stub on 2026-09-20 (commit `ff84d37`). Recover the full 918-line version with:
 >
 > ```bash
-> git show "ff84d37^:second_brain/04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff).md" > "recovered - BluePrint Wireframe - Back Office OS (Developer Handoff).md"
+> git show "ff84d37^:second_brain/02_Offers/01_BluePrint/20 - Wireframe - Back Office OS.md" > "recovered - BluePrint Wireframe - Back Office OS (Developer Handoff).md"
 > ```
 >
 > **Review before reuse.** The pre-reset version may also contain *property/project/unit inventory, listing and MLS* scope, which remains **permanently retired**. Keep the transaction/commission/compliance/approval/closing design; discard the inventory design.
 >
-> Controlling note: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence]]
+> Controlling note: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]]
 
 # BluePrint Developer Handoff
 
 The previous Release 1 wireframe is superseded by BluePrint v3.0.
 
-Use [[BluePrint/10 - Lovable MVP Build Brief]] as the active prototype/developer brief and [[BluePrint/00 - README - Product Map]] for all product decisions.
+Use [[17 - Lovable MVP Build Brief]] as the active prototype/developer brief and [[00 - README]] for all product decisions.

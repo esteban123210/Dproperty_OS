@@ -9,12 +9,19 @@ source: ChatGPT baseline vault package
 tags: [pitch]
 ---
 
+> [!WARNING] Stale figures — superseded 2026-09-23
+> This note still uses the **retired $650k / 24-month funding ask**. The canonical capital position is a **$950k capitalization envelope with an $800k 18-month operating plan, released in stages against evidence gates**.
+>
+> The modelled returns, ownership percentages and exit multiples below are derived from the old ask and are **not current investor guidance**. Kept as evidence of the earlier scenario work.
+>
+> Canon: [[../01_Canon/09 - Unit Economics Registry]] · [[../01_Canon/00 - Precedence and Canonical Reconciliation]]
+
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Pitches the franchise-first venture and the retired funding ask. The strategic ask has changed.
 >
-> **Current instead:** [[Pitch Deck Outline]] and [[../00_Index/Project Context Brief]]
+> **Current instead:** [[Pitch Deck Outline]] and [[../00_Start_Here/Project Context Brief]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Founder Pitch to Dproperty Owners
 

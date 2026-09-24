@@ -12,7 +12,7 @@ tags: [assets]
 > [!NOTE] Verified against canon 2026-09-23
 > Active. Asset naming must use canonical product names — Academy, B_ Partner, Dproperty Select, BluePrint.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Brand Assets Index
 

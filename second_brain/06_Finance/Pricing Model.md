@@ -11,16 +11,21 @@ supersedes: v0.5 baseline (2026-07-01)
 tags: [business-plan, pricing]
 ---
 
+> [!WARNING] Stale figures — superseded 2026-09-23
+> This note uses **retired BluePrint pricing**. Canonical pricing is **Core $399/mo · Growth $799/mo · $1,500 setup**, per organization/office. The $299/$599/$999 ladder is retired.
+>
+> Canon: [[../01_Canon/04 - Offer Portfolio Map]] · [[../02_Offers/01_BluePrint/03 - Offer and Pricing]]
+
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Pre-reset pricing across franchise/white-label/developer lines; conflicts with canonical BluePrint pricing.
 >
-> **Current instead:** [[../18_Ecosystem/14 - Unit Economics Registry]] and [[../04_Product/BluePrint/08 - Pricing and Packaging]] — **Core $399 / Growth $799 / $1,500 setup**
+> **Current instead:** [[../01_Canon/09 - Unit Economics Registry]] and [[../02_Offers/01_BluePrint/03 - Offer and Pricing]] — **Core $399 / Growth $799 / $1,500 setup**
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
 > This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[../04_Product/BluePrint/08 - Pricing and Packaging]] and [[../18_Ecosystem/14 - Unit Economics Registry]]
+> Current source: [[../02_Offers/01_BluePrint/03 - Offer and Pricing]] and [[../01_Canon/09 - Unit Economics Registry]]
 
 # Pricing Model
 

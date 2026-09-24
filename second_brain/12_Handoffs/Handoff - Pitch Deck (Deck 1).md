@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Pitch Deck — Deck 1 (Franchise System, investable)"
 target_output: "Slide deck (.pptx / Google Slides / Gamma)"
 target_tool: "AI presentation tool (Gamma, Tome, Beautiful.ai, or PowerPoint Copilot)"
-source_notes: ["03_Pitch/Pitch Deck Outline.md (v1.1)"]
+source_notes: ["05_Pitch_and_Investor/Pitch Deck Outline.md (v1.1)"]
 version: 1.1
 status: Ready to generate (design pending)
 owner: Esteban
@@ -13,13 +13,20 @@ last_updated: 2026-07-21
 tags: [handoff, production, pitch, deck]
 ---
 
+> [!WARNING] Do not produce from this file yet — superseded 2026-09-23
+> This handoff predates the 2026-09-23 canonical reconciliation. It carries the **retired $650k / 24-month ask**, and may carry the pre-reconciliation BluePrint definition, retired pricing, and legacy names (White-Label, Building Blocks, Private Collection, Developer Sales OS, Dproperty OS).
+>
+> **Regenerate against current canon before sending to any external tool or audience.**
+>
+> Canon: [[../01_Canon/00 - Precedence and Canonical Reconciliation]] · [[../01_Canon/04 - Offer Portfolio Map]]
+
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 > **⚠ STRATEGY RESET NOTICE — 2026-09-20.** This July franchise-first deck handoff is historical and must not be generated as the current investor deck.  
-> Current source of truth: [[../03_Pitch/Pitch Deck Outline]]
+> Current source of truth: [[../05_Pitch_and_Investor/Pitch Deck Outline]]
 
 # HANDOFF — Pitch Deck (Deck 1)
 
@@ -81,7 +88,7 @@ tags: [handoff, production, pitch, deck]
 - **S20 · The Decision (3 yes/no):** (1) build as NewCo/JV with defined roles & equity? (2) fund Tranche 1 ($350k)? (3) commit to the 5-year vision? Close: "You keep doing what only you can do. The system does the rest, everywhere else. And in 5 years, we have the capital and the network to build the place where real estate's future actually happens — starting in Panama."
 
 ## 5. Back Pocket (SPEAKER NOTES ONLY — not on slides)
-Competitive landscape (RE/MAX, E&V, Colliers/JLL/CBRE, KW, local boutiques; whitespace = systemized boutique ecosystem for LATAM) · PESTEL · TAM/SAM/SOM (SOM ~$1.59M Y5; defensible $ TBD) · SWOT · Lean Canvas · honest moat (defensible: curated deal flow, founder credibility, installed network, speed; durable: community/network effect) · ecosystem context (see Deck 2). Full detail in [[Pitch Deck Outline]] Back Pocket.
+Competitive landscape (RE/MAX, E&V, Colliers/JLL/CBRE, KW, local boutiques; whitespace = systemized boutique ecosystem for LATAM) · PESTEL · TAM/SAM/SOM (SOM ~$1.59M Y5; defensible $ TBD) · SWOT · Lean Canvas · honest moat (defensible: curated deal flow, founder credibility, installed network, speed; durable: community/network effect) · ecosystem context (see Deck 2). Full detail in [[../05_Pitch_and_Investor/Pitch Deck Outline]] Back Pocket.
 
 ## 6. Build & QA Checklist
 - [ ] 20 slides, one idea each; headlines verbatim.
@@ -93,5 +100,5 @@ Competitive landscape (RE/MAX, E&V, Colliers/JLL/CBRE, KW, local boutiques; whit
 - [ ] Resolve open flags before final: track-record numbers, Esteban USD salary, TAM/SAM $.
 
 ## 6. Source & Change Log
-- **Source:** [[Pitch Deck Outline]] v1.1.
+- **Source:** [[../05_Pitch_and_Investor/Pitch Deck Outline]] v1.1.
 - **Change log:** 1.1 (2026-07-21) — handoff created from outline v1.1.

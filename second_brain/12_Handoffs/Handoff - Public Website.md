@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Public marketing website (pre-login)"
 target_output: "Responsive website"
 target_tool: "AI site builder (Framer AI, Webflow, v0, Lovable) or Figma → build"
-source_notes: ["04_Product/Public Site Wireframe.md (v0.6)", "04_Product/Public Site Copy - ES Master.md (v1.0)"]
+source_notes: ["10_Brand_and_Web/Public Site Wireframe.md (v0.6)", "10_Brand_and_Web/Public Site Copy - ES Master.md (v1.0)"]
 version: 1.1
 status: "RE-SCOPED 2026-08-03 — this is now the DPROPERTY BRAND site (consumer/investor), not the company site. Build after the ecosystem site."
 owner: Esteban
@@ -16,14 +16,14 @@ tags: [handoff, production, website, brand, marketing]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # HANDOFF — Public Website (Dproperty brand site)
 
-> **Live-site/naming update (2026-08-16):** B_RealEstate and BluePrint are the active names; https://bfranchising.com is live. This handoff remains production history. Before further build work, use [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|the live-site audit]] and [[../18_Ecosystem/14 - Unit Economics Registry|the economics registry]] as the correction list.
+> **Live-site/naming update (2026-08-16):** B_RealEstate and BluePrint are the active names; https://bfranchising.com is live. This handoff remains production history. Before further build work, use [[../10_Brand_and_Web/Website Audit - bfranchising.com - 2026-08-16|the live-site audit]] and [[../01_Canon/09 - Unit Economics Registry|the economics registry]] as the correction list.
 
 > ⚠️ **RE-SCOPED 2026-08-03 — read before building.**
-> The brand architecture changed: we are **not** Dproperty. Dproperty is the **flagship brand** of a parent company that operates a franchising ecosystem (Mercure : Accor). See [[../01_Strategy/Brand Architecture]].
+> The brand architecture changed: we are **not** Dproperty. Dproperty is the **flagship brand** of a parent company that operates a franchising ecosystem (Mercure : Accor). See [[../10_Brand_and_Web/Brand Architecture]].
 >
 > **This handoff is still valid**, but only as the **Dproperty consumer/investor brand site** (`dproperty.com`) — buyers, sellers, investors, Select. It is no longer the company's main site.
 >
@@ -59,7 +59,7 @@ tags: [handoff, production, website, brand, marketing]
 | Fonts (serif + sans) | Whole site | Brand kit | need |
 | GHL calendar + form embeds | Contact, Select, Franchise | GoHighLevel | config |
 | Real contact details | Replace `[MOCK]` | Esteban | need |
-| Public franchise numbers | Franchise page | [[Pricing Model]]/[[Unit Economics]] | pull |
+| Public franchise numbers | Franchise page | [[../06_Finance/Pricing Model]]/[[../06_Finance/Unit Economics]] | pull |
 
 ## 3. Tool Instructions (the prompt)
 > "Build a **responsive, Spanish-first marketing website** from the page specs and copy in *Section 4*. Use the exact Spanish copy provided (add an EN toggle translated from it). Apply the palette, serif/sans typography, and boutique editorial feel from *Section 1*. Implement the sticky header and footer as specified. Wire: **[Agendar llamada]** → GoHighLevel calendar; **Dproperty Select 'Solicitar acceso'** → investor CRM pipeline; **Franquicias 'Agendar/Descargar'** → separate franchise-recruitment CRM pipeline (triggers Prep Pack). Keep `[MOCK]` placeholders visible until real data is supplied. No public prices/units on Select (teaser cards show region/type only). Include an Investment Disclaimer (no guaranteed returns) on Legal. Make it fast, accessible, SEO-clean. Output production code (or Framer/Webflow project)."
@@ -144,5 +144,5 @@ Privacidad · Términos · **Aviso de inversión** (rentabilidades no garantizad
 - [ ] Team section omitted (private for now).
 
 ## 6. Source & Change Log
-- **Source:** [[Public Site Wireframe]] v0.6 + [[Public Site Copy - ES Master]] v1.0.
+- **Source:** [[../10_Brand_and_Web/Public Site Wireframe]] v0.6 + [[../10_Brand_and_Web/Public Site Copy - ES Master]] v1.0.
 - **Change log:** 1.0 (2026-07-21) — handoff created; ES production copy inlined.

@@ -13,12 +13,12 @@ tags: [strategy, gtm, franchise, acquisition]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Franchise-first GTM plan predating the product-led reset.
 >
-> **Current instead:** [[../00_Index/Current Priorities]] and [[../18_Ecosystem/16 - Roadmap and Governance]]
+> **Current instead:** [[../00_Start_Here/Current Priorities]] and [[../01_Canon/10 - Roadmap and Governance]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ STRATEGY RESET NOTICE — 2026-09-20.** This is a franchise-channel GTM playbook. It is not the company-wide product-led GTM strategy after the reset.  
-> Current source of truth: [[../18_Ecosystem/17 - Product and Channel Hierarchy]]
+> Current source of truth: [[../01_Canon/03 - Product and Channel Hierarchy]]
 
 # Go-to-Market Strategy for Dproperty OS Franchises
 

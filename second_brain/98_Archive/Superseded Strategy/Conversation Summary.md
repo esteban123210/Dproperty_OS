@@ -12,9 +12,9 @@ tags: [summary, chatgpt]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Written pre-2026-09-20, when B_RealEstate was framed franchise-first. Its market sizing, forecasts, funding ask and pricing are retired.
 >
-> **Current instead:** [[../00_Index/Project Context Brief]]
+> **Current instead:** [[../../00_Start_Here/Project Context Brief]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Dproperty OS & Network — Conversation Summary
 

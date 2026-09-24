@@ -15,13 +15,13 @@ tags: [franchise, operations, process-library, roles, source-of-truth]
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Process Library Index
 
 > **What this is.** The canonical, **role-based, market-agnostic** version of Dproperty's commercial processes. Every manual (M1–M5) is a curated *view* of these files. This index also holds the **Role Map** — the project-wide role taxonomy required by Decision 2026-07-21 (*roles, never names*).
 >
-> **Source vs. Library.** Raw agency content (verbatim, with names) lives in `../Source Material/`. That folder is read-only. This Library is the abstracted layer we actually build from. If they ever conflict, the more recent *approved* decision wins (see [[../../../00_Index/Decision Log|Decision Log]]).
+> **Source vs. Library.** Raw agency content (verbatim, with names) lives in `../Source Material/`. That folder is read-only. This Library is the abstracted layer we actually build from. If they ever conflict, the more recent *approved* decision wins (see [[../../00_Start_Here/Decision Log|Decision Log]]).
 
 ## Role Map (project-wide standard)
 
@@ -59,7 +59,7 @@ Per Decision 2026-07-18, a franchise must staff at minimum **PRIN + SA + OC**. O
 1. Names → role codes. Headcounts removed.
 2. Currency amounts, commission %, deposit rules, tax/legal steps, and body names (e.g. ACOBIR) → flagged **`[local-market variable]`**.
 3. Each item carries a status tag where relevant: `APPROVED` (formal decision/acta), `INHERITED` (from source, needs reconfirm), `ASSUMPTION` (working design). Default for un-validated source content = `INHERITED`.
-4. **Commission-layer firewall:** agency payroll splits ≠ franchise royalty waterfall. Never merge. See [[../../../00_Index/Decision Log|Decision Log]].
+4. **Commission-layer firewall:** agency payroll splits ≠ franchise royalty waterfall. Never merge. See [[../../00_Start_Here/Decision Log|Decision Log]].
 
 ## Process files & status
 

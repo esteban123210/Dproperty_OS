@@ -16,9 +16,9 @@ tags: [roadmap, sprint, pitch, execution]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > July 2026 pitch sprint, targeting the pre-reset deck.
 >
-> **Current instead:** [[../00_Index/Current Priorities]]
+> **Current instead:** [[../../00_Start_Here/Current Priorities]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Pitch Sprint Roadmap — July 2026
 
@@ -30,7 +30,7 @@ tags: [roadmap, sprint, pitch, execution]
 - **Esteban** → strategic decisions: investor story, franchise economics, brand experience, pitch narrative, final approvals.
 - **Miguel** → execution flow: production, tracker updates, document assembly, software mock-up coordination, templates, physical materials.
 
-> This roadmap reflects the **2026-07-04 pricing decision**: $30k/$40k launch fee · 6% + 1.5% Network & Brand Fund on collected GCI · **Dproperty Select** (formerly Private Collection) at 2.5% branded / 2.0% white-label of sale price. Numbers come from `09_Exports/Dproperty_OS_Financial_Model.xlsx v0.6`.
+> This roadmap reflects the **2026-07-04 pricing decision**: $30k/$40k launch fee · 6% + 1.5% Network & Brand Fund on collected GCI · **Dproperty Select** (formerly Private Collection) at 2.5% branded / 2.0% white-label of sale price. Numbers come from `98_Archive/Exports/Dproperty_OS_Financial_Model.xlsx v0.6`.
 
 ---
 
@@ -217,7 +217,7 @@ Full software backend · full document generator · full e-signature · full tra
 | Roadmaps, journeys, manuals, economics logic, this note | **Obsidian** |
 | Pitch deck, brochure, one-pagers, roadmap visuals, welcome/closing box design | **Canva / PowerPoint / Figma** → linked from Obsidian |
 | Software mock-up | **Figma** (clickable prototype) |
-| Financial model | **Excel** (`09_Exports/Dproperty_OS_Financial_Model.xlsx`) |
+| Financial model | **Excel** (`98_Archive/Exports/Dproperty_OS_Financial_Model.xlsx`) |
 | Data room (final files, legal demos, deck exports) | **SharePoint / Google Drive** → QR + index in Obsidian |
 | Signed/legal-final documents | **Secure legal archive** (post-pitch) |
 
@@ -227,6 +227,6 @@ Full software backend · full document generator · full e-signature · full tra
 1. **Esteban:** confirm the two blockers — 5% vs 0.75% commission (Fernando/Ernesto) and "5 successful franchises" definition. These gate the economics one-pager.
 2. **Miguel:** create the data room folder structure (SharePoint/Drive) and the tracker priority view (must/should/nice).
 3. **Both:** agree the software demo scope (which 5–6 screens prove the story) before Week 3.
-4. Open [[second_brain/02_Business_Plan/Dproperty OS Business Plan.md]] and [[second_brain/09_Exports/Dproperty_OS_Financial_Model.xlsx]] as the economic backbone for all pitch materials.
+4. Open [[../Superseded Business Plan/Dproperty OS Business Plan]] and [[../Exports/Dproperty_OS_Financial_Model.xlsx]] as the economic backbone for all pitch materials.
 
-**Related:** [[second_brain/16_Task_Management/Deliverables Tracker - Compact MD.md]] · [[second_brain/00_Index/Current Priorities.md]] · [[second_brain/03_Pitch/Pitch_Deck_Content.md]]
+**Related:** [[../../11_Execution/Deliverables Tracker - Compact MD]] · [[../../00_Start_Here/Current Priorities]] · [[../Superseded Pitch/Pitch_Deck_Content]]

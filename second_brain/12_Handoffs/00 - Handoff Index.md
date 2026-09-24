@@ -11,7 +11,7 @@ tags: [handoff, production, source-of-truth]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Handoff Index
 
@@ -20,7 +20,7 @@ tags: [handoff, production, source-of-truth]
 > **Self-contained by design.** External tools can't read the vault or follow wikilinks, so a handoff **inlines the actual final content** (not links). Duplication with the source note is intentional and is kept in sync by the update rule below.
 
 ## The standing rule (Decision 2026-07-21)
-1. **Every deliverable we work on gets a handoff file** here in `17_Handoff_Files/`.
+1. **Every deliverable we work on gets a handoff file** here in `12_Handoffs/`.
 2. **On every session close**, the handoff file for each deliverable touched this session is **created or updated** so it always reflects the latest final content. (Now part of Close Session Mode in `CLAUDE.md`.)
 3. A handoff always contains: **Production Brief · Design/Brand Direction · Assets Required · Tool Instructions (the prompt) · Final Content (self-contained) · Build & QA Checklist · Source & Change Log.** Template: [[_Handoff Template]].
 4. Naming: `Handoff - <Deliverable> [<id>].md`.
@@ -43,12 +43,12 @@ tags: [handoff, production, source-of-truth]
 | Brand Manual | [[Handoff - Brand Manual]] | Brand book + kit | Design tool | 🟢 v0.5 |
 | Welcome Kit | [[Handoff - Welcome Kit]] | Print + physical spec | Design/print | 🟢 v0.5 |
 | Financial Model | [[Handoff - Financial Model]] | Spreadsheet | Excel/Sheets | 🟢 v0.7 |
-| **BluePrint app — Release 1 (Back Office OS)** | [[../04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff)]] | **Working web application** | Developers / AI code generator | 🟢 v1.0 |
+| **BluePrint app — Release 1 (Back Office OS)** | [[../02_Offers/01_BluePrint/20 - Wireframe - Back Office OS]] | **Working web application** | Developers / AI code generator | 🟢 v1.0 |
 | **BluePrint app — DESIGN PROMPT** | [[CLAUDE DESIGN - BluePrint App Design Prompt]] | **Functional clickable app prototype** | Claude Design | 🟢 v1.0 |
 
 *(Add a row whenever a new deliverable begins. HQ manual M0 and white-label/developer overlays get handoffs once drafted.)*
 
-> **Exception — BluePrint app handoff lives in `04_Product/`, not here.** It is self-contained and tool-ready in the required sense (design tokens, screens, primitives, permissions, build order and acceptance criteria in one file), but it is also the *canonical product specification* under [[../04_Product/BluePrint Product Map]]. Copying it into `17_Handoff_Files/` would create exactly the source-vs-handoff drift the standing rule exists to prevent, on the vault's most load-bearing spec. It is therefore registered here and maintained in place. Decision 2026-08-26.
+> **Exception — BluePrint app handoff lives in `02_Offers/01_BluePrint/`, not here.** It is self-contained and tool-ready in the required sense (design tokens, screens, primitives, permissions, build order and acceptance criteria in one file), but it is also the *canonical product specification* under [[../98_Archive/Superseded Product/BluePrint Product Map]]. Copying it into `12_Handoffs/` would create exactly the source-vs-handoff drift the standing rule exists to prevent, on the vault's most load-bearing spec. It is therefore registered here and maintained in place. Decision 2026-08-26.
 
 ## Coverage note
 All current major deliverables now have a handoff (11 files). **Not yet built** (deliverable itself not ready): M0 HQ manual, white-label overlay, developer overlay, and the Phase-2 ecosystem financial model — each gets a handoff once its source exists.

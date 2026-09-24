@@ -9,16 +9,23 @@ source: ChatGPT baseline vault package
 tags: [finance]
 ---
 
+> [!WARNING] Stale figures — superseded 2026-09-23
+> This note still uses the **retired $650k / 24-month funding ask**. The canonical capital position is a **$950k capitalization envelope with an $800k 18-month operating plan, released in stages against evidence gates**.
+>
+> The modelled returns, ownership percentages and exit multiples below are derived from the old ask and are **not current investor guidance**. Kept as evidence of the earlier scenario work.
+>
+> Canon: [[../01_Canon/09 - Unit Economics Registry]] · [[../01_Canon/00 - Precedence and Canonical Reconciliation]]
+
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
-> Pre-reset finance note. The vault's finance authority is now `19_Canonical_B_RealEstate/06_FINANCE/` plus the named source workbooks.
+> Pre-reset finance note. The vault's finance authority is now `01_Canon/06_FINANCE/` plus the named source workbooks.
 >
-> **Current instead:** [[../19_Canonical_B_RealEstate/06_FINANCE/FINANCIAL_ARCHITECTURE_AND_SOURCE_MODELS]] · [[../19_Canonical_B_RealEstate/06_FINANCE/PRICING_UNIT_ECONOMICS_AND_REVENUE_POLICY]] · [[../18_Ecosystem/14 - Unit Economics Registry]]
+> **Current instead:** [[Financial Architecture and Source Models]] · [[Pricing Unit Economics and Revenue Policy]] · [[../01_Canon/09 - Unit Economics Registry]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
 > This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[../02_Business_Plan/B_ Business Model Reset - 2026-09-20]] and [[../18_Ecosystem/14 - Unit Economics Registry]]
+> Current source: [[../04_Business_Plan/B_ Business Model Reset - 2026-09-20]] and [[../01_Canon/09 - Unit Economics Registry]]
 
 ---
 project: B_RealEstate
@@ -67,7 +74,7 @@ not appear in the pitch deck until re-run in the Excel model.
 
 ## Source of Truth
 
-Excel model at `09_Exports/` (to be built), linked from this note. 
+Excel model at `98_Archive/Exports/` (to be built), linked from this note. 
 This note explains logic only.
 
 ## Update (2026-07-14) — Two Financial Models Now Needed
@@ -76,12 +83,12 @@ This note explains logic only.
 
 This session's ecosystem reframe means finance now has **two model scopes**:
 1. **Phase 1 — Franchise model (exists, v0.7):** still needs OPEX/staffing owner validation.
-2. **Phase 2 — Ecosystem/hub model (NOT built):** required before [[Ecosystem Deck Outline]] can be used for any external raise. Must cover: space/membership rental, events, matchmaking fees, equity-fund returns, franchise pull-through, data monetization, and the physical-hub capex (location, lease-vs-own). Trigger to build: once Phase-1 EBITDA is proven (Year 3+) or earlier if an external hub partner conversation starts.
+2. **Phase 2 — Ecosystem/hub model (NOT built):** required before [[../98_Archive/Superseded Pitch/Ecosystem Deck Outline]] can be used for any external raise. Must cover: space/membership rental, events, matchmaking fees, equity-fund returns, franchise pull-through, data monetization, and the physical-hub capex (location, lease-vs-own). Trigger to build: once Phase-1 EBITDA is proven (Year 3+) or earlier if an external hub partner conversation starts.
 ---
 
 ## Update (2026-08-03) — v0.8: White-Label Dproperty Select Line Added
 
-**Source of truth:** `09_Exports/Dproperty_OS_Financial_Model.xlsx` **v0.8**. v0.7 archived as `Dproperty_OS_Financial_Model_v0.7_ARCHIVE_20260803.xlsx`.
+**Source of truth:** `98_Archive/Exports/Dproperty_OS_Financial_Model.xlsx` **v0.8**. v0.7 archived as `Dproperty_OS_Financial_Model_v0.7_ARCHIVE_20260803.xlsx`.
 
 ### What changed and why
 

@@ -9,7 +9,7 @@ tags: [ecosystem, architecture, map]
 ---
 
 > [!IMPORTANT] Reconciled 2026-09-23
-> Read [[18 - Canonical Reconciliation and Precedence]] first. It merges this map with the `19_Canonical_B_RealEstate` baseline and controls the vault.
+> Read [[00 - Precedence and Canonical Reconciliation]] first. It merges this map with the `19_Canonical_B_RealEstate` baseline and controls the vault.
 
 # B_RealEstate — Ecosystem Master Map
 

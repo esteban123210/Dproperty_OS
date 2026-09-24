@@ -8,18 +8,18 @@ version: 1.0
 status: "Ready to paste"
 owner: Esteban
 created: 2026-08-26
-source: "04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff) v1.0 + Product Constitution v2.0"
+source: "02_Offers/01_BluePrint/BluePrint Wireframe - Back Office OS (Developer Handoff) v1.0 + Product Constitution v2.0"
 tags: [handoff, design, product, app, claude-design, blueprint, backoffice]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # DESIGN PROMPT — BluePrint (Back Office Application)
 
-> **Vault note (not part of the prompt):** source of truth is [[../04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff)]]. If that file changes, regenerate this prompt. Everything below the line is self-contained and paste-ready.
+> **Vault note (not part of the prompt):** source of truth is [[../02_Offers/01_BluePrint/20 - Wireframe - Back Office OS]]. If that file changes, regenerate this prompt. Everything below the line is self-contained and paste-ready.
 
 **Paste everything below into Claude Design.**
 

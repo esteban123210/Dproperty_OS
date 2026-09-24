@@ -12,13 +12,13 @@ tags: [strategy]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Written pre-2026-09-20, when B_RealEstate was framed franchise-first. Its market sizing, forecasts, funding ask and pricing are retired.
 >
-> **Current instead:** [[../18_Ecosystem/00 - Ecosystem Master Map]]
+> **Current instead:** [[../../01_Canon/01 - Ecosystem Master Map]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Ecosystem Workflow
 
-> **Naming note (2026-07-14):** This note is about the **tooling ecosystem** (which app does what). It is NOT the business "ecosystem vision" (the 19M/Station F physical hub). For the business ecosystem, see [[Ecosystem Deck Outline]] and [[Pitch Deck Outline]]. Kept separate deliberately to avoid confusion.
+> **Naming note (2026-07-14):** This note is about the **tooling ecosystem** (which app does what). It is NOT the business "ecosystem vision" (the 19M/Station F physical hub). For the business ecosystem, see [[../Superseded Pitch/Ecosystem Deck Outline]] and [[../../05_Pitch_and_Investor/Pitch Deck Outline]]. Kept separate deliberately to avoid confusion.
 
 ## Tool Roles
 

@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Launch Plan (M3) — 30-60-90 + 12-week playbook"
 target_output: "Printable book / branded PDF"
 target_tool: "Markdown-to-PDF book generator or AI document tool"
-source_notes: ["05_Franchise_Package/Launch/30-60-90 Day Franchise Launch Plan.md", "05_Franchise_Package/Launch/First Franchisee Launch Playbook.md (v0.2)"]
+source_notes: ["02_Offers/05_Dproperty_Franchise/04A - 30-60-90 Day Launch Plan.md", "02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook.md (v0.2)"]
 version: 0.5
 status: Ready to generate (uses fixed v0.2 playbook)
 owner: Esteban
@@ -16,7 +16,7 @@ tags: [handoff, production, launch, manual]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # HANDOFF — Launch Plan (M3)
 
@@ -37,7 +37,7 @@ tags: [handoff, production, launch, manual]
 |---|---|---|---|
 | Logo | Cover/header | Brand | need |
 | Fonts | Whole book | Brand kit | need |
-| Franchise numbers `[local]` | Economics section | [[Pricing Model]] | pull |
+| Franchise numbers `[local]` | Economics section | [[../06_Finance/Pricing Model]] | pull |
 
 ## 3. Tool Instructions (the prompt)
 > "Generate a **branded PDF launch playbook** from *Section 4*. Motivating, disciplined tone; render checklists as tickable items and the economics as clean tables; call out the weekly HQ cadence. Apply *Section 1* styling. Keep relative weeks (not calendar dates) and USD. Keep `[local]` visible. US-Letter + A4."
@@ -79,5 +79,5 @@ No pipeline by W4 → review calls, adjust messaging, HQ warm leads, 2×/wk coac
 - [ ] US-Letter + A4.
 
 ## 6. Source & Change Log
-- **Source:** [[30-60-90 Day Franchise Launch Plan]] + [[First Franchisee Launch Playbook]] v0.2.
+- **Source:** [[../02_Offers/05_Dproperty_Franchise/04A - 30-60-90 Day Launch Plan]] + [[../02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook]] v0.2.
 - **Change log:** 0.5 (2026-07-21) — handoff created from fixed v0.2 playbook.

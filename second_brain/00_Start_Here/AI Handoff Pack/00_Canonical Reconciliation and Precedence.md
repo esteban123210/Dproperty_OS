@@ -11,8 +11,8 @@ tags: [ai-handoff, pointer, precedence]
 # 00 — Canonical Reconciliation and Precedence → see canonical
 
 > **This is a pointer. Do not edit content here.**
-> Single source of truth: **[[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|18_Ecosystem/18 - Canonical Reconciliation and Precedence.md]]**
-> For AI handoff, upload `18_Ecosystem/18 - Canonical Reconciliation and Precedence.md` **first, before every other file.**
+> Single source of truth: **[[../../01_Canon/00 - Precedence and Canonical Reconciliation|01_Canon/00 - Precedence and Canonical Reconciliation.md]]**
+> For AI handoff, upload `01_Canon/00 - Precedence and Canonical Reconciliation.md` **first, before every other file.**
 
 ## Why this is file 00
 

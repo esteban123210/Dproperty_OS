@@ -11,13 +11,13 @@ tags: [product, wireframe, public-site, copy, spanish, figma-handoff]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> Production ES copy. Must be corrected before reuse: name the product **BluePrint**, state **BlankCRM is powered by GoHighLevel**, remove any “una sola base de datos” claim, remove DpropertyLiving, and reconcile all economics. See [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]].
+> Production ES copy. Must be corrected before reuse: name the product **BluePrint**, state **BlankCRM is powered by GoHighLevel**, remove any “una sola base de datos” claim, remove DpropertyLiving, and reconcile all economics. See [[Web Presence and Funnel Architecture]].
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Public Site — Copy Maestro (Español)
 
-> **Architecture note (2026-08-16):** B_RealEstate is the parent ecosystem and BluePrint is the back-office platform. This file remains specific to the Dproperty consumer/flagship site. The live B2B ecosystem site is https://bfranchising.com; use [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]] and [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16]].
+> **Architecture note (2026-08-16):** B_RealEstate is the parent ecosystem and BluePrint is the back-office platform. This file remains specific to the Dproperty consumer/flagship site. The live B2B ecosystem site is https://bfranchising.com; use [[Web Presence and Funnel Architecture]] and [[Website Audit - bfranchising.com - 2026-08-16]].
 
 > Texto de producción **final** para el sitio público (pre-login), listo para Figma. Estructura/wireframe: [[Public Site Wireframe]]. Español es el idioma principal; la versión EN se traduce de aquí.
 > **Tono:** sereno y prestigioso, con cercanía humana. **Nombre externo:** "Dproperty Select". `[MOCK]` = reemplazar antes de publicar.
@@ -172,7 +172,7 @@ Ciudad de Panamá es el primer hogar natural del hub.
 
 **Qué incluye:** BluePrint · CRM white-label · la Academia · marca y manuales · acompañamiento de lanzamiento · agentes de IA incluidos.
 
-**Inversión y retorno:** *(tomar cifras de [[Pricing Model]] / [[Unit Economics]]: $30k→$40k, 7.5%, etc.)*
+**Inversión y retorno:** *(tomar cifras de [[../06_Finance/Pricing Model]] / [[../06_Finance/Unit Economics]]: $30k→$40k, 7.5%, etc.)*
 
 **Territorios:** Territorios disponibles *(mapa)*.
 
@@ -209,4 +209,4 @@ Privacidad · Términos · **Aviso de inversión** (rentabilidades no garantizad
 - [ ] Versión EN (traducir de este maestro).
 
 ## Relacionado
-[[Public Site Wireframe]] · [[Platform Information Architecture]] · [[Figma Handoff Notes]] · [[Brand Manual]]
+[[Public Site Wireframe]] · [[../02_Offers/01_BluePrint/22 - Platform Information Architecture]] · [[../12_Handoffs/Figma Handoff Notes]] · [[Brand Manual]]

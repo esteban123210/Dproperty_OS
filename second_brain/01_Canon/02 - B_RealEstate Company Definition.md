@@ -9,7 +9,7 @@ tags: [ecosystem, parent-brand, company]
 ---
 
 > [!IMPORTANT] Reconciled 2026-09-23
-> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
+> Precedence: [[00 - Precedence and Canonical Reconciliation]] controls this note.
 
 # B_RealEstate
 
@@ -21,10 +21,10 @@ Its core thesis is not “sell franchises.” It is to build products and a netw
 
 ## Core products
 
-- [[02 - BluePrint|BluePrint]] — proprietary management OS.
-- [[03A - BlankCRM|BlankCRM]] — front office powered by GoHighLevel.
-- [[05 - VAULTED|VAULTED]] — marketplace/network.
-- [[04 - B_Academy - Open edX|Academy]] — standards/enablement.
+- [[../02_Offers/01_BluePrint/01 - Definition and Boundaries|BluePrint]] — proprietary management OS.
+- [[../02_Offers/02_BlankCRM/01 - Definition and Boundaries|BlankCRM]] — front office powered by GoHighLevel.
+- [[../02_Offers/03_VAULTED/01 - Definition and Boundaries|VAULTED]] — marketplace/network.
+- [[../02_Offers/04_Academy/01 - Definition and Boundaries|Academy]] — standards/enablement.
 
 ## Channels
 

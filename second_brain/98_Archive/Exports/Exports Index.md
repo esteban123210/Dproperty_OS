@@ -12,9 +12,9 @@ tags: [exports]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Indexes static exports produced before the reset. All exports must be regenerated after the model and canon lock.
 >
-> **Current instead:** [[../00_Index/Master Index]]
+> **Current instead:** [[../../00_Start_Here/Master Index]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Exports Index
 

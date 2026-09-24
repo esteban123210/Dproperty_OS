@@ -14,9 +14,9 @@ tags: [roadmap, execution, first-franchise, critical]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Jul–Sept 2026 roadmap; the period has closed and the strategy has changed.
 >
-> **Current instead:** [[../00_Index/Current Priorities]]
+> **Current instead:** [[../../00_Start_Here/Current Priorities]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Weekly Roadmap: July 6 – September 15, 2026
 ## First-Franchise Launch-Ready Deadline
@@ -38,7 +38,7 @@ tags: [roadmap, execution, first-franchise, critical]
 ## PHASE 1: WEEKS 1–4 (JUL 6 – AUG 2)
 ## Pitch Sprint + System Definition
 
-**Use existing:** [[16_Task_Management/Pitch Sprint Roadmap - July 2026.md]]
+**Use existing:** [[Pitch Sprint Roadmap - July 2026]]
 
 **Output by Aug 2:**
 - ✅ Pitch deck (Canva/PowerPoint)
@@ -90,8 +90,8 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 - Brand manual design spec outline (Obsidian)
 
 **Files to create/update:**
-- `06_Legal/Legal Overview.md` — Legal strategy + agreement roadmap
-- `02_Business_Plan/Franchisee Profile & Target Markets.md` — Who are we selling to
+- `07_Legal_and_Compliance/Legal Overview.md` — Legal strategy + agreement roadmap
+- `04_Business_Plan/Franchisee Profile & Target Markets.md` — Who are we selling to
 - `08_Brand_Assets/Brand Manual Content Outline.md` — What will be in the manual
 
 ---
@@ -143,16 +143,16 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 - Email, letterhead, presentation, proposal templates (Canva/DOCX)
 
 **Files to create/update:**
-- `06_Legal/Franchise Agreement - Draft v0.1.md`
-- `06_Legal/Brand License Agreement - Draft v0.1.md`
-- `06_Legal/Dproperty OS License Agreement - Draft v0.1.md`
-- `06_Legal/Franchisee NDA - Draft v0.1.md`
-- `06_Legal/Commission & Royalty Agreement - Draft v0.1.md`
-- `06_Legal/Dproperty Select Participation Agreement - Draft v0.1.md`
-- `05_Franchise_Package/Manuals/Master Operations Manual - Chapter Outline.md`
-- `05_Franchise_Package/Manuals/Sales Playbook - Outline & Scripts.md`
-- `05_Franchise_Package/Manuals/Compliance Manual - Outline.md`
-- `05_Franchise_Package/Brand/Brand Manual - v0.8 (75% design-complete).md` (or Canva link)
+- `07_Legal_and_Compliance/Franchise Agreement - Draft v0.1.md`
+- `07_Legal_and_Compliance/Brand License Agreement - Draft v0.1.md`
+- `07_Legal_and_Compliance/Dproperty OS License Agreement - Draft v0.1.md`
+- `07_Legal_and_Compliance/Franchisee NDA - Draft v0.1.md`
+- `07_Legal_and_Compliance/Commission & Royalty Agreement - Draft v0.1.md`
+- `07_Legal_and_Compliance/Dproperty Select Participation Agreement - Draft v0.1.md`
+- `02_Offers/05_Dproperty_Franchise/Manuals/Master Operations Manual - Chapter Outline.md`
+- `02_Offers/05_Dproperty_Franchise/Manuals/Sales Playbook - Outline & Scripts.md`
+- `02_Offers/05_Dproperty_Franchise/Manuals/Compliance Manual - Outline.md`
+- `02_Offers/05_Dproperty_Franchise/Brand/Brand Manual - v0.8 (75% design-complete).md` (or Canva link)
 
 **Status:** All legal agreements in lawyer-review queue. Brand manual 60–70% complete.
 
@@ -209,16 +209,16 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 - Social media templates (Canva)
 
 **Files to create/update:**
-- `05_Franchise_Package/Manuals/Master Operations Manual - DRAFT v0.9.md` (or PDF export)
-- `05_Franchise_Package/Manuals/Sales Playbook - Complete Scripts v0.9.md`
-- `05_Franchise_Package/Manuals/Compliance Manual - v0.9.md`
-- `05_Franchise_Package/Onboarding/Franchise Onboarding PDF - v1.0.md`
-- `05_Franchise_Package/Training/Training Curriculum Outline.md`
-- `07_Finance/Commission Calculator.xlsx`
-- `07_Finance/Franchise P&L Template.xlsx`
-- `07_Finance/Owner-Operator Earnings Calculator.xlsx`
-- `04_Product/CRM/GoHighLevel Setup Documentation.md`
-- `05_Franchise_Package/Brand/Brand Manual - v0.95 (final).md`
+- `02_Offers/05_Dproperty_Franchise/Manuals/Master Operations Manual - DRAFT v0.9.md` (or PDF export)
+- `02_Offers/05_Dproperty_Franchise/Manuals/Sales Playbook - Complete Scripts v0.9.md`
+- `02_Offers/05_Dproperty_Franchise/Manuals/Compliance Manual - v0.9.md`
+- `02_Offers/05_Dproperty_Franchise/Onboarding/Franchise Onboarding PDF - v1.0.md`
+- `02_Offers/05_Dproperty_Franchise/Training/Training Curriculum Outline.md`
+- `06_Finance/Commission Calculator.xlsx`
+- `06_Finance/Franchise P&L Template.xlsx`
+- `06_Finance/Owner-Operator Earnings Calculator.xlsx`
+- `02_Offers/01_BluePrint/CRM/GoHighLevel Setup Documentation.md`
+- `02_Offers/05_Dproperty_Franchise/Brand/Brand Manual - v0.95 (final).md`
 
 **Status:** All legal agreements back from lawyer for revisions. Manuals complete (draft). CRM live and tested.
 
@@ -281,17 +281,17 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 - Master Document Checklist (complete franchisee onboarding package contents)
 
 **Files to create/update:**
-- `06_Legal/Master Agreement Package - Final v1.0.md` (collection of all 6 agreements)
-- `06_Legal/Agreement Summaries - 1-Pagers.md`
-- `05_Franchise_Package/Launch/30-60-90 Day Launch Plan - v1.0.md`
-- `05_Franchise_Package/Launch/Launch Checklist - v1.0.md`
-- `05_Franchise_Package/Launch/Launch Readiness Scorecard.md`
-- `05_Franchise_Package/Welcome Kit/Welcome Letter - Designed.md`
-- `05_Franchise_Package/Welcome Kit/Welcome Video Script.md`
-- `05_Franchise_Package/Launch/First Support Call Agenda.md`
-- `05_Franchise_Package/Welcome Kit/Welcome Box Finalized Contents.md`
-- `05_Franchise_Package/Training/Compliance Certification Module - v1.0.md`
-- `05_Franchise_Package/Training/Franchisee Onboarding Package Checklist.md`
+- `07_Legal_and_Compliance/Master Agreement Package - Final v1.0.md` (collection of all 6 agreements)
+- `07_Legal_and_Compliance/Agreement Summaries - 1-Pagers.md`
+- `02_Offers/05_Dproperty_Franchise/Launch/30-60-90 Day Launch Plan - v1.0.md`
+- `02_Offers/05_Dproperty_Franchise/Launch/Launch Checklist - v1.0.md`
+- `02_Offers/05_Dproperty_Franchise/Launch/Launch Readiness Scorecard.md`
+- `02_Offers/05_Dproperty_Franchise/Welcome Kit/Welcome Letter - Designed.md`
+- `02_Offers/05_Dproperty_Franchise/Welcome Kit/Welcome Video Script.md`
+- `02_Offers/05_Dproperty_Franchise/Launch/First Support Call Agenda.md`
+- `02_Offers/05_Dproperty_Franchise/Welcome Kit/Welcome Box Finalized Contents.md`
+- `02_Offers/05_Dproperty_Franchise/Training/Compliance Certification Module - v1.0.md`
+- `02_Offers/05_Dproperty_Franchise/Training/Franchisee Onboarding Package Checklist.md`
 
 **Status:** All legal agreements production-ready. Onboarding sequence locked. Training module 1 complete.
 
@@ -353,13 +353,13 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 - Final production checklist
 
 **Files to create/update:**
-- `05_Franchise_Package/Onboarding/Complete Franchisee Package - Audit & Flowchart.md`
-- `05_Franchise_Package/Welcome Kit/Data Room Index.md`
-- `05_Franchise_Package/Onboarding/Start Here - First 48 Hours.md`
-- `05_Franchise_Package/Launch/HQ Support Process Year 1.md`
-- `05_Franchise_Package/Launch/Franchisee Support Escalation Process.md`
-- `05_Franchise_Package/Launch/Year 1 Success Metrics.md`
-- `16_Task_Management/Final Production Checklist.md`
+- `02_Offers/05_Dproperty_Franchise/Onboarding/Complete Franchisee Package - Audit & Flowchart.md`
+- `02_Offers/05_Dproperty_Franchise/Welcome Kit/Data Room Index.md`
+- `02_Offers/05_Dproperty_Franchise/Onboarding/Start Here - First 48 Hours.md`
+- `02_Offers/05_Dproperty_Franchise/Launch/HQ Support Process Year 1.md`
+- `02_Offers/05_Dproperty_Franchise/Launch/Franchisee Support Escalation Process.md`
+- `02_Offers/05_Dproperty_Franchise/Launch/Year 1 Success Metrics.md`
+- `11_Execution/Final Production Checklist.md`
 
 **Status:** Everything integrated + tested. Data room ready. Final polish complete.
 
@@ -528,11 +528,11 @@ DP-007 (Pitch Deck) · DP-010 (Brochure) · DP-017 (Economics) · DP-021 (FAQ) �
 
 | File | Path | Status |
 |---|---|---|
-| Weekly Roadmap - Full | `16_Task_Management/Weekly Roadmap - July to Sept 2026.md` | ✅ This file |
-| Miguel's Weekly Tasks | `16_Task_Management/Miguel's Weekly Tasks - Jul to Sept.md` | To create |
-| Your Weekly Tasks | `16_Task_Management/Your Weekly Tasks - Jul to Sept.md` | To create |
-| MVP Deliverables Tracker | `16_Task_Management/Deliverables Tracker - MVP Only.md` | To create |
-| Current Priorities (updated) | `00_Index/AI Handoff Pack/05_Current Priorities.md` | To update |
+| Weekly Roadmap - Full | `98_Archive/Superseded Execution/Weekly Roadmap - July to Sept 2026.md` | ✅ This file |
+| Miguel's Weekly Tasks | `98_Archive/Superseded Execution/Miguel's Weekly Tasks - Jul to Sept.md` | To create |
+| Your Weekly Tasks | `98_Archive/Superseded Execution/Your Weekly Tasks - Jul to Sept.md` | To create |
+| MVP Deliverables Tracker | `11_Execution/Deliverables Tracker - MVP Only.md` | To create |
+| Current Priorities (updated) | `00_Start_Here/AI Handoff Pack/05_Current Priorities.md` | To update |
 
 ---
 

@@ -19,11 +19,11 @@ tags: [launch, franchise, operations, onboarding]
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # First Franchisee Launch Playbook (Weeks 1–12)
 
-> **Standards note (v0.2).** Rebuilt to project standards: **roles never names**, **USD**, **relative weeks** (not calendar dates), and **corrected commission math** tied to the [[07 - Commissions]] firewall. HQ-side roles are HQ-shared services; the franchisee is the **PRIN**.
+> **Standards note (v0.2).** Rebuilt to project standards: **roles never names**, **USD**, **relative weeks** (not calendar dates), and **corrected commission math** tied to the [[../../08_Operations/Process Library/07 - Commissions]] firewall. HQ-side roles are HQ-shared services; the franchisee is the **PRIN**.
 
 **Goal:** the first franchisee goes from signed agreement to **$10k+ in commission revenue** by end of Week 12.
 **Timeline:** 12 weeks (relative; set actual dates per launch instance `[local]`).
@@ -51,7 +51,7 @@ tags: [launch, franchise, operations, onboarding]
 - [ ] Business bank account opened (separate from personal)
 - [ ] Tax ID / business licence obtained `[local]`
 - [ ] Real-estate licence/affiliation obtained if required `[local]`
-- [ ] Compliance checklist reviewed + onboarding plan set ([[Compliance Package|M5]])
+- [ ] Compliance checklist reviewed + onboarding plan set ([[../../07_Legal_and_Compliance/Compliance Package|M5]])
 - [ ] Insurance obtained (professional indemnity / E&O, general liability) `[local]`
 **Owner:** PRIN + HQ Legal
 
@@ -78,7 +78,7 @@ tags: [launch, franchise, operations, onboarding]
 
 ### Training & knowledge
 - [ ] Academy access granted + first 3 modules assigned
-- [ ] Sales Playbook provided + reviewed in a 1-hr call ([[Sales Playbook|M4]])
+- [ ] Sales Playbook provided + reviewed in a 1-hr call ([[04D - Sales Playbook|M4]])
 - [ ] Compliance certification assigned (due by ~Week 3)
 - [ ] Dproperty Select training scheduled (~Week 2)
 - [ ] HQ support schedule locked (weekly calls)
@@ -162,7 +162,7 @@ Performance vs. targets · metrics/trends · strategic adjustments · scaling pl
 
 ## Part 5: First-Franchisee Economics (USD, corrected)
 
-**Assumptions:** avg unit price **$300,000**; **5%** gross commission; base case assumes **50/50 co-broke** with an external advisor (an editable model input). Uses the local commission waterfall + royalty base from [[Decision Log]] (2026-07-05) and the firewall in [[07 - Commissions]].
+**Assumptions:** avg unit price **$300,000**; **5%** gross commission; base case assumes **50/50 co-broke** with an external advisor (an editable model input). Uses the local commission waterfall + royalty base from [[../../00_Start_Here/Decision Log]] (2026-07-05) and the firewall in [[../../08_Operations/Process Library/07 - Commissions]].
 
 **Per-deal money flow (base case, with co-broke):**
 | Line | Amount | Note |

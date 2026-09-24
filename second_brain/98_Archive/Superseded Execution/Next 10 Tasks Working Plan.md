@@ -12,9 +12,9 @@ tags: [tasks, workflow]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > July 2026 task plan.
 >
-> **Current instead:** [[../00_Index/Current Priorities]]
+> **Current instead:** [[../../00_Start_Here/Current Priorities]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Next 10 Tasks Working Plan
 
@@ -27,9 +27,9 @@ Make sure the project brain is usable.
 ### Steps
 
 1. Open `README - Start Here.md`.
-2. Open `00_Index/Master Index.md`.
-3. Open `00_Index/Project Context Brief.md`.
-4. Open `16_Task_Management/Deliverables Tracker - Compact MD.md`.
+2. Open `00_Start_Here/Master Index.md`.
+3. Open `00_Start_Here/Project Context Brief.md`.
+4. Open `11_Execution/Deliverables Tracker - Compact MD.md`.
 5. Check that the core notes link properly.
 
 ### Definition of Done
@@ -62,7 +62,7 @@ Turn the launch package index into the main control page for first franchise rea
 
 ### Output
 
-`05_Franchise_Package/Franchise Launch Package Index.md`
+`02_Offers/05_Dproperty_Franchise/03 - Launch Package Index.md`
 
 ### Definition of Done
 
@@ -76,7 +76,7 @@ Create a full onboarding document for a new franchise owner.
 
 ### Output
 
-`05_Franchise_Package/Onboarding/Franchise Onboarding PDF.md`
+`02_Offers/05_Dproperty_Franchise/04 - Onboarding.md`
 
 ### Definition of Done
 
@@ -90,7 +90,7 @@ Make the first franchise launch operational.
 
 ### Output
 
-`05_Franchise_Package/Launch/30-60-90 Day Franchise Launch Plan.md`
+`02_Offers/05_Dproperty_Franchise/04A - 30-60-90 Day Launch Plan.md`
 
 ### Definition of Done
 
@@ -104,7 +104,7 @@ Define how Dproperty should look, sound, and feel.
 
 ### Output
 
-`05_Franchise_Package/Brand/Brand Manual.md`
+`10_Brand_and_Web/Brand Manual.md`
 
 ### Definition of Done
 
@@ -118,7 +118,7 @@ Help a new franchisee generate first meetings and opportunities.
 
 ### Output
 
-`05_Franchise_Package/Sales/Sales Playbook.md`
+`02_Offers/05_Dproperty_Franchise/04D - Sales Playbook.md`
 
 ### Definition of Done
 
@@ -132,7 +132,7 @@ Protect HQ-controlled curated inventory.
 
 ### Output
 
-`12_Private_Collection/Private Collection Guide.md`
+`02_Offers/08_Dproperty_Select/02 - Program Guide.md`
 
 ### Definition of Done
 
@@ -146,7 +146,7 @@ Make product specs Figma-ready.
 
 ### Output
 
-`04_Product/Prototype Control Note.md`
+`02_Offers/01_BluePrint/24 - Prototype Control Note.md`
 
 ### Definition of Done
 
@@ -160,7 +160,7 @@ Prepare internal pitch and negotiation.
 
 ### Output
 
-`03_Pitch/Founder Pitch to Dproperty Owners.md`
+`05_Pitch_and_Investor/Founder Pitch to Dproperty Owners.md`
 
 ### Definition of Done
 

@@ -12,16 +12,16 @@ tags: [research, sources]
 
 ## Current canonical architecture
 
-- [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Precedence — read first]]
-- [[../18_Ecosystem/README|Ecosystem Start Here]]
-- [[../18_Ecosystem/00 - Ecosystem Master Map|Master Map]]
-- [[../18_Ecosystem/17 - Product and Channel Hierarchy|Product & Channel Hierarchy]]
-- [[../04_Product/BluePrint/00 - README - Product Map|BluePrint Product Canon]]
-- [[../19_Canonical_B_RealEstate/00_HOME/README|Finance / Data-AI / Operations / Diligence Canon]]
-- [[../18_Ecosystem/03A - BlankCRM|BlankCRM]]
-- [[../18_Ecosystem/05 - VAULTED|VAULTED]]
-- [[../18_Ecosystem/14 - Unit Economics Registry|Economics Registry]]
-- [[../03_Pitch/Pitch Deck Outline|Current Investor Pitch]]
+- [[../01_Canon/00 - Precedence and Canonical Reconciliation|Precedence — read first]]
+- [[../01_Canon/README|Ecosystem Start Here]]
+- [[../01_Canon/01 - Ecosystem Master Map|Master Map]]
+- [[../01_Canon/03 - Product and Channel Hierarchy|Product & Channel Hierarchy]]
+- [[../02_Offers/01_BluePrint/00 - README|BluePrint Product Canon]]
+- [[../98_Archive/Superseded Canon/19_Canonical README|Finance / Data-AI / Operations / Diligence Canon]]
+- [[../02_Offers/02_BlankCRM/01 - Definition and Boundaries|BlankCRM]]
+- [[../02_Offers/03_VAULTED/01 - Definition and Boundaries|VAULTED]]
+- [[../01_Canon/09 - Unit Economics Registry|Economics Registry]]
+- [[../05_Pitch_and_Investor/Pitch Deck Outline|Current Investor Pitch]]
 
 ## Technology boundaries
 

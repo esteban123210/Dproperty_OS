@@ -112,7 +112,7 @@ This note records decisions that should not be re-opened accidentally in future 
 **Decision:** The Private Collection is renamed **Dproperty Select** as the commercial/operating name. "Private Collection" may be referenced as the former name for continuity.  
 **Reason:** More commercial, brandable name for the curated HQ portfolio.  
 **Impacted Areas:** Business Plan / Pitch / Strategy / Franchise Package / Private Collection notes / AI Handoff Pack.  
-**Status:** Active. NOTE: folder `12_Private_Collection/` and file names not yet renamed (renaming breaks wikilinks); content updated to "Dproperty Select." Folder rename is a separate decision.
+**Status:** Active. NOTE: folder `02_Offers/08_Dproperty_Select/` and file names not yet renamed (renaming breaks wikilinks); content updated to "Dproperty Select." Folder rename is a separate decision.
 
 ## 2026-07-04 — Franchise Pricing Restructure
 
@@ -156,7 +156,7 @@ This note records decisions that should not be re-opened accidentally in future 
 
 ## 2026-07-14 — Two-Deck Strategy
 
-**Decision:** Maintain **two decks**. Deck 1 ([[Pitch Deck Outline]], franchise system, investable, conservative) is used now with the owners. Deck 2 ([[Ecosystem Deck Outline]], full ecosystem/hub vision) is the north-star / future external-raise deck.  
+**Decision:** Maintain **two decks**. Deck 1 ([[../05_Pitch_and_Investor/Pitch Deck Outline]], franchise system, investable, conservative) is used now with the owners. Deck 2 ([[../98_Archive/Superseded Pitch/Ecosystem Deck Outline]], full ecosystem/hub vision) is the north-star / future external-raise deck.  
 **Status:** Active. Deck 2 audience = owners + major investors + potentially government; NOT raise-ready until a Phase-2 P&L, hub capex, and location exist.
 
 ## 2026-07-14 — Pitch Deck Restructured to Open on the Vision
@@ -199,26 +199,26 @@ This note records decisions that should not be re-opened accidentally in future 
 ## 2026-07-14 — Equity Held at 35/35/15/15; Growth Mechanism Under Exploration
 
 **Decision:** Founding cap table stays **Simon 35 / Luz 35 / Miguel 15 / Esteban 15** for now. Separately, we will **design a mechanism that lets the operators (Esteban, Miguel) grow their equity as the company grows while protecting the investors' capital first** (see Open Questions — Ownership). Preferred direction: investor capital protected via a **liquidation preference / convertible shareholder instrument**, operators grow via a **milestone-based earn-in / performance ratchet.**  
-**Status:** OPEN — full proposal drafted in [[Ownership & Investor Protection One-Pager]] (v0.1); needs owner + lawyer agreement before any cap-table change.
+**Status:** OPEN — full proposal drafted in [[../04_Business_Plan/Ownership & Investor Protection One-Pager]] (v0.1); needs owner + lawyer agreement before any cap-table change.
 
 ## 2026-07-18 — Platform Architecture: Two Layers, One Door
 
 **Decision:** The online platform has two layers — a public marketing/recruitment site (pre-login) and a role-gated OS (post-login) — accessed through **one login link** for everyone in a franchise office. What a user sees is filtered by role, not by URL.
 **Reason:** Matches modern multi-tenant platforms; seamless onboarding; defines the permission hierarchy in one place.
 **Impacted Areas:** Product, Franchise Package, Brand/Site.
-**Status:** Active. Detail: [[Platform Information Architecture]].
+**Status:** Active. Detail: [[../02_Offers/01_BluePrint/22 - Platform Information Architecture]].
 
 ## 2026-07-18 — "Automation First, AI Second" Cost Model
 
 **Decision:** Route every task to the cheapest tier — T0 (no AI: forms, rules, templating, file-routing) handles ~85% of work; T1 (cheap/local AI, e.g. DeepSeek local) handles only language tasks; T2 (premium) is a rare paid add-on. **AI never files, names, routes, calculates, approves, pays, or deletes** — it only writes language.
-**Reason:** Minimize AI cost, keep the system deterministic for legal/financial workflows, protect margin. Extends [[AI Layer Notes]].
+**Reason:** Minimize AI cost, keep the system deterministic for legal/financial workflows, protect margin. Extends [[../09_Data_and_AI/AI Layer Notes]].
 **Impacted Areas:** Product, Finance, Legal.
 **Status:** Active.
 
 ## 2026-07-18 — Files Stored in Drive, Accessed Through the OS (Never Duplicated)
 
 **Decision:** Templates, brochures, and commercial materials stay in SharePoint/Drive (and governed Template Control); the OS surfaces them via a Resource Library. Structured data lives in the OS DB as the source of truth. Nothing is re-hosted.
-**Reason:** Single pane of glass without version drift or duplicate hosting cost. Extends [[File Storage Rules]].
+**Reason:** Single pane of glass without version drift or duplicate hosting cost. Extends [[../10_Brand_and_Web/File Storage Rules]].
 **Impacted Areas:** Product, Brand Assets, Legal.
 **Status:** Active.
 
@@ -234,7 +234,7 @@ This note records decisions that should not be re-opened accidentally in future 
 **Decision:** A franchise must maintain at minimum a Principal, a licensed Sales Advisor, and an Operations Coordinator. Other roles (Sales Manager, Marketing) start as AI + HQ-shared services and are added as the office grows.
 **Reason:** Defines both software permission tiers and the franchise-agreement staffing requirement.
 **Impacted Areas:** Franchise Package, Legal, Product, HR.
-**Status:** Active. Detail: [[Roles and Access Matrix]].
+**Status:** Active. Detail: [[../09_Data_and_AI/Roles and Access Matrix]].
 
 ## 2026-07-18 — Unified Cases Engine + Separate Glitch Report System
 
@@ -252,7 +252,7 @@ This note records decisions that should not be re-opened accidentally in future 
 
 ## 2026-07-18 — Naming Convention: "Private Collection" internal, "Dproperty Select" external
 
-**Decision:** The vault keeps **"Private Collection"** for internal notes, folder, and file names (`12_Private_Collection/`) for wikilink stability. **All handouts and external/client-facing materials use "Dproperty Select."** The two refer to the same HQ-curated inventory program.
+**Decision:** The vault keeps **"Private Collection"** for internal notes, folder, and file names (`02_Offers/08_Dproperty_Select/`) for wikilink stability. **All handouts and external/client-facing materials use "Dproperty Select."** The two refer to the same HQ-curated inventory program.
 **Reason:** Avoids breaking internal links from a folder rename while giving the program a clean, commercial external name. Resolves the pending rename question.
 **Impacted Areas:** Brand, Franchise Package, Pitch, Private Collection notes, Legal (handout templates).
 **Status:** Active. Supersedes the "full rename pending" note.
@@ -267,7 +267,7 @@ This note records decisions that should not be re-opened accidentally in future 
 - **M4 — Sales Playbook** (agents).
 - **M5 — Compliance Manual** (cross-cutting, HQ-enforced).
 
-All manuals are **curated views of one shared Process Library**, seeded from the real agency **Commercial Process Manual (v002-26)**. "Maestro" is reserved for the HQ-internal master (M0) only. Governed by [[../05_Franchise_Package/Manuals System Index|Manuals System Index]].
+All manuals are **curated views of one shared Process Library**, seeded from the real agency **Commercial Process Manual (v002-26)**. "Maestro" is reserved for the HQ-internal master (M0) only. Governed by [[../08_Operations/Manuals System Index|Manuals System Index]].
 **Reason:** Prevents the same process drifting across multiple manuals; separates confidential HQ operations from franchisee-facing content; converts the richest existing source material into reusable, role-based process content.
 **Impacted Areas:** Franchise Package, Compliance, Finance (commission-layer separation), Training.
 **Status:** Active. OPEN: manual language (ES/EN/bilingual); confirm "Maestro" naming; confirm M0 deferral.
@@ -277,27 +277,27 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 **Decision:** Every Dproperty OS deliverable — manuals, specs, playbooks, process maps, RACI, templates, product docs — uses **abstract roles, never personal names or headcounts of a specific office.** Real names (Silvia, Maria Isabel, Luz Adriana, Esteban, etc.) and single-office team sizes ("9 agents", "14 people") are replaced by portable role codes. Any office-, country-, or currency-specific value (amounts, ACOBIR, Panama rules) is marked as a **local-market variable**, not hard-coded as policy.
 **Reason:** The whole product is a franchisable/white-label system that must work for *any* operator in *any* market. Personal names and one-office assumptions make content un-shippable and create privacy/scaling problems.
-**Canonical role taxonomy:** defined and maintained in [[../05_Franchise_Package/Operations/Process Library/00 - Process Library Index|Process Library Index]] (Role Map). All deliverables reference those codes.
+**Canonical role taxonomy:** defined and maintained in [[../08_Operations/Process Library/00 - Process Library Index|Process Library Index]] (Role Map). All deliverables reference those codes.
 **Impacted Areas:** All workstreams — Franchise Package, Product, Legal, Finance, Brand, Training.
 **Status:** Active. Standing rule.
 
 ## 2026-07-21 — Localization Model: "Process Global, Values Local"
 
-**Decision:** Manuals and the Process Library hold the **process** once, market-agnostic. Every country-specific value (currency, commission %, licensing, tax, deposits, legal steps, franchise-disclosure law, data-privacy law, language) lives in a **per-market pack** governed by [[../05_Franchise_Package/Localization/Localization Framework|Localization Framework]] and is tagged `[local-market variable]` in manuals. **A market may not sell franchises, onboard a franchisee, or take a white-label client until its market pack is complete and signed off by local counsel.**
+**Decision:** Manuals and the Process Library hold the **process** once, market-agnostic. Every country-specific value (currency, commission %, licensing, tax, deposits, legal steps, franchise-disclosure law, data-privacy law, language) lives in a **per-market pack** governed by [[../08_Operations/Localization Framework|Localization Framework]] and is tagged `[local-market variable]` in manuals. **A market may not sell franchises, onboard a franchisee, or take a white-label client until its market pack is complete and signed off by local counsel.**
 **Reason:** Makes the whole package portable across borders without rewriting manuals per country, and turns compliance/localization into an explicit go-live gate rather than an assumption.
 **Impacted Areas:** Franchise Package, Legal, Compliance, all manuals, White-label, Developer Sales OS.
 **Status:** Active. Panama pack partially filled (pending legal reconfirmation); Colombia to build.
 
 ## 2026-07-21 — Multi-Line Manuals: Shared Core + Line Overlays
 
-**Decision:** The three business lines (branded franchise, white-label, Developer Sales OS) share **one core** (Process Library, Compliance M5, Brand, Localization, Role Map) and add **thin line-specific overlays** that document only what differs. Overlays **link** to the core, never copy it. Governed by [[../05_Franchise_Package/Multi-Line Manual Strategy|Multi-Line Manual Strategy]] and [[../05_Franchise_Package/Manuals System Index|Manuals System Index]].
+**Decision:** The three business lines (branded franchise, white-label, Developer Sales OS) share **one core** (Process Library, Compliance M5, Brand, Localization, Role Map) and add **thin line-specific overlays** that document only what differs. Overlays **link** to the core, never copy it. Governed by [[../08_Operations/Multi-Line Manual Strategy|Multi-Line Manual Strategy]] and [[../08_Operations/Manuals System Index|Manuals System Index]].
 **Reason:** Prevents three drifting manual sets; makes white-label and developer productizable from the same maintained core.
 **Impacted Areas:** Franchise Package, White-label, Developer Sales OS, Brand, Legal.
 **Status:** Active. Branded set in progress; white-label & developer overlays scaffolded, to be written after branded P0 manuals stabilize.
 
 ## 2026-07-21 — Handoff Files: One Self-Contained MD per Deliverable
 
-**Decision:** Every deliverable gets a **handoff file** in `17_Handoff_Files/` — a single, **self-contained** Markdown file carrying the final content **plus** design/brand direction, assets list, and copy-paste **tool instructions** so an external tool (AI presentation tool, website builder, book/PDF generator) can produce the highest-fidelity final product from that one file. Handoffs **inline** content (external tools can't read the vault). Standard sections: Production Brief · Design/Brand Direction · Assets Required · Tool Instructions · Final Content · Build & QA Checklist · Source & Change Log. Registry + template: [[../05_Franchise_Package/../17_Handoff_Files/00 - Handoff Index|Handoff Index]] / [[../17_Handoff_Files/_Handoff Template|template]].
+**Decision:** Every deliverable gets a **handoff file** in `12_Handoffs/` — a single, **self-contained** Markdown file carrying the final content **plus** design/brand direction, assets list, and copy-paste **tool instructions** so an external tool (AI presentation tool, website builder, book/PDF generator) can produce the highest-fidelity final product from that one file. Handoffs **inline** content (external tools can't read the vault). Standard sections: Production Brief · Design/Brand Direction · Assets Required · Tool Instructions · Final Content · Build & QA Checklist · Source & Change Log. Registry + template: [[../12_Handoffs/00 - Handoff Index|Handoff Index]] / [[../12_Handoffs/_Handoff Template|template]].
 **Standing rule:** on **every session close**, the handoff file for each deliverable touched is **created or updated** (added to Close Session Mode in CLAUDE.md). If a handoff and its source note disagree, the **source note wins** and the handoff is regenerated.
 **Reason:** Gives one authoritative, tool-ready file per deliverable so final products (decks, site, printable manual books) can be generated on demand at max fidelity without reassembling context.
 **Impacted Areas:** All deliverable workstreams; session-close workflow.
@@ -305,7 +305,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-08-03 — Brand Architecture: House of Brands (Dproperty becomes the flagship, not the identity)
 
-**Decision:** We are **not** "Dproperty." We are a **franchising ecosystem for real estate** operating under a new parent brand (name TBD), and **Dproperty is our flagship brand** — the relationship **Mercure has to Accor**. "Dproperty OS" is renamed to a brand-neutral platform name (TBD), because white-label partners run on it under their own brand. Working placeholders `[PARENT]` and `[OS_NAME]` are used across all specs until named, in the same spirit as `[MOCK]`. Governed by [[../01_Strategy/Brand Architecture|Brand Architecture]].
+**Decision:** We are **not** "Dproperty." We are a **franchising ecosystem for real estate** operating under a new parent brand (name TBD), and **Dproperty is our flagship brand** — the relationship **Mercure has to Accor**. "Dproperty OS" is renamed to a brand-neutral platform name (TBD), because white-label partners run on it under their own brand. Working placeholders `[PARENT]` and `[OS_NAME]` are used across all specs until named, in the same spirit as `[MOCK]`. Governed by [[../10_Brand_and_Web/Brand Architecture|Brand Architecture]].
 **Reason:** A partner should be joining an **ecosystem** and choosing how much of our brand they want — not buying a brand licence. This makes the offer larger, the pricing defensible, and the white-label line a legitimate equal option rather than a discount tier. It also frees the platform to be sold under partner brands without a naming conflict.
 **Impacted Areas:** Brand, Product, Website, Franchise Package, White-label, Developer Sales OS, Pitch Decks, Legal, all vault naming.
 **Status:** Architecture active. Naming resolved 2026-08-16 to **B_RealEstate** and **BluePrint**; trademark/domain clearance remains required.
@@ -319,14 +319,14 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-08-03 — Developer Sales Line Repositioned: Dedicated Embedded Team, Not an Outsourced Desk
 
-**Decision:** The Developer line is repositioned from a generic sales-enablement/outsourced-desk service to a **dedicated team that stays with the developer across all their projects** — one that learns the soul of their product, their buyer, and their standards, and carries that knowledge forward project to project. Positioned as closer to a **white-label partnership** than to a commercialisation contract. Sold on **continuity and understanding**, not headcount. [[../11_Developer_Sales_OS/Developer Sales OS Guide|Developer Sales OS Guide]] must be rewritten to match.
+**Decision:** The Developer line is repositioned from a generic sales-enablement/outsourced-desk service to a **dedicated team that stays with the developer across all their projects** — one that learns the soul of their product, their buyer, and their standards, and carries that knowledge forward project to project. Positioned as closer to a **white-label partnership** than to a commercialisation contract. Sold on **continuity and understanding**, not headcount. [[../02_Offers/07_Developer_Partnerships/02A - Program Guide|Developer Sales OS Guide]] must be rewritten to match.
 **Reason:** Developers do not want a mercenary sales team handed a brochure. The durable value is a partner who understands the product and improves across the portfolio — which is also far harder for a competitor to copy than a staffed desk.
 **Impacted Areas:** Developer Sales OS, Website, Pricing, Manuals (developer overlay), GTM.
 **Status:** Active. Source notes still stale — rewrite pending.
 
 ## 2026-08-03 — Website Split Into Two Sites
 
-**Decision:** Two separate websites. **[PARENT].com** — the B2B ecosystem site selling the three partnership lines ([[../17_Handoff_Files/Handoff - Ecosystem Website|Handoff - Ecosystem Website]] v1.0, **build first, in Lovable**). **dproperty.com** — the Dproperty flagship consumer/investor site ([[../17_Handoff_Files/Handoff - Public Website|Handoff - Public Website]] v1.1, re-scoped, build second). The franchise recruitment page is **removed** from the Dproperty site and replaced by a banner + *"Dproperty es parte de [PARENT]"* footer line.
+**Decision:** Two separate websites. **[PARENT].com** — the B2B ecosystem site selling the three partnership lines ([[../12_Handoffs/Handoff - Ecosystem Website|Handoff - Ecosystem Website]] v1.0, **build first, in Lovable**). **dproperty.com** — the Dproperty flagship consumer/investor site ([[../12_Handoffs/Handoff - Public Website|Handoff - Public Website]] v1.1, re-scoped, build second). The franchise recruitment page is **removed** from the Dproperty site and replaced by a banner + *"Dproperty es parte de [PARENT]"* footer line.
 **Reason:** The franchise buyer and the property investor are opposite audiences with opposite motivations; one site cannot serve both without weakening each. Separate sites also mean separate SEO, separate ad accounts, and separate CRM pipelines.
 **Impacted Areas:** Website, Product IA, Brand, GTM, CRM/GoHighLevel.
 **Status:** Active.
@@ -347,7 +347,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-08-03 — Dproperty Select: White-Label Payout Revised to 1.5% (External-Partner-Broker Terms)
 
-**Decision:** White-label partners **do** receive Dproperty Select access — the earlier blanket exclusion in [[../13_White_Label/White-Label OS Guide|White-Label OS Guide]] is **retired** — but they transact Select **as any external partner broker does, at 1.5% of sale price**. Branded franchises retain the preferential **2.5%**. Supersedes the 2.0% white-label rate set 2026-07-04.
+**Decision:** White-label partners **do** receive Dproperty Select access — the earlier blanket exclusion in [[../02_Offers/06_B_Partner/02A - Offer Guide|White-Label OS Guide]] is **retired** — but they transact Select **as any external partner broker does, at 1.5% of sale price**. Branded franchises retain the preferential **2.5%**. Supersedes the 2.0% white-label rate set 2026-07-04.
 **Reason:** Resolves the standing conflict cleanly and without special-casing: Pillar 4 (Select-driven profit uplift) becomes true for every partner, while a full point of Select spread remains a hard economic reason to buy the brand. Treating white-label as an external partner broker is also operationally simpler — no new payout class to administer.
 **Impacted Areas:** White-label, Finance/Unit Economics, Financial Model, Dproperty Select rules, Legal templates, Website, Pitch Decks, **all live project Commercial Terms**.
 **Status:** Active. ⚠️ **Propagation pending:** the `dproperty brain` operational vault still carries 2.0% in 10 live files (`02_Projects/Private Collection/**/10_Dproperty Commercial/Commercial Terms.md` — Boreal, Cavarosa, Nayamara, Sky Parc II, Sky Parc IV, Gesti68, Dovle Selva, Dovle Cincuentenario, + project template). Check for signed terms before overwriting. Financial Model v0.7 also needs the input changed.
@@ -368,7 +368,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-08-03 — Financial Model v0.8: White-Label Select Revenue Line Added
 
-**Decision:** Rebuild the financial model to **v0.8**, adding a **"Dproperty Select — white-label HQ retained"** revenue line (Model row 19) and revising `Assumptions!C14` from 2.0% → **1.5%**. Source of truth is now `09_Exports/Dproperty_OS_Financial_Model.xlsx` **v0.8**; v0.7 archived as `Dproperty_OS_Financial_Model_v0.7_ARCHIVE_20260803.xlsx`.
+**Decision:** Rebuild the financial model to **v0.8**, adding a **"Dproperty Select — white-label HQ retained"** revenue line (Model row 19) and revising `Assumptions!C14` from 2.0% → **1.5%**. Source of truth is now `98_Archive/Exports/Dproperty_OS_Financial_Model.xlsx` **v0.8**; v0.7 archived as `Dproperty_OS_Financial_Model_v0.7_ARCHIVE_20260803.xlsx`.
 **Reason:** v0.7 contained a **structural gap**, not merely a stale rate. Cell `C14` existed but was **never referenced by any formula** — Select revenue counted branded franchises only, which was correct while white-label had no Select access and became wrong the moment access was granted. Because HQ retains commission net of the partner payout, HQ keeps **3.5% of sale price on a white-label Select unit ($10,500) vs 2.5% on a branded one ($7,500)** — 40% more per unit, across 4× more partners by Year 5.
 **Effect:** Year 1 revenue ~$87k → **~$97k**; Year 5 ~$1.59M → **~$1.89M**. **Year 3 EBITDA ~$15k → ~$125k** (breakeven no longer knife-edge); Year 5 EBITDA ~$630k → **~$924k** (49% margin).
 **Impacted Areas:** Finance, Pitch Decks, Business Plan, Website (franchise economics), White-label, Funding/Tranches.
@@ -398,11 +398,11 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-08-16 — Canonical Ecosystem Architecture
 
-**Decision:** `second_brain/18_Ecosystem/` is the canonical ecosystem map. B_RealEstate governs the ecosystem; BluePrint is the back-office system of record and control plane; GoHighLevel is the white-labeled front-office CRM; Open edX is the Academy technology; VAULTED is the invitation-only off-market marketplace; Dproperty Select is the HQ-controlled curated inventory program; Drive/SharePoint, e-signature and accounting/payment providers retain their specialist system-of-record roles.
+**Decision:** `second_brain/01_Canon/` is the canonical ecosystem map. B_RealEstate governs the ecosystem; BluePrint is the back-office system of record and control plane; GoHighLevel is the white-labeled front-office CRM; Open edX is the Academy technology; VAULTED is the invitation-only off-market marketplace; Dproperty Select is the HQ-controlled curated inventory program; Drive/SharePoint, e-signature and accounting/payment providers retain their specialist system-of-record roles.
 
 **Reason:** Prevent BluePrint from becoming an unbuildable “everything app” and prevent duplicate truth across CRM, LMS, marketplace, files and finance.
 
-**Status:** Active. See [[../18_Ecosystem/00 - Ecosystem Master Map]], [[../18_Ecosystem/12 - System of Record and Integration Matrix]].
+**Status:** Active. See [[../01_Canon/01 - Ecosystem Master Map]], [[../01_Canon/07 - System of Record and Integration Matrix]].
 
 ## 2026-08-16 — bfranchising.com Is the Live B2B Ecosystem Site
 
@@ -410,18 +410,18 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 **Audit ruling:** preserve the current editorial visual direction, but correct BluePrint naming, GoHighLevel disclosure, “one database” language, Dproperty Select governance, lead capture, DpropertyLiving ambiguity and all conflicting economics before paid/high-stakes acquisition.
 
-**Status:** Active. See [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16]].
+**Status:** Active. See [[../10_Brand_and_Web/Website Audit - bfranchising.com - 2026-08-16]].
 
 ## 2026-08-16 — DpropertyLiving Requires a Separate Approval
 
 **Decision:** DpropertyLiving appears on the live site but is not yet an approved fourth commercial door. It remains a documented concept under decision until its brand role, audience, territory rights, economics and relationship to white-label are approved.
 
-**Status:** ~~Open decision~~ → **SUPERSEDED 2026-09-20: parked.** See [[../18_Ecosystem/10 - DpropertyLiving]].
+**Status:** ~~Open decision~~ → **SUPERSEDED 2026-09-20: parked.** See [[../98_Archive/Parked/DpropertyLiving - Parked]].
 
 
 ## 2026-08-16 — BluePrint Product Constitution Is the Product Boundary
 
-**Decision:** [[../04_Product/BluePrint Product Constitution|BluePrint Product Constitution v1.0]] is the definitive product-boundary document. BluePrint is a CRM-neutral, multi-tenant back-office operating platform. It supports three modes—GoHighLevel ecosystem connected, external CRM connected, and BluePrint Direct—through one Intake/Transaction model. It does not replace CRM, LMS, marketplace, file storage, e-signature or accounting systems.
+**Decision:** [[../98_Archive/Superseded Product/BluePrint Product Constitution|BluePrint Product Constitution v1.0]] is the definitive product-boundary document. BluePrint is a CRM-neutral, multi-tenant back-office operating platform. It supports three modes—GoHighLevel ecosystem connected, external CRM connected, and BluePrint Direct—through one Intake/Transaction model. It does not replace CRM, LMS, marketplace, file storage, e-signature or accounting systems.
 
 **Reason:** Prevent scope reopening, CRM lock-in and separate product variants while preserving a complete standalone value proposition.
 
@@ -429,7 +429,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-08-16 — Golden Workflow Is the BluePrint MVP Spine
 
-**Decision:** The MVP is controlled by one workflow: qualified CRM/manual intake → transaction workspace → compliance → document generation → human approval/signature handoff → closing → commission → report. [[../04_Product/BluePrint Golden Workflow - Wireframe and Validation|The Golden Workflow]] passes a product-architecture desk-test for an independent agency with another CRM, a Dproperty franchise with GoHighLevel and a small agency using BluePrint Direct. Variation is limited to adapters, configuration, branding, rules and entitlements.
+**Decision:** The MVP is controlled by one workflow: qualified CRM/manual intake → transaction workspace → compliance → document generation → human approval/signature handoff → closing → commission → report. [[../02_Offers/01_BluePrint/19 - Golden Workflow Wireframe and Validation|The Golden Workflow]] passes a product-architecture desk-test for an independent agency with another CRM, a Dproperty franchise with GoHighLevel and a small agency using BluePrint Direct. Variation is limited to adapters, configuration, branding, rules and entitlements.
 
 **Status:** Active at architecture level. Clickable prototype, technical integration and usability validation remain required.
 
@@ -446,23 +446,23 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Decision:** Ran a full consistency audit of `second_brain/` against the Decision Log and fixed every live file still carrying superseded figures instead of just noting the drift.
 
 **Findings and fixes:**
-1. **White-label Dproperty Select payout (2026-08-03 revision: 2.0% → 1.5%, external-partner-broker terms, blanket exclusion retired) had not propagated into ~20 live files**, including investor-facing content ([[../03_Pitch/Pitch Deck Outline|Pitch Deck Outline]], [[../17_Handoff_Files/Handoff - Pitch Deck (Deck 1)|Handoff - Pitch Deck]]), agent-facing content ([[../05_Franchise_Package/Sales/Sales Playbook|Sales Playbook]], [[../17_Handoff_Files/Handoff - Sales Playbook (M4)|Handoff - Sales Playbook]]), the tool-ready [[../17_Handoff_Files/Handoff - Financial Model|Handoff - Financial Model]], and the core Business Plan, Pricing Model, Unit Economics, Strategy, and Private Collection notes. All were still saying "no automatic white-label access, 2.0% if granted" — directly contradicting the retired-exclusion decision. Fixed to 1.5% / "access included, external-partner-broker terms" throughout, with matching dollar-math corrections ($4,500 partner / $10,500 HQ per $300k unit, replacing the stale $6,000 / $9,000).
-2. **[[../05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook|Franchisee Acquisition Playbook]] was still fully EUR-denominated** (€30k launch fee, €1k/month, objection scripts) against the 2026-07-14 USD-everywhere decision — converted to USD throughout (same numbers, since €30k/€1k already matched the USD figures used everywhere else).
-3. **[[../04_Product/Roles and Access Matrix|Roles and Access Matrix]]** still framed LMS vendor as an open LearnWorlds-vs-edX question — updated to reflect the 2026-08-16 Open edX resolution.
+1. **White-label Dproperty Select payout (2026-08-03 revision: 2.0% → 1.5%, external-partner-broker terms, blanket exclusion retired) had not propagated into ~20 live files**, including investor-facing content ([[../05_Pitch_and_Investor/Pitch Deck Outline|Pitch Deck Outline]], [[../12_Handoffs/Handoff - Pitch Deck (Deck 1)|Handoff - Pitch Deck]]), agent-facing content ([[../02_Offers/05_Dproperty_Franchise/04D - Sales Playbook|Sales Playbook]], [[../12_Handoffs/Handoff - Sales Playbook (M4)|Handoff - Sales Playbook]]), the tool-ready [[../12_Handoffs/Handoff - Financial Model|Handoff - Financial Model]], and the core Business Plan, Pricing Model, Unit Economics, Strategy, and Private Collection notes. All were still saying "no automatic white-label access, 2.0% if granted" — directly contradicting the retired-exclusion decision. Fixed to 1.5% / "access included, external-partner-broker terms" throughout, with matching dollar-math corrections ($4,500 partner / $10,500 HQ per $300k unit, replacing the stale $6,000 / $9,000).
+2. **[[../02_Offers/05_Dproperty_Franchise/04C - Franchisee Acquisition Playbook|Franchisee Acquisition Playbook]] was still fully EUR-denominated** (€30k launch fee, €1k/month, objection scripts) against the 2026-07-14 USD-everywhere decision — converted to USD throughout (same numbers, since €30k/€1k already matched the USD figures used everywhere else).
+3. **[[../09_Data_and_AI/Roles and Access Matrix|Roles and Access Matrix]]** still framed LMS vendor as an open LearnWorlds-vs-edX question — updated to reflect the 2026-08-16 Open edX resolution.
 4. [[Open Questions]] P0 conflict section and two other stale line items marked resolved to match.
-5. **Not fixed (flagged only, needs owner call, not a mechanical fix):** `03_Pitch/Pitch_Deck_Content.md` (v0.9, dated 2026-07-02, predates the 2026-07-04 pricing restructure entirely — substantially stale throughout, not just on Select; recommend regenerating from [[../03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] or archiving) and `09_Exports/*.md` (frozen early snapshots, superseded by canonical `02_Business_Plan/` and `03_Pitch/` notes — left as historical exports per existing vault convention). EUR salary figures for Esteban (Your Compensation Package, Founder Pitch, Pitch_Deck_Content) were **not** touched — that restatement is a pending owner decision (see Open Questions), not a copy error.
+5. **Not fixed (flagged only, needs owner call, not a mechanical fix):** `98_Archive/Superseded Pitch/Pitch_Deck_Content.md` (v0.9, dated 2026-07-02, predates the 2026-07-04 pricing restructure entirely — substantially stale throughout, not just on Select; recommend regenerating from [[../05_Pitch_and_Investor/Pitch Deck Outline|Pitch Deck Outline]] or archiving) and `98_Archive/Exports/*.md` (frozen early snapshots, superseded by canonical `04_Business_Plan/` and `05_Pitch_and_Investor/` notes — left as historical exports per existing vault convention). EUR salary figures for Esteban (Your Compensation Package, Founder Pitch, Pitch_Deck_Content) were **not** touched — that restatement is a pending owner decision (see Open Questions), not a copy error.
 
 **Reason:** A decision recorded in the Decision Log is not "done" until every downstream file agrees with it — otherwise different chats/readers get contradictory numbers depending which file they open. This is exactly the drift the AI Handoff Pack de-dup (2026-07-18) fixed at the index layer; this pass extends the same discipline to content files.
 
 **Impacted Areas:** Business Plan, Pricing Model, Unit Economics, Strategy, Pitch Deck, Sales Playbook, Compliance, Private Collection, Multi-Line Manual Strategy, Handoff Files (3), Franchisee Acquisition Playbook, Roles and Access Matrix, Open Questions.
 
-**Status:** Active. `16_Task_Management/Deliverables Tracker - Compact MD.md` is separately flagged as stale (last real content update 2026-07-21; does not yet list `18_Ecosystem/` (17 files), `17_Handoff_Files/` (14 files), or the BluePrint Product Map/Constitution/Golden Workflow) — a full tracker regeneration needs an Excel-tracker pass, not a text edit, and is queued as next-session work rather than done inline here.
+**Status:** Active. `11_Execution/Deliverables Tracker - Compact MD.md` is separately flagged as stale (last real content update 2026-07-21; does not yet list `01_Canon/` (17 files), `12_Handoffs/` (14 files), or the BluePrint Product Map/Constitution/Golden Workflow) — a full tracker regeneration needs an Excel-tracker pass, not a text edit, and is queued as next-session work rather than done inline here.
 
 ## 2026-08-26 — BluePrint Is the Back-Office Brain; Transaction Spine Re-Sequenced to Release 2
 
 **Decision:** BluePrint is redefined as the **operating brain of a lean real-estate back office**, used by administrative staff only, and delivery is re-sequenced into two releases.
 
-**1. Scope.** BluePrint's canonical scope now explicitly includes the domains Constitution v1.0 omitted: service recovery (Glitch Report), HR cases and people/licence records, legal-contract/corporate-licence/software-licence/tax tracking, the approved template and manual library, the external resource directory, and personal/team performance with satisfaction surveys. These were originally specified on 2026-07-18 in [[../04_Product/Platform Information Architecture|Platform Information Architecture]] and [[../04_Product/Product Modules|Product Modules]]; Constitution v1.0 had narrowed them away. v2.0 restores them.
+**1. Scope.** BluePrint's canonical scope now explicitly includes the domains Constitution v1.0 omitted: service recovery (Glitch Report), HR cases and people/licence records, legal-contract/corporate-licence/software-licence/tax tracking, the approved template and manual library, the external resource directory, and personal/team performance with satisfaction surveys. These were originally specified on 2026-07-18 in [[../02_Offers/01_BluePrint/22 - Platform Information Architecture|Platform Information Architecture]] and [[../98_Archive/Superseded Product/Product Modules|Product Modules]]; Constitution v1.0 had narrowed them away. v2.0 restores them.
 
 **2. Access boundary.** BluePrint is **back-office only**. Sales advisors work in GoHighLevel and receive **no BluePrint seat** — their time belongs with clients, not behind an internal system. A salesperson may exist in BluePrint as a *record* (People, KPIs, licence tracking) without a login. This is a product boundary, not a configuration preference, and it governs seat design and pricing.
 
@@ -482,7 +482,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 **Status:** Active. Supersedes the 2026-08-16 "Golden Workflow Is the BluePrint MVP Spine" decision **as to sequencing only** — the Golden Workflow remains the binding Release 2 specification and its content is unchanged. The 2026-08-16 Copilot authority decision (AI-0 to AI-4) is unchanged and now sits at Constitution §11.
 
-**Build specification:** [[../04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff)|BluePrint Wireframe — Back Office OS (Developer Handoff)]].
+**Build specification:** [[../02_Offers/01_BluePrint/20 - Wireframe - Back Office OS|BluePrint Wireframe — Back Office OS (Developer Handoff)]].
 
 
 ## 2026-09-20 — Company Reset: Product-Led Operating Infrastructure
@@ -501,7 +501,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 **Economic promise:** one capable administrator + BluePrint + specialist systems should let an agency operate with materially stronger management discipline without prematurely hiring a COO/CFO/operations stack.
 
-**Status:** Active. Canonical folder: [[../04_Product/BluePrint/00 - README - Product Map]].
+**Status:** Active. Canonical folder: [[../02_Offers/01_BluePrint/00 - README]].
 
 ## 2026-09-20 — BlankCRM Created as Commercial Front-Office Product
 
@@ -560,11 +560,11 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 ## 2026-09-23 — Canonical Reconciliation: Two Canons Merged Into Three Layers
 
-**Decision:** The `18_Ecosystem` canon (2026-09-20) and the `19_Canonical_B_RealEstate` baseline (2026-09-23) are reconciled by a single controlling note: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence]]. Neither folder is sole authority. They become three layers with an explicit precedence order:
+**Decision:** The `18_Ecosystem` canon (2026-09-20) and the `19_Canonical_B_RealEstate` baseline (2026-09-23) are reconciled by a single controlling note: [[../01_Canon/00 - Precedence and Canonical Reconciliation]]. Neither folder is sole authority. They become three layers with an explicit precedence order:
 
-- `18_Ecosystem/` — what the company **is**.
-- `04_Product/BluePrint/` — what the product **is**.
-- `19_Canonical_B_RealEstate/` — how it is **proven and financed**.
+- `01_Canon/` — what the company **is**.
+- `02_Offers/01_BluePrint/` — what the product **is**.
+- `01_Canon/` — how it is **proven and financed**.
 
 **Reason:** Two internally-consistent canons three days apart answered "what is BluePrint" differently, with neither marked as losing. That makes the vault unusable for investors, developers and AI assistants.
 
@@ -582,7 +582,7 @@ This partially reverses the 2026-09-20 decision record. The *property/project/un
 1. You cannot verify what you do not hold. The Reported → Operationally verified → Financially verified → Closed hierarchy *is* a transaction lifecycle, and its own worked example is a CRM deal becoming verified in BluePrint.
 2. A management layer with no owned transaction object is a BI tool — precisely the "another dashboard" objection named as the buyer's top fear. It will not sustain $399–$799/month.
 3. Commission calculation and deal-file compliance are the real, expensive, defensible pain, and are what spreadsheets currently do badly.
-4. `04_Product/BluePrint/03 - Architecture` already conceded "receivables, commission liabilities."
+4. `02_Offers/01_BluePrint/03 - Architecture` already conceded "receivables, commission liabilities."
 5. It yields a falsifiable MVP gate: one workflow from qualified intake through commission/report with no shadow spreadsheet as authority.
 
 **The boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
@@ -597,7 +597,7 @@ This partially reverses the 2026-09-20 decision record. The *property/project/un
 
 **Reason:** An LMS is not defensible IP and must not carry investor weight as a standalone product. Consistent naming is required for the deck, website and contracts.
 
-**Impacted areas:** Brand, Pitch, Product, `13_White_Label/`, `19_Canonical`.
+**Impacted areas:** Brand, Pitch, Product, `02_Offers/06_B_Partner/`, `19_Canonical`.
 
 **Status:** Active.
 

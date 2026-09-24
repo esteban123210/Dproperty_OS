@@ -9,18 +9,25 @@ last_updated: 2026-08-28
 tags: [finance, index, master, complete]
 ---
 
+> [!WARNING] Stale figures — superseded 2026-09-23
+> This note still uses the **retired $650k / 24-month funding ask**. The canonical capital position is a **$950k capitalization envelope with an $800k 18-month operating plan, released in stages against evidence gates**.
+>
+> The modelled returns, ownership percentages and exit multiples below are derived from the old ask and are **not current investor guidance**. Kept as evidence of the earlier scenario work.
+>
+> Canon: [[../01_Canon/09 - Unit Economics Registry]] · [[../01_Canon/00 - Precedence and Canonical Reconciliation]]
+
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
-> Pre-reset finance note. The vault's finance authority is now `19_Canonical_B_RealEstate/06_FINANCE/` plus the named source workbooks.
+> Pre-reset finance note. The vault's finance authority is now `01_Canon/06_FINANCE/` plus the named source workbooks.
 >
-> **Current instead:** [[../19_Canonical_B_RealEstate/06_FINANCE/FINANCIAL_ARCHITECTURE_AND_SOURCE_MODELS]] · [[../19_Canonical_B_RealEstate/06_FINANCE/PRICING_UNIT_ECONOMICS_AND_REVENUE_POLICY]] · [[../18_Ecosystem/14 - Unit Economics Registry]]
+> **Current instead:** [[Financial Architecture and Source Models]] · [[Pricing Unit Economics and Revenue Policy]] · [[../01_Canon/09 - Unit Economics Registry]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # MASTER INDEX — B_RealEstate Financial Model Complete Package
 
 ## Files You Now Have (11 Total)
 
-All files are in: `second_brain/07_Finance/`
+All files are in: `second_brain/06_Finance/`
 
 ### Documentation Files (3)
 
@@ -284,7 +291,7 @@ Your working model (use it)
 
 ```
 second_brain/
-├── 07_Finance/
+├── 06_Finance/
 │   ├── README - Your Complete Financial Model Package.md ⭐ START HERE
 │   ├── Financial Model - Investor Ready - Specification.md (detailed reference)
 │   ├── Excel Model - BUILD & IMPORT GUIDE.md (build instructions)

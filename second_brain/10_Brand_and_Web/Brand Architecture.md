@@ -14,11 +14,11 @@ tags: [strategy, brand, architecture, naming]
 > [!NOTE] Verified against canon 2026-09-23
 > Naming is canonical. Note the additions: **Academy** (not Building Blocks), **B_ Partner** (not White-Label), **Dproperty Select** (not Private Collection). DpropertyLiving is **parked**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Brand Architecture
 
-> **Final naming decision (2026-08-16):** **B_RealEstate** is the parent ecosystem and **BluePrint** is the platform. This supersedes the former working names. The visual system centers on **B_**; in the BluePrint wordmark, `B_` is the anchor and `luePrint` is underlined. See [[../18_Ecosystem/README|18_Ecosystem]] for the canonical operating map.
+> **Final naming decision (2026-08-16):** **B_RealEstate** is the parent ecosystem and **BluePrint** is the platform. This supersedes the former working names. The visual system centers on **B_**; in the BluePrint wordmark, `B_` is the anchor and `luePrint` is underlined. See [[../01_Canon/README|18_Ecosystem]] for the canonical operating map.
 
 > **Restructure decided 2026-08-03.** We are not "Dproperty." We are a **franchising ecosystem for real estate**, and **Dproperty is our flagship brand** — the relationship Mercure has to Accor.
 
@@ -66,7 +66,7 @@ The names are now the active business decision. Trademark, domain and legal-enti
 | Parent company / ecosystem | **B_RealEstate** | Confirmed 2026-08-16 — clearance pending |
 | Platform | **BluePrint** | Confirmed 2026-08-16 — clearance pending |
 | Flagship brand | Dproperty | Locked |
-| Curated portfolio | Dproperty Select (external) / Private Collection (internal) | Locked — see [[../00_Index/Project Context Brief]] §0 |
+| Curated portfolio | Dproperty Select (external) / Private Collection (internal) | Locked — see [[../00_Start_Here/Project Context Brief]] §0 |
 
 **Working convention:** keep **B_RealEstate** and **BluePrint** as single-source config variables in every build until trademark clearance completes, so a rename stays a one-line change.
 
@@ -89,7 +89,7 @@ Given two comparable buildings where one has slightly better finishes, the bette
 
 Full flagship brand licence, investment priority, full Select access at partner terms.
 Economics: $30k founding → $40k · $1,000/mo · 6% royalty + 1.5% Network & Brand Fund · **Select at 2.5% of sale price**.
-See [[Franchise Strategy]].
+See [[../03_Strategy/Franchise Strategy]].
 
 ### 3.2 White-Label Franchise — *"Operate as yourself"*
 Partner keeps their own brand and builds it their way. They get the full platform, CRM, Academy, AI agents, templates, playbooks, events, and Select access — but the brand equity they build is **theirs**, and they do **not** inherit Dproperty's recognition.
@@ -99,7 +99,7 @@ Partner keeps their own brand and builds it their way. They get the full platfor
 **Backing without the brand:** we back them and support them publicly — a white-label partner may use **"powered by Dproperty."** That is endorsement, not identity. It is deliberately a different thing from operating *as* Dproperty.
 
 Economics: Starter $10k setup / $1,500 mo · Growth $20k setup / $2,500 mo · **Select at 1.5% of sale price — external-partner-broker terms** (revised 2026-08-03 from 2.0%).
-See [[../13_White_Label/White-Label OS Guide]], [[../13_White_Label/White-Label Pricing]].
+See [[../02_Offers/06_B_Partner/02A - Offer Guide]], [[../02_Offers/06_B_Partner/03 - Offer and Pricing]].
 
 **This is the freedom pillar.** Positioning: *we give you the tools and walk beside you — you still make the brand your own.*
 
@@ -134,7 +134,7 @@ Sell it as **continuity and understanding**, not headcount:
 - Protects your brand and your numbers; no unapproved projections, no discounting your own product.
 
 Economics: 0.5% of gross sale value on developer-team sales; 2.5–3% on network-sourced sales; $3,000–$5,000/mo managed desk minimum, potentially creditable.
-See [[../11_Developer_Sales_OS/Developer Sales OS Guide]], [[../11_Developer_Sales_OS/Developer Pricing Model]].
+See [[../02_Offers/07_Developer_Partnerships/02A - Program Guide]], [[../02_Offers/07_Developer_Partnerships/03 - Offer and Pricing]].
 
 ## 4. The Four Backing Pillars (the public argument)
 
@@ -158,21 +158,21 @@ Dproperty appears as **evidence and as an option**, never as the identity of the
 
 These must be resolved — they are load-bearing for the website.
 
-1. ~~**White-label × Select access.**~~ ✅ **RESOLVED 2026-08-03.** White-label **does** get Select access, but on **external-partner-broker terms: 1.5% of sale price** (not the 2.0% previously written, and not the branded 2.5%). The old blanket exclusion in [[../13_White_Label/White-Label OS Guide]] is retired. This is the cleanest possible answer: it makes Pillar 4 true for every partner, keeps a real economic reason to buy the brand, and requires no special-casing — white-label simply transacts Select the way any external partner broker does.
+1. ~~**White-label × Select access.**~~ ✅ **RESOLVED 2026-08-03.** White-label **does** get Select access, but on **external-partner-broker terms: 1.5% of sale price** (not the 2.0% previously written, and not the branded 2.5%). The old blanket exclusion in [[../02_Offers/06_B_Partner/02A - Offer Guide]] is retired. This is the cleanest possible answer: it makes Pillar 4 true for every partner, keeps a real economic reason to buy the brand, and requires no special-casing — white-label simply transacts Select the way any external partner broker does.
    ⚠️ **Propagation debt:** the `dproperty brain` operational vault still carries **2.0%** in 10 live project files (`02_Projects/Private Collection/**/10_Dproperty Commercial/Commercial Terms.md`: Boreal, Cavarosa, Nayamara, Sky Parc II, Sky Parc IV, Gesti68, Dovle Selva, Dovle Cincuentenario, + the project template). These are live commercial documents — update deliberately, and check whether any already-signed terms are affected.
 2. ✅ **"Proven model" claim rewritten 2026-08-03.** The unsubstantiated profit-uplift statistic is **removed** from all public copy. Pillar 4 now states the *mechanism* — *"every Dproperty Select transaction is inventory you didn't have to source, at a commission you didn't have to negotiate"* — plus the real operating history since 2017. Both defensible without inventing a number. Add a genuine case study when a partner produces one.
 3. ~~**Naming blocker.**~~ ✅ Resolved 2026-08-16 — **B_RealEstate** (company) and **BluePrint** (platform). Trademark/domain clearance still outstanding; keep both as config variables.
 4. **Vault-wide naming migration.** Controlled pass started 2026-08-16 across canonical index, strategy, product and handoff files. Historical paths remain where changing them would break links.
-5. **Developer Sales OS notes are stale.** [[../11_Developer_Sales_OS/Developer Sales OS Guide]] still describes a generic enablement service. Needs rewriting to the dedicated-embedded-team positioning.
-6. **Existing site work is re-scoped, not wasted.** [[../04_Product/Public Site Wireframe]] v0.6 and [[../04_Product/Public Site Copy - ES Master]] v1.0 remain valid — but as the **Dproperty brand site**, not the company site. See [[../17_Handoff_Files/Handoff - Ecosystem Website]].
+5. **Developer Sales OS notes are stale.** [[../02_Offers/07_Developer_Partnerships/02A - Program Guide]] still describes a generic enablement service. Needs rewriting to the dedicated-embedded-team positioning.
+6. **Existing site work is re-scoped, not wasted.** [[Public Site Wireframe]] v0.6 and [[Public Site Copy - ES Master]] v1.0 remain valid — but as the **Dproperty brand site**, not the company site. See [[../12_Handoffs/Handoff - Ecosystem Website]].
 
 ## 7. Related
 
-- [[Franchise Strategy]]
-- [[../00_Index/Project Context Brief]]
-- [[../17_Handoff_Files/Handoff - Ecosystem Website]]
-- [[../17_Handoff_Files/Handoff - Public Website]]
-- [[../05_Franchise_Package/Brand/Brand Manual]]
+- [[../03_Strategy/Franchise Strategy]]
+- [[../00_Start_Here/Project Context Brief]]
+- [[../12_Handoffs/Handoff - Ecosystem Website]]
+- [[../12_Handoffs/Handoff - Public Website]]
+- [[Brand Manual]]
 
 ## Change Log
 - **0.1 (2026-08-03)** — created; house-of-brands model, three service lines, four pillars, conflict register.

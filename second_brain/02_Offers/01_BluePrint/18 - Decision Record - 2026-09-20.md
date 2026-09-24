@@ -9,7 +9,7 @@ tags: [blueprint, decision, product-boundary]
 ---
 
 > [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
-> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+> [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
 >
 > **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
 
@@ -20,7 +20,7 @@ tags: [blueprint, decision, product-boundary]
 >
 > Reason: the verification hierarchy this record depends on (Reported -> Operationally verified -> Financially verified -> Closed) *is* a transaction lifecycle. You cannot verify what you do not hold, and a management layer with no owned transaction object is the "another dashboard" product the ICP explicitly fears.
 >
-> Controlling note: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]].
+> Controlling note: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]].
 
 ## Decision (as recorded 2026-09-20)
 

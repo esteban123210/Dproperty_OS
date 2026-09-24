@@ -13,9 +13,9 @@ tags: [gtm, execution, week-5, kickoff]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > July 2026 GTM week-5 plan, franchise-first.
 >
-> **Current instead:** [[../00_Index/Current Priorities]]
+> **Current instead:** [[../../00_Start_Here/Current Priorities]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # GTM Execution Summary — Ready for Week 5 Kickoff
 
@@ -54,7 +54,7 @@ tags: [gtm, execution, week-5, kickoff]
 
 ## 📚 Documents Created (4 files)
 
-### 1. Go-to-Market Strategy (`01_Strategy/Go-to-Market Strategy.md`)
+### 1. Go-to-Market Strategy (`03_Strategy/Go-to-Market Strategy.md`)
 **What it covers:**
 - Detailed value proposition for each persona
 - Acquisition channels (LinkedIn, referrals, networks, etc.)
@@ -70,7 +70,7 @@ tags: [gtm, execution, week-5, kickoff]
 
 ---
 
-### 2. GTM Market-Specific Tactics (`01_Strategy/GTM Market-Specific Tactics.md`)
+### 2. GTM Market-Specific Tactics (`03_Strategy/GTM Market-Specific Tactics.md`)
 **What it covers:**
 - Market context for Panama, Bogotá, Medellín (audience profiles, competitive landscape)
 - Week-by-week channel execution per market
@@ -86,7 +86,7 @@ tags: [gtm, execution, week-5, kickoff]
 
 ---
 
-### 3. Franchisee Acquisition Playbook (`05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook.md`)
+### 3. Franchisee Acquisition Playbook (`02_Offers/05_Dproperty_Franchise/04C - Franchisee Acquisition Playbook.md`)
 **What it covers:**
 - Lead scoring matrix (hot/warm/cool/cold)
 - Discovery call framework (30-45 min script, persona-specific)
@@ -103,7 +103,7 @@ tags: [gtm, execution, week-5, kickoff]
 
 ---
 
-### 4. First Franchisee Launch Playbook (`05_Franchise_Package/Launch/First Franchisee Launch Playbook.md`)
+### 4. First Franchisee Launch Playbook (`02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook.md`)
 **What it covers:**
 - 12-week launch plan (Sept 16 – Dec 8)
 - Week-by-week milestones (Week 1: kickoff, Week 5: first deal closes, Week 12: 5-6 deals closed)
@@ -348,13 +348,13 @@ By the middle of Week 10, you'll know if Sept 15 is achievable:
 
 | Need | Document | Section |
 |------|----------|---------|
-| Overall GTM strategy | `01_Strategy/Go-to-Market Strategy.md` | Part 2-3 (personas + comparative analysis) |
-| Market-specific execution | `01_Strategy/GTM Market-Specific Tactics.md` | Part 2-5 (channels, messaging, templates) |
-| Discovery call script | `05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook.md` | Part 2 (discovery call agenda) |
-| Objection responses | `05_Franchise_Package/Pre-Signing/Franchisee Acquisition Playbook.md` | Part 3 (objection handling scripts) |
-| Weekly rhythm | `01_Strategy/GTM Market-Specific Tactics.md` | Part 5 (weekly execution) |
-| Launch plan | `05_Franchise_Package/Launch/First Franchisee Launch Playbook.md` | Part 2 (week-by-week plan) |
-| Sales professional positioning | `01_Strategy/GTM Market-Specific Tactics.md` | Part 3 (commission comparisons) |
+| Overall GTM strategy | `03_Strategy/Go-to-Market Strategy.md` | Part 2-3 (personas + comparative analysis) |
+| Market-specific execution | `03_Strategy/GTM Market-Specific Tactics.md` | Part 2-5 (channels, messaging, templates) |
+| Discovery call script | `02_Offers/05_Dproperty_Franchise/04C - Franchisee Acquisition Playbook.md` | Part 2 (discovery call agenda) |
+| Objection responses | `02_Offers/05_Dproperty_Franchise/04C - Franchisee Acquisition Playbook.md` | Part 3 (objection handling scripts) |
+| Weekly rhythm | `03_Strategy/GTM Market-Specific Tactics.md` | Part 5 (weekly execution) |
+| Launch plan | `02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook.md` | Part 2 (week-by-week plan) |
+| Sales professional positioning | `03_Strategy/GTM Market-Specific Tactics.md` | Part 3 (commission comparisons) |
 
 ---
 

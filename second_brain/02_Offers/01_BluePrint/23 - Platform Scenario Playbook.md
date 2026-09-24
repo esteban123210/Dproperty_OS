@@ -13,13 +13,13 @@ tags: [product, architecture, scenarios, ux, wireframe]
 > [!NOTE] Verified against canon 2026-09-23
 > Scenarios remain useful for discovery. Re-read against the reconciled boundary: BluePrint owns the deal from **qualified opportunity**, not the property as inventory.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Platform Scenario Playbook
 
-> 72+ real-world scenarios used to pressure-test the [[Platform Information Architecture]] before wireframing. Framework for every answer: **3 clicks · automation-first · AI only for language.** Tiers defined in [[Platform Information Architecture]] (T0 = no AI, T1 = cheap/local AI, T2 = premium).
+> 72+ real-world scenarios used to pressure-test the [[22 - Platform Information Architecture]] before wireframing. Framework for every answer: **3 clicks · automation-first · AI only for language.** Tiers defined in [[22 - Platform Information Architecture]] (T0 = no AI, T1 = cheap/local AI, T2 = premium).
 
-> **⚠ Scope filter (2026-08-26):** BluePrint is now back-office-only ([[BluePrint Product Constitution]] §3.11). **Part A scenarios written for a sales advisor inside the OS are out of scope** — that user works in GoHighLevel and has no BluePrint seat. Read them as CRM scenarios or as back-office scenarios performed on the advisor's behalf. Scenarios covering glitches, HR, cases, obligations, templates, resources and reporting remain valid and are now core Release 1 regression material.
+> **⚠ Scope filter (2026-08-26):** BluePrint is now back-office-only ([[../../98_Archive/Superseded Product/BluePrint Product Constitution]] §3.11). **Part A scenarios written for a sales advisor inside the OS are out of scope** — that user works in GoHighLevel and has no BluePrint seat. Read them as CRM scenarios or as back-office scenarios performed on the advisor's behalf. Scenarios covering glitches, HR, cases, obligations, templates, resources and reporting remain valid and are now core Release 1 regression material.
 
 ---
 
@@ -80,7 +80,7 @@ tags: [product, architecture, scenarios, ux, wireframe]
 | 17 | Send a tailored follow-up pack after the meeting | Generate a **per-prospect Data Room link** (personalized microsite) |
 | 18 | Pitch deck + financial model + agreement on hand | All in the Sales Room, versioned, always current |
 | 19 | Track where each prospect sits | Franchise-recruitment pipeline (separate from property leads) |
-| 20 | Answer tough finance/legal questions live | Battle-card / Q&A in the Sales Room (from [[Supervisor and Owner Q&A]]) |
+| 20 | Answer tough finance/legal questions live | Battle-card / Q&A in the Sales Room (from [[../../05_Pitch_and_Investor/Supervisor and Owner Q&A]]) |
 
 ---
 
@@ -172,11 +172,11 @@ tags: [product, architecture, scenarios, ux, wireframe]
 ---
 
 ## What the scenarios forced into the architecture
-See [[Platform Information Architecture]] for the consolidated changes. Summary:
+See [[22 - Platform Information Architecture]] for the consolidated changes. Summary:
 - Added: Command Bar, Field Mode, Listing intake form, Shortlist/Share, approval queues, Franchise Sales Room, Data Room generator.
 - Added 6 back-office systems: Finance, People/HR, Cases, Tenant Lifecycle, Audit/Data Governance, Glitch Report.
 - Pre-login: 7-page "Become a Franchise" hub, dual CRM pipelines, Prep Pack automation, Download Info Pack gate.
 - Rulings: confidentiality is a property of the *case*; money/legal actions are always T0 + audit-logged; glitches are never person-attributed.
 
 ## Related
-- [[Platform Information Architecture]] · [[Roles and Access Matrix]] · [[Prototype Spec]] · [[AI Layer Notes]]
+- [[22 - Platform Information Architecture]] · [[../../09_Data_and_AI/Roles and Access Matrix]] · [[../../98_Archive/Superseded Product/Prototype Spec]] · [[../../09_Data_and_AI/AI Layer Notes]]

@@ -9,12 +9,12 @@ tags: [blueprint, ai, legacy]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> Superseded. Current AI rules: [[BluePrint/06 - Chat First AI Operating Model]] and [[../19_Canonical_B_RealEstate/08_DATA_AI/AI_HANDOFF_PROTOCOL]].
+> Superseded. Current AI rules: [[../02_Offers/01_BluePrint/14 - Chat First AI Operating Model]] and [[AI Handoff Protocol]].
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # BluePrint AI Layer
 
-Canonical AI model: [[BluePrint/06 - Chat First AI Operating Model]].
+Canonical AI model: [[../02_Offers/01_BluePrint/14 - Chat First AI Operating Model]].
 
 The key rule is: **chat is the interface; structured, validated, audited records are the system.**

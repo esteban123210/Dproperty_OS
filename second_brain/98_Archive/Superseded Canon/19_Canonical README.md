@@ -1,9 +1,9 @@
 > [!IMPORTANT] Reconciled 2026-09-23 — read the precedence note first
-> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|18 - Canonical Reconciliation and Precedence]] controls the vault. This folder is **one of three canonical layers**, not the sole authority:
+> [[../../01_Canon/00 - Precedence and Canonical Reconciliation|18 - Canonical Reconciliation and Precedence]] controls the vault. This folder is **one of three canonical layers**, not the sole authority:
 >
-> - `18_Ecosystem/` — what the company **is**
-> - `04_Product/BluePrint/` — what the product **is**
-> - `19_Canonical_B_RealEstate/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
+> - `01_Canon/` — what the company **is**
+> - `02_Offers/01_BluePrint/` — what the product **is**
+> - `01_Canon/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
 >
 > **Naming corrections that override this folder:** **Academy** (not *Building Blocks*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
@@ -18,7 +18,7 @@
 
 This repository is **one of three canonical layers** — it covers how the business is **proven and financed**: finance models, data/AI architecture, operations, compliance, KPIs/gates and investor diligence for B_RealEstate and its commercial universe (B_Franchising, Dproperty, BluePrint, BlankCRM, Academy, VAULTED, bfranchising.com and developer programs).
 
-For *what the company is*, see `18_Ecosystem/`. For *what the product is*, see `04_Product/BluePrint/`. Precedence: `18_Ecosystem/18 - Canonical Reconciliation and Precedence.md`.
+For *what the company is*, see `01_Canon/`. For *what the product is*, see `02_Offers/01_BluePrint/`. Precedence: `01_Canon/00 - Precedence and Canonical Reconciliation.md`.
 
 It has five jobs:
 
@@ -39,7 +39,7 @@ It has five jobs:
 - `../01_COMPANY/B_RealEstate_Master_Business_Plan_2026.md` — investor business plan.
 - `../10_INVESTOR_DILIGENCE/INVESTMENT_MEMO.md` — invest/not-invest judgment.
 - `../12_INVESTOR_TWO_PAGERS/README.md` — comparable two-page business cases for all seven offers.
-- `../../18_Ecosystem/18 - Canonical Reconciliation and Precedence.md` — **precedence; read first**.
+- `../../01_Canon/00 - Precedence and Canonical Reconciliation.md` — **precedence; read first**.
 
 ## Truth labels
 

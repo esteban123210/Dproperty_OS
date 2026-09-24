@@ -12,9 +12,9 @@ tags: [strategy, developer, channel]
 > This folder describes the **Developer Partnerships** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
 >
 > **Canonical name:** Developer Partnerships — “Developer Sales OS” is a legacy alias.
-> A revenue/supply/distribution/learning channel, **not Product #5**. See [[../18_Ecosystem/09 - Developer Sales Partner]].
+> A revenue/supply/distribution/learning channel, **not Product #5**. See [[../02_Offers/07_Developer_Partnerships/01 - Definition and Boundaries]].
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Developer Partnerships Strategy
 

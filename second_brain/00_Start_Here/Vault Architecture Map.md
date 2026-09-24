@@ -14,13 +14,15 @@ tags: [architecture, navigation, governance, source-of-truth]
 
 ## 1. What was wrong before
 
+The vault previously ran `00_Index` through `19_Canonical_B_RealEstate`. Those folder names are listed below as history — they no longer exist.
+
 | Problem | Evidence |
 |---|---|
-| **Two parallel vaults** | `19_Canonical_B_RealEstate/` re-covered company, strategy, products, finance, operations and roadmap — the same domains as `01_Strategy`–`07_Finance`. Two homes for every topic. |
-| **Products scattered across six folders** | BluePrint in `04_Product/`, BlankCRM in `14_CRM_GoHighLevel/`, Academy in `05_Franchise_Package/Training/`, VAULTED only in `18_Ecosystem/`, Dproperty Select in `12_Private_Collection/`, B_ Partner in `13_White_Label/`, Developer in `11_Developer_Sales_OS/`. |
-| **`04_Product` meant "BluePrint"** | Eight sellable things, one of them had a product folder. |
-| **Canon buried at the end** | `18_Ecosystem/` held the controlling definitions but sorted second-to-last. |
-| **Legacy names as folder names** | `13_White_Label` (now B_ Partner), `12_Private_Collection` (now Dproperty Select), `11_Developer_Sales_OS` (now Developer Partnerships). Folder names taught retired vocabulary. |
+| **Two parallel vaults** | The old `19_Canonical_B_RealEstate/` re-covered company, strategy, products, finance, operations and roadmap — the same domains as the old `01_Strategy` through `07_Finance`. Two homes for every topic, and no rule saying which won. |
+| **Products scattered across six folders** | BluePrint lived in `04_Product/`, BlankCRM in `14_CRM_GoHighLevel/`, Academy inside `05_Franchise_Package/Training/`, VAULTED only as a one-pager in `18_Ecosystem/`, Dproperty Select in `12_Private_Collection/`, B_ Partner in `13_White_Label/`, Developer Partnerships in `11_Developer_Sales_OS/`. |
+| **`04_Product` meant "BluePrint"** | Eight sellable things; exactly one of them had a product folder. |
+| **Canon buried at the end** | `18_Ecosystem/` held the controlling definitions but sorted second-to-last, after every superseded file. |
+| **Legacy names as folder names** | `13_White_Label` (now B_ Partner), `12_Private_Collection` (now Dproperty Select), `11_Developer_Sales_OS` (now Developer Partnerships). The folder tree actively taught retired vocabulary. |
 | **No archive** | Superseded July material sat beside current canon with no separation. |
 
 ## 2. Design principles
@@ -117,28 +119,55 @@ An **offer** is anything a customer can buy. Strategy still distinguishes *produ
 
 ## 6. Where the two old canonical folders went
 
-`18_Ecosystem/` and `19_Canonical_B_RealEstate/` are **dissolved into the single structure**. The three-layer precedence model from 2026-09-23 survives as a **precedence rule on documents**, not as a folder split — which is what it should always have been.
+The old `18_Ecosystem/` and `19_Canonical_B_RealEstate/` folders are **dissolved into the single structure**. The three-layer precedence model from 2026-09-23 survives as a **precedence rule on documents**, not as a folder split — which is what it should always have been.
+
+Old paths below are history; they no longer exist on disk.
 
 | Was | Now |
 |---|---|
 | `18_Ecosystem/18 - Canonical Reconciliation` | `01_Canon/00 - Precedence and Canonical Reconciliation.md` |
-| `18_Ecosystem/00, 01, 12, 13, 14, 16, 17` | `01_Canon/` |
-| `18_Ecosystem/02, 03, 03A, 04, 05, 06, 07, 08, 09` | the matching `02_Offers/0X/01 - Definition and Boundaries.md` |
+| `18_Ecosystem/00, 01, 12, 13, 14, 16, 17` | `01_Canon/` (map, company definition, system of record, personas, economics registry, roadmap, hierarchy) |
+| `18_Ecosystem/02, 03, 03A, 04, 05, 06, 07, 08, 09` | the matching `02_Offers/0X_…/01 - Definition and Boundaries.md` |
 | `18_Ecosystem/10 - DpropertyLiving` | `98_Archive/Parked/` |
 | `18_Ecosystem/11, 15` | `10_Brand_and_Web/` |
-| `19/00_HOME` | `01_Canon/` (governance, glossary, status, QA) + `09_Data_and_AI/` (AI navigation) |
-| `19/01_COMPANY` | `04_Business_Plan/` |
-| `19/02_FRANCHISING` | `02_Offers/05, 06, 07/` + `08_Operations/` (shared model) |
-| `19/03_PRODUCTS` | `02_Offers/01–04/Product Record.md` |
-| `19/04_ECOSYSTEM` | `01_Canon/` |
-| `19/05_STRATEGY` | `03_Strategy/` |
-| `19/06_FINANCE` | `06_Finance/` |
-| `19/07_OPERATIONS` | `08_Operations/` + `07_Legal_and_Compliance/` |
-| `19/08_DATA_AI` | `09_Data_and_AI/` |
-| `19/09_ROADMAP` | `01_Canon/10 - Roadmap and Governance.md` + `03_Strategy/` |
-| `19/10_INVESTOR_DILIGENCE` | `05_Pitch_and_Investor/` |
-| `19/11_TEMPLATES` | `99_Templates/` |
-| `19/12_INVESTOR_TWO_PAGERS` | the matching `02_Offers/0X/07 - Investor Two-Pager.md` |
+| `19_…/00_HOME` | `01_Canon/` (governance, glossary, status, QA) + `09_Data_and_AI/` (AI navigation) |
+| `19_…/01_COMPANY` | `04_Business_Plan/` + `10_Brand_and_Web/` (corporate brand) |
+| `19_…/02_FRANCHISING` | `02_Offers/05, 06, 07/` + `08_Operations/Shared Operating Model.md` + `01_Canon/18 - Franchise and Partner Portfolio.md` |
+| `19_…/03_PRODUCTS` | `02_Offers/01–04/04 - Product Record.md` |
+| `19_…/04_ECOSYSTEM` | `01_Canon/06`, `08`, `15` |
+| `19_…/05_STRATEGY` | `03_Strategy/` |
+| `19_…/06_FINANCE` | `06_Finance/` |
+| `19_…/07_OPERATIONS` | `08_Operations/` + `07_Legal_and_Compliance/` |
+| `19_…/08_DATA_AI` | `09_Data_and_AI/` |
+| `19_…/09_ROADMAP` | `01_Canon/16`, `17` + `03_Strategy/Roadmap and Validation Experiments.md` |
+| `19_…/10_INVESTOR_DILIGENCE` | `05_Pitch_and_Investor/` |
+| `19_…/11_TEMPLATES` | `99_Templates/Record Templates.md` |
+| `19_…/12_INVESTOR_TWO_PAGERS` | the matching `02_Offers/0X_…/07 - Investor Two-Pager.md` |
+| `19_…/00_HOME/README`, `MASTER_INDEX` | `98_Archive/Superseded Canon/` |
+
+### Other folder moves
+
+| Was | Now |
+|---|---|
+| `00_Index/` | `00_Start_Here/` |
+| `01_Strategy/` | `03_Strategy/` (+ `10_Brand_and_Web/`, `05_Pitch_and_Investor/`) |
+| `02_Business_Plan/` | `04_Business_Plan/` (+ `06_Finance/`) |
+| `03_Pitch/` | `05_Pitch_and_Investor/` |
+| `04_Product/BluePrint/` | `02_Offers/01_BluePrint/` |
+| `04_Product/` loose files | `02_Offers/01_BluePrint/`, `09_Data_and_AI/`, `10_Brand_and_Web/`, `12_Handoffs/`, `98_Archive/` |
+| `05_Franchise_Package/` | `02_Offers/05_Dproperty_Franchise/` + `08_Operations/` + `07_Legal_and_Compliance/` + `10_Brand_and_Web/` + `02_Offers/04_Academy/` |
+| `06_Legal/` | `07_Legal_and_Compliance/` + each offer's `06 - Legal.md` |
+| `07_Finance/` | `06_Finance/` + each offer's `05 - Economics.md` |
+| `08_Research/` | `13_Research/` |
+| `09_Exports/` | `98_Archive/Exports/` |
+| `10_Templates/` | `99_Templates/` |
+| `11_Developer_Sales_OS/` | `02_Offers/07_Developer_Partnerships/` |
+| `12_Private_Collection/` | `02_Offers/08_Dproperty_Select/` |
+| `13_White_Label/` | `02_Offers/06_B_Partner/` |
+| `14_CRM_GoHighLevel/` | `02_Offers/02_BlankCRM/` |
+| `15_Brand_Assets_Index/` | `10_Brand_and_Web/` |
+| `16_Task_Management/` | `11_Execution/` (+ `98_Archive/Superseded Execution/`) |
+| `17_Handoff_Files/` | `12_Handoffs/` |
 
 ## 7. Precedence after the merge
 

@@ -12,9 +12,9 @@ tags: [roadmap, product, gtm, phases]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Pre-reset phased rollout.
 >
-> **Current instead:** [[../18_Ecosystem/16 - Roadmap and Governance]]
+> **Current instead:** [[../01_Canon/10 - Roadmap and Governance]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Phased Rollout — Product & Go-to-Market — Revised v2.0
 

@@ -11,9 +11,9 @@ tags: [session, pitch, ecosystem]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > July 2026 session record.
 >
-> **Current instead:** [[../AI Handoff Pack/07_Latest Session Closeout]]
+> **Current instead:** [[../../00_Start_Here/AI Handoff Pack/07_Latest Session Closeout]]
 >
-> Precedence: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Work Session Closeout — 2026-07-14
 
@@ -29,31 +29,31 @@ We built the **content layer** of the pitch and reframed the whole venture. Fran
 
 | File | Type | Version | Status | Obsidian Path | Next Action |
 |---|---|---:|---|---|---|
-| Pitch Deck Outline | Pitch content | 1.0 | Structured Draft | `03_Pitch/Pitch Deck Outline.md` | Resolve flags → design |
-| Ecosystem Deck Outline (Deck 2) | Pitch content | 0.5 | Structured Draft | `03_Pitch/Ecosystem Deck Outline.md` | Build Phase-2 model |
-| Business Model Overview | Strategy | — | Updated | `01_Strategy/Business Model Overview.md` | — |
-| Strategic Thesis | Strategy | — | Updated | `01_Strategy/Strategic Thesis.md` | — |
-| Moat and Positioning | Strategy | — | Updated | `01_Strategy/Moat and Positioning.md` | — |
-| Franchise Strategy | Strategy | — | Updated | `01_Strategy/Franchise Strategy.md` | — |
-| Ecosystem Workflow | Strategy | — | Updated (disambiguation) | `01_Strategy/Ecosystem Workflow.md` | — |
-| Dproperty OS Business Plan | Business plan | 0.9 | Updated (§20) | `02_Business_Plan/Dproperty OS Business Plan.md` | Validate 12–15 |
-| Conservative 5-Year Plan | Business plan | — | Updated | `02_Business_Plan/Conservative 5-Year Plan.md` | — |
-| Financial Model Summary | Finance | 0.5 | Updated | `07_Finance/Financial Model Summary.md` | Build Phase-2 model |
-| Legal Architecture | Legal | — | Updated | `06_Legal/Legal Architecture.md` | — |
-| Research Backlog | Research | — | Updated | `08_Research/Research Backlog.md` | — |
-| Decision Log | Handoff | — | Updated (+5) | `00_Index/AI Handoff Pack/02_Decision Log.md` | — |
-| Open Questions | Handoff | — | Updated | `00_Index/AI Handoff Pack/03_Open Questions.md` | — |
-| Current Priorities | Handoff | — | Updated | `00_Index/AI Handoff Pack/05_Current Priorities.md` | — |
-| Vault Manifest | Handoff | — | Updated | `00_Index/AI Handoff Pack/04_Vault Manifest.md` | — |
-| Latest Session Closeout | Handoff | — | Replaced | `00_Index/AI Handoff Pack/07_Latest Session Closeout.md` | — |
-| Deliverables Tracker - Compact MD | Tracker | — | Updated | `16_Task_Management/…` + `00_Index/AI Handoff Pack/06_…` | — |
+| Pitch Deck Outline | Pitch content | 1.0 | Structured Draft | `05_Pitch_and_Investor/Pitch Deck Outline.md` | Resolve flags → design |
+| Ecosystem Deck Outline (Deck 2) | Pitch content | 0.5 | Structured Draft | `98_Archive/Superseded Pitch/Ecosystem Deck Outline.md` | Build Phase-2 model |
+| Business Model Overview | Strategy | — | Updated | `03_Strategy/Business Model Overview.md` | — |
+| Strategic Thesis | Strategy | — | Updated | `03_Strategy/Strategic Thesis.md` | — |
+| Moat and Positioning | Strategy | — | Updated | `03_Strategy/Moat and Positioning.md` | — |
+| Franchise Strategy | Strategy | — | Updated | `03_Strategy/Franchise Strategy.md` | — |
+| Ecosystem Workflow | Strategy | — | Updated (disambiguation) | `98_Archive/Superseded Strategy/Ecosystem Workflow.md` | — |
+| Dproperty OS Business Plan | Business plan | 0.9 | Updated (§20) | `98_Archive/Superseded Business Plan/Dproperty OS Business Plan.md` | Validate 12–15 |
+| Conservative 5-Year Plan | Business plan | — | Updated | `98_Archive/Superseded Business Plan/Conservative 5-Year Plan.md` | — |
+| Financial Model Summary | Finance | 0.5 | Updated | `06_Finance/Financial Model Summary.md` | Build Phase-2 model |
+| Legal Architecture | Legal | — | Updated | `07_Legal_and_Compliance/Legal Architecture.md` | — |
+| Research Backlog | Research | — | Updated | `13_Research/Research Backlog.md` | — |
+| Decision Log | Handoff | — | Updated (+5) | `00_Start_Here/AI Handoff Pack/02_Decision Log.md` | — |
+| Open Questions | Handoff | — | Updated | `00_Start_Here/AI Handoff Pack/03_Open Questions.md` | — |
+| Current Priorities | Handoff | — | Updated | `00_Start_Here/AI Handoff Pack/05_Current Priorities.md` | — |
+| Vault Manifest | Handoff | — | Updated | `00_Start_Here/AI Handoff Pack/04_Vault Manifest.md` | — |
+| Latest Session Closeout | Handoff | — | Replaced | `00_Start_Here/AI Handoff Pack/07_Latest Session Closeout.md` | — |
+| Deliverables Tracker - Compact MD | Tracker | — | Updated | `11_Execution/…` + `00_Start_Here/AI Handoff Pack/06_…` | — |
 
 ## 3. Decisions Made
 1. **Ecosystem vision is the north star; franchising is Phase 1.**
 2. **Two-deck strategy** (Deck 1 franchise / Deck 2 ecosystem).
 3. **Pitch deck restructured to open on the vision** (v0.5 → v1.0, 17 slides).
 4. **Moat stated honestly** (defensible advantages vs. good-ops; hub network effect = durable moat).
-(Full text in [[../AI Handoff Pack/02_Decision Log|Decision Log]].)
+(Full text in [[../../00_Start_Here/AI Handoff Pack/02_Decision Log|Decision Log]].)
 
 ## 4. Open Questions Raised
 - Deck 2 audience (external vs internal north-star)? First hub city? Lease/own/partner? Equity-fund structure? EBITDA threshold for Phase 3? Phase-2 P&L?
@@ -61,13 +61,13 @@ We built the **content layer** of the pitch and reframed the whole venture. Fran
 - Pitch flags: currency ($ vs €30k), equity (35/35/15/15 final?), Simón contribution, track-record numbers, Miguel salary, royalty floor.
 
 ## 5. Next Session
-- **Open first:** [[../AI Handoff Pack/03_Open Questions|Open Questions]] to resolve pitch flags.
-- **Then:** [[../../03_Pitch/Pitch Deck Outline|Pitch Deck Outline]] for the branding/design handoff.
+- **Open first:** [[../../00_Start_Here/AI Handoff Pack/03_Open Questions|Open Questions]] to resolve pitch flags.
+- **Then:** [[../../05_Pitch_and_Investor/Pitch Deck Outline|Pitch Deck Outline]] for the branding/design handoff.
 - **Also queue:** Phase-2 (ecosystem) financial model.
 - **Workstream/chat:** "Dproperty OS - Business Plan & Pitch Deck" for design; "Finance & Unit Economics" for the Phase-2 model.
 
 ## 6. Housekeeping — DONE
-The `00_Index/` duplicate copies (Decision Log, Open Questions, Current Priorities, Vault Manifest) were **synced** to merged canonical versions — each `00_Index/` file and its `AI Handoff Pack/` twin are now **identical**. Note: the merge recovered the 2026-07-02→07-05 decisions (Select rename, pricing restructure, commission waterfall) that the Handoff Pack copies had been missing.
+The `00_Start_Here/` duplicate copies (Decision Log, Open Questions, Current Priorities, Vault Manifest) were **synced** to merged canonical versions — each `00_Start_Here/` file and its `AI Handoff Pack/` twin are now **identical**. Note: the merge recovered the 2026-07-02→07-05 decisions (Select rename, pricing restructure, commission waterfall) that the Handoff Pack copies had been missing.
 
 ## 7. Additional Decisions Logged (2026-07-14, continuation)
 - **Currency = USD** everywhere (launch fee $30k/$40k).

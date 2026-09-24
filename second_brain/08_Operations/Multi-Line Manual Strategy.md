@@ -15,7 +15,7 @@ tags: [franchise, white-label, developer-sales, manuals, architecture]
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Multi-Line Manual Strategy
 
@@ -62,20 +62,20 @@ M1 Onboarding · M2 Operations · M3 Launch · M4 Sales · M5 Compliance (+ M0 H
 Governing rule: **the brand goes where there's investment potential; the system can go anywhere.** Overlay must specify:
 - **Brand neutrality:** client keeps their brand; Dproperty brand assets are *not* applied. Manuals delivered are un-branded/white-labeled.
 - **Dproperty Select access on external-partner-broker terms**; payout 1.5% (revised 2026-08-03 from 2.0%; the earlier blanket exclusion is retired).
-- **Pricing:** setup + monthly subscription (see [[White-Label Pricing]]), not a royalty-on-GCI model.
+- **Pricing:** setup + monthly subscription (see [[../02_Offers/06_B_Partner/03 - Offer and Pricing]]), not a royalty-on-GCI model.
 - **Contract differences:** licence to the *system*, not the brand; non-copy/non-compete considerations.
-- Inherits: Process Library, Compliance, Localization. Sources: [[White-Label OS Guide]], [[White-Label Onboarding]], [[White-Label Strategy]].
+- Inherits: Process Library, Compliance, Localization. Sources: [[../02_Offers/06_B_Partner/02A - Offer Guide]], [[../02_Offers/06_B_Partner/04 - Delivery and Onboarding]], [[../03_Strategy/B_ Partner Strategy]].
 
 ### 3.3 Developer Sales OS overlay `[to build]`
 - **Not a franchise.** Dproperty professionalizes a developer's project sales (train the team, pipeline discipline, CRM, reporting, network clients).
 - Uses mainly **Process 1 (Leads)** and **Process 2 (Preventa)** + a reporting layer; roles map to the **developer's** team + a Dproperty managing layer.
 - **Priced on gross sales value** (0.5% developer-team sales; 2.5–3% Dproperty-sourced) + optional managed-desk fee (Decision 2026-07-01).
-- Sources: [[Developer Sales OS Guide]], [[Developer Sales OS Strategy]], [[Developer Pricing Model]], [[Developer Deal Workflow]].
+- Sources: [[../02_Offers/07_Developer_Partnerships/02A - Program Guide]], [[../03_Strategy/Developer Partnerships Strategy]], [[../02_Offers/07_Developer_Partnerships/03 - Offer and Pricing]], [[../02_Offers/07_Developer_Partnerships/04 - Deal Workflow]].
 
 ## 4. Rule for building overlays
 1. Never copy the shared core into an overlay — **link** to it.
 2. An overlay only documents **deltas** (what changes) + line-specific processes.
-3. Deltas that touch pricing, Select, or brand must trace to the [[Decision Log]].
+3. Deltas that touch pricing, Select, or brand must trace to the [[../00_Start_Here/Decision Log]].
 
 ## 5. Status & sequence
 - Shared core: Process Library ✅, Compliance v0.5 ✅, Localization v0.5 ✅, Brand (draft), Role Map ✅.

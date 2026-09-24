@@ -7,14 +7,21 @@ version: 0.1
 owner: Esteban
 last_updated: 2026-07-14
 source: Session 2026-07-14 — equity growth + investor protection structure
-related: "[[Dproperty OS Business Plan]], [[Pitch Deck Outline]], [[02_Decision Log]]"
+related: "[[../98_Archive/Superseded Business Plan/Dproperty OS Business Plan]], [[../05_Pitch_and_Investor/Pitch Deck Outline]], [[../00_Start_Here/AI Handoff Pack/02_Decision Log]]"
 tags: [ownership, governance, equity, finance, legal]
 ---
+
+> [!WARNING] Stale figures — superseded 2026-09-23
+> This note still uses the **retired $650k / 24-month funding ask**. The canonical capital position is a **$950k capitalization envelope with an $800k 18-month operating plan, released in stages against evidence gates**.
+>
+> The modelled returns, ownership percentages and exit multiples below are derived from the old ask and are **not current investor guidance**. Kept as evidence of the earlier scenario work.
+>
+> Canon: [[../01_Canon/09 - Unit Economics Registry]] · [[../01_Canon/00 - Precedence and Canonical Reconciliation]]
 
 > [!NOTE] Verified against canon 2026-09-23
 > Current for review. Any capitalization figure must match the **$950k envelope**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Ownership & Investor Protection — Proposal One-Pager
 
@@ -75,4 +82,4 @@ Create a reserved **earn-in pool (illustrative: up to +10% combined, e.g. +5% Es
 5. Whether the earn-in dilutes both owners equally or pro-rata to contribution.
 6. Interaction with the JV entity structure (Dproperty × TheVelopers).
 
-**Status:** Draft v0.1 — proposal only. No cap-table change until owners agree and the lawyer papers it. Logged in [[02_Decision Log]] (2026-07-14 equity decision) and [[03_Open Questions]] (Ownership).
+**Status:** Draft v0.1 — proposal only. No cap-table change until owners agree and the lawyer papers it. Logged in [[../00_Start_Here/AI Handoff Pack/02_Decision Log]] (2026-07-14 equity decision) and [[../00_Start_Here/AI Handoff Pack/03_Open Questions]] (Ownership).

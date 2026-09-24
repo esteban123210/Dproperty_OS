@@ -12,7 +12,7 @@ tags: [workflow]
 > [!NOTE] Verified against canon 2026-09-23
 > Active workflow.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Weekly Review Workflow
 
@@ -20,10 +20,10 @@ Run this once per week.
 
 ## Open These Files
 
-1. [[../00_Index/Master Index]]
-2. [[../00_Index/Project Context Brief]]
-3. [[../00_Index/Decision Log]]
-4. [[../00_Index/Open Questions]]
+1. [[../00_Start_Here/Master Index]]
+2. [[../00_Start_Here/Project Context Brief]]
+3. [[../00_Start_Here/Decision Log]]
+4. [[../00_Start_Here/Open Questions]]
 5. [[Deliverables Tracker - Compact MD]]
 6. Excel Deliverables Tracker.
 

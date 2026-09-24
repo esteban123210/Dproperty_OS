@@ -14,9 +14,9 @@ tags: [strategy, dproperty-select]
 > This folder describes the **Dproperty Select** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
 >
 > **Canonical name:** Dproperty Select — “Private Collection” is a legacy alias.
-> A strategic asset, not a product. See [[../18_Ecosystem/06 - Dproperty Select]].
+> A strategic asset, not a product. See [[../02_Offers/08_Dproperty_Select/01 - Definition and Boundaries]].
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Dproperty Select Strategy (formerly Private Collection)
 

@@ -9,7 +9,7 @@ tags: [ecosystem, roadmap, governance]
 ---
 
 > [!IMPORTANT] Reconciled 2026-09-23
-> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
+> Precedence: [[00 - Precedence and Canonical Reconciliation]] controls this note.
 
 # Ecosystem Roadmap and Governance
 

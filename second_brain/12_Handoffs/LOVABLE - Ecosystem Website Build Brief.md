@@ -14,14 +14,14 @@ tags: [handoff, lovable, website, bilingual, production]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 > **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Do not rebuild the live site from this old brief without replacing franchise-first hierarchy with BluePrint / BlankCRM / VAULTED.  
-> Current source of truth: [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]]
+> Current source of truth: [[../10_Brand_and_Web/Web Presence and Funnel Architecture]]
 
 # BUILD BRIEF — B_RealEstate Ecosystem Website
 
-> **Live-site/naming update (2026-08-16):** B_RealEstate and BluePrint are the active names; https://bfranchising.com is live. This handoff remains production history. Before further build work, use [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16|the live-site audit]] and [[../18_Ecosystem/14 - Unit Economics Registry|the economics registry]] as the correction list.
+> **Live-site/naming update (2026-08-16):** B_RealEstate and BluePrint are the active names; https://bfranchising.com is live. This handoff remains production history. Before further build work, use [[../10_Brand_and_Web/Website Audit - bfranchising.com - 2026-08-16|the live-site audit]] and [[../01_Canon/09 - Unit Economics Registry|the economics registry]] as the correction list.
 
 **Paste this entire document into Lovable as the project brief.**
 

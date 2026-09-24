@@ -10,8 +10,8 @@ tags: [ecosystem, blueprint, management-os, backoffice, transaction-spine]
 
 # BluePrint
 
-> **Canonical product folder:** [[../04_Product/BluePrint/00 - README - Product Map|BluePrint Product Map]]
-> **Precedence:** [[18 - Canonical Reconciliation and Precedence]]
+> **Canonical product folder:** [[00 - README|BluePrint Product Map]]
+> **Precedence:** [[../../01_Canon/00 - Precedence and Canonical Reconciliation]]
 
 ## Product definition
 
@@ -58,7 +58,7 @@ It is designed for agencies whose founders are strong sellers but do not want to
 - escrow/custody, money movement, FX;
 - sales-agent prospecting workspace.
 
-> **The boundary in one line:** BluePrint owns *the deal as a governed management object*. It does not own *the property as inventory*. See [[18 - Canonical Reconciliation and Precedence]] §2.
+> **The boundary in one line:** BluePrint owns *the deal as a governed management object*. It does not own *the property as inventory*. See [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] §2.
 
 ## Product relationship to GHL
 
@@ -77,11 +77,11 @@ Salespeople primarily remain in CRM.
 
 ## Commercial hypothesis
 
-Priced per **organization/office**, not per agent seat. Canonical hypotheses: **Core $399/month · Growth $799/month · $1,500 setup**. Scale tier quoted, not yet defined. All unvalidated. See [[../04_Product/BluePrint/08 - Pricing and Packaging]] and [[18 - Canonical Reconciliation and Precedence]] §5.
+Priced per **organization/office**, not per agent seat. Canonical hypotheses: **Core $399/month · Growth $799/month · $1,500 setup**. Scale tier quoted, not yet defined. All unvalidated. See [[03 - Offer and Pricing]] and [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] §5.
 
 ## MVP gate
 
-One workflow must execute **from qualified intake through commission and management report with no shadow spreadsheet acting as the authority**. Five design partners, three paid conversions. See [[../04_Product/BluePrint/07 - MVP and Validation Plan]].
+One workflow must execute **from qualified intake through commission and management report with no shadow spreadsheet acting as the authority**. Five design partners, three paid conversions. See [[15 - MVP and Validation Plan]].
 
 ## Role in the ecosystem
 

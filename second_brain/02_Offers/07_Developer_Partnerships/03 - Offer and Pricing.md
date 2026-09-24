@@ -13,12 +13,12 @@ tags: [developer-sales]
 > This folder describes the **Developer Partnerships** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
 >
 > **Canonical name:** Developer Partnerships — “Developer Sales OS” is a legacy alias.
-> BluePrint does **not** own developer project/unit inventory or reservation execution. Fee bases (~0.5% team-managed, ~2.5–3% network-sourced, $3k–$5k managed desk) are legacy hypotheses. See [[../18_Ecosystem/09 - Developer Sales Partner]].
+> BluePrint does **not** own developer project/unit inventory or reservation execution. Fee bases (~0.5% team-managed, ~2.5–3% network-sourced, $3k–$5k managed desk) are legacy hypotheses. See [[01 - Definition and Boundaries]].
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 > **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Developer fee bases remain historical hypotheses until reconciled.  
-> Current source of truth: [[../18_Ecosystem/09 - Developer Sales Partner]] and [[../18_Ecosystem/14 - Unit Economics Registry]]
+> Current source of truth: [[01 - Definition and Boundaries]] and [[../../01_Canon/09 - Unit Economics Registry]]
 
 # Developer Pricing Model
 

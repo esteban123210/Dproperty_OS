@@ -12,9 +12,9 @@ tags: [tasks]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > July 2026 sprint.
 >
-> **Current instead:** [[../00_Index/Current Priorities]]
+> **Current instead:** [[../00_Start_Here/Current Priorities]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Current Sprint
 

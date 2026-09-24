@@ -12,9 +12,9 @@ tags: [business-plan]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Franchise-rollout roadmap predating the product-led reset.
 >
-> **Current instead:** [[../18_Ecosystem/16 - Roadmap and Governance]] and [[../19_Canonical_B_RealEstate/09_ROADMAP/ROADMAP_AND_VALIDATION_EXPERIMENTS]]
+> **Current instead:** [[../01_Canon/10 - Roadmap and Governance]] and [[../03_Strategy/Roadmap and Validation Experiments]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Roadmap and Milestones
 

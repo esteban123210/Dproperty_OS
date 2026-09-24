@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Franchise Operations Manual (M2)"
 target_output: "Printable book (PDF)"
 target_tool: "Markdown-to-PDF book generator or AI document tool"
-source_notes: ["05_Franchise_Package/Operations/Operations Manual.md", "Process Library 01–07"]
+source_notes: ["08_Operations/Operations Manual.md", "Process Library 01–07"]
 version: 0.5
 status: Ready to generate (tracks M2 v0.5)
 owner: Esteban
@@ -16,7 +16,7 @@ tags: [handoff, production, operations, manual]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # HANDOFF — Franchise Operations Manual (M2)
 
@@ -42,7 +42,7 @@ tags: [handoff, production, operations, manual]
 | Logo | Cover, header | Drive/Brand | need |
 | Brand color hex + fonts | Whole book | Brand kit | need |
 | Process flow diagrams (optional) | Visualize each process | Generate from tables | optional |
-| Market pack values `[local]` | Resolve amounts/thresholds | [[Localization Framework]] | partial |
+| Market pack values `[local]` | Resolve amounts/thresholds | [[../08_Operations/Localization Framework]] | partial |
 
 ## 3. Tool Instructions (the prompt)
 > "Generate a **print-ready PDF operations manual** from the Markdown in *Section 4*. Requirements: (1) cover with logo + title *Franchise Operations Manual* + subtitle *For the Dproperty Principal*; (2) a **detailed multi-level TOC**; (3) premium structured typography per *Section 1*; (4) render all flow and RACI tables cleanly, avoiding mid-row page breaks; (5) start each of the seven process chapters on a new page; (6) style the **commission-layer firewall** as a prominent boxed callout; (7) optionally render a simple flow diagram per process from its step table; (8) running headers + page numbers; (9) US-Letter + A4. Use only the provided content; keep `[local]` tags visible."
@@ -127,9 +127,9 @@ Versioned; changes via HQ + Decision Log. `[local]` values from the market pack;
 - [ ] All flow + RACI tables render cleanly.
 - [ ] Firewall callout prominent in Ch. 7 and §5.
 - [ ] `[local]` tags visible (or resolved for a market edition).
-- [ ] Content matches source ([[Operations Manual]] M2 v0.5 + Process Library) — no invented material.
+- [ ] Content matches source ([[../08_Operations/Operations Manual]] M2 v0.5 + Process Library) — no invented material.
 - [ ] US-Letter + A4 exported.
 
 ## 6. Source & Change Log
-- **Source:** [[Operations Manual]] (M2 v0.5) + Process Library [[01 - Leads]]–[[07 - Commissions]].
+- **Source:** [[../08_Operations/Operations Manual]] (M2 v0.5) + Process Library [[../08_Operations/Process Library/01 - Leads]]–[[../08_Operations/Process Library/07 - Commissions]].
 - **Change log:** 0.5 (2026-07-21) — created from M2 v0.5 with inlined process appendix.

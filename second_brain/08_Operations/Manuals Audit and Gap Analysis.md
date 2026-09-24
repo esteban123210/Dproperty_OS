@@ -15,7 +15,7 @@ tags: [franchise, manuals, audit, gap-analysis, compliance, localization]
 > **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
 > This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Manuals Audit & Gap Analysis
 
@@ -23,7 +23,7 @@ tags: [franchise, manuals, audit, gap-analysis, compliance, localization]
 
 ## 1. Executive verdict
 
-**Where we are:** a strong *architecture* and one genuinely strong asset (the abstracted [[00 - Process Library Index|Process Library]]), sitting on top of manuals that are — with one exception — **thin 2026-07-01 skeletons**. The one detailed manual (First Franchisee Launch Playbook) is rich but **violates our own standards** (names, EUR, Panama-hardcoded).
+**Where we are:** a strong *architecture* and one genuinely strong asset (the abstracted [[Process Library/00 - Process Library Index|Process Library]]), sitting on top of manuals that are — with one exception — **thin 2026-07-01 skeletons**. The one detailed manual (First Franchisee Launch Playbook) is rich but **violates our own standards** (names, EUR, Panama-hardcoded).
 
 **Multinational-hub readiness: ~30%.** We can brief an investor and onboard *one Panama franchisee with heavy HQ hand-holding*. We **cannot** yet drop this package into a second country or hand it to a white-label client without material legal and operational risk. The two gates are **compliance depth** and a **localization framework** — both currently near-absent.
 
@@ -44,14 +44,14 @@ tags: [franchise, manuals, audit, gap-analysis, compliance, localization]
 | ID | Manual | File | Maturity | One-line verdict |
 |---|---|---|---|---|
 | M0 | HQ / Franchisor Ops | (not started) | ⬜ | Deferred — but it's the backbone of cross-office consistency; risk grows with each new market |
-| M1 | Franchise Onboarding | [[Franchise Onboarding PDF]] | 🟡 Draft | Good narrative skeleton; restates pricing (drift risk); no localization |
+| M1 | Franchise Onboarding | [[../02_Offers/05_Dproperty_Franchise/04 - Onboarding]] | 🟡 Draft | Good narrative skeleton; restates pricing (drift risk); no localization |
 | M2 | Franchise Operations Manual | [[Operations Manual]] | 🔴 Skeleton | 60 lines of generic routines; **not yet built on the Process Library** — its biggest missed opportunity |
-| M3 | Launch Plan | [[30-60-90 Day Franchise Launch Plan]] + [[First Franchisee Launch Playbook]] | 🟡 Mixed | 30-60-90 is thin; the 12-week Playbook is detailed **but violates standards** (see §3) |
-| M4 | Sales Playbook | [[Sales Playbook]] | 🟢 v0.5 | **Rebuilt today** on the Process Library; role-agnostic, USD, multi-market aware |
-| M5 | Compliance Manual | [[Compliance Package]] | 🔴 Skeleton | **Dangerously thin for cross-border real estate** — highest-risk gap (see §4) |
-| — | Brand Manual | [[Brand Manual]] | 🟡 Draft | Voice is clear; visual system is a "to build" list; no multilingual/market-adaptation rules |
-| — | Training Academy | [[Training Academy Outline]] | 🔴 Outline | Module list only; no assessment rigor, recertification, or localization |
-| — | Welcome Kit | [[Welcome Kit Checklist]] | 🟡 OK | Fine for purpose; low risk |
+| M3 | Launch Plan | [[../02_Offers/05_Dproperty_Franchise/04A - 30-60-90 Day Launch Plan]] + [[../02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook]] | 🟡 Mixed | 30-60-90 is thin; the 12-week Playbook is detailed **but violates standards** (see §3) |
+| M4 | Sales Playbook | [[../02_Offers/05_Dproperty_Franchise/04D - Sales Playbook]] | 🟢 v0.5 | **Rebuilt today** on the Process Library; role-agnostic, USD, multi-market aware |
+| M5 | Compliance Manual | [[../07_Legal_and_Compliance/Compliance Package]] | 🔴 Skeleton | **Dangerously thin for cross-border real estate** — highest-risk gap (see §4) |
+| — | Brand Manual | [[../10_Brand_and_Web/Brand Manual]] | 🟡 Draft | Voice is clear; visual system is a "to build" list; no multilingual/market-adaptation rules |
+| — | Training Academy | [[../02_Offers/04_Academy/03 - Curriculum Outline]] | 🔴 Outline | Module list only; no assessment rigor, recertification, or localization |
+| — | Welcome Kit | [[../02_Offers/05_Dproperty_Franchise/04E - Welcome Kit Checklist]] | 🟡 OK | Fine for purpose; low risk |
 
 ## 3. Standards violations (fix before anything ships)
 
@@ -59,11 +59,11 @@ Per Decision 2026-07-21 (roles-never-names) and the USD standard:
 
 | Where | Violation | Fix |
 |---|---|---|
-| [[First Franchisee Launch Playbook]] | Personal names throughout ("Esteban", "Miguel", "witness") | Replace with roles (HQ Lead / Venture Lead → **PRIN/HQ**, Tech → **BI/OC**) |
-| [[First Franchisee Launch Playbook]] | **Currency in EUR** (€10k, €300k, €4,125) + a stray "$750" | Restate all in **USD**; reference the Pricing Model, don't hardcode |
-| [[First Franchisee Launch Playbook]] | Panama/2026 calendar hardcoded (Sept 16–Dec 8) | Convert to **relative weeks (Week 1–12)**; dates are a launch-instance variable |
-| [[First Franchisee Launch Playbook]] §5 | **Commission math is wrong/inconsistent**: labels franchise-net as "gross commission," then subtracts HQ fees again (double count); royalty figures (~€250/€750/€1,250) don't match 7.5% on gross-into-company | Rebuild from the [[07 - Commissions]] firewall + Decision Log waterfall |
-| Onboarding, Launch, others | Pricing figures **restated inline** (drift risk) | Reference [[Pricing Model]] / Decision Log as single source |
+| [[../02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook]] | Personal names throughout ("Esteban", "Miguel", "witness") | Replace with roles (HQ Lead / Venture Lead → **PRIN/HQ**, Tech → **BI/OC**) |
+| [[../02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook]] | **Currency in EUR** (€10k, €300k, €4,125) + a stray "$750" | Restate all in **USD**; reference the Pricing Model, don't hardcode |
+| [[../02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook]] | Panama/2026 calendar hardcoded (Sept 16–Dec 8) | Convert to **relative weeks (Week 1–12)**; dates are a launch-instance variable |
+| [[../02_Offers/05_Dproperty_Franchise/04B - First Franchisee Launch Playbook]] §5 | **Commission math is wrong/inconsistent**: labels franchise-net as "gross commission," then subtracts HQ fees again (double count); royalty figures (~€250/€750/€1,250) don't match 7.5% on gross-into-company | Rebuild from the [[Process Library/07 - Commissions]] firewall + Decision Log waterfall |
+| Onboarding, Launch, others | Pricing figures **restated inline** (drift risk) | Reference [[../06_Finance/Pricing Model]] / Decision Log as single source |
 
 ## 4. Systemic gaps for a multinational hub (the real work)
 
@@ -83,10 +83,10 @@ Current M5 is a list of "don'ts." A cross-border real-estate franchise needs rea
 - **Data privacy:** GDPR + local (Panama Law 81, Colombia 1581) — the CRM holds PII cross-border.
 - **Advertising/consumer protection & no-guaranteed-returns** (already hinted — needs teeth).
 - **Anti-bribery** (developer relationships), **fair-housing/anti-discrimination**, **PI/E&O insurance** minimums.
-- Ties to Open Questions (jurisdiction, disclosure docs) in [[Open Questions]].
+- Ties to Open Questions (jurisdiction, disclosure docs) in [[../00_Start_Here/Open Questions]].
 
 ### 4.3 🔴 Multi-line coverage
-The package is **branded-franchise-only**. The hub sells three lines. Decide the model: a **shared core** (Process Library + Compliance + Brand) with **line-specific overlays** for [[White-Label OS Guide|white-label]] and [[Developer Sales OS Guide|developer sales]]. Today those lines have strategy notes but no manuals.
+The package is **branded-franchise-only**. The hub sells three lines. Decide the model: a **shared core** (Process Library + Compliance + Brand) with **line-specific overlays** for [[../02_Offers/06_B_Partner/02A - Offer Guide|white-label]] and [[../02_Offers/07_Developer_Partnerships/02A - Program Guide|developer sales]]. Today those lines have strategy notes but no manuals.
 
 ### 4.4 🟡 Build M2 on the Process Library
 The Franchise Operations Manual should *be* the owner-facing assembly of Processes 1–7 plus people/finance/reporting — not a separate generic list. Right now it duplicates nothing useful and references the Library not at all.

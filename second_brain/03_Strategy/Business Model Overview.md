@@ -8,10 +8,15 @@ last_updated: 2026-09-20
 tags: [strategy, business-model]
 ---
 
+> [!WARNING] Stale figures — superseded 2026-09-23
+> This note uses **retired BluePrint pricing**. Canonical pricing is **Core $399/mo · Growth $799/mo · $1,500 setup**, per organization/office. The $299/$599/$999 ladder is retired.
+>
+> Canon: [[../01_Canon/04 - Offer Portfolio Map]] · [[../02_Offers/01_BluePrint/03 - Offer and Pricing]]
+
 > [!NOTE] Verified against canon 2026-09-23
 > Consistent with canon. Products: BluePrint · BlankCRM · VAULTED · Academy. Channels: Direct SaaS · B_ Partner · Dproperty Franchise · Developer Partnerships.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # Business Model Overview
 

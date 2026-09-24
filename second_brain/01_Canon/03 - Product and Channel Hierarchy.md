@@ -9,7 +9,7 @@ tags: [ecosystem, products, channels, hierarchy]
 ---
 
 > [!IMPORTANT] Reconciled 2026-09-23
-> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
+> Precedence: [[00 - Precedence and Canonical Reconciliation]] controls this note.
 
 # Product and Channel Hierarchy
 
@@ -44,4 +44,4 @@ Never present all boxes as equal businesses. The hierarchy is:
 
 ## Reconciliation note
 
-See [[18 - Canonical Reconciliation and Precedence]]. `19_Canonical_B_RealEstate` lists **Building Blocks** as a fourth product; that is a legacy alias for **Academy**, which remains a bundled enablement layer and not a headline standalone business.
+See [[00 - Precedence and Canonical Reconciliation]]. `19_Canonical_B_RealEstate` lists **Building Blocks** as a fourth product; that is a legacy alias for **Academy**, which remains a bundled enablement layer and not a headline standalone business.

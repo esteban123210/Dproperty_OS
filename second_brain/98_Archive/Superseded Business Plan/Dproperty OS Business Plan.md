@@ -14,13 +14,13 @@ tags: [business-plan]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > The “Dproperty OS & Network” franchise-first plan. Even its name is legacy — the platform is **BluePrint**.
 >
-> **Current instead:** [[../19_Canonical_B_RealEstate/01_COMPANY/B_RealEstate_Master_Business_Plan_2026]]
+> **Current instead:** [[../../04_Business_Plan/B_RealEstate Master Business Plan 2026]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
 > This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[B_ Business Model Reset - 2026-09-20]]
+> Current source: [[../../04_Business_Plan/B_ Business Model Reset - 2026-09-20]]
 
 # Dproperty OS & Network — Business Plan
 
@@ -254,7 +254,7 @@ Create inter-franchise referrals, shared developer inventory, Dproperty Select e
 
 ## 13. Five-year financial projection **[MODEL v0.7 — commission waterfall, new pricing]**
 
-> Source: `09_Exports/Dproperty_OS_Financial_Model.xlsx v0.7` (built 2026-07-05). Revenue
+> Source: `98_Archive/Exports/Dproperty_OS_Financial_Model.xlsx v0.7` (built 2026-07-05). Revenue
 > is formula-driven off the Assumptions sheet. **OPEX rows are editable planning estimates**
 > (not yet owner-validated), so EBITDA below is indicative.
 
@@ -346,7 +346,7 @@ This plan describes **Phase 1: the franchise system**. This session established 
 
 **Phased build:** (1) Franchise system Yr 0–5 → (2) Digital community Yr 2–5 → (3) First physical hub Yr 5–8 (city/capex TBD; franchise EBITDA + external capital partner) → (4) Network of hubs Yr 8–15.
 
-**Companion decks:** [[Pitch Deck Outline]] (Deck 1 — franchise, investable now) opens and closes on this vision; [[Ecosystem Deck Outline]] (Deck 2 — full ecosystem, north-star / future raise). **Deck 2 is not raise-ready until a Phase-2 P&L, hub capex, and location are defined** (see new Validation items below).
+**Companion decks:** [[../../05_Pitch_and_Investor/Pitch Deck Outline]] (Deck 1 — franchise, investable now) opens and closes on this vision; [[../Superseded Pitch/Ecosystem Deck Outline]] (Deck 2 — full ecosystem, north-star / future raise). **Deck 2 is not raise-ready until a Phase-2 P&L, hub capex, and location are defined** (see new Validation items below).
 
 **Validation Register additions:**
 | # | Item | Owner | Blocks |

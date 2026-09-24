@@ -9,7 +9,7 @@ tags: [ai-handoff, strategy, source-of-truth]
 ---
 
 > [!IMPORTANT] Precedence
-> [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls the vault. It merges the `18_Ecosystem` canon (2026-09-20) with the `19_Canonical_B_RealEstate` baseline (2026-09-23).
+> [[../01_Canon/00 - Precedence and Canonical Reconciliation]] controls the vault. It merges the `18_Ecosystem` canon (2026-09-20) with the `19_Canonical_B_RealEstate` baseline (2026-09-23).
 
 # B_RealEstate — Current Context Brief
 
@@ -98,4 +98,4 @@ Prototype BluePrint → Dproperty pilot → external design partners → paying 
 
 ## 12. Canonical sources
 
-[[../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] · [[../18_Ecosystem/README]] · [[../18_Ecosystem/17 - Product and Channel Hierarchy]] · [[../04_Product/BluePrint/00 - README - Product Map]] · [[../19_Canonical_B_RealEstate/00_HOME/README]] · [[Decision Log]] · [[Open Questions]]
+[[../01_Canon/00 - Precedence and Canonical Reconciliation]] · [[../01_Canon/README]] · [[../01_Canon/03 - Product and Channel Hierarchy]] · [[../02_Offers/01_BluePrint/00 - README]] · [[../98_Archive/Superseded Canon/19_Canonical README]] · [[Decision Log]] · [[Open Questions]]

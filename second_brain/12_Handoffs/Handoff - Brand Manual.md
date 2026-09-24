@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Brand Manual"
 target_output: "Printable brand book (PDF) + brand kit"
 target_tool: "Design tool (Canva/Adobe InDesign) or AI document/design tool"
-source_notes: ["05_Franchise_Package/Brand/Brand Manual.md", "04_Product/Public Site Wireframe.md (visual direction)"]
+source_notes: ["10_Brand_and_Web/Brand Manual.md", "10_Brand_and_Web/Public Site Wireframe.md (visual direction)"]
 version: 0.5
 status: Ready to generate (visual system defined; logo/type files pending)
 owner: Esteban
@@ -16,7 +16,7 @@ tags: [handoff, production, brand]
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # HANDOFF — Brand Manual
 
@@ -59,7 +59,7 @@ tags: [handoff, production, brand]
 **Typography:** editorial serif headlines; clean sans body; scale + usage rules.
 **Visual identity sections to build:** logo usage · spacing · minimum size · monochrome · typography · color palette · photography style · icon style · presentation style · document style · social media style · office experience · welcome kit.
 **Client-experience principles:** make the client feel guided · make complexity feel organized · never overpromise · use data carefully · protect trust · present projects with quality, not volume.
-**Multi-market/brand rules (add):** how the brand adapts across ES/EN and markets; white-label contexts use the *system* without Dproperty brand (see [[Multi-Line Manual Strategy]]).
+**Multi-market/brand rules (add):** how the brand adapts across ES/EN and markets; white-label contexts use the *system* without Dproperty brand (see [[../08_Operations/Multi-Line Manual Strategy]]).
 
 ## 5. Build & QA Checklist
 - [ ] Exact hex values shown + tokens exported.
@@ -70,5 +70,5 @@ tags: [handoff, production, brand]
 - [ ] US-Letter + A4 + brand-at-a-glance one-pager.
 
 ## 6. Source & Change Log
-- **Source:** [[Brand Manual]] + visual direction from [[Public Site Wireframe]].
+- **Source:** [[../10_Brand_and_Web/Brand Manual]] + visual direction from [[../10_Brand_and_Web/Public Site Wireframe]].
 - **Change log:** 0.5 (2026-07-21) — handoff created; visual system (hex + type) captured from the site spec. *Core gap: produce logo pack + choose fonts.*

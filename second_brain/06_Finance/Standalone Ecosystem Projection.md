@@ -1,9 +1,16 @@
-> [!IMPORTANT] Reconciled 2026-09-23 — read the precedence note first
-> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|18 - Canonical Reconciliation and Precedence]] controls the vault. This folder is **one of three canonical layers**, not the sole authority:
+> [!WARNING] Stale figures — superseded 2026-09-23
+> This note carries **retired figures**: the $650k funding ask and/or pre-reconciliation BluePrint pricing, and it may use the legacy product name **"Building Blocks"** (now **Academy**).
 >
-> - `18_Ecosystem/` — what the company **is**
-> - `04_Product/BluePrint/` — what the product **is**
-> - `19_Canonical_B_RealEstate/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
+> Canonical: capital **$950k / $800k staged** · BluePrint **$399 / $799 + $1,500 setup** per organization. Numbers below are earlier scenario work, **not current guidance**.
+>
+> Canon: [[../01_Canon/09 - Unit Economics Registry]] · [[../01_Canon/04 - Offer Portfolio Map]]
+
+> [!IMPORTANT] Reconciled 2026-09-23 — read the precedence note first
+> [[../01_Canon/00 - Precedence and Canonical Reconciliation|18 - Canonical Reconciliation and Precedence]] controls the vault. This folder is **one of three canonical layers**, not the sole authority:
+>
+> - `01_Canon/` — what the company **is**
+> - `02_Offers/01_BluePrint/` — what the product **is**
+> - `01_Canon/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
 >
 > **Naming corrections that override this folder:** **Academy** (not *Building Blocks*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >

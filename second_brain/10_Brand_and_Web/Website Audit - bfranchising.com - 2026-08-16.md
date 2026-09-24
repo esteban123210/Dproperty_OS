@@ -14,7 +14,7 @@ tags: [ecosystem, website, audit]
 >
 > Its P0 corrections **still stand**: name the product BluePrint · disclose that BlankCRM is powered by GoHighLevel · remove “one database” language · reconcile all economics · remove DpropertyLiving · correct Dproperty Select governance · verify lead capture.
 >
-> **Current instead:** [[11 - Web Presence and Funnel Architecture]] · [[18 - Canonical Reconciliation and Precedence]]
+> **Current instead:** [[Web Presence and Funnel Architecture]] · [[../01_Canon/00 - Precedence and Canonical Reconciliation]]
 
 # Website Audit — bfranchising.com — 2026-08-16
 
@@ -55,11 +55,11 @@ The site says the five pieces share one database. The target architecture is a c
 
 ### 4. Reconcile all economics
 
-The live branded, white-label and developer figures conflict with the Decision Log and financial model. Do not leave competing numbers online. See [[14 - Unit Economics Registry]].
+The live branded, white-label and developer figures conflict with the Decision Log and financial model. Do not leave competing numbers online. See [[../01_Canon/09 - Unit Economics Registry]].
 
 ### 5. Resolve DpropertyLiving
 
-The site introduces DpropertyLiving as both a brand side and a fourth entry route, while the canonical model has three commercial doors and an investment-only Dproperty. Either approve and document it or remove it from the ecosystem/entry model until defined. See [[10 - DpropertyLiving]].
+The site introduces DpropertyLiving as both a brand side and a fourth entry route, while the canonical model has three commercial doors and an investment-only Dproperty. Either approve and document it or remove it from the ecosystem/entry model until defined. See [[../98_Archive/Parked/DpropertyLiving - Parked]].
 
 ### 6. Correct Dproperty Select governance
 

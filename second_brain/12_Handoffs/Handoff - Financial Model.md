@@ -5,7 +5,7 @@ type: handoff
 deliverable: "Financial Model (Phase 1 franchise)"
 target_output: "Spreadsheet (.xlsx / Google Sheets)"
 target_tool: "Excel / Google Sheets (or an AI that builds formula-driven models)"
-source_notes: ["07_Finance/Financial Model Summary.md", "00_Index/Decision Log.md (waterfall, pricing)", "03_Pitch/Pitch Deck Outline.md (S14–S15)"]
+source_notes: ["06_Finance/Financial Model Summary.md", "00_Start_Here/Decision Log.md (waterfall, pricing)", "05_Pitch_and_Investor/Pitch Deck Outline.md (S14–S15)"]
 version: 0.7
 status: Model exists (v0.7); handoff documents its logic for rebuild/extension. Phase-2 NOT built.
 owner: Esteban
@@ -13,14 +13,21 @@ last_updated: 2026-07-21
 tags: [handoff, production, finance, model]
 ---
 
+> [!WARNING] Do not produce from this file yet — superseded 2026-09-23
+> This handoff predates the 2026-09-23 canonical reconciliation. It carries the **retired $650k / 24-month ask**, and may carry the pre-reconciliation BluePrint definition, retired pricing, and legacy names (White-Label, Building Blocks, Private Collection, Developer Sales OS, Dproperty OS).
+>
+> **Regenerate against current canon before sending to any external tool or audience.**
+>
+> Canon: [[../01_Canon/00 - Precedence and Canonical Reconciliation]] · [[../01_Canon/04 - Offer Portfolio Map]]
+
 > [!NOTE] Verified against canon 2026-09-23
 > **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
 # HANDOFF — Financial Model (Phase 1)
 
-> **Self-contained package** to (re)build or extend the **Phase-1 franchise financial model** as a formula-driven spreadsheet. The current source of truth is `09_Exports/Dproperty_OS_Financial_Model.xlsx v0.7`; this handoff documents its **logic, inputs, and outputs** so it can be regenerated, audited, or extended. Currency **USD**. ⚠️ OPEX/staffing rows need owner validation; a **Phase-2 (ecosystem) model does not exist yet.**
+> **Self-contained package** to (re)build or extend the **Phase-1 franchise financial model** as a formula-driven spreadsheet. The current source of truth is `98_Archive/Exports/Dproperty_OS_Financial_Model.xlsx v0.7`; this handoff documents its **logic, inputs, and outputs** so it can be regenerated, audited, or extended. Currency **USD**. ⚠️ OPEX/staffing rows need owner validation; a **Phase-2 (ecosystem) model does not exist yet.**
 
 ## 0. Production Brief
 - **Deliverable:** conservative 5-year Phase-1 P&L for the franchise venture (HQ view).
@@ -70,5 +77,5 @@ tags: [handoff, production, finance, model]
 - [ ] **Phase-2 (ecosystem) model:** separate build — space/membership, events, matchmaking, equity fund, franchise pull-through, data, hub capex. NOT in this file.
 
 ## 6. Source & Change Log
-- **Source:** [[Financial Model Summary]] + Decision Log (2026-07-04/05 pricing & waterfall) + Pitch S14–S15. SoT = `Dproperty_OS_Financial_Model.xlsx v0.7`.
+- **Source:** [[../06_Finance/Financial Model Summary]] + Decision Log (2026-07-04/05 pricing & waterfall) + Pitch S14–S15. SoT = `Dproperty_OS_Financial_Model.xlsx v0.7`.
 - **Change log:** 0.7 (2026-07-21) — handoff created documenting v0.7 logic. Open: commission-rate confirmation (5% vs 0.75%), OPEX/staffing validation, Phase-2 model.

@@ -11,16 +11,23 @@ supersedes: v0.6 (2026-07-04)
 tags: [business-plan, unit-economics]
 ---
 
+> [!WARNING] Stale figures — superseded 2026-09-23
+> This note carries **retired figures**: the $650k funding ask and/or pre-reconciliation BluePrint pricing, and it may use the legacy product name **"Building Blocks"** (now **Academy**).
+>
+> Canonical: capital **$950k / $800k staged** · BluePrint **$399 / $799 + $1,500 setup** per organization. Numbers below are earlier scenario work, **not current guidance**.
+>
+> Canon: [[../01_Canon/09 - Unit Economics Registry]] · [[../01_Canon/04 - Offer Portfolio Map]]
+
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Pre-reset unit economics blending channel and software revenue.
 >
-> **Current instead:** [[../18_Ecosystem/14 - Unit Economics Registry]] and [[../19_Canonical_B_RealEstate/06_FINANCE/PRICING_UNIT_ECONOMICS_AND_REVENUE_POLICY]]
+> **Current instead:** [[../01_Canon/09 - Unit Economics Registry]] and [[Pricing Unit Economics and Revenue Policy]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
 > This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[../18_Ecosystem/14 - Unit Economics Registry]]
+> Current source: [[../01_Canon/09 - Unit Economics Registry]]
 
 # Unit Economics
 

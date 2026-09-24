@@ -9,12 +9,19 @@ last_updated: 2026-08-28
 tags: [strategy, investor, seed-funding, pitch]
 ---
 
+> [!WARNING] Stale figures — superseded 2026-09-23
+> This note still uses the **retired $650k / 24-month funding ask**. The canonical capital position is a **$950k capitalization envelope with an $800k 18-month operating plan, released in stages against evidence gates**.
+>
+> The modelled returns, ownership percentages and exit multiples below are derived from the old ask and are **not current investor guidance**. Kept as evidence of the earlier scenario work.
+>
+> Canon: [[../01_Canon/09 - Unit Economics Registry]] · [[../01_Canon/00 - Precedence and Canonical Reconciliation]]
+
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Uses the retired $650k ask, franchise-based SOM and Y5 forecast.
 >
-> **Current instead:** [[../19_Canonical_B_RealEstate/01_COMPANY/EXECUTIVE_SUMMARY]] and [[../19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE/INVESTMENT_MEMO]]
+> **Current instead:** [[../04_Business_Plan/Company Executive Summary]] and [[Investment Memo]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # B_RealEstate — Executive Summary for Seed Investment
 

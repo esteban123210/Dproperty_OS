@@ -12,9 +12,9 @@ tags: [strategy, business-model, revenue-architecture, infrastructure]
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Superseded by the 2026-09-20 reset and the 2026-09-23 reconciliation.
 >
-> **Current instead:** [[../02_Business_Plan/B_ Business Model Reset - 2026-09-20]] and [[../18_Ecosystem/17 - Product and Channel Hierarchy]]
+> **Current instead:** [[../04_Business_Plan/B_ Business Model Reset - 2026-09-20]] and [[../01_Canon/03 - Product and Channel Hierarchy]]
 >
-> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+> Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # B_RealEstate: Business Model — Revised v2.0
 
