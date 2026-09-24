@@ -11,10 +11,14 @@
             "id": "353fec62076cafde",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "second_brain/00_Start_Here/Current Priorities.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "Current Priorities"
             }
           }
         ]
@@ -202,7 +206,7 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0bbfd0970c308a5c",
+  "active": "353fec62076cafde",
   "lastOpenFiles": [
     "second_brain/18_Ecosystem/00 - Ecosystem Master Map.md",
     "second_brain/08_Operations/Process Library/README.md",
