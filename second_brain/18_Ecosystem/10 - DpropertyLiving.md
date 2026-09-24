@@ -4,9 +4,12 @@ title: "DpropertyLiving"
 type: parked_concept
 status: PARKED — 2026-09-20
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, dpropertyliving, parked]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # DpropertyLiving — PARKED
 

@@ -9,6 +9,11 @@ source: ChatGPT baseline vault package
 tags: [product]
 ---
 
+> [!NOTE] Verified against canon 2026-09-23
+> Superseded for build sequencing. Current build target is the **golden workflow** in [[BluePrint/07 - MVP and Validation Plan]].
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Prototype Control Note
 
 > **⚠ Superseded for build purposes (2026-08-26):** The prototype to build is the **Release 1 Back Office OS**, specified end-to-end in [[BluePrint Wireframe - Back Office OS (Developer Handoff)]] — screens, design tokens, primitives, permissions, build order and acceptance criteria. Use that file's §9 build order in place of any sequencing below.

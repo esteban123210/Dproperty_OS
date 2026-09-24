@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "2026-07-21 - Work Session Closeout"
 type: session_closeout
 status: Final
@@ -8,6 +8,13 @@ last_updated: 2026-07-21
 source: "Session 2026-07-21 — Manuals architecture, Process Library, multinational-readiness build"
 tags: [session, manuals, franchise, operations]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> July 2026 session record. Its “roles, never names” and manuals-architecture decisions **remain active**; its strategy framing does not.
+>
+> **Current instead:** [[../AI Handoff Pack/07_Latest Session Closeout]]
+>
+> Precedence: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Work Session Closeout — 2026-07-21
 

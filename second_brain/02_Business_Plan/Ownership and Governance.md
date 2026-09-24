@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Ownership and Governance"
 type: business_plan_note
 status: Baseline Created
@@ -8,6 +8,11 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [business-plan]
 ---
+
+> [!NOTE] Verified against canon 2026-09-23
+> Governance structure is current. Any capitalization figure must match the **$950k envelope**.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # Ownership and Governance
 

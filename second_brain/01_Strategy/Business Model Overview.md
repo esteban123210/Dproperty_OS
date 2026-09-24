@@ -8,6 +8,11 @@ last_updated: 2026-09-20
 tags: [strategy, business-model]
 ---
 
+> [!NOTE] Verified against canon 2026-09-23
+> Consistent with canon. Products: BluePrint · BlankCRM · VAULTED · Academy. Channels: Direct SaaS · B_ Partner · Dproperty Franchise · Developer Partnerships.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Business Model Overview
 
 ## Primary engine — BluePrint SaaS

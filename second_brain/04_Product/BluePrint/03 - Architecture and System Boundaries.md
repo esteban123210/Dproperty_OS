@@ -2,11 +2,16 @@
 project: B_RealEstate
 title: "BluePrint Architecture and System Boundaries"
 type: architecture
-status: Canonical v1.0
+status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [blueprint, architecture, integrations, system-of-record]
 ---
+
+> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
+> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+>
+> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
 
 # Architecture and System Boundaries
 
@@ -15,14 +20,21 @@ tags: [blueprint, architecture, integrations, system-of-record]
 ```
 FRONT OFFICE                    AUTHORITATIVE SYSTEMS
 GHL / HubSpot / Salesforce      Accounting / Bank / E-sign / Drive
+demand -> qualification         ledger / settlement / evidence
           \                         /
-           \                       /
+  qualified \                      /
+ opportunity \                    /
             ---> BLUEPRINT <-------
-                 management control layer
+        transaction spine + management control
+                       |
+        transaction file -> compliance -> approval
+             -> closing -> commission snapshot
                        |
               verified management truth
                        |
-        reports · processes · actions · AI
+        reports · processes · actions · audit · AI
+
+NOT BluePrint: inventory / listings / MLS / escrow / custody / GL / payroll
 ```
 
 ## System ownership
@@ -30,7 +42,15 @@ GHL / HubSpot / Salesforce      Accounting / Bank / E-sign / Drive
 | Domain | Primary system | BluePrint role |
 |---|---|---|
 | Leads, contacts, conversations, campaigns | CRM | Read selected data; reconcile for management |
-| Sales pipeline / agent-entered opportunity state | CRM | Treat as reported, not automatically verified |
+| Pre-qualification pipeline / agent-entered opportunity state | CRM | Treat as reported, not automatically verified |
+| **Qualified opportunity acceptance** | **BluePrint** | Own — authority begins here |
+| **Transaction file / deal record** | **BluePrint** | Own |
+| **Compliance checklists and evidence** | **BluePrint** | Own |
+| **Approvals and approval policy** | **BluePrint** | Own |
+| **Closing milestones** | **BluePrint** | Own |
+| **Commission rules and calculation snapshots** | **BluePrint** | Own |
+| Property/project/unit inventory, listings, MLS | Developer system / portal / VAULTED | **Not BluePrint** — reference only |
+| Escrow/custody/money movement/FX | Bank / escrow provider | **Not BluePrint** — read evidence only |
 | General ledger, statutory accounting | Accounting platform | Read authoritative financial events |
 | Bank/payment settlement | Bank/payment provider/accounting | Read/reconcile evidence |
 | Binary documents | Drive/SharePoint/legal archive | Govern metadata, location, evidence and status |
@@ -45,6 +65,10 @@ GHL / HubSpot / Salesforce      Accounting / Bank / E-sign / Drive
 | Audit events | BluePrint | Own long-term record |
 | Academy learning activity | LMS | Read relevant completion/certification |
 | VAULTED marketplace | VAULTED | Separate network/GMV system |
+
+## Authority boundary
+
+BluePrint's authority **begins at qualified opportunity**. Everything before that belongs to the CRM. Inventory, listings and MLS never belong to BluePrint at any stage — BluePrint references the asset as a transaction participant, not as sellable stock.
 
 ## Integration rule
 

@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Ownership & Investor Protection One-Pager"
 type: business_plan_note
 status: Draft for Owner + Legal Review
@@ -10,6 +10,11 @@ source: Session 2026-07-14 — equity growth + investor protection structure
 related: "[[Dproperty OS Business Plan]], [[Pitch Deck Outline]], [[02_Decision Log]]"
 tags: [ownership, governance, equity, finance, legal]
 ---
+
+> [!NOTE] Verified against canon 2026-09-23
+> Current for review. Any capitalization figure must match the **$950k envelope**.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # Ownership & Investor Protection — Proposal One-Pager
 

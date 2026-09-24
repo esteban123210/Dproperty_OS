@@ -4,9 +4,14 @@ title: "BluePrint Competitive Positioning — GHL, Odoo, SAP"
 type: competitive_strategy
 status: Canonical framing v1.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [blueprint, competition, ghl, odoo, sap]
 ---
+
+> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
+> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+>
+> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
 
 # Competitive Positioning
 

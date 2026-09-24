@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Supervisor and Owner Q&A"
 type: pitch_note
 status: Baseline Created
@@ -8,6 +8,13 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [pitch]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Q&A answers reflect the pre-reset franchise-first model and retired economics.
+>
+> **Current instead:** [[../00_Index/Project Context Brief]] and [[../19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE/IC_ATTACK_SHEET]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Supervisor and Owner Q&A
 

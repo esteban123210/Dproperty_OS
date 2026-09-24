@@ -4,9 +4,12 @@ title: "Personas and Jobs to Be Done"
 type: persona_map
 status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, personas, jobs-to-be-done, blueprint]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # Personas and Jobs To Be Done
 

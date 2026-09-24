@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Research Backlog"
 type: research
 status: Baseline Created
@@ -8,6 +8,11 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [research]
 ---
+
+> [!NOTE] Verified against canon 2026-09-23
+> Active. Priority research is ICP-specific firm counts, BluePrint willingness to pay at $399/$799, BlankCRM COGS, and VAULTED take-rate/legal comparables.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # Research Backlog
 

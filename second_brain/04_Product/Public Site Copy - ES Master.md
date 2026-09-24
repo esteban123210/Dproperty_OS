@@ -10,6 +10,11 @@ source: Claude working session 2026-07-18
 tags: [product, wireframe, public-site, copy, spanish, figma-handoff]
 ---
 
+> [!NOTE] Verified against canon 2026-09-23
+> Production ES copy. Must be corrected before reuse: name the product **BluePrint**, state **BlankCRM is powered by GoHighLevel**, remove any “una sola base de datos” claim, remove DpropertyLiving, and reconcile all economics. See [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]].
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Public Site — Copy Maestro (Español)
 
 > **Architecture note (2026-08-16):** B_RealEstate is the parent ecosystem and BluePrint is the back-office platform. This file remains specific to the Dproperty consumer/flagship site. The live B2B ecosystem site is https://bfranchising.com; use [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]] and [[../18_Ecosystem/15 - Website Audit - bfranchising.com - 2026-08-16]].

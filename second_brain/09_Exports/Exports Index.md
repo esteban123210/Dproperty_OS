@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Exports Index"
 type: exports_index
 status: Baseline Created
@@ -8,6 +8,13 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [exports]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Indexes static exports produced before the reset. All exports must be regenerated after the model and canon lock.
+>
+> **Current instead:** [[../00_Index/Master Index]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Exports Index
 

@@ -8,6 +8,14 @@ last_updated: 2026-09-20
 tags: [strategy, franchise, channel]
 ---
 
+> [!INFO] Channel-scoped — verified 2026-09-23
+> This folder describes the **Dproperty Franchise** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
+>
+> **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
+> Franchising is a distribution channel, not the TAM definition. See [[../18_Ecosystem/07 - Dproperty Flagship]].
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Franchise Strategy
 
 ## Role

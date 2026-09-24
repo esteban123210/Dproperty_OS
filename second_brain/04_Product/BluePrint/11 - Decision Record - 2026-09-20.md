@@ -2,15 +2,27 @@
 project: B_RealEstate
 title: "BluePrint Decision Record — Management OS Redefinition"
 type: decision_record
-status: Approved direction
+status: PARTIALLY SUPERSEDED 2026-09-23
 owner: Esteban
 date: 2026-09-20
 tags: [blueprint, decision, product-boundary]
 ---
 
+> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
+> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+>
+> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+
 # Decision Record — 2026-09-20
 
-## Decision
+> [!WARNING] Partially superseded 2026-09-23
+> This record **over-retired**. The retirement of *property/project/unit inventory, listings and MLS* **stands permanently and was correct**. The retirement of the *transaction and commission record* is **reversed** — it is reinstated as BluePrint's core entity and first wedge module.
+>
+> Reason: the verification hierarchy this record depends on (Reported -> Operationally verified -> Financially verified -> Closed) *is* a transaction lifecycle. You cannot verify what you do not hold, and a management layer with no owned transaction object is the "another dashboard" product the ICP explicitly fears.
+>
+> Controlling note: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]].
+
+## Decision (as recorded 2026-09-20)
 
 Retire the prior concept of BluePrint as the operational transaction spine owning properties/projects/units, transaction execution, compliance and commission workflows.
 
@@ -32,3 +44,11 @@ Customers will pay for a system that knows how a real-estate agency should be ma
 ## Consequence
 
 B_Franchising becomes a distribution/customer channel for BluePrint, not the product definition. BluePrint must remain independently sellable and CRM-agnostic.
+
+## Amendment — 2026-09-23
+
+**What stands:** CRMs remain the front office. Accounting remains the ledger. No rebuilding CRM or ERP. The desired operator is a non-expert administrator. The product must be valuable to a customer with a strong CRM. B_Franchising is a channel, not the definition. Inventory/listings/MLS stay out, permanently.
+
+**What is reversed:** BluePrint **does** own the transaction file, compliance evidence, approvals, closing and commission calculation — beginning at **qualified opportunity**.
+
+**The reconciled boundary:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.

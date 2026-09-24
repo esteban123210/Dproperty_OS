@@ -9,6 +9,13 @@ last_updated: 2026-08-28
 tags: [strategy, customer-journey, economics, expansion]
 ---
 
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Built on the retired $500 blended ARPA and franchise-ladder model.
+>
+> **Current instead:** [[../18_Ecosystem/14 - Unit Economics Registry]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
 # Customer Ladder & Expansion Economics
 
 ## The Entry-to-Premium Journey

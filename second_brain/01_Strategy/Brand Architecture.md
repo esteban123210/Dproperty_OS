@@ -11,6 +11,11 @@ source: "Sessions 2026-08-03 and 2026-08-16 — house-of-brands and final naming
 tags: [strategy, brand, architecture, naming]
 ---
 
+> [!NOTE] Verified against canon 2026-09-23
+> Naming is canonical. Note the additions: **Academy** (not Building Blocks), **B_ Partner** (not White-Label), **Dproperty Select** (not Private Collection). DpropertyLiving is **parked**.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Brand Architecture
 
 > **Final naming decision (2026-08-16):** **B_RealEstate** is the parent ecosystem and **BluePrint** is the platform. This supersedes the former working names. The visual system centers on **B_**; in the BluePrint wordmark, `B_` is the anchor and `luePrint` is underlined. See [[../18_Ecosystem/README|18_Ecosystem]] for the canonical operating map.

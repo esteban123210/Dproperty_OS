@@ -1,8 +1,5 @@
-> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Developer Sales OS is now treated as a developer partnership/revenue/supply/distribution channel, not an equal software product.  
-> Current source of truth: [[../18_Ecosystem/09 - Developer Sales Partner]]
-
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Developer Sales OS Guide"
 type: developer_sales_note
 status: Baseline Created
@@ -11,6 +8,17 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [developer-sales]
 ---
+
+> [!INFO] Channel-scoped — verified 2026-09-23
+> This folder describes the **Developer Partnerships** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
+>
+> **Canonical name:** Developer Partnerships — “Developer Sales OS” is a legacy alias.
+> BluePrint does **not** own developer project/unit inventory or reservation execution. Fee bases (~0.5% team-managed, ~2.5–3% network-sourced, $3k–$5k managed desk) are legacy hypotheses. See [[../18_Ecosystem/09 - Developer Sales Partner]].
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Developer Sales OS is now treated as a developer partnership/revenue/supply/distribution channel, not an equal software product.  
+> Current source of truth: [[../18_Ecosystem/09 - Developer Sales Partner]]
 
 # Developer Sales OS Guide
 

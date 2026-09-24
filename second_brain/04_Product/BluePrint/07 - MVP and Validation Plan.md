@@ -2,11 +2,16 @@
 project: B_RealEstate
 title: "BluePrint MVP and Validation Plan"
 type: mvp_spec
-status: Canonical v1.0
+status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [blueprint, mvp, validation]
 ---
+
+> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
+> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+>
+> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
 
 # MVP and Validation Plan
 
@@ -20,7 +25,16 @@ Do not build a full ERP. Prove one economic thesis:
 
 Initially: CRM (GHL first), accounting source/mock, Drive/SharePoint or file repository. Banking can be mocked/manual until secure integration is justified.
 
-## Five mandatory demo flows
+## Primary gate — the golden workflow
+
+**One workflow must execute from qualified intake -> transaction file -> documents/compliance -> approval -> closing -> commission snapshot -> management report, with no shadow spreadsheet acting as the authority.**
+
+This is the single most important MVP test. If the customer still keeps the real answer in Excel, the product has not landed.
+
+## Six mandatory demo flows
+
+### 0. Qualified deal through close and commission — **the golden workflow**
+CRM marks opportunity qualified, BluePrint accepts and opens the transaction file, parties/assets attached, document and compliance checklist completed with evidence, approval policy satisfied, closing milestones recorded, commission calculated as an auditable snapshot with adjustments and payout status, flowing into the management report and audit trail.
 
 ### 1. Invoice through chat
 Upload → extract → classify → budget check → variance → approval if required → structured record → audit → dashboard update.
@@ -39,15 +53,17 @@ Finance + commercial + operations + process health + actions + risks + AI commen
 
 ## MVP modules
 
-Assistant, Home/Company cockpit, Finance Control, Processes, Glitches, Actions, Knowledge, Reports, Integrations, Audit.
+Assistant, Home/Company cockpit, **Transaction Spine**, Finance Control, Processes, Glitches, Actions, Knowledge, Reports, Integrations, Audit.
 
 ## Explicitly excluded
 
-CRM, property/project/unit inventory, marketplace, full accounting, payroll, sales-agent workspace, LMS, tax engine, generic project management.
+CRM and the pre-qualification pipeline, property/project/unit **inventory**, listings, MLS, marketplace, escrow/custody/money movement, full accounting, payroll, sales-agent workspace, LMS, tax engine, generic project management.
 
 ## Validation gate before major custom build
 
-Interview 10–20 agencies; recruit 5 design partners; obtain at least 3 paying pilots if possible.
+Interview 10–20 agencies; recruit **5 design partners**; obtain **3 paid conversions**.
+
+Also required: tenant isolation and permission tests pass; implementation under 40 hours initially, trending under 20; median calendar time under 21 days; weekly active target users above 60%; critical workflow completion above 70% by month 9; no severity-1 security issue.
 
 Measure:
 - founder management hours saved;
@@ -56,7 +72,8 @@ Measure:
 - number of discrepancies detected;
 - recurring glitches/process failures identified;
 - time to find/record information;
-- willingness to pay;
+- willingness to pay at $399/$799 + $1,500 setup;
+- whether the commission snapshot is trusted over the spreadsheet;
 - weekly usage by admin and owner.
 
 ## Kill condition

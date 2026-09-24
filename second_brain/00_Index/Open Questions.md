@@ -2,13 +2,40 @@
 project: B_RealEstate
 title: "Open Questions"
 type: open_questions
-status: Active
+status: Active v2.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [decisions, open]
 ---
 
-# Open Questions — Current Reset
+> [!IMPORTANT] Precedence
+> [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls the vault.
+
+# Open Questions — Current
+
+## RESOLVED 2026-09-23 by the Canonical Reconciliation
+
+| Question | Resolution |
+|---|---|
+| Is BluePrint a management-control layer or a transaction spine? | **Both — merged.** Management OS whose system of record is the verified transaction/commission record from qualified opportunity. Inventory/MLS stays retired. |
+| Academy or Building Blocks? | **Academy.** Building Blocks is a legacy alias. |
+| B_ Partner or White-Label? | **B_ Partner.** |
+| $299/$599/$999 or $399/$799 + setup? | **$399 / $799 + $1,500 setup**, per organization/office. |
+| $650k, $1.5M or $950k raise? | **$950k capitalization / $800k 18-month plan, staged.** |
+| Which canonical folder wins, `18_Ecosystem` or `19_Canonical`? | Neither alone — three layers with an explicit precedence order. |
+
+## Needs Esteban's ratification
+
+- Confirm the reconciled BluePrint definition above.
+- Does a **Scale tier** exist, and what does it contain and cost?
+- Confirm the $950k/$800k envelope as the single current position.
+
+## Newly opened by the reconciliation
+
+- **Franchise royalty structure:** 6% + 1% restricted brand fund (Dproperty) vs 4% no fund (own-brand) vs the isolated model's flat 6% + 1.5%. Needs contract design and local advice.
+- Does Academy **ever** become a standalone commercial product? Default: no.
+- How is the transaction spine scoped so it does not drift back into inventory/MLS?
+
 
 ## BluePrint validation
 - Will 5–50-person sales-led agencies pay for management/control rather than configure Odoo/GHL?
@@ -40,8 +67,8 @@ tags: [decisions, open]
 - What proof can Dproperty generate within 30–60 days?
 
 ## Pricing/economics
-- Validate BluePrint $299/$599/$999.
-- Rebuild B_ Partner economics.
+- Validate BluePrint $399/$799 + $1,500 setup; define or drop the Scale tier.
+- Rebuild B_ Partner economics (entry fee + 4% royalty hypothesis).
 - Reconcile franchise website vs internal pricing.
 - Reconcile developer fee bases.
 - Build new integrated model without double counting bundles.

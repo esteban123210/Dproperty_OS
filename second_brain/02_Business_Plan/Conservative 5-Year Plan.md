@@ -1,9 +1,5 @@
-> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[B_ Business Model Reset - 2026-09-20]]
-
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Conservative 5-Year Plan"
 type: business_plan_note
 status: Baseline Created
@@ -12,6 +8,17 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [business-plan]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Contains the retired $1.59M–$1.89M Y5 forecast, the 5/20/15 unit SOM and the physical-hub Phase 2.
+>
+> **Current instead:** [[../19_Canonical_B_RealEstate/06_FINANCE/STANDALONE_ECOSYSTEM_PROJECTION]] plus the named integrated workbook
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
+> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> Current source: [[B_ Business Model Reset - 2026-09-20]]
 
 # Conservative 5-Year Plan
 

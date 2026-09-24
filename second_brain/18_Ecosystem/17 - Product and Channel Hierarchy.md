@@ -4,18 +4,21 @@ title: "Product and Channel Hierarchy"
 type: strategy_control
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, products, channels, hierarchy]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # Product and Channel Hierarchy
 
 ## Products
 
-1. **BluePrint — RUN THE COMPANY**
-2. **BlankCRM — SELL**
+1. **BluePrint — RUN THE COMPANY** (qualified opportunity → transaction → commission → control → audit)
+2. **BlankCRM — SELL** (demand → qualification)
 3. **VAULTED — ACCESS THE NETWORK**
-4. **Academy — OPERATE BETTER**
+4. **Academy — OPERATE BETTER** (legacy alias: Building Blocks)
 
 ## Channels/packages
 
@@ -38,3 +41,7 @@ Dproperty Select, Dproperty brand, Second Brain/process library, developer/broke
 
 Never present all boxes as equal businesses. The hierarchy is:
 **BluePrint core SaaS → VAULTED network upside → BlankCRM attach → channels/enablement.**
+
+## Reconciliation note
+
+See [[18 - Canonical Reconciliation and Precedence]]. `19_Canonical_B_RealEstate` lists **Building Blocks** as a fourth product; that is a legacy alias for **Academy**, which remains a bundled enablement layer and not a headline standalone business.

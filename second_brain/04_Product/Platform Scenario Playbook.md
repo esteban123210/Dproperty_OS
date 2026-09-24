@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Platform Scenario Playbook"
 type: product_spec
 status: Draft v0.5
@@ -9,6 +9,11 @@ last_updated: 2026-07-18
 source: Claude working session 2026-07-18
 tags: [product, architecture, scenarios, ux, wireframe]
 ---
+
+> [!NOTE] Verified against canon 2026-09-23
+> Scenarios remain useful for discovery. Re-read against the reconciled boundary: BluePrint owns the deal from **qualified opportunity**, not the property as inventory.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # Platform Scenario Playbook
 

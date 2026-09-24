@@ -1,9 +1,5 @@
-> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[../04_Product/BluePrint/08 - Pricing and Packaging]] and [[../18_Ecosystem/14 - Unit Economics Registry]]
-
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Pricing Model"
 type: business_plan_note
 status: In Review
@@ -14,6 +10,17 @@ source: Updated per 2026-07-04 franchise pricing restructure
 supersedes: v0.5 baseline (2026-07-01)
 tags: [business-plan, pricing]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Pre-reset pricing across franchise/white-label/developer lines; conflicts with canonical BluePrint pricing.
+>
+> **Current instead:** [[../18_Ecosystem/14 - Unit Economics Registry]] and [[../04_Product/BluePrint/08 - Pricing and Packaging]] — **Core $399 / Growth $799 / $1,500 setup**
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
+> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> Current source: [[../04_Product/BluePrint/08 - Pricing and Packaging]] and [[../18_Ecosystem/14 - Unit Economics Registry]]
 
 # Pricing Model
 

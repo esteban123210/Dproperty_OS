@@ -9,6 +9,11 @@ source: ChatGPT baseline vault package
 tags: [package]
 ---
 
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Describes the original July 2026 baseline vault package, before the product-led reset and the 2026-09-23 canonical reconciliation. Folder contents and priorities have changed substantially.
+>
+> **Current instead:** [[Master Index]] · [[Vault Manifest]] · [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Package Contents Index
 
 This baseline package contains:
@@ -39,7 +44,7 @@ This baseline package contains:
 ## How To Start
 
 1. Open [[Project Context Brief]].
-2. Open [[Dproperty OS - Master Index]].
+2. Open [[Master Index]].
 3. Open [[Current Priorities]].
 4. Open [[../16_Task_Management/Next 10 Tasks Working Plan]].
 5. Start with [[../05_Franchise_Package/Franchise Launch Package Index]].

@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Weekly Review Workflow"
 type: workflow
 status: Baseline Created
@@ -9,13 +9,18 @@ source: ChatGPT baseline vault package
 tags: [workflow]
 ---
 
+> [!NOTE] Verified against canon 2026-09-23
+> Active workflow.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Weekly Review Workflow
 
 Run this once per week.
 
 ## Open These Files
 
-1. [[../00_Index/Dproperty OS - Master Index]]
+1. [[../00_Index/Master Index]]
 2. [[../00_Index/Project Context Brief]]
 3. [[../00_Index/Decision Log]]
 4. [[../00_Index/Open Questions]]

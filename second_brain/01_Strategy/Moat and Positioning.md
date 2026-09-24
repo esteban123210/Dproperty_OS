@@ -8,6 +8,11 @@ last_updated: 2026-09-20
 tags: [strategy, moat, positioning]
 ---
 
+> [!NOTE] Verified against canon 2026-09-23
+> Consistent with canon. The moat concentrates in **BluePrint's transaction/commission/control data model** and **VAULTED's network and attribution** — not in BlankCRM or Academy.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Moat and Positioning
 
 ## What is NOT a moat

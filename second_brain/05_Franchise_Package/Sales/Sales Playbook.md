@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Sales Playbook"
 manual_id: M4
 type: manual
@@ -12,6 +12,14 @@ supersedes: "ChatGPT baseline 2026-07-01"
 source: "Built on Process Library (Processes 1–5) + prior baseline"
 tags: [franchise, manual, sales, playbook]
 ---
+
+> [!INFO] Channel-scoped — verified 2026-09-23
+> This folder describes the **Dproperty Franchise** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
+>
+> **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
+> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
+>
+> Precedence: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # Dproperty Sales Playbook (M4)
 

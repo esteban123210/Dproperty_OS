@@ -1,9 +1,5 @@
-> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[../18_Ecosystem/14 - Unit Economics Registry]]
-
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Unit Economics"
 type: business_plan_note
 status: In Review
@@ -14,6 +10,17 @@ source: Updated per 2026-07-05 commission-waterfall clarification
 supersedes: v0.6 (2026-07-04)
 tags: [business-plan, unit-economics]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Pre-reset unit economics blending channel and software revenue.
+>
+> **Current instead:** [[../18_Ecosystem/14 - Unit Economics Registry]] and [[../19_Canonical_B_RealEstate/06_FINANCE/PRICING_UNIT_ECONOMICS_AND_REVENUE_POLICY]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
+> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> Current source: [[../18_Ecosystem/14 - Unit Economics Registry]]
 
 # Unit Economics
 

@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "2026-07-14 - Work Session Closeout"
 type: meeting_note
 status: Final
@@ -7,6 +7,13 @@ owner: Esteban
 last_updated: 2026-07-14
 tags: [session, pitch, ecosystem]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> July 2026 session record.
+>
+> **Current instead:** [[../AI Handoff Pack/07_Latest Session Closeout]]
+>
+> Precedence: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Work Session Closeout — 2026-07-14
 

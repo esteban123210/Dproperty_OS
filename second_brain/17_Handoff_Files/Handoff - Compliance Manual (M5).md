@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Handoff - Compliance Manual (M5)"
 type: handoff
 deliverable: "Compliance Manual (M5)"
@@ -12,6 +12,11 @@ owner: Esteban
 last_updated: 2026-07-21
 tags: [handoff, production, compliance, manual, legal]
 ---
+
+> [!NOTE] Verified against canon 2026-09-23
+> **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # HANDOFF — Compliance Manual (M5)
 

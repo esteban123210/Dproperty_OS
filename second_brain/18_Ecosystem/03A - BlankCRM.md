@@ -4,9 +4,12 @@ title: "BlankCRM"
 type: ecosystem_product
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, blankcrm, crm, gohighlevel, front-office]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # BlankCRM
 

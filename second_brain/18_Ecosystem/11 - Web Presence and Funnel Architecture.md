@@ -4,9 +4,12 @@ title: "Web Presence and Funnel Architecture"
 type: ecosystem_architecture
 status: Needs redesign for product-led model
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, web, funnel, domains]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # Web Presence and Funnel Architecture
 

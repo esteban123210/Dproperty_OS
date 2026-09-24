@@ -1,8 +1,5 @@
-> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** This is a franchise-channel GTM playbook. It is not the company-wide product-led GTM strategy after the reset.  
-> Current source of truth: [[../18_Ecosystem/17 - Product and Channel Hierarchy]]
-
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Go-to-Market Strategy"
 type: strategy_note
 status: "Active Draft"
@@ -12,6 +9,16 @@ created: 2026-07-07
 last_updated: 2026-07-07
 tags: [strategy, gtm, franchise, acquisition]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Franchise-first GTM plan predating the product-led reset.
+>
+> **Current instead:** [[../00_Index/Current Priorities]] and [[../18_Ecosystem/16 - Roadmap and Governance]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** This is a franchise-channel GTM playbook. It is not the company-wide product-led GTM strategy after the reset.  
+> Current source of truth: [[../18_Ecosystem/17 - Product and Channel Hierarchy]]
 
 # Go-to-Market Strategy for Dproperty OS Franchises
 

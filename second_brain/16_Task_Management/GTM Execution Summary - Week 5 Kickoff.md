@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "GTM Execution Summary — Week 5 Kickoff"
 type: action_plan
 status: "Ready for Implementation"
@@ -9,6 +9,13 @@ created: 2026-07-07
 next_review: 2026-07-15
 tags: [gtm, execution, week-5, kickoff]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> July 2026 GTM week-5 plan, franchise-first.
+>
+> **Current instead:** [[../00_Index/Current Priorities]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # GTM Execution Summary — Ready for Week 5 Kickoff
 

@@ -4,9 +4,12 @@ title: "VAULTED"
 type: ecosystem_product
 status: Canonical hypothesis v3.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, vaulted, marketplace, network, gmv]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # VAULTED
 

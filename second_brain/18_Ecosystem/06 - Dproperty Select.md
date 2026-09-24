@@ -4,9 +4,12 @@ title: "Dproperty Select"
 type: strategic_asset
 status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, dproperty-select, inventory]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # Dproperty Select
 

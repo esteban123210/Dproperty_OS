@@ -8,6 +8,11 @@ last_updated: 2026-09-20
 tags: [strategy, thesis]
 ---
 
+> [!NOTE] Verified against canon 2026-09-23
+> Consistent with canon. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction and commission record.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Strategic Thesis
 
 ## Thesis

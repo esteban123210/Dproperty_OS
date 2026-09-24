@@ -1,9 +1,5 @@
-> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[B_ Business Model Reset - 2026-09-20]]
-
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Dproperty OS Business Plan"
 type: business_plan
 status: In Review
@@ -14,6 +10,17 @@ source: Realigned to 2026-07-02 decisions + Financial Model v0.5
 supersedes: v0.5 (2026-07-01 ChatGPT baseline)
 tags: [business-plan]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> The “Dproperty OS & Network” franchise-first plan. Even its name is legacy — the platform is **BluePrint**.
+>
+> **Current instead:** [[../19_Canonical_B_RealEstate/01_COMPANY/B_RealEstate_Master_Business_Plan_2026]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
+> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> Current source: [[B_ Business Model Reset - 2026-09-20]]
 
 # Dproperty OS & Network — Business Plan
 

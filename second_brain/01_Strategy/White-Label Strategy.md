@@ -8,6 +8,14 @@ last_updated: 2026-09-20
 tags: [strategy, partner, white-label]
 ---
 
+> [!INFO] Channel-scoped — verified 2026-09-23
+> This folder describes the **B_ Partner** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
+>
+> **Canonical name:** B_ Partner — “White-Label” is a legacy alias.
+> A managed higher-ARPA package, **not a separate software product**. See [[../18_Ecosystem/08 - White-Label Partner Model]].
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # White-Label Strategy → B_ Partner
 
 White-label is no longer treated as a separate software product.

@@ -1,8 +1,5 @@
-> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** The physical-hub vision is now a long-term optional appendix, not a current raise thesis.  
-> Current source of truth: [[../03_Pitch/Pitch Deck Outline]]
-
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Handoff - Ecosystem Deck (Deck 2)"
 type: handoff
 deliverable: "Ecosystem Deck — Deck 2 (Vision / Hub)"
@@ -15,6 +12,14 @@ owner: Esteban
 last_updated: 2026-07-21
 tags: [handoff, production, pitch, deck, ecosystem]
 ---
+
+> [!NOTE] Verified against canon 2026-09-23
+> **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** The physical-hub vision is now a long-term optional appendix, not a current raise thesis.  
+> Current source of truth: [[../03_Pitch/Pitch Deck Outline]]
 
 # HANDOFF — Ecosystem Deck (Deck 2)
 

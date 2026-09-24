@@ -1,12 +1,15 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "02_Decision Log (pointer)"
 type: pointer
 status: Pointer
 owner: Esteban
-last_updated: 2026-07-18
+last_updated: 2026-09-23
 tags: [ai-handoff, pointer]
 ---
+
+> [!IMPORTANT] Upload the precedence note first
+> Before this file, upload [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|18_Ecosystem/18 - Canonical Reconciliation and Precedence.md]] — it controls the vault and resolves the two-canon conflict. See [[00_Canonical Reconciliation and Precedence]].
 
 # 02 — Decision Log → see canonical
 

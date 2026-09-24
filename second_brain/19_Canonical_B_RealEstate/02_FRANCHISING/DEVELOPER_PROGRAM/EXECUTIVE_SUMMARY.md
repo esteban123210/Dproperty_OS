@@ -1,3 +1,14 @@
+> [!IMPORTANT] Reconciled 2026-09-23 — read the precedence note first
+> [[../../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|18 - Canonical Reconciliation and Precedence]] controls the vault. This folder is **one of three canonical layers**, not the sole authority:
+>
+> - `18_Ecosystem/` — what the company **is**
+> - `04_Product/BluePrint/` — what the product **is**
+> - `19_Canonical_B_RealEstate/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
+>
+> **Naming corrections that override this folder:** **Academy** (not *Building Blocks*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
+>
+> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+
 # Developer Sales Program — Executive Summary
 
 ## Offer

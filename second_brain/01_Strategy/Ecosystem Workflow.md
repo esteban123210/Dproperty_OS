@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Ecosystem Workflow"
 type: strategy_note
 status: Baseline Created
@@ -8,6 +8,13 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [strategy]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Written pre-2026-09-20, when B_RealEstate was framed franchise-first. Its market sizing, forecasts, funding ask and pricing are retired.
+>
+> **Current instead:** [[../18_Ecosystem/00 - Ecosystem Master Map]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Ecosystem Workflow
 

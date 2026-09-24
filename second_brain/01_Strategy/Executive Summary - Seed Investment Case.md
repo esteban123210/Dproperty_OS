@@ -9,6 +9,13 @@ last_updated: 2026-08-28
 tags: [strategy, investor, seed-funding, pitch]
 ---
 
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Uses the retired $650k ask, franchise-based SOM and Y5 forecast.
+>
+> **Current instead:** [[../19_Canonical_B_RealEstate/01_COMPANY/EXECUTIVE_SUMMARY]] and [[../19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE/INVESTMENT_MEMO]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
 # B_RealEstate — Executive Summary for Seed Investment
 
 ---

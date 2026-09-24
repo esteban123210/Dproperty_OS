@@ -2,12 +2,17 @@
 project: B_RealEstate
 title: "BluePrint Product Constitution"
 type: product_constitution
-status: Canonical v3.0
-version: 3.0
+status: Canonical v4.0
+version: 4.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [blueprint, constitution, boundaries, management-os]
 ---
+
+> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
+> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+>
+> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
 
 # BluePrint Product Constitution
 
@@ -33,6 +38,15 @@ Owner/CEO/principal. BluePrint must answer: what is actually happening, what is 
 
 ## What BluePrint owns
 
+**Transaction spine — from qualified opportunity onward (the wedge):**
+- qualified-opportunity acceptance and the transaction file;
+- parties and assets **as transaction participants**, never as inventory;
+- documents, compliance checklists, evidence and retention;
+- approval policies and e-signature evidence;
+- reservation/contract milestones and closing;
+- commission rules, calculation snapshots, adjustments, receivable/payout status and exports.
+
+**Management control:**
 - management truth and verification states;
 - budgets, management forecast and variance oversight;
 - management KPIs and reports;
@@ -58,13 +72,19 @@ Owner/CEO/principal. BluePrint must answer: what is actually happening, what is 
 
 Do not build native:
 - CRM, lead nurturing, funnels or marketing campaigns;
-- property/project/unit inventory or MLS;
+- property/project/unit **inventory**, listing management or MLS;
+- the **pre-qualification** lead pipeline;
+- escrow/custody, money movement or FX;
 - full accounting ledger, tax, payroll or statutory filing;
 - generic ERP;
 - property management;
 - sales-agent task manager;
 - marketplace inventory;
 - legal advice or autonomous regulated decisions.
+
+## Boundary principle
+
+BluePrint owns **the deal as a governed management object**. It does not own **the property as inventory**. The transaction record exists because it is the atom of management truth for a brokerage — commissions, compliance and reporting all resolve to it. Inventory, listings and MLS belong to CRM, portal, developer systems or VAULTED.
 
 ## Core product principle
 

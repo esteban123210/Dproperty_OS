@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Dproperty Select Strategy (formerly Private Collection)"
 type: strategy_note
 status: In Review
@@ -9,6 +9,14 @@ last_updated: 2026-07-04
 source: Updated per 2026-07-04 rename + pricing restructure
 tags: [strategy, dproperty-select]
 ---
+
+> [!INFO] Channel-scoped — verified 2026-09-23
+> This folder describes the **Dproperty Select** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
+>
+> **Canonical name:** Dproperty Select — “Private Collection” is a legacy alias.
+> A strategic asset, not a product. See [[../18_Ecosystem/06 - Dproperty Select]].
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # Dproperty Select Strategy (formerly Private Collection)
 

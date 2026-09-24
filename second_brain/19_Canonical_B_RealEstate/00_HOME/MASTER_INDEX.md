@@ -1,3 +1,14 @@
+> [!IMPORTANT] Reconciled 2026-09-23 — read the precedence note first
+> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|18 - Canonical Reconciliation and Precedence]] controls the vault. This folder is **one of three canonical layers**, not the sole authority:
+>
+> - `18_Ecosystem/` — what the company **is**
+> - `04_Product/BluePrint/` — what the product **is**
+> - `19_Canonical_B_RealEstate/` — **this folder**: how it is **proven and financed** (finance models, data/AI architecture, operations, compliance, KPIs/gates, investor diligence)
+>
+> **Naming corrections that override this folder:** **Academy** (not *Building Blocks*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
+>
+> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+
 # Master Index
 
 | Folder | Purpose | Primary owner | Review cadence |
@@ -5,7 +16,7 @@
 | `00_HOME` | Navigation, governance, status, glossary, AI handoffs | Knowledge owner | Monthly |
 | `01_COMPANY` | Company thesis, architecture, plan, governance, BMC | CEO/board | Quarterly |
 | `02_FRANCHISING` | Dproperty, white-label, developer offers and shared operations | Franchise lead | Monthly |
-| `03_PRODUCTS` | Standalone product records for BluePrint, Building Blocks, BlankCRM, VAULTED | Product lead | Per release |
+| `03_PRODUCTS` | Standalone product records for BluePrint, Academy (*folder: `BUILDING_BLOCKS`*), BlankCRM, VAULTED | Product lead | Per release |
 | `04_ECOSYSTEM` | Cross-product customer journeys, integration contracts, flywheel | Product/architecture | Monthly |
 | `05_STRATEGY` | Innovation method, PESTEL, SWOT/TOWS, market and competitive doctrine | CEO/strategy | Quarterly |
 | `06_FINANCE` | Model summaries, funding, pricing, unit economics and diligence gaps | Finance | Monthly |
@@ -25,10 +36,10 @@
 | Would a rigorous investor invest today? | `10_INVESTOR_DILIGENCE/INVESTMENT_MEMO.md` |
 | What has been tested and what remains? | `00_HOME/COMPLETENESS_AND_QA_REPORT.md` |
 | What is Dproperty franchising? | `02_FRANCHISING/DPROPERTY/EXECUTIVE_SUMMARY.md` |
-| What is white-label franchising? | `02_FRANCHISING/WHITE_LABEL/EXECUTIVE_SUMMARY.md` |
+| What is the B_ Partner own-brand channel? (legacy folder name `WHITE_LABEL`) | `02_FRANCHISING/WHITE_LABEL/EXECUTIVE_SUMMARY.md` |
 | What is the developer program? | `02_FRANCHISING/DEVELOPER_PROGRAM/EXECUTIVE_SUMMARY.md` |
 | What is BluePrint standalone? | `03_PRODUCTS/BLUEPRINT/PRODUCT_RECORD.md` |
-| What is Building Blocks standalone? | `03_PRODUCTS/BUILDING_BLOCKS/PRODUCT_RECORD.md` |
+| What is Academy? (legacy folder name `BUILDING_BLOCKS`) | `03_PRODUCTS/BUILDING_BLOCKS/PRODUCT_RECORD.md` |
 | What is BlankCRM standalone? | `03_PRODUCTS/BLANKCRM/PRODUCT_RECORD.md` |
 | What is VAULTED standalone? | `03_PRODUCTS/VAULTED/PRODUCT_RECORD.md` |
 | How does the ecosystem fit? | `04_ECOSYSTEM/ECOSYSTEM_EXECUTIVE_SUMMARY.md` |

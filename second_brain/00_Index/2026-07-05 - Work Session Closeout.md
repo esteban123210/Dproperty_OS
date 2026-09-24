@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Work Session Closeout 2026-07-05"
 type: session_closeout
 status: Final
@@ -8,6 +8,13 @@ last_updated: 2026-07-05
 workstream: Business Plan (+ Finance, Strategy, Franchise Package, Task Management)
 tags: [session, business-plan, finance, pricing]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> July 2026 session record.
+>
+> **Current instead:** [[AI Handoff Pack/07_Latest Session Closeout]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Work Session Closeout — 2026-07-04 / 2026-07-05
 

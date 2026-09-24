@@ -1,9 +1,5 @@
-> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[Pitch Deck Outline]]
-
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Ecosystem Deck Outline (Deck 2)"
 type: pitch_note
 status: Structured Draft
@@ -14,6 +10,17 @@ source: Session 2026-07-14 — Deck 2 built alongside Pitch Deck Outline v1.0
 related: "[[Pitch Deck Outline]]"
 tags: [pitch, ecosystem, vision, deck2]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Pre-reset ecosystem deck presenting franchise/white-label/developer as three equal doors, plus the physical hub.
+>
+> **Current instead:** [[Pitch Deck Outline]] — hierarchy is BluePrint core → VAULTED upside → BlankCRM attach → channels
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
+> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> Current source: [[Pitch Deck Outline]]
 
 # Ecosystem Deck Outline v0.5 — "The Hub Where Real Estate's Future Is Made"
 

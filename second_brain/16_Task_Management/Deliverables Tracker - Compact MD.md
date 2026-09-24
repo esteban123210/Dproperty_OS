@@ -1,13 +1,18 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Deliverables Tracker - Compact MD"
 type: tracker
 status: Generated from Excel
 owner: Esteban
-last_updated: 2026-07-21
+last_updated: 2026-09-23
 source: ChatGPT baseline vault package
 tags: [deliverables, tracker]
 ---
+
+> [!NOTE] Verified against canon 2026-09-23
+> Active execution tracker. Deliverables affected by the 2026-09-23 reconciliation need status review — especially product specs, pitch decks and finance models.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # Deliverables Tracker - Compact MD
 
@@ -153,7 +158,7 @@ Last generated: 2026-07-01
 
 | ID | Workstream | Deliverable | Priority | Status | MVP | First Franchise | Format | Obsidian Path | Link/File | Baseline Note Created |
 |---|---|---|---|---|---|---|---|---|---|---|
-| DP-001 | Knowledge Base | Dproperty OS Master Index | Critical | Not Started | Yes | Yes | MD | 00_Index/Dproperty OS - Master Index.md |  | Yes |
+| DP-001 | Knowledge Base | B_RealEstate Master Index | Critical | Not Started | Yes | Yes | MD | 00_Index/Master Index.md |  | Yes |
 | DP-002 | Knowledge Base | Decision Log | Critical | Not Started | Yes | Yes | MD | 00_Index/Decision Log.md |  | Yes |
 | DP-003 | Knowledge Base | Open Questions | High | Not Started | Yes | Yes | MD | 00_Index/Open Questions.md |  | Yes |
 | DP-004 | Knowledge Base | Source Map | High | Not Started | Yes | Yes | MD | 00_Index/Source Map.md |  | Yes |
@@ -422,3 +427,42 @@ Last generated: 2026-07-01
 | DP-267 | HQ Readiness | Template Version Control Register | Critical | Not Started | Yes | Yes | MD/PDF/XLSX | 00_Index/HQ_Readiness/ |  |  |
 | DP-268 | HQ Readiness | Product Roadmap | Critical | Not Started | Yes | Yes | MD/PDF/XLSX | 00_Index/HQ_Readiness/ |  |  |
 | DP-269 | HQ Readiness | Internal Governance Charter | Critical | Not Started | Yes | Yes | MD/PDF/XLSX | 00_Index/HQ_Readiness/ |  |  |
+
+---
+
+## 2026-09-23 Update — Canonical Reconciliation Impact
+
+The vault's two competing canonical layers were reconciled. See [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence]]. The following deliverables changed status as a direct result.
+
+| Deliverable | Old Status | New Status | Priority | Next Action | File Location |
+|---|---|---|---|---|---|
+| Canonical Reconciliation & Precedence note | Did not exist | **Created v1.0** | Critical | Esteban to ratify the 4 open items | `18_Ecosystem/18 - Canonical Reconciliation and Precedence.md` |
+| BluePrint Product Canon (folder) | Canonical v3.0 | **Amended v4.0** | Critical | Build golden workflow from it | `04_Product/BluePrint/` |
+| BluePrint Pricing & Packaging | $299/$599/$999 hypothesis | **$399/$799 + $1,500 setup** | Critical | Validate with design partners | `04_Product/BluePrint/08 - Pricing and Packaging.md` |
+| BluePrint Transaction Spine module | Retired 2026-09-20 | **Reinstated as MVP wedge** | Critical | Spec from recovered git design work | `04_Product/BluePrint/04 - Core Modules.md` §3 |
+| BluePrint Golden Workflow spec | Superseded | **Revived — recover from git `ff84d37^`** | Critical | Recover 432 lines, strip inventory scope | `04_Product/BluePrint Golden Workflow - Wireframe and Validation.md` |
+| BluePrint Wireframe (Developer Handoff) | Superseded | **Revived — recover from git `ff84d37^`** | High | Recover 918 lines, strip inventory scope | `04_Product/BluePrint Wireframe - Back Office OS (Developer Handoff).md` |
+| BluePrint Data Model | Superseded | **Revived — recover from git `ff84d37^`** | High | Recover 77 lines, strip inventory scope | `04_Product/Data Model.md` |
+| CLAUDE.md AI instructions | Pre-reconciliation | **Rebuilt v2.0** | Critical | None | `CLAUDE.md` |
+| AI Handoff Pack | 7 files, no precedence | **Rebuilt + new file 00** | Critical | Use new starter prompt | `00_Index/AI Handoff Pack/` |
+| Project Context Brief | v3.0 | **v4.0 reconciled** | Critical | None | `00_Index/Project Context Brief.md` |
+| Vault Manifest | v1 | **v2.0 + folder status table** | High | None | `00_Index/Vault Manifest.md` |
+| Current Priorities | Pre-reconciliation | **v2.0** | High | Work P0 items | `00_Index/Current Priorities.md` |
+| Open Questions | 6 conflicts open | **6 resolved, 3 new** | High | Ratify open items | `00_Index/Open Questions.md` |
+| Decision Log | Through 2026-09-20 | **+6 entries for 2026-09-23** | High | None | `00_Index/Decision Log.md` |
+| Master Index | Legacy filename | **Renamed + 3-layer model** | Medium | None | `00_Index/Master Index.md` |
+| Academy product record | Named "Building Blocks" | **Renamed to Academy; downgraded to bundled layer** | Medium | Decide if ever standalone | `19_Canonical.../03_PRODUCTS/BUILDING_BLOCKS/PRODUCT_RECORD.md` |
+| 20-Unit Franchise Projection | Presented as forecast | **Marked channel model, not company SOM** | High | Resolve royalty structure | `19_Canonical.../06_FINANCE/FRANCHISING_20_UNIT_PROJECTION.md` |
+| All 17 handoff files | Ready to generate | **Regenerate before external use** | High | Regenerate against canon | `17_Handoff_Files/` |
+| Pitch Deck (Deck 1 & 2) | Ready to generate | **Blocked on ratification** | Critical | Rebuild on reconciled hierarchy | `03_Pitch/`, `17_Handoff_Files/` |
+| Financial Model | v0.7 | **Blocked — rebuild on $399/$799 + $950k** | Critical | Single integrated model | `19_Canonical.../06_FINANCE/` |
+| Public Site Copy (ES) | Final v1.0 | **Needs correction before reuse** | High | Fix naming + claims + economics | `04_Product/Public Site Copy - ES Master.md` |
+
+### Blocked pending Esteban's ratification
+
+1. Reconciled BluePrint definition.
+2. Scale tier: exists or not, contents and price.
+3. $950k / $800k envelope as the single current position.
+4. Academy over Building Blocks as the commercial name.
+
+Pitch decks and the financial model should not be rebuilt until items 1-3 are ratified.

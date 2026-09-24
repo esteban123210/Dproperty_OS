@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Deliverables Tracker - MVP Only"
 type: tracker
 status: Active
@@ -8,6 +8,13 @@ owner: Esteban
 last_updated: 2026-07-06
 tags: [deliverables, tracker, mvp, critical]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Filtered view of the pre-reset MVP scope, before the transaction spine was reinstated.
+>
+> **Current instead:** [[Deliverables Tracker - Compact MD]] and [[../04_Product/BluePrint/07 - MVP and Validation Plan]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Deliverables Tracker — MVP Only (Sep 15 Launch)
 

@@ -4,9 +4,12 @@ title: "System of Record and Integration Matrix"
 type: data_governance
 status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, integrations, data-governance, blueprint]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # System of Record and Integration Matrix
 
@@ -18,7 +21,15 @@ Each datum has a declared authority. BluePrint is not a universal writable maste
 |---|---|---|
 | Leads/contacts/conversations | CRM | Reference for management |
 | Campaign/source/appointments | CRM | Aggregate/interpret |
-| Sales opportunity status | CRM | Treat as reported until verified |
+| Pre-qualification pipeline status | CRM | Treat as reported until verified |
+| **Qualified opportunity acceptance** | **BluePrint** | System of record from qualification onward |
+| **Transaction file / deal record** | **BluePrint** | System of record |
+| **Compliance checklists and evidence** | **BluePrint** | System of record |
+| **Approvals and approval policy** | **BluePrint** | System of record |
+| **Closing milestones** | **BluePrint** | System of record |
+| **Commission rules and calculation snapshots** | **BluePrint** | System of record |
+| Property/project/unit inventory and listings | Developer system / portal / VAULTED | **Not BluePrint** — reference only |
+| Escrow/custody/money movement | Bank / escrow provider | **Not BluePrint** — read evidence only |
 | Accounting ledger/statutory books | Accounting platform | Read authoritative finance data |
 | Bank/payment settlement | Bank/payment/accounting | Reconcile/read evidence |
 | Binary documents | Drive/SharePoint/legal archive | Govern metadata/evidence/link |

@@ -2,26 +2,35 @@
 project: B_RealEstate
 title: "Ecosystem Master Map"
 type: ecosystem_architecture
-status: Canonical v3.0
+status: Canonical v4.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, architecture, map]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Read [[18 - Canonical Reconciliation and Precedence]] first. It merges this map with the `19_Canonical_B_RealEstate` baseline and controls the vault.
 
 # B_RealEstate — Ecosystem Master Map
 
 ## One-sentence definition
 
-**B_ is operating infrastructure for real-estate businesses: BlankCRM helps the team sell, BluePrint helps management run the company, and VAULTED connects the company to a transaction network.**
+**B_ is operating infrastructure for real-estate businesses: BlankCRM helps the team sell, BluePrint helps management run and control the company from qualified opportunity through commission and audit, and VAULTED connects the company to a transaction network.**
+
+## The handoff line
+
+**BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Academy owns capability. Accounting remains the ledger.**
 
 ## Core architecture
 
 ```mermaid
 flowchart LR
     C["Clients / Leads"] --> CRM["BlankCRM
-powered by GoHighLevel"]
-    CRM --> BP["BluePrint
-Management OS"]
+powered by GoHighLevel
+demand → qualification"]
+    CRM -->|"qualified opportunity"| BP["BluePrint
+Management OS
+transaction · commission · control · audit"]
     EXT["Accounting · Bank · Drive · E-sign"] --> BP
     CRM <--> VA["VAULTED
 Private marketplace/network"]
@@ -43,12 +52,16 @@ Standards & training"] --> BP
 
 ## Product hierarchy
 
-| Product | Core job | Strategic role |
-|---|---|---|
-| **BluePrint** | Run/control the company | Proprietary SaaS/IP |
-| **BlankCRM** | Generate, organize and convert demand | Attach/acquisition product; third-party engine |
-| **VAULTED** | Access/match network supply and demand | Network effect + GMV/take-rate upside |
-| **Academy** | Teach standards and close capability gaps | Retention/quality/enablement |
+| Product | Core job | Owns | Strategic role |
+|---|---|---|---|
+| **BluePrint** | Run/control the company | Qualified opportunity → transaction file → compliance evidence → approvals → closing → commission calculation → budgets/variance/KPIs → process assurance → period close → audit | Proprietary SaaS/IP |
+| **BlankCRM** | Generate, organize and convert demand | Leads, contacts, messaging, forms/calendars, nurture, pre-qualification pipeline, campaign attribution | Attach/acquisition product; third-party engine |
+| **VAULTED** | Access/match network supply and demand | Gated listings, access rules, matches, introductions, attribution, GMV, fees | Network effect + GMV/take-rate upside |
+| **Academy** | Teach standards and close capability gaps | Learning content, assessments, certification evidence | Retention/quality/enablement (legacy alias: Building Blocks) |
+
+### What BluePrint does **not** own
+
+Property/project/unit inventory · listing management/MLS · pre-qualification lead pipeline and marketing automation · general ledger, tax, payroll · property management · LMS delivery · marketplace listings and matching.
 
 ## Distribution and monetization channels
 

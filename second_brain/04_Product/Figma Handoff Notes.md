@@ -9,6 +9,11 @@ source: ChatGPT baseline vault package
 tags: [product]
 ---
 
+> [!NOTE] Verified against canon 2026-09-23
+> Design notes remain useful. Screen inventory must now include the **Transaction Spine** module.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Figma Handoff Notes
 
 > **⚠ Design system update (2026-08-26):** The BluePrint application's visual system is now **fixed and specified**, inherited from the live `bfranchising.com` stylesheet. Do not invent colors, type or components in Figma. Use [[BluePrint Wireframe - Back Office OS (Developer Handoff)]] §3 as the source: bone `#FAF8F3` · offwhite `#F7F4ED` · sand `#EFEAE0` · ink `#1A1A1A` · warm `#55514C` · champagne `#B89B5E` · destructive `#A13B2A`, plus the desaturated semantic status palette; Playfair Display (display) / Inter (UI) / JetBrains Mono (labels, data); radius 16px cards, 8px controls; flat surfaces, no drop shadows.

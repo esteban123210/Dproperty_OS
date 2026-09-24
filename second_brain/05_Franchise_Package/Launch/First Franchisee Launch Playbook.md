@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "First Franchisee Launch Playbook"
 manual_id: M3-companion
 type: operational_guide
@@ -12,6 +12,14 @@ last_updated: 2026-07-21
 supersedes: "v0.1 (2026-07-07) — abstracted to standards: roles-not-names, USD, relative weeks, corrected commission math"
 tags: [launch, franchise, operations, onboarding]
 ---
+
+> [!INFO] Channel-scoped — verified 2026-09-23
+> This folder describes the **Dproperty Franchise** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
+>
+> **Canonical name:** Dproperty Franchise — “the company itself” is a legacy alias.
+> This is **valuable operating source material** — the process library and manuals feed BluePrint's SOP/process model and Academy. Franchise royalty/launch economics are channel-specific and require contract design plus local legal advice before external use.
+>
+> Precedence: [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # First Franchisee Launch Playbook (Weeks 1–12)
 

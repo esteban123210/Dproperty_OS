@@ -1,3 +1,10 @@
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Static export of the pre-reset prototype spec.
+>
+> **Current instead:** [[../04_Product/BluePrint/10 - Lovable MVP Build Brief]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
 # Dproperty OS — Prototype Specification for Figma
 
 ## Prototype goal

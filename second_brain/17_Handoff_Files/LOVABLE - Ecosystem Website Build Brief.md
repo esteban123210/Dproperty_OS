@@ -1,6 +1,3 @@
-> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Do not rebuild the live site from this old brief without replacing franchise-first hierarchy with BluePrint / BlankCRM / VAULTED.  
-> Current source of truth: [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]]
-
 ---
 project: B_RealEstate
 title: "LOVABLE - Ecosystem Website Build Brief"
@@ -13,6 +10,14 @@ owner: Esteban
 created: 2026-08-03
 tags: [handoff, lovable, website, bilingual, production]
 ---
+
+> [!NOTE] Verified against canon 2026-09-23
+> **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Academy (not Building Blocks) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
+> **⚠ STRATEGY RESET NOTICE — 2026-09-20.** Do not rebuild the live site from this old brief without replacing franchise-first hierarchy with BluePrint / BlankCRM / VAULTED.  
+> Current source of truth: [[../18_Ecosystem/11 - Web Presence and Funnel Architecture]]
 
 # BUILD BRIEF — B_RealEstate Ecosystem Website
 

@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Current Sprint"
 type: sprint
 status: Baseline Created
@@ -8,6 +8,13 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [tasks]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> July 2026 sprint.
+>
+> **Current instead:** [[../00_Index/Current Priorities]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Current Sprint
 

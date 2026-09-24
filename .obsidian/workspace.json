@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "second_brain/00_Index/AI Handoff Pack/04_Vault Manifest.md",
+                "file": "second_brain/18_Ecosystem/00 - Ecosystem Master Map.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04_Vault Manifest"
+              "title": "00 - Ecosystem Master Map"
             }
           }
         ]
@@ -206,8 +206,23 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "f4ced0f66d714e8c",
+  "active": "0cab61b4f641215e",
   "lastOpenFiles": [
+    "second_brain/10_Templates/verify_canon.py",
+    "second_brain/10_Templates/_verify_canon.py",
+    "second_brain/00_Index/Meeting Notes/2026-09-23 - Vault-Wide Canonical Alignment.md",
+    "_fix_fm.py",
+    "_verify.py",
+    "_align_tail.py",
+    "_align_19.py",
+    "_align_all.py",
+    "_revive.py",
+    "_align_bp2.py",
+    "_align_bp.py",
+    "second_brain/00_Index/AI Handoff Pack/00_Canonical Reconciliation and Precedence.md",
+    "second_brain/00_Index/Master Index.md",
+    "second_brain/18_Ecosystem/18 - Canonical Reconciliation and Precedence.md",
+    "second_brain/00_Index/AI Handoff Pack/04_Vault Manifest.md",
     "second_brain/00_Index/AI Handoff Pack/03_Open Questions.md",
     "second_brain/00_Index/AI Handoff Pack/01_Project Context Brief.md",
     "second_brain/18_Ecosystem/00 - Ecosystem Master Map.md",
@@ -221,28 +236,13 @@
     "second_brain/19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE/INVESTMENT_MEMO.md",
     "second_brain/19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE/IC_ATTACK_SHEET.md",
     "second_brain/19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE/DATA_ROOM_INDEX_AND_EVIDENCE_STATUS.md",
-    "second_brain/19_Canonical_B_RealEstate/10_INVESTOR_DILIGENCE",
     "second_brain/19_Canonical_B_RealEstate/09_ROADMAP/KPIS_GATES_AND_KILL_CRITERIA.md",
     "second_brain/19_Canonical_B_RealEstate/09_ROADMAP/ROADMAP_AND_VALIDATION_EXPERIMENTS.md",
     "second_brain/19_Canonical_B_RealEstate/09_ROADMAP/DECISIONS_ASSUMPTIONS_AND_DEPENDENCIES.md",
-    "second_brain/19_Canonical_B_RealEstate/09_ROADMAP",
     "second_brain/19_Canonical_B_RealEstate/04_ECOSYSTEM/INTEGRATION_AND_ENTITLEMENT_CONTRACTS.md",
     "second_brain/19_Canonical_B_RealEstate/04_ECOSYSTEM/ECOSYSTEM_EXECUTIVE_SUMMARY.md",
     "second_brain/19_Canonical_B_RealEstate/04_ECOSYSTEM/CUSTOMER_JOURNEYS_AND_HANDOFFS.md",
-    "second_brain/19_Canonical_B_RealEstate/04_ECOSYSTEM",
     "second_brain/19_Canonical_B_RealEstate/08_DATA_AI/SYSTEM_OF_RECORD_AND_EVENT_TAXONOMY.md",
-    "second_brain/19_Canonical_B_RealEstate/08_DATA_AI/KNOWLEDGE_INGESTION_AND_RETENTION.md",
-    "second_brain/19_Canonical_B_RealEstate/08_DATA_AI/DATA_ARCHITECTURE_AND_CANONICAL_ENTITIES.md",
-    "second_brain/19_Canonical_B_RealEstate/08_DATA_AI/AI_HANDOFF_PROTOCOL.md",
-    "second_brain/19_Canonical_B_RealEstate/08_DATA_AI",
-    "second_brain/19_Canonical_B_RealEstate/07_OPERATIONS/REPORTING_AND_MANAGEMENT_CADENCE.md",
-    "second_brain/19_Canonical_B_RealEstate/07_OPERATIONS/ONBOARDING_SUPPORT_AND_QA.md",
-    "second_brain/19_Canonical_B_RealEstate/07_OPERATIONS/GOLDEN_TRANSACTION_WORKFLOW.md",
-    "second_brain/19_Canonical_B_RealEstate/07_OPERATIONS/COMPLIANCE_AND_LEGAL_REGISTER.md",
-    "second_brain/19_Canonical_B_RealEstate/07_OPERATIONS",
-    "second_brain/19_Canonical_B_RealEstate/06_FINANCE",
-    "second_brain/19_Canonical_B_RealEstate/05_STRATEGY",
-    "second_brain/19_Canonical_B_RealEstate/03_PRODUCTS/BUILDING_BLOCKS",
-    "second_brain/19_Canonical_B_RealEstate/03_PRODUCTS/VAULTED"
+    "second_brain/19_Canonical_B_RealEstate/08_DATA_AI/KNOWLEDGE_INGESTION_AND_RETENTION.md"
   ]
 }

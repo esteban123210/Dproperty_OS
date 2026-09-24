@@ -1,3 +1,10 @@
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Static export of the pre-reset plan under the legacy “Dproperty OS” name.
+>
+> **Current instead:** [[../19_Canonical_B_RealEstate/01_COMPANY/B_RealEstate_Master_Business_Plan_2026]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
 # Dproperty OS & Network — Business Plan
 
 ## 1. Executive summary

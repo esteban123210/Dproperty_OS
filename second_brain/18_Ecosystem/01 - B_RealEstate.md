@@ -4,9 +4,12 @@ title: "B_RealEstate"
 type: ecosystem_component
 status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, parent-brand, company]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # B_RealEstate
 

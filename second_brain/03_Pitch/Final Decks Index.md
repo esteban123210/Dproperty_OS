@@ -8,6 +8,11 @@ last_updated: 2026-09-20
 tags: [pitch, investor, decks]
 ---
 
+> [!NOTE] Verified against canon 2026-09-23
+> Index is current. Every deck listed must be regenerated against reconciled canon before external use.
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
+
 # Final Decks Index
 
 ## Current canonical deck

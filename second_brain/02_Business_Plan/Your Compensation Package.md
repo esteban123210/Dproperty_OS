@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Your Compensation Package"
 type: business_plan_note
 status: Baseline Created
@@ -8,6 +8,11 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [business-plan]
 ---
+
+> [!NOTE] Verified against canon 2026-09-23
+> Current for review. Founder employment/EOR jurisdiction remains an open evidence gap — see [[../19_Canonical_B_RealEstate/00_HOME/STATUS_DASHBOARD]].
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]
 
 # Esteban Compensation Package
 

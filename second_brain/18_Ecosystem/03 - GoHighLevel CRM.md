@@ -4,9 +4,12 @@ title: "GoHighLevel — BlankCRM Engine"
 type: technology_component
 status: Canonical v3.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, crm, gohighlevel, blankcrm]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # GoHighLevel — BlankCRM Engine
 

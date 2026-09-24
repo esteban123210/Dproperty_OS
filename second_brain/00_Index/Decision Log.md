@@ -4,7 +4,7 @@ title: "Decision Log"
 type: decision_log
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [decisions, source-of-truth]
 ---
@@ -416,7 +416,7 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 
 **Decision:** DpropertyLiving appears on the live site but is not yet an approved fourth commercial door. It remains a documented concept under decision until its brand role, audience, territory rights, economics and relationship to white-label are approved.
 
-**Status:** Open decision. See [[../18_Ecosystem/10 - DpropertyLiving]].
+**Status:** ~~Open decision~~ → **SUPERSEDED 2026-09-20: parked.** See [[../18_Ecosystem/10 - DpropertyLiving]].
 
 
 ## 2026-08-16 — BluePrint Product Constitution Is the Product Boundary
@@ -554,3 +554,79 @@ All manuals are **curated views of one shared Process Library**, seeded from the
 **Next model:** bottom-up ICP-specific TAM/SAM/SOM; SaaS customer/ARPA/retention model; BlankCRM attach; VAULTED activation/GMV/take rate; channel economics; milestone-based capital plan.
 
 **Status:** Active reset; rebuild required before investor-grade claims.
+
+
+---
+
+## 2026-09-23 — Canonical Reconciliation: Two Canons Merged Into Three Layers
+
+**Decision:** The `18_Ecosystem` canon (2026-09-20) and the `19_Canonical_B_RealEstate` baseline (2026-09-23) are reconciled by a single controlling note: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence]]. Neither folder is sole authority. They become three layers with an explicit precedence order:
+
+- `18_Ecosystem/` — what the company **is**.
+- `04_Product/BluePrint/` — what the product **is**.
+- `19_Canonical_B_RealEstate/` — how it is **proven and financed**.
+
+**Reason:** Two internally-consistent canons three days apart answered "what is BluePrint" differently, with neither marked as losing. That makes the vault unusable for investors, developers and AI assistants.
+
+**Impacted areas:** Everything.
+
+**Status:** Active — controls the vault.
+
+## 2026-09-23 — BluePrint Definition Merged, Not Chosen Between
+
+**Decision:** **BluePrint is a chat-first, AI-native management operating system for small and growing real-estate agencies, whose system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity.**
+
+This partially reverses the 2026-09-20 decision record. The *property/project/unit inventory, listing and MLS* ambition stays **permanently retired**. The *transaction and commission record* is **reinstated** as BluePrint's core entity and first wedge module.
+
+**Reason:**
+1. You cannot verify what you do not hold. The Reported → Operationally verified → Financially verified → Closed hierarchy *is* a transaction lifecycle, and its own worked example is a CRM deal becoming verified in BluePrint.
+2. A management layer with no owned transaction object is a BI tool — precisely the "another dashboard" objection named as the buyer's top fear. It will not sustain $399–$799/month.
+3. Commission calculation and deal-file compliance are the real, expensive, defensible pain, and are what spreadsheets currently do badly.
+4. `04_Product/BluePrint/03 - Architecture` already conceded "receivables, commission liabilities."
+5. It yields a falsifiable MVP gate: one workflow from qualified intake through commission/report with no shadow spreadsheet as authority.
+
+**The boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+
+**Impacted areas:** Product, Pitch, Finance, Business Plan, Data/AI, Operations.
+
+**Status:** Active — needs Esteban's ratification.
+
+## 2026-09-23 — Naming Resolved: Academy and B_ Partner
+
+**Decision:** **Academy / B_Academy** is the canonical name for the learning layer; `19_Canonical`'s **Building Blocks** is a legacy alias. **B_ Partner** is the canonical name for the managed own-brand channel; **White-Label** is a legacy alias.
+
+**Reason:** An LMS is not defensible IP and must not carry investor weight as a standalone product. Consistent naming is required for the deck, website and contracts.
+
+**Impacted areas:** Brand, Pitch, Product, `13_White_Label/`, `19_Canonical`.
+
+**Status:** Active.
+
+## 2026-09-23 — BluePrint Pricing Moved to $399 / $799 + $1,500 Setup
+
+**Decision:** BluePrint is priced **Core $399/month · Growth $799/month · $1,500 setup**, per organization/office, never per agent seat. A **Scale** tier is quoted and deliberately undefined. The $299 / $599 / $999 tiers are retired.
+
+**Reason:** The $399/$799 points are tied to a built integrated model with CAC/payback/ARR outputs; the $299/$599/$999 set was a freehand hypothesis. A setup fee is correct for implementation-heavy B2B and funds onboarding cost. The org-level (not seat-level) shape is retained from `18_Ecosystem`.
+
+**Impacted areas:** Finance, Pitch, Business Plan, Product pricing.
+
+**Status:** Active `[A]` — validate with design partners before publication.
+
+## 2026-09-23 — Capital Envelope Is $950k / $800k, Staged
+
+**Decision:** The current capital position is a **$950k capitalization envelope with an $800k 18-month operating plan, released in stages against evidence gates.** Both the $650k and the $1.5M concepts are superseded.
+
+**Reason:** $950k is model-backed by the integrated launch workbook; the others were not.
+
+**Impacted areas:** Finance, Pitch, Funding Plan.
+
+**Status:** Active `[M]` — needs Esteban's ratification.
+
+## 2026-09-23 — Vault-Wide Truth Labels and Precedence
+
+**Decision:** All material claims carry a truth label — `[F] Fact` · `[D] Decision` · `[M] Model` · `[A] Assumption` · `[T] Target` · `[R] Required evidence`. Document lifecycle is `DRAFT → REVIEW → APPROVED → SUPERSEDED → ARCHIVED`. Superseded notes keep their content behind a visible banner. **Nothing is deleted** — old thinking is evidence.
+
+**Reason:** Diligence speed comes from exposing missing evidence, not hiding it.
+
+**Impacted areas:** All folders, `CLAUDE.md`, AI Handoff Pack.
+
+**Status:** Active.

@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Esteban's Weekly Tasks"
 type: execution_tracker
 status: Active
@@ -10,6 +10,13 @@ deadline: 2026-09-15
 last_updated: 2026-07-06
 tags: [tasks, execution, strategic, weekly]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Jul–Sept 2026 personal task plan.
+>
+> **Current instead:** [[../00_Index/Current Priorities]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Your Weekly Task List
 ## July 6 – September 15, 2026

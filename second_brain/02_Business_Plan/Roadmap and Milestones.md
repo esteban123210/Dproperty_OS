@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Roadmap and Milestones"
 type: business_plan_note
 status: Baseline Created
@@ -8,6 +8,13 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [business-plan]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Franchise-rollout roadmap predating the product-led reset.
+>
+> **Current instead:** [[../18_Ecosystem/16 - Roadmap and Governance]] and [[../19_Canonical_B_RealEstate/09_ROADMAP/ROADMAP_AND_VALIDATION_EXPERIMENTS]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Roadmap and Milestones
 

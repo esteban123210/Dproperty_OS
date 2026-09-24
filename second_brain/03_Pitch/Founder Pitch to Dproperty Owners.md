@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Founder Pitch to Dproperty Owners"
 type: pitch_note
 status: Baseline Created
@@ -8,6 +8,13 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [pitch]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Pitches the franchise-first venture and the retired funding ask. The strategic ask has changed.
+>
+> **Current instead:** [[Pitch Deck Outline]] and [[../00_Index/Project Context Brief]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Founder Pitch to Dproperty Owners
 

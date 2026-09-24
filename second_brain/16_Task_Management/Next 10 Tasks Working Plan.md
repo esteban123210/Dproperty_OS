@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Next 10 Tasks Working Plan"
 type: work_plan
 status: Baseline Created
@@ -8,6 +8,13 @@ last_updated: 2026-07-01
 source: ChatGPT baseline vault package
 tags: [tasks, workflow]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> July 2026 task plan.
+>
+> **Current instead:** [[../00_Index/Current Priorities]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Next 10 Tasks Working Plan
 
@@ -20,7 +27,7 @@ Make sure the project brain is usable.
 ### Steps
 
 1. Open `README - Start Here.md`.
-2. Open `00_Index/Dproperty OS - Master Index.md`.
+2. Open `00_Index/Master Index.md`.
 3. Open `00_Index/Project Context Brief.md`.
 4. Open `16_Task_Management/Deliverables Tracker - Compact MD.md`.
 5. Check that the core notes link properly.

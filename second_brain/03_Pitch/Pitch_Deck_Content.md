@@ -1,9 +1,5 @@
-> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
-> Current source: [[Pitch Deck Outline]]
-
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Pitch Deck Content"
 type: pitch_note
 status: Ready for Review (2 slides blocked)
@@ -12,6 +8,17 @@ owner: Esteban
 last_updated: 2026-07-02
 tags: [pitch]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Slide content for the pre-reset franchise-first deck.
+>
+> **Current instead:** [[Pitch Deck Outline]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
+
+> **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> Current source: [[Pitch Deck Outline]]
 
 # Pitch Deck Content v0.9
 

@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Weekly Roadmap — July to Sept 2026"
 type: execution_roadmap
 status: Active
@@ -10,6 +10,13 @@ deadline: 2026-09-15
 last_updated: 2026-07-06
 tags: [roadmap, execution, first-franchise, critical]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> Jul–Sept 2026 roadmap; the period has closed and the strategy has changed.
+>
+> **Current instead:** [[../00_Index/Current Priorities]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Weekly Roadmap: July 6 – September 15, 2026
 ## First-Franchise Launch-Ready Deadline

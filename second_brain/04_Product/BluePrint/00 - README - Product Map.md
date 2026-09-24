@@ -2,20 +2,25 @@
 project: B_RealEstate
 title: "BluePrint — Canonical Product Map"
 type: product_index
-status: Canonical v3.0
-version: 3.0
+status: Canonical v4.0
+version: 4.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [blueprint, product, management-os, backoffice, source-of-truth]
 ---
 
+> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
+> [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+>
+> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+
 # BluePrint — Canonical Product Map
 
-> **This folder controls BluePrint from 2026-09-20 onward.** Older transaction-spine, property/project, inventory and commission-workflow specifications are historical unless explicitly incorporated here.
+> **This folder controls BluePrint.** Property/project/unit inventory, listing and MLS specifications remain historical and retired. The **transaction and commission spine is incorporated here as of 2026-09-23.**
 
 ## One-line product definition
 
-**BluePrint is a chat-first, AI-native management operating system for small and growing real-estate agencies. It lets a lean administrative team run institutional-quality back-office operations by turning natural-language requests, connected-system data and company standards into structured, auditable management work.**
+**BluePrint is a chat-first, AI-native management operating system for small and growing real-estate agencies, whose system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity. It lets a lean administrative team run institutional-quality back-office operations by turning natural-language requests, connected-system data and company standards into structured, auditable management work.**
 
 ## Read in this order
 
@@ -33,10 +38,14 @@ tags: [blueprint, product, management-os, backoffice, source-of-truth]
 
 ## Binding boundary
 
-BluePrint does **not** own leads, marketing automation, property/project inventory, listing management, accounting ledgers, payroll, tax accounting, MLS, or general sales pipelines.
+BluePrint does **not** own leads, marketing automation, the pre-qualification pipeline, property/project/unit inventory, listing management, MLS, accounting ledgers, payroll, tax accounting, property management, LMS delivery, marketplace listings, or escrow/custody/money movement.
 
-BluePrint **does** own management truth, management workflows, process assurance, operational incidents, management reporting, budget/variance oversight, evidence/verification state, management knowledge, approvals, long-term audit history and AI-assisted back-office execution.
+BluePrint **does** own, from **qualified opportunity** onward: the transaction file, parties and assets as transaction participants, documents/compliance checklists and evidence, approval policies and e-signature evidence, reservation/contract milestones and closing, and **commission rules, calculation snapshots, adjustments and receivable/payout status**.
+
+BluePrint **also** owns management truth and verification state, management workflows, process assurance, operational incidents, management reporting, budget/variance oversight, management knowledge, approvals, long-term audit history and AI-assisted back-office execution.
 
 ## Product test
 
 If BluePrint does not deliver material value to an agency that already has a good CRM and competent accounting software, the product thesis fails.
+
+**Golden-workflow gate:** one workflow must run from **qualified intake -> transaction file -> documents/compliance -> approval -> closing -> commission snapshot -> management report** with **no shadow spreadsheet acting as the authority**.

@@ -4,7 +4,7 @@ title: "Source Map"
 type: source_map
 status: Active
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [research, sources]
 ---
 
@@ -12,10 +12,12 @@ tags: [research, sources]
 
 ## Current canonical architecture
 
+- [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Precedence — read first]]
 - [[../18_Ecosystem/README|Ecosystem Start Here]]
 - [[../18_Ecosystem/00 - Ecosystem Master Map|Master Map]]
 - [[../18_Ecosystem/17 - Product and Channel Hierarchy|Product & Channel Hierarchy]]
-- [[../04_Product/BluePrint/00 - README - Product Map|BluePrint v3.0]]
+- [[../04_Product/BluePrint/00 - README - Product Map|BluePrint Product Canon]]
+- [[../19_Canonical_B_RealEstate/00_HOME/README|Finance / Data-AI / Operations / Diligence Canon]]
 - [[../18_Ecosystem/03A - BlankCRM|BlankCRM]]
 - [[../18_Ecosystem/05 - VAULTED|VAULTED]]
 - [[../18_Ecosystem/14 - Unit Economics Registry|Economics Registry]]
@@ -23,7 +25,7 @@ tags: [research, sources]
 
 ## Technology boundaries
 
-BluePrint — proprietary management/control layer.  
+BluePrint — proprietary management/control layer; system of record for the verified transaction and commission record from qualified opportunity.  
 GoHighLevel — third-party engine behind BlankCRM.  
 Open edX — Academy engine.  
 Accounting — ledger.  

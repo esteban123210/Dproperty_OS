@@ -1,5 +1,5 @@
 ---
-project: Dproperty OS
+project: B_RealEstate
 title: "Pitch Sprint Roadmap - July 2026"
 type: execution_roadmap
 status: Active
@@ -12,6 +12,13 @@ rehearsal: 2026-07-31
 last_updated: 2026-07-04
 tags: [roadmap, sprint, pitch, execution]
 ---
+
+> [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
+> July 2026 pitch sprint, targeting the pre-reset deck.
+>
+> **Current instead:** [[../00_Index/Current Priorities]]
+>
+> Precedence: [[../18_Ecosystem/18 - Canonical Reconciliation and Precedence|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 # Pitch Sprint Roadmap — July 2026
 

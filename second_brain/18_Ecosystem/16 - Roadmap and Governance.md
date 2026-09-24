@@ -4,9 +4,12 @@ title: "Ecosystem Roadmap and Governance"
 type: governance_roadmap
 status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-23
 tags: [ecosystem, roadmap, governance]
 ---
+
+> [!IMPORTANT] Reconciled 2026-09-23
+> Precedence: [[18 - Canonical Reconciliation and Precedence]] controls this note.
 
 # Ecosystem Roadmap and Governance
 

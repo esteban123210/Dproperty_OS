@@ -4,9 +4,12 @@ title: "04_Vault Manifest (pointer)"
 type: pointer
 status: Pointer
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-23
 tags: [ai-handoff, pointer]
 ---
+
+> [!IMPORTANT] Upload the precedence note first
+> Before this file, upload [[../../18_Ecosystem/18 - Canonical Reconciliation and Precedence|18_Ecosystem/18 - Canonical Reconciliation and Precedence.md]] — it controls the vault and resolves the two-canon conflict. See [[00_Canonical Reconciliation and Precedence]].
 
 # 04 — Vault Manifest → see canonical
 
