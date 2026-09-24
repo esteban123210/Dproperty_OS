@@ -4,7 +4,9 @@
 
 | Due Date | Course | Assignment | Status | Priority |
 |----------|--------|-----------|--------|----------|
-| -- | -- | -- | -- | -- |
+| 2026-10-15* | Marketing & Sales in the Digital Age | Blue strategy project presentation | In progress | High |
+
+*Date stated in the project proposal; confirm against the official course calendar.
 
 ---
 
@@ -13,7 +15,7 @@
 ### Semester 1
 
 | Course | Assignment | Type | Due Date | Submitted | Grade |
-|--------|-----------|------|----------|-----------|-------|
+|--------|------------|------|----------|-----------|-------|
 | Strategic Performance Management | -- | -- | -- | -- | -- |
 | Competitive & Corporate Strategy | -- | -- | -- | -- | -- |
 | Change Management | -- | -- | -- | -- | -- |
@@ -22,7 +24,7 @@
 ### Semester 2
 
 | Course | Assignment | Type | Due Date | Submitted | Grade |
-|--------|-----------|------|----------|-----------|-------|
+|--------|------------|------|----------|-----------|-------|
 | Corporate Strategy | -- | -- | -- | -- | -- |
 | Corporate Finance | -- | -- | -- | -- | -- |
 | Purpose-Driven Strategy | -- | -- | -- | -- | -- |
@@ -36,7 +38,7 @@
 ### Semester 1
 
 | Course | Assignment | Type | Due Date | Submitted | Grade |
-|--------|-----------|------|----------|-----------|-------|
+|--------|------------|------|----------|-----------|-------|
 | Ethics, Responsibility and Sustainability | -- | -- | -- | -- | -- |
 | Business Negotiations | -- | -- | -- | -- | -- |
 | Developments in International Business | -- | -- | -- | -- | -- |
@@ -45,10 +47,10 @@
 ### Semester 2
 
 | Course | Assignment | Type | Due Date | Submitted | Grade |
-|--------|-----------|------|----------|-----------|-------|
+|--------|------------|------|----------|-----------|-------|
 | Valuation | -- | -- | -- | -- | -- |
 | The Executive Process | -- | -- | -- | -- | -- |
-| Marketing & Sales in the Digital Age | -- | -- | -- | -- | -- |
+| Marketing & Sales in the Digital Age | Blue strategy project presentation | Group project / presentation | 2026-10-15* | In progress | -- |
 | Strategic Analytics | -- | -- | -- | -- | -- |
 | Actualysis | -- | -- | -- | -- | -- |
 
@@ -88,4 +90,4 @@
 
 ---
 
-**Last updated:** 2026-07-05
+**Last updated:** 2026-09-24

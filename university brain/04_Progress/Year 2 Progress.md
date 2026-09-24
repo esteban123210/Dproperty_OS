@@ -4,12 +4,12 @@
 
 | Metric | Value |
 |--------|-------|
-| **Courses Started** | 0 / 9 |
+| **Courses Started** | 1 / 9 |
 | **Courses Completed** | 0 / 9 |
 | **Capstone Status** | Not started |
 | **Current GPA** | -- |
 | **Target GPA** | -- |
-| **Year 2 Status** | 🟡 Not started |
+| **Year 2 Status** | 🟡 In progress |
 
 ---
 
@@ -39,11 +39,12 @@
 |--------|--------|-------|-------|
 | Valuation | Not started | -- | [[02_Year_2/Semester_2/Valuation]] |
 | The Executive Process | Not started | -- | [[02_Year_2/Semester_2/The Executive Process]] |
-| Marketing & Sales in the Digital Age | Not started | -- | [[02_Year_2/Semester_2/Marketing & Sales in the Digital Age]] |
+| Marketing & Sales in the Digital Age | In progress | -- | [[02_Year_2/Semester_2/Marketing & Sales in the Digital Age]] - project workspace contains a first-pass canvas, market diagnostic, interview guide, and working deck. |
 | Strategic Analytics | Not started | -- | [[02_Year_2/Semester_2/Strategic Analytics]] |
 | Actualysis | Not started | -- | [[02_Year_2/Semester_2/Actualysis]] |
 
 ### Semester 2 Summary
+- Courses started: 1/5
 - Courses completed: 0/5
 - Assignments submitted: 0
 - Average grade: --
@@ -56,7 +57,7 @@
 **Topic:** [To be determined]  
 **Company/Organization:** [To be determined]  
 **Supervisor:** [To be assigned]  
-**Timeline:** [To be determined]  
+**Timeline:** [To be determined]
 
 See: [[02_Year_2/Capstone/MBA In-Company Thesis Project]]
 
@@ -73,9 +74,9 @@ See: [[02_Year_2/Capstone/MBA In-Company Thesis Project]]
 
 | Date | Assignment | Course |
 |------|-----------|--------|
-| -- | -- | -- |
+| 2026-10-15* | Blue strategy project presentation | Marketing & Sales in the Digital Age |
 
----
+*Date stated in the project proposal; confirm against the official course calendar.
 
 ## Key Reflections
 
@@ -100,5 +101,5 @@ See: [[02_Year_2/Capstone/MBA In-Company Thesis Project]]
 
 ---
 
-**Last updated:** 2026-07-05  
+**Last updated:** 2026-09-24  
 **Next review:** [Date]

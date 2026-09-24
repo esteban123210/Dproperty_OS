@@ -4,7 +4,7 @@
 
 **Year 2 Focus:** Advanced strategy, international business, ethics, analytics, and capstone thesis  
 **Total Courses:** 9 + Capstone  
-**Duration:** 2 semesters + Capstone period  
+**Duration:** 2 semesters + Capstone period
 
 ---
 
@@ -44,7 +44,7 @@
 
 3. **[[02_Year_2/Semester_2/Marketing & Sales in the Digital Age|Marketing & Sales in the Digital Age]]**
    - Focus: Digital marketing strategies & sales techniques
-   - Status: Not started
+   - Status: In progress - proposal, first-pass canvas, market diagnostic, interview guide, and working deck are available
 
 4. **[[02_Year_2/Semester_2/Strategic Analytics|Strategic Analytics]]**
    - Focus: Data-driven strategic decision-making
@@ -69,8 +69,8 @@
 
 - **Courses Completed:** 0/9
 - **Capstone Started:** No
-- **In Progress:** 0
-- **Not Started:** 9 + Capstone
+- **In Progress:** 1
+- **Not Started:** 8 + Capstone
 - **GPA:** --
 
 Track your progress: [[04_Progress/Year 2 Progress|Year 2 Progress Tracker]]
@@ -85,4 +85,4 @@ Track your progress: [[04_Progress/Year 2 Progress|Year 2 Progress Tracker]]
 
 ---
 
-**Last updated:** 2026-07-05
+**Last updated:** 2026-09-24
