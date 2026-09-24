@@ -4,20 +4,20 @@
   "title": "Align second brain docs with ecosystem mastermap",
   "titleGenerationStatus": "success",
   "createdAt": 1790195285353,
-  "updatedAt": 1790257956078,
-  "lastResponseAt": 1790257956078,
+  "updatedAt": 1790291888549,
+  "lastResponseAt": 1790291888549,
   "sessionId": "7d075f3b-1c2e-4716-b5c4-4938b0c70c46",
   "providerState": {
     "providerSessionId": "7d075f3b-1c2e-4716-b5c4-4938b0c70c46"
   },
   "usage": {
     "model": "opus",
-    "inputTokens": 0,
-    "cacheCreationInputTokens": 0,
-    "cacheReadInputTokens": 0,
+    "inputTokens": 2,
+    "cacheCreationInputTokens": 1081,
+    "cacheReadInputTokens": 398921,
     "contextWindow": 1000000,
-    "contextTokens": 0,
-    "percentage": 0,
+    "contextTokens": 400004,
+    "percentage": 40,
     "contextWindowIsAuthoritative": true
   }
 }
