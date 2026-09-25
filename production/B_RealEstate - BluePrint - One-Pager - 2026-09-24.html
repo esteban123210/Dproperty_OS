@@ -1,0 +1,301 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>B_RealEstate — BluePrint — One-Pager</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bone:#F7F4ED; --bone-deep:#EFEAE0; --bone-warm:#FAF8F3;
+  --charcoal:#1A1A1A; --soft:#55514C; --champagne:#B89B5E;
+  --blue:#1F4E79; --rule:rgba(26,26,26,.25);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+@page{size:letter;margin:13mm 14mm}
+html,body{background:var(--bone);color:var(--charcoal);
+  font-family:'Inter',system-ui,sans-serif;font-size:9.4pt;line-height:1.48;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:186mm;min-height:246mm;margin:0 auto;background:var(--bone);position:relative;padding-bottom:12mm}
+.page+.page{page-break-before:always}
+
+/* header */
+.eyebrow{font-family:'JetBrains Mono',monospace;font-size:7pt;text-transform:uppercase;
+  letter-spacing:.09em;color:var(--soft)}
+.masthead{display:flex;justify-content:space-between;align-items:flex-start}
+.brandmark{font-family:'JetBrains Mono',monospace;font-size:7pt;letter-spacing:.09em;
+  color:var(--soft);text-align:right;line-height:1.7}
+h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:27pt;
+  line-height:1.05;letter-spacing:-.022em;margin:1.5mm 0 1.5mm}
+.positioning{font-size:10.4pt;color:var(--soft);max-width:132mm;line-height:1.42}
+.hrule{border-top:1.4pt solid var(--charcoal);margin:4mm 0 5mm}
+
+/* section headers */
+h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:13.5pt;
+  letter-spacing:-.012em;margin:0 0 2mm;break-after:avoid}
+.snum{font-family:'JetBrains Mono',monospace;font-size:7pt;letter-spacing:.09em;
+  color:var(--champagne);display:block;margin-bottom:.8mm}
+h3{font-family:'JetBrains Mono',monospace;font-size:7pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.09em;color:var(--soft);margin:0 0 1.5mm;break-after:avoid}
+p{margin:0 0 2.4mm}
+strong{font-weight:600}
+em{font-family:'Playfair Display',serif;font-style:italic}
+
+/* two-column body */
+.cols{display:grid;grid-template-columns:1fr 66mm;gap:8mm;align-items:start}
+.owns{font-size:8.8pt;line-height:1.5}
+.owns.not{color:var(--soft)}
+
+/* glance panel */
+.panel{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);
+  padding:4mm 4.5mm;break-inside:avoid}
+.dl{margin:0}
+.dl div{display:flex;gap:2.5mm;padding:1.4mm 0;border-bottom:.4pt solid var(--rule);font-size:8.4pt}
+.dl div:last-of-type{border-bottom:none}
+.dl dt{font-family:'JetBrains Mono',monospace;font-size:6.6pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);min-width:15mm;padding-top:.5mm}
+.dl dd{flex:1}
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:3mm;margin-top:4mm;
+  padding-top:3.5mm;border-top:.9pt solid var(--charcoal)}
+.fig .n{font-family:'Playfair Display',serif;font-weight:500;font-size:16pt;
+  line-height:1;color:var(--champagne)}
+.fig .l{font-family:'JetBrains Mono',monospace;font-size:6.2pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);margin-top:1mm;line-height:1.35}
+
+/* tables */
+table{width:100%;border-collapse:collapse;font-size:8.4pt;margin:1.5mm 0 3mm;break-inside:avoid}
+th{background:var(--bone-deep);font-family:'JetBrains Mono',monospace;font-size:6.6pt;
+  font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:var(--soft);
+  text-align:left;padding:1.8mm 2.2mm;border-bottom:.9pt solid var(--charcoal)}
+td{padding:1.5mm 2.2mm;border-bottom:.4pt solid var(--rule);vertical-align:top}
+tr:nth-child(even) td{background:var(--bone-warm)}
+.num{text-align:right;white-space:nowrap}
+.side{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+caption{font-family:'JetBrains Mono',monospace;font-size:6.6pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);text-align:left;padding-bottom:1.5mm}
+
+/* truth chips */
+.chip{font-family:'JetBrains Mono',monospace;font-size:6.4pt;background:var(--bone-deep);
+  color:var(--blue);padding:.3mm 1.1mm;border-radius:1pt;white-space:nowrap;font-weight:500}
+
+.note{font-size:8.2pt;color:var(--soft);border-left:2pt solid var(--rule);
+  padding-left:3.5mm;margin:2mm 0 3mm}
+.boundary{background:var(--bone-deep);padding:3mm 4mm;font-size:8.8pt;margin:2.5mm 0 0;
+  border-left:2.6pt solid var(--charcoal)}
+
+/* canvas grid */
+.canvas{display:grid;grid-template-columns:repeat(5,1fr);grid-template-rows:auto auto auto;
+  gap:1.6mm;margin-top:2mm}
+.cell{background:var(--bone-deep);border:.4pt solid var(--rule);padding:2.8mm 3mm;break-inside:avoid}
+.cell h4{font-family:'JetBrains Mono',monospace;font-size:6.2pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.07em;color:var(--soft);margin-bottom:1.5mm}
+.cell ul{list-style:none;font-size:7.8pt;line-height:1.42}
+.cell li{padding-left:2.6mm;position:relative;margin-bottom:.7mm}
+.cell li::before{content:"·";position:absolute;left:.6mm;color:var(--champagne);font-weight:700}
+.vp{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);
+  grid-column:3;grid-row:1/span 2}
+.vp h4{color:var(--charcoal)}
+.kp{grid-column:1;grid-row:1/span 2}
+.cs-cell{grid-column:5;grid-row:1/span 2}
+.wide-l{grid-column:1/span 2}
+.wide-r{grid-column:3/span 3}
+
+/* footer */
+.foot{position:absolute;bottom:0;left:0;right:0;border-top:.4pt solid var(--rule);
+  padding-top:2mm;display:flex;justify-content:space-between;
+  font-family:'JetBrains Mono',monospace;font-size:6.2pt;letter-spacing:.05em;color:var(--soft)}
+.foot span{max-width:150mm;line-height:1.5}
+</style>
+</head>
+<body>
+
+<!-- ================= PAGE 1 ================= -->
+<section class="page">
+  <div class="masthead">
+    <div>
+      <div class="eyebrow">Product — Proprietary Core</div>
+      <h1>BluePrint</h1>
+    </div>
+    <div class="brandmark">B_RealEstate<br>24 Sept 2026<br>v1.0</div>
+  </div>
+  <p class="positioning">The management operating system that owns the deal from qualified
+    opportunity through commission and audit.</p>
+  <div class="hrule"></div>
+
+  <div class="cols">
+    <div>
+      <h3>The idea</h3>
+      <p>BluePrint is the back-office and transaction operating system for small and midsize
+        real-estate organizations. It becomes authoritative the moment a lead becomes a
+        <strong>qualified opportunity</strong>, and controls everything needed to move that
+        opportunity to a documented close: parties, compliance evidence, documents, approvals,
+        contract milestones, commissions, reporting and audit history.</p>
+      <p>It is built for agencies run by strong sellers who have no appetite for back-office
+        administration. One capable coordinator plus BluePrint should replace the management
+        structure a growing agency would otherwise have to hire.</p>
+      <p>It is chat-first: natural language in, structured and auditable company records out.</p>
+
+      <h3 style="margin-top:4mm">The problem</h3>
+      <p>Critical information is scattered across chats, drives, spreadsheets, CRMs and individual
+        memory. Handoffs fail, documents go missing, approvals are invisible, commissions get
+        disputed, and management reporting has to be manually reconstructed every month.</p>
+
+      <h3 style="margin-top:4mm">What it owns</h3>
+      <p class="owns">Qualified-opportunity intake · the transaction file · documents, compliance
+        checklists and evidence · approval policies and e-signature evidence · contract milestones
+        and closing · <strong>commission rules, calculation snapshots and payout status</strong> ·
+        management budgets, variance and KPIs · process assurance and operational incidents ·
+        period close · long-term audit trail · permission-grounded Copilot.</p>
+
+      <h3 style="margin-top:3.5mm">What it does not own</h3>
+      <p class="owns not">Leads, marketing automation and the pre-qualification pipeline (BlankCRM) ·
+        property, project and unit inventory, listings or MLS · general ledger, tax and payroll
+        (accounting) · property management · course delivery (Building Blocks) · marketplace
+        listings (VAULTED) · escrow, custody and money movement.</p>
+    </div>
+
+    <aside class="panel">
+      <h3 style="margin-bottom:2.5mm">At a glance</h3>
+      <dl class="dl">
+        <div><dt>Type</dt><dd>Product — proprietary core SaaS. This is where the moat is.</dd></div>
+        <div><dt>Job</dt><dd>Run and control the company.</dd></div>
+        <div><dt>Price</dt><dd>$1,500 setup · Core <strong>$399</strong>/mo · Growth
+          <strong>$799</strong>/mo, per organization <span class="chip">[A]</span></dd></div>
+        <div><dt>Status</dt><dd>Spec complete. Current build priority. No paid external validation.</dd></div>
+        <div><dt>Next gate</dt><dd>5 design partners → 3 paid conversions</dd></div>
+      </dl>
+      <div class="figs">
+        <div class="fig"><div class="n">$4,788</div><div class="l">Core annual contract value</div></div>
+        <div class="fig"><div class="n">$9,588</div><div class="l">Growth annual contract value</div></div>
+        <div class="fig"><div class="n">3.3 mo</div><div class="l">Modelled CAC payback</div></div>
+        <div class="fig"><div class="n">3–50</div><div class="l">Beachhead org size, people</div></div>
+      </div>
+    </aside>
+  </div>
+
+  <div class="boundary"><strong>The boundary in one line:</strong> BluePrint owns
+    <em>the deal as a governed management object</em>. It does not own
+    <em>the property as inventory</em>.</div>
+
+  <h2 style="margin-top:5mm"><span class="snum">01</span>Economics</h2>
+  <div class="side">
+    <table>
+      <caption>For the customer</caption>
+      <thead><tr><th>Item</th><th class="num">Figure</th></tr></thead>
+      <tbody>
+        <tr><td>Annual cost, Core</td><td class="num">$4,788 + $1,500</td></tr>
+        <tr><td>Annual cost, Growth</td><td class="num">$9,588 + $1,500</td></tr>
+        <tr><td>Back-office hire deferred <span class="chip">[A]</span></td><td class="num">$18k–$35k</td></tr>
+        <tr><td>Implementation effort <span class="chip">[T]</span></td><td class="num">&lt;40 → &lt;20 hrs</td></tr>
+        <tr><td>Time to production <span class="chip">[T]</span></td><td class="num">&lt;21 days</td></tr>
+      </tbody>
+    </table>
+    <table>
+      <caption>For B_RealEstate</caption>
+      <thead><tr><th>Item</th><th class="num">Figure</th></tr></thead>
+      <tbody>
+        <tr><td>Software ARR / customer <span class="chip">[M]</span></td><td class="num">$4,645.80</td></tr>
+        <tr><td>Recurring GM contribution <span class="chip">[M]</span></td><td class="num">$3,600.40</td></tr>
+        <tr><td>CAC <span class="chip">[M]</span></td><td class="num">$1,000</td></tr>
+        <tr><td>CAC payback <span class="chip">[M]</span></td><td class="num">3.33 months</td></tr>
+        <tr><td>Share of Y5 portfolio rev <span class="chip">[M]</span></td><td class="num">$1.285M / $1.844M</td></tr>
+      </tbody>
+    </table>
+  </div>
+  <p class="note"><strong>Caveats stated plainly.</strong> These are model outputs on unvalidated
+    assumptions, not results. Retention is modelled at 8% annual churn with no cohort evidence, so
+    <strong>LTV is deliberately not reported</strong>. BluePrint&rsquo;s own COGS — AI, integration and
+    support cost per tenant — is not yet modelled <span class="chip">[R]</span>.</p>
+
+  <h2 style="margin-top:3mm"><span class="snum">02</span>What must be proven</h2>
+  <p style="font-size:8.6pt">Five design partners and three paid conversions · one complete
+    transaction run with <strong>no shadow spreadsheet acting as the authority</strong> · tenant
+    isolation, permissions and audit tests passed · implementation under 40 hours then under 20 ·
+    weekly active target users above 60% · critical workflow completion above 70% by month 9 ·
+    observed gross margin, payback and retention by cohort.</p>
+  <p class="note"><strong>Kill condition.</strong> If target agencies consistently prefer a
+    configured Odoo / GoHighLevel / accounting stack and will not pay materially for the
+    opinionated management layer, stop or reposition before large development spend.</p>
+
+  <div class="foot">
+    <span>Figures marked [A] are unvalidated assumptions · [M] model output · [T] target ·
+      [R] required evidence. Not an offer or investment solicitation.</span>
+    <span>1 / 2</span>
+  </div>
+</section>
+
+<!-- ================= PAGE 2 ================= -->
+<section class="page">
+  <div class="masthead">
+    <div>
+      <div class="eyebrow">BluePrint</div>
+      <h1 style="font-size:20pt">Business Model Canvas</h1>
+    </div>
+    <div class="brandmark">B_RealEstate<br>24 Sept 2026</div>
+  </div>
+  <div class="hrule" style="margin:3mm 0 4mm"></div>
+
+  <div class="canvas">
+    <div class="cell kp"><h4>Key partners</h4><ul>
+      <li>GoHighLevel — BlankCRM engine</li><li>Open edX — Building Blocks</li>
+      <li>Cloud &amp; AI providers</li><li>E-signature</li><li>Document storage</li>
+      <li>Accounting &amp; legal advisers</li></ul></div>
+
+    <div class="cell"><h4>Key activities</h4><ul>
+      <li>Product &amp; security engineering</li><li>Workflow design</li>
+      <li>Integrations</li><li>Implementation</li><li>Support</li><li>Analytics</li></ul></div>
+
+    <div class="cell vp"><h4>Value proposition</h4><ul>
+      <li>Controlled transactions from qualification to close</li>
+      <li>Fewer failed handoffs and missing documents</li>
+      <li>Accurate, auditable commissions</li>
+      <li>Management visibility <strong>without a management hire</strong></li>
+      <li>One governed source of operating truth</li>
+      <li>Verification hierarchy: reported → operationally verified → financially verified → closed</li></ul></div>
+
+    <div class="cell"><h4>Customer relationships</h4><ul>
+      <li>High-touch implementation</li><li>Moving to standardized onboarding</li>
+      <li>In-product success &amp; Copilot</li></ul></div>
+
+    <div class="cell cs-cell"><h4>Customer segments</h4><ul>
+      <li>Boutique agencies, 3–50 people</li><li>Developer sales teams</li>
+      <li>Dproperty franchises</li><li>B_ Partner own-brand partners</li></ul></div>
+
+    <div class="cell"><h4>Key resources</h4><ul>
+      <li>Data model &amp; workflow engine</li><li>Template library</li>
+      <li>Audit &amp; event history</li><li>Implementation IP</li><li>Team</li></ul></div>
+
+    <div class="cell"><h4>Channels</h4><ul>
+      <li>Founder-led outbound</li><li>Design partners</li>
+      <li>Franchise &amp; partner channel</li><li>Developer relationships</li>
+      <li>Building Blocks</li></ul></div>
+
+    <div class="cell wide-l"><h4>Cost structure</h4><ul>
+      <li>Engineering &amp; product</li><li>Cloud, API and AI inference</li>
+      <li>Security &amp; compliance</li><li>Implementation labour</li>
+      <li>Support</li><li>Sales &amp; marketing</li></ul></div>
+
+    <div class="cell wide-r"><h4>Revenue streams</h4><ul>
+      <li>Setup and migration — $1,500, higher for complex migration</li>
+      <li>Core subscription — $399/month per organization</li>
+      <li>Growth subscription — $799/month per organization</li>
+      <li>Usage: AI, storage, messages above included allowance</li>
+      <li>Integrations and premium implementation, quoted</li>
+      <li>Scale tier — quoted, deliberately undefined</li></ul></div>
+  </div>
+
+  <h2 style="margin-top:5mm"><span class="snum">03</span>Why it can be defended</h2>
+  <p style="font-size:8.6pt">Depth of workflow fit, accumulated templates and configuration packs,
+    integration reliability, accumulated transaction and audit history, implementation speed, and
+    high switching cost once BluePrint is the system of record.</p>
+  <p class="note">The incumbent to beat is not SkySlope or Dotloop — it is
+    <strong>CRM plus spreadsheets plus shared drives plus WhatsApp plus staff knowledge</strong>.</p>
+
+  <div class="foot">
+    <span>Figures marked [A] are unvalidated assumptions · [M] model output · [T] target ·
+      [R] required evidence. Not an offer or investment solicitation.</span>
+    <span>2 / 2</span>
+  </div>
+</section>
+
+</body>
+</html>

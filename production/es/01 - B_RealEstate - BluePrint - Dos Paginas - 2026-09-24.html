@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>B_RealEstate — BluePrint</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bone:#F7F4ED; --bone-deep:#EFEAE0; --bone-warm:#FAF8F3;
+  --charcoal:#1A1A1A; --soft:#55514C; --champagne:#B89B5E;
+  --blue:#1F4E79; --rule:rgba(26,26,26,.25);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+@page{size:letter;margin:13mm 14mm}
+html,body{background:var(--bone);color:var(--charcoal);
+  font-family:'Inter',system-ui,sans-serif;font-size:9.3pt;line-height:1.47;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:186mm;min-height:246mm;margin:0 auto;background:var(--bone);
+  position:relative;padding-bottom:12mm}
+.page+.page{page-break-before:always}
+
+.eyebrow{font-family:'JetBrains Mono',monospace;font-size:7pt;text-transform:uppercase;
+  letter-spacing:.09em;color:var(--soft)}
+.masthead{display:flex;justify-content:space-between;align-items:flex-start}
+.brandmark{font-family:'JetBrains Mono',monospace;font-size:6.8pt;letter-spacing:.09em;
+  color:var(--soft);text-align:right;line-height:1.7}
+h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:26pt;
+  line-height:1.05;letter-spacing:-.022em;margin:1.5mm 0}
+h1.sm{font-size:19pt}
+.positioning{font-size:10.2pt;color:var(--soft);max-width:134mm;line-height:1.4}
+.hrule{border-top:1.4pt solid var(--charcoal);margin:4mm 0 5mm}
+.hrule.thin{border-top:.4pt solid var(--rule);margin:3mm 0 4mm}
+
+h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:13pt;
+  letter-spacing:-.012em;margin:0 0 2mm;break-after:avoid}
+.snum{font-family:'JetBrains Mono',monospace;font-size:7pt;letter-spacing:.09em;
+  color:var(--champagne);display:block;margin-bottom:.8mm}
+h3{font-family:'JetBrains Mono',monospace;font-size:7pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.09em;color:var(--soft);
+  margin:0 0 1.5mm;break-after:avoid}
+h3.mt{margin-top:4mm}
+p{margin:0 0 2.3mm}
+strong{font-weight:600}
+em{font-family:'Playfair Display',serif;font-style:italic}
+.small{font-size:8.5pt}
+.soft{color:var(--soft)}
+
+.cols{display:grid;grid-template-columns:1fr 64mm;gap:7mm;align-items:start}
+.cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5mm}
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+
+.panel{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);
+  padding:4mm 4.5mm;break-inside:avoid}
+.panel.blue{border-left-color:var(--blue)}
+.panel.dark{border-left-color:var(--charcoal);background:var(--bone-deep)}
+.dl div{display:flex;gap:2.5mm;padding:1.3mm 0;border-bottom:.4pt solid var(--rule);font-size:8.3pt}
+.dl div:last-of-type{border-bottom:none}
+.dl dt{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);min-width:16mm;padding-top:.5mm}
+.dl dd{flex:1}
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:3mm;margin-top:4mm;
+  padding-top:3.5mm;border-top:.9pt solid var(--charcoal)}
+.fig .n{font-family:'Playfair Display',serif;font-weight:500;font-size:15.5pt;
+  line-height:1;color:var(--champagne)}
+.fig .l{font-family:'JetBrains Mono',monospace;font-size:6pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);margin-top:1mm;line-height:1.35}
+
+table{width:100%;border-collapse:collapse;font-size:8.3pt;margin:1.5mm 0 3mm;break-inside:avoid}
+th{background:var(--bone-deep);font-family:'JetBrains Mono',monospace;font-size:6.5pt;
+  font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:var(--soft);
+  text-align:left;padding:1.7mm 2.1mm;border-bottom:.9pt solid var(--charcoal)}
+td{padding:1.4mm 2.1mm;border-bottom:.4pt solid var(--rule);vertical-align:top}
+tr:nth-child(even) td{background:var(--bone-warm)}
+.num{text-align:right;white-space:nowrap}
+caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);text-align:left;padding-bottom:1.4mm}
+
+.chip{font-family:'JetBrains Mono',monospace;font-size:6.3pt;background:var(--bone-deep);
+  color:var(--blue);padding:.3mm 1.1mm;border-radius:1pt;white-space:nowrap;font-weight:500}
+
+.note{font-size:8.1pt;color:var(--soft);border-left:2pt solid var(--rule);
+  padding-left:3.5mm;margin:2mm 0 3mm}
+.callout{background:var(--bone-deep);padding:3mm 4mm;font-size:8.7pt;margin:2.5mm 0;
+  border-left:2.6pt solid var(--charcoal)}
+.callout.gold{border-left-color:var(--champagne);background:var(--bone-warm)}
+
+/* SIMPLE-READING BLOCK — the plain-language conclusion */
+.simple{background:var(--bone-warm);border:.5pt solid var(--champagne);
+  border-left:3.2pt solid var(--champagne);padding:4mm 4.5mm;margin:3.5mm 0;break-inside:avoid}
+.simple h3{color:var(--champagne);font-size:7.4pt;margin-bottom:2mm}
+.simple p{font-size:9pt;margin-bottom:2mm}
+.simple p:last-child{margin-bottom:0}
+.simple ul{list-style:none;font-size:9pt}
+.simple li{padding-left:4mm;position:relative;margin-bottom:1.4mm}
+.simple li::before{content:"→";position:absolute;left:0;color:var(--champagne);font-weight:600}
+
+/* canvas */
+.canvas{display:grid;grid-template-columns:repeat(5,1fr);gap:1.5mm;margin-top:2mm}
+.cell{background:var(--bone-deep);border:.4pt solid var(--rule);padding:2.6mm 2.8mm;break-inside:avoid}
+.cell h4{font-family:'JetBrains Mono',monospace;font-size:6pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.07em;color:var(--soft);margin-bottom:1.4mm}
+.cell ul{list-style:none;font-size:7.5pt;line-height:1.4}
+.cell li{padding-left:2.5mm;position:relative;margin-bottom:.6mm}
+.cell li::before{content:"·";position:absolute;left:.6mm;color:var(--champagne);font-weight:700}
+.vp{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);grid-column:3;grid-row:1/span 2}
+.vp h4{color:var(--charcoal)}
+.kp{grid-column:1;grid-row:1/span 2}
+.cseg{grid-column:5;grid-row:1/span 2}
+.wide-l{grid-column:1/span 2}
+.wide-r{grid-column:3/span 3}
+
+/* timeline / roadmap */
+.tl{position:relative;margin:4mm 0}
+.phase{display:grid;grid-template-columns:22mm 1fr;gap:4mm;padding:3.5mm 0;
+  border-top:.5pt solid var(--rule);break-inside:avoid}
+.phase:first-child{border-top:1.2pt solid var(--charcoal)}
+.phase .when{font-family:'JetBrains Mono',monospace;font-size:6.8pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--champagne);line-height:1.5;padding-top:.5mm}
+.phase .when b{display:block;color:var(--charcoal);font-size:8.5pt;letter-spacing:0;
+  font-family:'Playfair Display',serif;font-weight:500;margin-bottom:.8mm}
+.phase h4{font-family:'Playfair Display',serif;font-size:11pt;font-weight:500;margin-bottom:1.5mm}
+.bar{height:3.4mm;background:var(--bone-deep);display:flex;margin:2mm 0 3mm;border:.4pt solid var(--rule)}
+.bar i{display:block;height:100%}
+.bar i.on{background:var(--champagne)}
+.bar i.next{background:rgba(184,155,94,.35)}
+.bar i.later{background:transparent}
+.gridnote{display:grid;grid-template-columns:1fr 1fr;gap:4mm;font-size:8.2pt}
+.cap{font-family:'JetBrains Mono',monospace;font-size:8pt;color:var(--charcoal);font-weight:500}
+
+.foot{position:absolute;bottom:0;left:0;right:0;border-top:.4pt solid var(--rule);
+  padding-top:2mm;display:flex;justify-content:space-between;
+  font-family:'JetBrains Mono',monospace;font-size:6pt;letter-spacing:.05em;color:var(--soft)}
+.foot span{max-width:152mm;line-height:1.5}
+</style>
+</head>
+<body>
+<section class="page"><div class="masthead"><div><div class="eyebrow">Producto — Núcleo propietario</div><h1 class="">BluePrint</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026<br>v1.0</div></div><p class="positioning">El sistema operativo de gestión que controla el negocio desde la oportunidad calificada hasta la comisión y la auditoría.</p><div class="hrule"></div><div class="cols"><div><h3>La idea</h3><p>BluePrint es el sistema operativo de back-office y transacciones para inmobiliarias pequeñas y medianas. Toma autoridad en el momento en que un prospecto se convierte en <strong>oportunidad calificada</strong>, y controla todo lo necesario para llevarla a un cierre documentado: partes, evidencia de cumplimiento, documentos, aprobaciones, hitos contractuales, comisiones, reportes e historial de auditoría.</p><p>Está construido para inmobiliarias dirigidas por buenos vendedores que no tienen tiempo ni vocación para la administración. <strong>Un coordinador capaz más BluePrint</strong> debería reemplazar la estructura de gestión que una agencia en crecimiento tendría que contratar.</p><p>Es conversacional: lenguaje natural de entrada, registros estructurados y auditables de salida.</p><h3 class="mt">El problema</h3><p>La información crítica está dispersa en chats, drives, hojas de cálculo, CRMs y la memoria de cada persona. Los traspasos fallan, faltan documentos, las aprobaciones son invisibles, las comisiones se disputan, y el reporte de gestión se reconstruye a mano cada mes.</p><h3 class="mt">Qué controla</h3><p class="small">Ingreso de oportunidad calificada · el expediente de la transacción · documentos, listas de cumplimiento y evidencia · políticas de aprobación y firma electrónica · hitos de contrato y cierre · <strong>reglas de comisión, cálculos y estado de pago</strong> · presupuestos, variaciones e indicadores · aseguramiento de procesos e incidencias · cierre de período · auditoría de largo plazo · Copiloto con permisos.</p><h3 class="mt">Qué NO controla</h3><p class="small soft">Prospectos, automatización de marketing y el embudo previo a la calificación (BlankCRM) · <strong>inventario</strong> de propiedades, proyectos y unidades, listados o MLS · contabilidad, impuestos y nómina · administración de propiedades · entrega de cursos (Building Blocks) · listados del marketplace (VAULTED) · fideicomiso, custodia y movimiento de dinero.</p></div><aside class="panel"><h3 style="margin-bottom:2.5mm">En resumen</h3><div class="dl"><div><dt>Tipo</dt><dd>Producto — núcleo propietario. Aquí está la ventaja competitiva.</dd></div><div><dt>Trabajo</dt><dd>Operar y controlar la empresa.</dd></div><div><dt>Precio</dt><dd>$1,500 implementación · Core <strong>$399</strong>/mes · Growth <strong>$799</strong>/mes, por organización <span class="chip">[A]</span></dd></div><div><dt>Estado</dt><dd>Especificación completa. Prioridad de construcción. Sin validación pagada.</dd></div><div><dt>Próxima meta</dt><dd>5 socios de diseño → 3 conversiones pagadas</dd></div></div><div class="figs"><div class="fig"><div class="n">$4,788</div><div class="l">Valor anual contrato Core</div></div><div class="fig"><div class="n">$9,588</div><div class="l">Valor anual contrato Growth</div></div><div class="fig"><div class="n">3.3 meses</div><div class="l">Recuperación de CAC</div></div><div class="fig"><div class="n">3–50</div><div class="l">Tamaño objetivo, personas</div></div></div></aside></div><div class="callout"><strong>El límite en una línea:</strong> BluePrint es dueño de <em>el negocio como objeto de gestión gobernado</em>. No es dueño de <em>la propiedad como inventario</em>.</div><h2 style="margin-top:4mm"><span class="snum">01</span>Economía</h2><div class="cols2"><table><caption>Para el cliente</caption><thead><tr><th>Concepto</th><th class="num">Cifra</th></tr></thead><tbody><tr><td>Costo anual, Core</td><td class="num">$4,788 + $1,500</td></tr><tr><td>Costo anual, Growth</td><td class="num">$9,588 + $1,500</td></tr><tr><td>Contratación de back-office que evita <span class="chip">[A]</span></td><td class="num">$18k–$35k</td></tr><tr><td>Esfuerzo de implementación <span class="chip">[T]</span></td><td class="num">&lt;40 → &lt;20 h</td></tr><tr><td>Tiempo a producción <span class="chip">[T]</span></td><td class="num">&lt;21 días</td></tr></tbody></table><table><caption>Para B_RealEstate</caption><thead><tr><th>Concepto</th><th class="num">Cifra</th></tr></thead><tbody><tr><td>ARR de software por cliente <span class="chip">[M]</span></td><td class="num">$4,645.80</td></tr><tr><td>Contribución de margen bruto <span class="chip">[M]</span></td><td class="num">$3,600.40</td></tr><tr><td>CAC <span class="chip">[M]</span></td><td class="num">$1,000</td></tr><tr><td>Recuperación de CAC <span class="chip">[M]</span></td><td class="num">3.33 meses</td></tr><tr><td>Parte del ingreso año 5 <span class="chip">[M]</span></td><td class="num">$1.285M / $1.844M</td></tr></tbody></table></div><p class="note"><strong>Advertencias explícitas.</strong> Son resultados de modelo sobre supuestos sin validar, no resultados reales. La retención se modela con 8% de abandono anual sin evidencia de cohortes, por lo que <strong>el LTV no se reporta deliberadamente</strong>. El costo propio de BluePrint —IA, integraciones y soporte por cliente— <strong>aún no está modelado</strong> <span class="chip">[R]</span>.</p><div class="simple"><h3>Cómo leerlo en simple</h3><ul><li>Cobramos <strong>$399 o $799 al mes</strong> por empresa, más <strong>$1,500</strong> de arranque. No cobramos por vendedor.</li><li>Cada cliente deja alrededor de <strong>$3,600 al año</strong> de margen y nos cuesta unos <strong>$1,000</strong> conseguirlo. Se paga solo en <strong>poco más de tres meses</strong>.</li><li>Para el cliente la cuenta es sencilla: si le evita contratar <strong>una sola persona</strong> de administración, ya salió ganando.</li><li>Lo que todavía no sabemos: cuánto nos cuesta <strong>atender</strong> a cada cliente. Sin eso, el margen real está por confirmarse.</li><li>Aquí está el <strong>valor de la empresa</strong>. Es lo único que puede convertirse en una compañía de software valiosa por sí sola.</li></ul></div><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>1 / 2</span></div></section><section class="page"><div class="masthead"><div><div class="eyebrow">BluePrint</div><h1 class="sm">Modelo de Negocio</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026</div></div><div class="hrule"></div><div class="canvas"><div class="cell kp"><h4>Socios clave</h4><ul><li>GoHighLevel — motor de BlankCRM</li><li>Open edX — Building Blocks</li><li>Nube y proveedores de IA</li><li>Firma electrónica</li><li>Almacenamiento documental</li><li>Asesores contables y legales</li></ul></div><div class="cell "><h4>Actividades clave</h4><ul><li>Ingeniería de producto y seguridad</li><li>Diseño de flujos de trabajo</li><li>Integraciones</li><li>Implementación</li><li>Soporte</li><li>Analítica</li></ul></div><div class="cell vp"><h4>Propuesta de valor</h4><ul><li>Transacciones controladas de la calificación al cierre</li><li>Menos traspasos fallidos y documentos perdidos</li><li>Comisiones exactas y auditables</li><li>Visibilidad de gestión <strong>sin contratar un gerente</strong></li><li>Una sola fuente de verdad operativa</li><li>Jerarquía de verificación: reportado → verificado operativamente → verificado financieramente → cerrado</li></ul></div><div class="cell "><h4>Relación con clientes</h4><ul><li>Implementación de alto contacto</li><li>Migración a onboarding estandarizado</li><li>Éxito en producto y Copiloto</li></ul></div><div class="cell cseg"><h4>Segmentos de clientes</h4><ul><li>Inmobiliarias boutique, 3–50 personas</li><li>Equipos de venta de desarrolladores</li><li>Franquicias Dproperty</li><li>Socios de marca propia B_ Partner</li></ul></div><div class="cell "><h4>Recursos clave</h4><ul><li>Modelo de datos y motor de flujos</li><li>Biblioteca de plantillas</li><li>Historial de auditoría</li><li>Propiedad intelectual de implementación</li><li>Equipo</li></ul></div><div class="cell "><h4>Canales</h4><ul><li>Venta directa del fundador</li><li>Socios de diseño</li><li>Canal de franquicia y socios</li><li>Relaciones con desarrolladores</li><li>Building Blocks</li></ul></div><div class="cell wide-l"><h4>Estructura de costos</h4><ul><li>Ingeniería y producto</li><li>Nube, API e inferencia de IA</li><li>Seguridad y cumplimiento</li><li>Trabajo de implementación</li><li>Soporte</li><li>Ventas y marketing</li></ul></div><div class="cell wide-r"><h4>Fuentes de ingreso</h4><ul><li>Implementación y migración — $1,500, más si la migración es compleja</li><li>Suscripción Core — $399/mes por organización</li><li>Suscripción Growth — $799/mes por organización</li><li>Consumo: IA, almacenamiento y mensajes sobre el límite incluido</li><li>Integraciones e implementación premium, cotizadas</li><li>Nivel Scale — cotizado, deliberadamente sin definir</li></ul></div></div><h2 style="margin-top:5mm"><span class="snum">02</span>Qué hay que demostrar</h2><p class="small">Cinco socios de diseño y tres conversiones pagadas · una transacción completa corrida <strong>sin que una hoja de cálculo paralela sea la autoridad</strong> · pruebas de aislamiento entre clientes, permisos y auditoría · implementación bajo 40 horas y luego bajo 20 · usuarios activos semanales sobre 60% · finalización de flujos críticos sobre 70% al mes 9 · margen bruto, recuperación y retención observados por cohorte.</p><div class="callout gold"><strong>Condición de abandono.</strong> Si las inmobiliarias objetivo prefieren consistentemente un stack configurado de Odoo / GoHighLevel / contabilidad y no pagan de forma material por la capa de gestión, detener o reposicionar antes de un gasto grande de desarrollo.</div><h2 style="margin-top:4mm"><span class="snum">03</span>Por qué se puede defender</h2><p class="small">Profundidad de ajuste al flujo de trabajo, plantillas y paquetes de configuración acumulados, confiabilidad de integraciones, historial de transacciones y auditoría acumulado, velocidad de implementación, y alto costo de cambio una vez que BluePrint es el sistema de registro.</p><p class="note">El competidor a vencer no es SkySlope ni Dotloop — es <strong>CRM más hojas de cálculo más drives compartidos más WhatsApp más el conocimiento del personal</strong>.</p><div class="simple"><h3>Cómo leerlo en simple</h3><p>En una frase: <strong>es el cerebro operativo de la inmobiliaria.</strong> El CRM consigue clientes; BluePrint se encarga de que el negocio se cierre bien, que los papeles estén, que la comisión salga exacta y que el dueño pueda ver la verdad sin pedirle un reporte a nadie.</p></div><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>2 / 2</span></div></section>
+</body>
+</html>

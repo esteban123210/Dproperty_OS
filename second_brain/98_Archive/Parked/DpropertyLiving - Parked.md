@@ -8,6 +8,10 @@ last_updated: 2026-09-23
 tags: [ecosystem, dpropertyliving, parked]
 ---
 
+> [!WARNING] SUPERSEDED 2026-09-24 — reactivated
+> DpropertyLiving was **reactivated** as the consumer-facing (B2C) channel for commercializing inventory to end users. See [[../../01_Canon/20 - DpropertyLiving Reactivated - Consumer Channel]].
+> This note is kept as the record of why it was parked on 2026-09-20.
+
 > [!IMPORTANT] Reconciled 2026-09-23
 > Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this note.
 

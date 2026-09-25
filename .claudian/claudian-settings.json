@@ -1,9 +1,9 @@
 {
   "userName": "Esteban",
-  "permissionMode": "normal",
+  "permissionMode": "yolo",
   "model": "opus",
   "thinkingBudget": "off",
-  "effortLevel": "medium",
+  "effortLevel": "high",
   "serviceTier": "default",
   "enableAutoTitleGeneration": true,
   "titleGenerationModel": "opus",
@@ -84,12 +84,12 @@
     "claude": "opus"
   },
   "savedProviderEffort": {
-    "claude": "medium"
+    "claude": "high"
   },
   "savedProviderServiceTier": {},
   "savedProviderThinkingBudget": {},
   "savedProviderPermissionMode": {
-    "claude": "normal"
+    "claude": "yolo"
   },
   "lastCustomModel": "",
   "maxTabs": 3,

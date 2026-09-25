@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>B_RealEstate — Building Blocks</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bone:#F7F4ED; --bone-deep:#EFEAE0; --bone-warm:#FAF8F3;
+  --charcoal:#1A1A1A; --soft:#55514C; --champagne:#B89B5E;
+  --blue:#1F4E79; --rule:rgba(26,26,26,.25);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+@page{size:letter;margin:13mm 14mm}
+html,body{background:var(--bone);color:var(--charcoal);
+  font-family:'Inter',system-ui,sans-serif;font-size:9.3pt;line-height:1.47;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:186mm;min-height:246mm;margin:0 auto;background:var(--bone);
+  position:relative;padding-bottom:12mm}
+.page+.page{page-break-before:always}
+
+.eyebrow{font-family:'JetBrains Mono',monospace;font-size:7pt;text-transform:uppercase;
+  letter-spacing:.09em;color:var(--soft)}
+.masthead{display:flex;justify-content:space-between;align-items:flex-start}
+.brandmark{font-family:'JetBrains Mono',monospace;font-size:6.8pt;letter-spacing:.09em;
+  color:var(--soft);text-align:right;line-height:1.7}
+h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:26pt;
+  line-height:1.05;letter-spacing:-.022em;margin:1.5mm 0}
+h1.sm{font-size:19pt}
+.positioning{font-size:10.2pt;color:var(--soft);max-width:134mm;line-height:1.4}
+.hrule{border-top:1.4pt solid var(--charcoal);margin:4mm 0 5mm}
+.hrule.thin{border-top:.4pt solid var(--rule);margin:3mm 0 4mm}
+
+h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:13pt;
+  letter-spacing:-.012em;margin:0 0 2mm;break-after:avoid}
+.snum{font-family:'JetBrains Mono',monospace;font-size:7pt;letter-spacing:.09em;
+  color:var(--champagne);display:block;margin-bottom:.8mm}
+h3{font-family:'JetBrains Mono',monospace;font-size:7pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.09em;color:var(--soft);
+  margin:0 0 1.5mm;break-after:avoid}
+h3.mt{margin-top:4mm}
+p{margin:0 0 2.3mm}
+strong{font-weight:600}
+em{font-family:'Playfair Display',serif;font-style:italic}
+.small{font-size:8.5pt}
+.soft{color:var(--soft)}
+
+.cols{display:grid;grid-template-columns:1fr 64mm;gap:7mm;align-items:start}
+.cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5mm}
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+
+.panel{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);
+  padding:4mm 4.5mm;break-inside:avoid}
+.panel.blue{border-left-color:var(--blue)}
+.panel.dark{border-left-color:var(--charcoal);background:var(--bone-deep)}
+.dl div{display:flex;gap:2.5mm;padding:1.3mm 0;border-bottom:.4pt solid var(--rule);font-size:8.3pt}
+.dl div:last-of-type{border-bottom:none}
+.dl dt{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);min-width:16mm;padding-top:.5mm}
+.dl dd{flex:1}
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:3mm;margin-top:4mm;
+  padding-top:3.5mm;border-top:.9pt solid var(--charcoal)}
+.fig .n{font-family:'Playfair Display',serif;font-weight:500;font-size:15.5pt;
+  line-height:1;color:var(--champagne)}
+.fig .l{font-family:'JetBrains Mono',monospace;font-size:6pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);margin-top:1mm;line-height:1.35}
+
+table{width:100%;border-collapse:collapse;font-size:8.3pt;margin:1.5mm 0 3mm;break-inside:avoid}
+th{background:var(--bone-deep);font-family:'JetBrains Mono',monospace;font-size:6.5pt;
+  font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:var(--soft);
+  text-align:left;padding:1.7mm 2.1mm;border-bottom:.9pt solid var(--charcoal)}
+td{padding:1.4mm 2.1mm;border-bottom:.4pt solid var(--rule);vertical-align:top}
+tr:nth-child(even) td{background:var(--bone-warm)}
+.num{text-align:right;white-space:nowrap}
+caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);text-align:left;padding-bottom:1.4mm}
+
+.chip{font-family:'JetBrains Mono',monospace;font-size:6.3pt;background:var(--bone-deep);
+  color:var(--blue);padding:.3mm 1.1mm;border-radius:1pt;white-space:nowrap;font-weight:500}
+
+.note{font-size:8.1pt;color:var(--soft);border-left:2pt solid var(--rule);
+  padding-left:3.5mm;margin:2mm 0 3mm}
+.callout{background:var(--bone-deep);padding:3mm 4mm;font-size:8.7pt;margin:2.5mm 0;
+  border-left:2.6pt solid var(--charcoal)}
+.callout.gold{border-left-color:var(--champagne);background:var(--bone-warm)}
+
+/* SIMPLE-READING BLOCK — the plain-language conclusion */
+.simple{background:var(--bone-warm);border:.5pt solid var(--champagne);
+  border-left:3.2pt solid var(--champagne);padding:4mm 4.5mm;margin:3.5mm 0;break-inside:avoid}
+.simple h3{color:var(--champagne);font-size:7.4pt;margin-bottom:2mm}
+.simple p{font-size:9pt;margin-bottom:2mm}
+.simple p:last-child{margin-bottom:0}
+.simple ul{list-style:none;font-size:9pt}
+.simple li{padding-left:4mm;position:relative;margin-bottom:1.4mm}
+.simple li::before{content:"→";position:absolute;left:0;color:var(--champagne);font-weight:600}
+
+/* canvas */
+.canvas{display:grid;grid-template-columns:repeat(5,1fr);gap:1.5mm;margin-top:2mm}
+.cell{background:var(--bone-deep);border:.4pt solid var(--rule);padding:2.6mm 2.8mm;break-inside:avoid}
+.cell h4{font-family:'JetBrains Mono',monospace;font-size:6pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.07em;color:var(--soft);margin-bottom:1.4mm}
+.cell ul{list-style:none;font-size:7.5pt;line-height:1.4}
+.cell li{padding-left:2.5mm;position:relative;margin-bottom:.6mm}
+.cell li::before{content:"·";position:absolute;left:.6mm;color:var(--champagne);font-weight:700}
+.vp{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);grid-column:3;grid-row:1/span 2}
+.vp h4{color:var(--charcoal)}
+.kp{grid-column:1;grid-row:1/span 2}
+.cseg{grid-column:5;grid-row:1/span 2}
+.wide-l{grid-column:1/span 2}
+.wide-r{grid-column:3/span 3}
+
+/* timeline / roadmap */
+.tl{position:relative;margin:4mm 0}
+.phase{display:grid;grid-template-columns:22mm 1fr;gap:4mm;padding:3.5mm 0;
+  border-top:.5pt solid var(--rule);break-inside:avoid}
+.phase:first-child{border-top:1.2pt solid var(--charcoal)}
+.phase .when{font-family:'JetBrains Mono',monospace;font-size:6.8pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--champagne);line-height:1.5;padding-top:.5mm}
+.phase .when b{display:block;color:var(--charcoal);font-size:8.5pt;letter-spacing:0;
+  font-family:'Playfair Display',serif;font-weight:500;margin-bottom:.8mm}
+.phase h4{font-family:'Playfair Display',serif;font-size:11pt;font-weight:500;margin-bottom:1.5mm}
+.bar{height:3.4mm;background:var(--bone-deep);display:flex;margin:2mm 0 3mm;border:.4pt solid var(--rule)}
+.bar i{display:block;height:100%}
+.bar i.on{background:var(--champagne)}
+.bar i.next{background:rgba(184,155,94,.35)}
+.bar i.later{background:transparent}
+.gridnote{display:grid;grid-template-columns:1fr 1fr;gap:4mm;font-size:8.2pt}
+.cap{font-family:'JetBrains Mono',monospace;font-size:8pt;color:var(--charcoal);font-weight:500}
+
+.foot{position:absolute;bottom:0;left:0;right:0;border-top:.4pt solid var(--rule);
+  padding-top:2mm;display:flex;justify-content:space-between;
+  font-family:'JetBrains Mono',monospace;font-size:6pt;letter-spacing:.05em;color:var(--soft)}
+.foot span{max-width:152mm;line-height:1.5}
+</style>
+</head>
+<body>
+<section class="page"><div class="masthead"><div><div class="eyebrow">Producto — Formación y certificación</div><h1 class="">Building Blocks</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026<br>v1.0</div></div><p class="positioning">Convierte los estándares de operación en capacidad transferible: currículos por rol, evaluación y certificación con evidencia.</p><div class="hrule"></div><div class="cols"><div><h3>La idea</h3><p>Building Blocks es el producto independiente de formación, incorporación y certificación. Convierte los estándares de operación en currículos por rol y preserva la asignación, la finalización, la certificación, el vencimiento y la evidencia de competencia.</p><p>Funciona sobre <strong>Open edX</strong> como infraestructura. Open edX es el motor; Building Blocks es el producto.</p><h3 class="mt">Por qué es un producto independiente</h3><p>Cada producto del portafolio se define, se cotiza y se vende por separado — para que el paquete de franquicia sea una <strong>composición de productos con nombre</strong>, no un monolito. Cuatro productos fuertes se venden mejor que un producto que «lo tiene todo».</p><h3 class="mt">El diferenciador — el ciclo cerrado</h3><p class="small">Procedimiento aprobado → ejecución → <strong>BluePrint detecta una falla de proceso</strong> → se identifica la brecha de capacidad → módulo o cohorte de Building Blocks → evaluación y certificación → <strong>BluePrint habilita o bloquea el privilegio</strong> → resultado medido en BluePrint.</p><p class="small"><strong>El ciclo es la ventaja, no el contenido.</strong> El contenido es un commodity; hay material gratuito de sobra. Ningún competidor de formación tiene la señal de falla operativa que genera la inscripción, y ningún competidor de gestión tiene la ruta de remediación.</p></div><aside class="panel"><h3 style="margin-bottom:2.5mm">En resumen</h3><div class="dl"><div><dt>Tipo</dt><dd>Producto independiente de formación. No es donde está la ventaja competitiva.</dd></div><div><dt>Trabajo</dt><dd>Hacer transferible la capacidad.</dd></div><div><dt>Precio</dt><dd><strong>$199</strong> por inscripción (promedio) · certificación $199–$349 · cohortes empresariales cotizadas <span class="chip">[A]</span></dd></div><div><dt>Estado</dt><dd>Arquitectura definida. <strong>Año 1 pierde dinero</strong> en todos los escenarios.</dd></div><div><dt>Próxima meta</dt><dd>Cotizar el LMS y demostrar enganche vía señales de BluePrint</dd></div></div><div class="figs"><div class="fig"><div class="n">$199</div><div class="l">Inscripción promedio</div></div><div class="fig"><div class="n">40–126</div><div class="l">Inscripciones/año para equilibrio</div></div><div class="fig"><div class="n">~95%</div><div class="l">Margen de la inscripción marginal</div></div><div class="fig"><div class="n">$8k–25k</div><div class="l">Costo anual de plataforma</div></div></div></aside></div><h2 style="margin-top:4mm"><span class="snum">01</span>Economía</h2><div class="cols2"><table><caption>Costo de plataforma [F] tarifas de mercado</caption><thead><tr><th>Opción de plataforma</th><th class="num">Costo anual</th><th class="num">Por usuario/mes</th></tr></thead><tbody><tr><td>Gestionada compartida (≤1,500 usuarios)</td><td class="num">$8,000</td><td class="num">~$0.44</td></tr><tr><td>Autogestionada + soporte</td><td class="num">~$16,200</td><td class="num">variable</td></tr><tr><td>Instancia dedicada, ilimitada</td><td class="num">$25,000</td><td class="num">—</td></tr></tbody></table><table><caption>Punto de equilibrio</caption><thead><tr><th>Base de costo anual</th><th class="num">Inscripciones para equilibrio</th></tr></thead><tbody><tr><td>$8,000 plataforma</td><td class="num">~40</td></tr><tr><td>$16,000 plataforma</td><td class="num">~80</td></tr><tr><td>$8,000 + $6,667 contenido</td><td class="num">~74</td></tr><tr><td>$16,000 + $6,667 contenido</td><td class="num">~114</td></tr></tbody></table></div><div class="callout"><strong>Verificación contra el modelo.</strong> La proyección muestra <strong>$8.6k de ingreso en año 1</strong> — unas <strong>43 inscripciones</strong>. Eso está <strong>por debajo del equilibrio</strong> en cualquier escenario que incluya amortización de contenido. Building Blocks <strong>pierde dinero en el año 1 en todos los escenarios modelados</strong>, alcanza el equilibrio en el año 2, y los <strong>$84.2k proyectados al año 3</strong> (~423 inscripciones) sí son cómodamente rentables.</div><p class="note"><strong>El riesgo económico real: el contenido es un costo fijo que se comporta como una suscripción.</strong> Siete procesos × varios roles × varios mercados, más localización. Cada cambio de proceso deja un módulo obsoleto. La carga de mantenimiento crece con el <strong>número de mercados</strong>, no con el ingreso.</p><div class="simple"><h3>Cómo leerlo en simple</h3><ul><li>Cobramos <strong>$199 por curso</strong> a cada persona. No es una suscripción mensual: es un pago cada vez que alguien se inscribe.</li><li>La plataforma nos cuesta entre <strong>$8,000 y $25,000 al año</strong>. Necesitamos entre <strong>40 y 126 inscripciones al año</strong> solo para pagarla.</li><li><strong>El año 1 pierde dinero. Sin excepción.</strong> Empieza a ganar en el año 2 y al año 3 ya es claramente rentable. Es normal en este tipo de producto, pero hay que decirlo.</li><li>El peligro escondido: <strong>mantener el contenido actualizado</strong>. Cada vez que cambiamos un proceso, hay que rehacer un curso. Eso cuesta todos los años, no una sola vez.</li><li>Para la franquicia vale muchísimo aunque gane poco: es lo que hace que <strong>una oficina nueva opere igual que las demás</strong>.</li></ul></div><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>1 / 2</span></div></section><section class="page"><div class="masthead"><div><div class="eyebrow">Building Blocks</div><h1 class="sm">Modelo de Negocio</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026</div></div><div class="hrule"></div><div class="canvas"><div class="cell kp"><h4>Socios clave</h4><ul><li><strong>Open edX</strong> — plataforma</li><li>Proveedor de hosting gestionado</li><li>Expertos de contenido por materia</li><li>Cuerpos de certificación locales donde aplique</li></ul></div><div class="cell "><h4>Actividades clave</h4><ul><li>Producción de currículo</li><li><strong>Mantenimiento de contenido</strong> — recurrente</li><li>Diseño de evaluaciones</li><li>Administración de certificación</li><li>Entrega de cohortes</li></ul></div><div class="cell vp"><h4>Propuesta de valor</h4><ul><li>Una oficina nueva opera al estándar <strong>en semanas</strong></li><li>Certificación que <strong>habilita privilegios</strong> en BluePrint</li><li>Cierra brechas detectadas por fallas reales de proceso</li><li>Evidencia de competencia auditable</li><li>Consistencia entre oficinas — el problema central de una franquicia</li></ul></div><div class="cell "><h4>Relación con clientes</h4><ul><li>Currículo asignado por rol</li><li>Cohortes con instructor para empresas</li><li>Autoservicio para cursos sueltos</li></ul></div><div class="cell cseg"><h4>Segmentos de clientes</h4><ul><li>Equipos nuevos de franquicia y socios</li><li>Clientes de BluePrint con rotación o ascensos</li><li>Equipos de venta de desarrolladores</li><li>Profesionales independientes del sector</li></ul></div><div class="cell "><h4>Recursos clave</h4><ul><li><strong>La Biblioteca de Procesos</strong> como fuente del contenido</li><li>Currículos por rol</li><li>Registro de certificación y vencimientos</li><li>Integración con BluePrint</li></ul></div><div class="cell "><h4>Canales</h4><ul><li>Incluido en incorporación de franquicia y socios</li><li><strong>Enganche disparado por señales de BluePrint</strong></li><li>Cohortes para desarrolladores</li><li>Venta directa de cursos</li></ul></div><div class="cell wide-l"><h4>Estructura de costos</h4><ul><li>Plataforma LMS — $8k–$25k/año</li><li><strong>Producción de contenido</strong> — fijo, grande</li><li><strong>Mantenimiento de contenido</strong> — 15–30% del costo de construcción al año</li><li>Administración de certificación</li><li>Entrega de cohortes</li><li>Soporte al alumno</li></ul></div><div class="cell wide-r"><h4>Fuentes de ingreso</h4><ul><li>Incorporación base — incluida en paquetes, valorizada a precio de lista</li><li>Cursos especializados — $199 por inscripción (promedio)</li><li>Certificación — $199–$349 por programa</li><li>Cohortes empresariales y de desarrolladores — licencia cotizada</li><li>Supuesto de volumen: 1.5 inscripciones pagadas por cliente al año</li></ul></div></div><h2 style="margin-top:5mm"><span class="snum">02</span>Meta — no gastar antes de esto</h2><p class="small"><strong>No invertir en producción de contenido más allá de la incorporación base de franquicia hasta que:</strong> 1) el currículo base esté <strong>dimensionado</strong> — el rango de $7k–$48k debe estrecharse; 2) exista una <strong>cotización formal del LMS</strong>; 3) se demuestre el <strong>enganche</strong> con inscripciones disparadas por señales reales de BluePrint.</p><p class="note">La formación incluida se justifica por consistencia de franquicia y retención por sí sola. <strong>El ingreso independiente tiene que ganarse su propia inversión.</strong></p><h2 style="margin-top:3mm"><span class="snum">03</span>Límites que no se cruzan</h2><p class="small soft">No emite <strong>títulos acreditados</strong> y nunca debe insinuarlo · no reemplaza formación legal o de cumplimiento donde la regulación exige un proveedor acreditado · nunca se convierte en el sistema de registro de procesos — eso es BluePrint · no almacena expedientes de transacciones.</p><div class="simple"><h3>Cómo leerlo en simple</h3><p>En una frase: <strong>es lo que hace que una franquicia nueva trabaje como las demás.</strong> Gana poco dinero al principio y hay que ser honestos con eso. Su valor está en que una oficina nueva llegue al estándar rápido, y en que cuando BluePrint detecta que alguien está fallando, exista un lugar concreto a dónde mandarlo.</p></div><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>2 / 2</span></div></section>
+</body>
+</html>
