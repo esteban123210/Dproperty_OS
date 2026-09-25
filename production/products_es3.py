@@ -1,248 +1,241 @@
 # -*- coding: utf-8 -*-
-"""Contenido en español — ofertas 5 a 8 (canales y activo estratégico)."""
+"""Contenido en español — ofertas 5 y 6 (canales de franquicia)."""
 
 from brand import masthead, simple, table, glance, canvas
 
-M = "B_RealEstate<br>24 sept 2026<br>v1.0"
+M = "B_RealEstate<br>25 sept 2026<br>v3.0"
 P3 = {}
 
 # ══════════════════════════════════════════════════════════ 5 · FRANQUICIA DPROPERTY
 P3["05_Dproperty_Franchise"] = dict(
  file="Franquicia Dproperty",
  p1=masthead("Canal — Franquicia de marca", "Franquicia Dproperty",
-   "El modelo operativo completo bajo la marca Dproperty: identidad, stack de software, estándares, "
+   "El modelo operativo completo bajo la marca Dproperty: identidad, plataformas, estándares, "
    "formación y acceso a inventario curado.", M)
  + '<div class="cols"><div>'
  + '<h3>La idea</h3>'
- + '<p>Dproperty es la marca insignia de inversión, el laboratorio de operación y un canal de '
-   'distribución verticalmente integrado del stack de B_.</p>'
- + '<p>Una franquicia recibe el modelo operativo completo: identidad Dproperty, stack configurado '
-   '(<strong>BluePrint + BlankCRM + Building Blocks + VAULTED</strong>), estándares y formación, '
-   'acceso a Dproperty Select, implementación y participación en la red.</p>'
- + '<p><strong>No es la definición de la empresa.</strong> B_RealEstate es una compañía de software '
-   'e infraestructura; la franquicia es <em>un canal</em>. Es una ventaja de salida al mercado que '
-   'la mayoría de las startups de software no tiene — no es la tecnología propietaria en sí.</p>'
- + '<h3 class="mt">Estructura de regalía — resuelta</h3>'
- + '<p class="small">Existían tres estructuras en conflicto. La estructura <strong>diferenciada</strong> '
-   'es la canónica: Dproperty <strong>6% + 1%</strong> de fondo de marca restringido; marca propia '
-   '<strong>4% sin fondo</strong>. La diferencia de 3 puntos <strong>es el precio de la marca</strong>. '
-   'Si se elimina, uno de los dos canales queda redundante.</p>'
- + '<h3 class="mt">Definición que importa</h3>'
- + '<p class="small soft">La regalía se calcula sobre <strong>GCI cobrado</strong> — comisión '
-   'efectivamente cobrada y retenida después de compartir con corredores externos y devoluciones, '
-   'sin impuesto indirecto, antes de pagos a agentes internos. El <strong>fondo de 1% no es ingreso '
-   'ni utilidad</strong>: está segregado y excluido del EBITDA.</p>'
+ + '<p>Dproperty es la marca insignia de inversión inmobiliaria y el laboratorio donde el modelo se '
+   'prueba todos los días. La franquicia lleva ese modelo completo a un operador local.</p>'
+ + '<p>Quien toma una franquicia recibe el modelo operativo entero: identidad Dproperty, las '
+   'plataformas configuradas (<strong>BluePrint + BlankCRM + Building Blocks</strong>), estándares y '
+   'formación, acceso a Dproperty Select, implementación acompañada y participación en la red.</p>'
+ + '<h3 class="mt">Qué problema le resuelve al operador</h3>'
+ + '<p class="small">Un buen corredor independiente enfrenta siempre el mismo techo: es excelente '
+   'vendiendo, pero <strong>crecer le exige convertirse en administrador, en gerente de procesos y en '
+   'director financiero</strong> — trabajos distintos al que eligió y en los que no necesariamente '
+   'quiere invertir su tiempo.</p>'
+ + '<p class="small">La franquicia le entrega esa estructura ya construida. Sigue haciendo lo que sabe '
+   'hacer, y la empresa a su alrededor funciona a un estándar que por su cuenta le tomaría años armar.</p>'
+ + '<h3 class="mt">Lo que aporta cada parte</h3>'
+ + '<p class="small"><strong>El operador aporta</strong> el conocimiento del mercado local, la relación '
+   'con sus clientes y la ejecución comercial. <strong>Nosotros aportamos</strong> la marca, las '
+   'plataformas, el método, la formación, el acceso a inventario curado y el acompañamiento continuo. '
+   'Cada uno hace aquello en lo que es mejor.</p>'
+ + '<h3 class="mt">El modelo económico, en concepto</h3>'
+ + '<p class="small">Una cuota de incorporación que cubre la implementación y el lanzamiento, y luego '
+   'una <strong>regalía calculada sobre la comisión efectivamente cobrada</strong> — de modo que crece '
+   'cuando al operador le va bien y baja cuando no. Se suma un <strong>aporte a un fondo de marca</strong>, '
+   'que no es utilidad nuestra: se reinvierte en construir la marca que todos usan. Los términos '
+   'específicos se detallan en propuesta aparte.</p>'
  + '</div>'
  + glance([("Tipo","Canal. No es un producto de software separado."),
-           ("Trabajo","Desplegar el modelo operativo completo de marca."),
-           ("Entrada",'<strong>$50,000</strong> lista · <strong>$40,000</strong> para las dos '
-                      'primeras aperturas fundadoras <span class="chip">[A]</span>'),
-           ("Regalía","<strong>6%</strong> del GCI cobrado + piso de $750/mes desde el mes 13"),
-           ("Fondo de marca","<strong>1%</strong> del GCI cobrado — restringido, excluido del EBITDA")],
-          [("$58,224","Utilidad operativa modelada"),("16.2%","Utilidad sobre GCI"),
-           ("37 meses","Recuperación de inversión"),("~$98,000","Capital recomendado para abrir")])
+           ("Trabajo","Llevar el modelo operativo completo de marca a un operador local."),
+           ("Modelo","Cuota de incorporación, regalía sobre comisión cobrada y aporte a fondo de marca."),
+           ("Incluye","Marca · plataformas · estándares · formación · Dproperty Select · acompañamiento."),
+           ("Alineación","La regalía se calcula sobre lo cobrado: si al operador le va bien, a todos "
+                         "les va bien.")],
+          [("Marca","Reputación en inversión inmobiliaria"),("Método","Procesos y manuales probados"),
+           ("Select","Acceso a inventario curado"),("Red","Participación en el ecosistema")])
  + '</div>'
- + '<h2 style="margin-top:4mm"><span class="snum">01</span>Economía</h2>'
- + '<div class="cols2">'
- + table(["Concepto","Anual"], [
-     ["GCI cobrado","$360,000"],
-     ["Pagos a agentes","($198,000)"],
-     ["Costo fijo local + sueldo del dueño","($72,000)"],
-     ["Regalía 6%","($21,600)"],
-     ["Fondo de marca 1%","($3,600)"],
-     ["BluePrint después del año 1","(~$4,788)"],
-     ["<strong>Utilidad operativa modelada</strong>","<strong>~$58,224</strong>"]],
-     "Para el franquiciado — oficina madura [A]")
- + table(["Concepto","Anual"], [
-     ["Regalía 6%","$21,600"],
-     ["BluePrint tras el año gratis","~$4,788"],
-     ["BlankCRM si se engancha","~$2,988"],
-     ["<strong>Ingreso recurrente bruto</strong>","<strong>~$29,376</strong>"],
-     ["Fondo de marca 1%","$3,600 — <strong>no es ingreso</strong>"],
-     ['Costo de soporte por oficina <span class="chip">[R]</span>',"<strong>sin medir</strong>"]],
-     "Para B_RealEstate — por oficina madura")
- + '</div>'
- + '<div class="callout gold"><strong>La pregunta que realmente hace un prospecto:</strong> «¿Cuánto '
-   'tengo que ganar de más para justificar el costo de la franquicia frente a seguir independiente?» '
-   '— Aproximadamente <strong>$92,632 de GCI adicional al año, unos 9.3 cierres más</strong> '
-   '<span class="chip">[A]</span>. Es una barra real, y decirlo con claridad convence más que cualquier '
-   'proyección.</div>'
+ + '<h2 style="margin-top:4mm"><span class="snum">01</span>Qué recibe una oficina nueva</h2>'
+ + table(["Componente","Qué significa en la práctica"], [
+     ["<strong>Marca e identidad</strong>",
+      "Una marca con historial y reputación en inversión inmobiliaria, con su manual y sus materiales "
+      "listos para usar."],
+     ["<strong>Las plataformas configuradas</strong>",
+      "El front office comercial y el back office de gestión, ya armados para el modelo — no un "
+      "software genérico que hay que configurar desde cero."],
+     ["<strong>Procesos y manuales</strong>",
+      "La biblioteca de procesos del negocio: captación, preventa, mercado secundario, cesión, alquiler, "
+      "administración y comisiones. Documentada y probada."],
+     ["<strong>Formación y certificación</strong>",
+      "El equipo llega al estándar en semanas a través de Building Blocks, con certificación por rol."],
+     ["<strong>Dproperty Select</strong>",
+      "Acceso a oportunidades curadas por la casa matriz — producto que la competencia local no tiene."],
+     ["<strong>Acompañamiento</strong>",
+      "Implementación de la apertura, soporte continuo y revisión periódica de estándares con la "
+      "casa matriz."]], None, 99)
  + simple([
-     "El franquiciado paga <strong>$40,000–$50,000</strong> de entrada y necesita unos "
-     "<strong>$98,000</strong> en total para abrir, contando remodelación y capital de trabajo.",
-     "Después paga <strong>6% de la comisión que cobra</strong>, más <strong>1%</strong> que va a un "
-     "fondo de marca (ese 1% no es nuestra ganancia, se gasta en marca).",
-     "En una oficina que funciona bien, al franquiciado le quedan unos <strong>$58,000 al año</strong> "
-     "y recupera su inversión en <strong>poco más de 3 años</strong>.",
-     "Lo honesto: para que le convenga frente a seguir solo, tiene que vender "
-     "<strong>unos 9 inmuebles más al año</strong>. Si no los vende, no le conviene.",
-     "A nosotros nos deja unos <strong>$29,000 al año por oficina</strong> — pero todavía "
-     "<strong>no sabemos cuánto nos cuesta atenderla</strong>. Eso falta medir."]),
- p2=masthead("Franquicia Dproperty", "Modelo de Negocio", None, "B_RealEstate<br>24 sept 2026", small=True)
+     "Una franquicia Dproperty es <strong>un negocio inmobiliario completo, listo para operar</strong>: "
+     "marca, plataformas, procesos, formación y acceso a inventario curado.",
+     "Resuelve el techo del buen corredor independiente: <strong>para crecer tendría que volverse "
+     "administrador y gerente</strong>, y esos son trabajos distintos al que eligió.",
+     "El costo tiene dos partes: una <strong>cuota de incorporación</strong> que paga el arranque, y "
+     "una <strong>regalía sobre la comisión que efectivamente cobra</strong>. Si vende, paga; si no "
+     "vende, baja.",
+     "Hay además un <strong>aporte al fondo de marca</strong>. Ese dinero no es ganancia nuestra: se "
+     "reinvierte en la marca que usan todas las oficinas.",
+     "Lo que hay que mirar con honestidad antes de firmar: <strong>cuánto más necesita vender la "
+     "oficina para que la franquicia le convenga frente a seguir independiente.</strong> Ese número "
+     "existe, se calcula y se conversa abiertamente en la propuesta."]),
+ p2=masthead("Franquicia Dproperty", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
  + canvas(dict(
-   kp=["Franquiciados locales","Asesores legales por jurisdicción","Desarrolladores para inventario",
-       "ACOBIR y cuerpos locales del sector"],
-   ka=["Reclutamiento y selección de franquiciados","Implementación y apertura",
-       "Formación y certificación","Soporte de campo continuo"],
-   vp=["Modelo operativo probado, no hay que inventarlo",
-       "Stack completo de software incluido el primer año",
-       "Marca con reputación en inversión inmobiliaria",
+   kp=["Operadores locales","Asesores legales por jurisdicción","Desarrolladores para inventario",
+       "Cuerpos locales del sector inmobiliario"],
+   ka=["Selección y acompañamiento de operadores","Implementación y apertura",
+       "Formación y certificación","Soporte continuo y revisión de estándares"],
+   vp=["Un modelo operativo probado — no hay que inventarlo",
+       "Las plataformas configuradas desde el primer día",
+       "Una marca con reputación en inversión inmobiliaria",
        "Acceso a <strong>Dproperty Select</strong> — inventario curado",
-       "Participación en la red y en VAULTED cuando sea elegible"],
-   cr=["Acompañamiento intensivo en la apertura","Soporte de campo recurrente",
-       "Plan estratégico anual con HQ"],
+       "Participación en la red del ecosistema",
+       "<strong>Una empresa ordenada y transferible</strong> desde el inicio"],
+   cr=["Acompañamiento intensivo en la apertura","Soporte recurrente",
+       "Plan estratégico anual con la casa matriz"],
    cs=["Corredores establecidos que quieren estructura",
-       "Profesionales con cartera que quieren marca",
+       "Profesionales con cartera que quieren una marca",
        "Inversionistas que buscan operar un negocio inmobiliario"],
    kr=["<strong>La marca Dproperty</strong> y su historial","Biblioteca de procesos y manuales",
-       "Stack de software propio","Relaciones con desarrolladores","Programa Dproperty Select"],
-   ch=["Referidos de la red existente","Venta directa del fundador","Eventos del sector"],
-   cost=["Apertura y viajes","Comisión de venta","Legal y contratación",
-         "Soporte de campo","Plataforma de software"],
-   rev=["Cuota de entrada — $50,000 lista, $40,000 fundadora",
-        "Regalía — 6% del GCI cobrado",
-        "Piso mínimo de regalía — $750/mes desde el mes 13",
-        "Software tras el año gratis — valorizado a precio de lista",
-        "<strong>Fondo de marca 1% — restringido, NO es ingreso</strong>"]))
- + '<h2 style="margin-top:5mm"><span class="snum">02</span>Comparación con B_ Partner</h2>'
- + table(["Concepto","Franquicia Dproperty","B_ Partner"], [
-     ["Cuota de entrada","$50,000 ($40k fundadora)","$30,000 ($25k fundadora)"],
-     ["Regalía","6% del GCI cobrado","4% del GCI cobrado"],
-     ["Piso mínimo","$750/mes","$400/mes"],
-     ["Fondo de marca","1% restringido","ninguno"],
-     ["Marca al consumidor","Dproperty","la del socio"],
-     ["Recurrente a $360k de GCI","~$29,376","~$22,176"]])
- + '<h2 style="margin-top:3mm"><span class="snum">03</span>Pendientes críticos</h2>'
- + '<p class="small soft"><span class="chip">[R]</span> Diseño de contrato y asesoría legal local por '
-   'jurisdicción — nada aquí está revisado legalmente · <span class="chip">[R]</span> '
-   '<strong>no existe pipeline firmado ni pagado</strong>; toda la economía del franquiciado es '
-   'modelada, no observada · <span class="chip">[R]</span> costo de soporte y campo por oficina sin '
-   'medir, por lo que la contribución neta es desconocida · <span class="chip">[R]</span> mecánica '
-   'contractual del piso de regalía ante bajo desempeño y terminación.</p>'
- + simple("En una frase: <strong>es nuestra forma de crecer rápido sin poner todo el capital.</strong> "
-   "El franquiciado pone la inversión y la operación local; nosotros ponemos la marca, el software y "
-   "el método. Nos deja ingreso recurrente y, más importante, nos da <strong>casos reales que prueban "
-   "que el software funciona</strong>. Pero es un canal, no es la empresa."),
+       "Las plataformas propias","Relaciones con desarrolladores","Programa Dproperty Select"],
+   ch=["Referidos de la red existente","Relación directa","Eventos del sector"],
+   cost=["Apertura y acompañamiento en sitio","Desarrollo del canal","Legal y contratación",
+         "Soporte continuo","Plataformas"],
+   rev=["Cuota de incorporación",
+        "Regalía sobre la comisión efectivamente cobrada",
+        "Plataformas después del período incluido",
+        "<strong>Fondo de marca — reinvertido en la marca, no es utilidad</strong>"]))
+ + '<h2 style="margin-top:5mm"><span class="snum">02</span>Franquicia de marca o marca propia</h2>'
+ + '<p class="small">Existen dos caminos, y la diferencia es deliberada:</p>'
+ + table(["","Franquicia Dproperty","B_ Partner"], [
+     ["Marca frente al cliente","<strong>Dproperty</strong>","<strong>La del operador</strong>"],
+     ["Fondo de marca","Sí — se reinvierte en la marca compartida","No aplica: promociona su propia marca"],
+     ["Regalía","Mayor — incluye el valor de la marca","Menor — sin el componente de marca"],
+     ["Para quién","Quien quiere una marca con reputación ya construida",
+      "Quien ya tiene marca propia y reputación local"]], None, 99)
+ + '<div class="callout gold">La diferencia en la regalía <strong>es exactamente el valor de la marca</strong>. '
+   'Quien usa su propia marca no recibe ese beneficio y por eso aporta menos. Es la lógica que hace que '
+   'los dos caminos tengan sentido y no compitan entre sí.</div>'
+ + '<p class="note"><strong>En construcción:</strong> el diseño de contrato y la asesoría legal por '
+   'jurisdicción están en proceso — nada se firma sin eso · el modelo económico del operador se validará '
+   'con las primeras oficinas · el acompañamiento por oficina se está midiendo, porque de eso depende '
+   'cuántas podemos atender bien a la vez.</p>'
+ + simple("En una frase: <strong>es la forma de crecer sin que cada oficina tenga que inventar la "
+   "empresa de nuevo.</strong> El operador pone el mercado local y la ejecución comercial; nosotros "
+   "ponemos la marca, las plataformas y el método. Nos deja ingreso recurrente y, más importante, casos "
+   "reales que demuestran que el modelo funciona."),
 )
 
 # ══════════════════════════════════════════════════════════ 6 · B_ PARTNER
 P3["06_B_Partner"] = dict(
  file="B_ Partner",
- p1=masthead("Canal — Marca propia gestionada", "B_ Partner",
-   "La inmobiliaria conserva su marca y compra una implementación gestionada de la infraestructura y "
-   "los estándares de B_.", M)
+ p1=masthead("Canal — Marca propia acompañada", "B_ Partner",
+   "La inmobiliaria conserva su marca y su identidad, y suma la infraestructura y los estándares de "
+   "operación de B_.", M)
  + '<div class="cols"><div>'
  + '<h3>La idea</h3>'
- + '<p>Una inmobiliaria mantiene su propia marca frente al consumidor, pero compra una implementación '
-   'gestionada más profunda de la infraestructura y los estándares de operación de B_.</p>'
- + '<p>Los socios de marca propia corren sobre <strong>el mismo código y el mismo modelo de datos</strong>. '
-   'La marca y los permisos son <strong>configuración</strong>, nunca una bifurcación del código.</p>'
- + '<h3 class="mt">Por qué no es «BluePrint más caro»</h3>'
- + '<p>BluePrint solo cuesta $399–$799 al mes con $1,500 de arranque. B_ Partner justifica una entrada '
-   'de $30,000 y una regalía <strong>únicamente porque incluye servicios reales</strong>: implementación '
-   'y migración, armado del modelo operativo, paquetes de proceso y manuales, configuración de BlankCRM, '
-   'incorporación de Building Blocks, soporte de integración, acompañamiento operativo continuo, '
-   'participación en la red y acceso elegible a Dproperty Select y VAULTED.</p>'
- + '<div class="callout" style="margin-top:2mm"><strong>Si el prospecto solo quiere el software, '
-   'véndele BluePrint.</strong> Forzar un modelo de regalía a un comprador de software es la forma en '
-   'que este canal se come la venta directa. Regla canónica: si los socios prefieren SaaS, '
-   '<strong>cambia el modelo</strong> en lugar de forzar la regalía.</div>'
- + '<h3 class="mt">Regla de datos y marca</h3>'
- + '<p class="small soft">El cliente es dueño de su marca y de los datos de su instancia. B_RealEstate '
-   '<strong>no puede</strong> tratar los datos de un B_ Partner como un conjunto competitivo compartido.</p>'
+ + '<p>Hay inmobiliarias con marca propia, reputación local y clientela construida durante años. '
+   '<strong>Pedirles que cambien de marca sería pedirles que renuncien a su activo más valioso.</strong></p>'
+ + '<p>B_ Partner existe para ellas: conservan su nombre frente al cliente y suman por detrás la '
+   'infraestructura, los procesos y el acompañamiento del ecosistema.</p>'
+ + '<h3 class="mt">Qué problema resuelve</h3>'
+ + '<p class="small">Una firma establecida suele tener un buen nombre y una operación que creció de '
+   'forma orgánica: procesos en la cabeza de las personas, información repartida entre planillas y '
+   'correos, y una administración que funciona porque alguien la sostiene a pulso. '
+   '<strong>Quiere profesionalizarse sin perder lo que la hizo buena.</strong></p>'
+ + '<h3 class="mt">Qué incluye realmente</h3>'
+ + '<p class="small">Implementación y migración · armado del modelo operativo · paquetes de procesos y '
+   'manuales adaptados · configuración del front office comercial · incorporación a Building Blocks · '
+   'soporte de integración · acompañamiento operativo continuo · participación en la red y acceso '
+   'elegible a Dproperty Select y VAULTED.</p>'
+ + '<div class="callout">Es un modelo <strong>de servicio, no solo de licencia</strong>. Eso es lo que '
+   'lo distingue de simplemente contratar el software: el valor está en el acompañamiento y en el '
+   'modelo operativo, no únicamente en el acceso a la plataforma.</div>'
+ + '<h3 class="mt">Una regla clara sobre los datos</h3>'
+ + '<p class="small">El socio es dueño de su marca y de la información de su operación. '
+   '<strong>B_RealEstate no trata esa información como un activo compartido.</strong> Los socios corren '
+   'sobre la misma plataforma, pero su información es suya y está separada.</p>'
  + '</div>'
- + glance([("Tipo","Canal. No es un producto de software separado."),
-           ("Trabajo","Entregar el stack gestionado bajo la marca del cliente."),
-           ("Entrada",'<strong>$30,000</strong> lista · <strong>$25,000</strong> para los dos '
-                      'primeros socios fundadores <span class="chip">[A]</span>'),
-           ("Regalía","<strong>4%</strong> del GCI cobrado + piso de $400/mes"),
-           ("Fondo de marca","<strong>Ninguno</strong> — es la diferencia deliberada con Dproperty")],
-          [("$22,176","Recurrente por socio maduro"),("$15.3k–33k","Costo real de lanzamiento"),
-           ("4% vs 6%","El precio de la marca"),("2","Socios fundadores máximo sugerido")])
+ + glance([("Tipo","Canal. Modelo de servicio, no un producto de software aparte."),
+           ("Trabajo","Entregar la infraestructura y el método bajo la marca del socio."),
+           ("Modelo","Cuota de incorporación y regalía sobre comisión cobrada. Sin fondo de marca."),
+           ("Conserva","Su marca, su identidad, su clientela y su información."),
+           ("Diferencia","Aporta menos que una franquicia de marca, porque promociona su propia marca.")],
+          [("Su marca","Se conserva intacta"),("Sus datos","Le pertenecen y están separados"),
+           ("Método","Procesos y manuales adaptados"),("Red","Acceso según elegibilidad")])
  + '</div>'
- + '<h2 style="margin-top:4mm"><span class="snum">01</span>Economía</h2>'
- + '<div class="cols2">'
- + table(["Componente del lanzamiento","Estimado"], [
-     ["Implementación y migración de datos","$4,000–$8,000"],
-     ["Modelo operativo y paquete de procesos","$3,000–$6,000"],
-     ["Configuración e incorporación de BluePrint","$2,000–$4,000"],
-     ["Configuración de BlankCRM","$750–$1,500"],
-     ["Building Blocks base (valorizado)","$1,500–$3,000"],
-     ["Soporte de integración","$1,000–$3,000"],
-     ["Costo de venta del socio","$2,000–$5,000"],
-     ["Legal y contratación","$1,000–$2,500"],
-     ["<strong>Costo total de lanzamiento</strong>","<strong>$15,250–$33,000</strong>"]],
-     "Qué debe cubrir la cuota de entrada [A]")
- + table(["Concepto","Anual"], [
-     ["Regalía 4% sobre $360k de GCI","$14,400"],
-     ["Piso mínimo (si GCI &lt; $360k)","$4,800"],
-     ["BluePrint tras el año 1","~$4,788"],
-     ["BlankCRM si se engancha","~$2,988"],
-     ["<strong>Recurrente bruto por socio maduro</strong>","<strong>~$22,176</strong>"],
-     ['Costo de soporte por socio <span class="chip">[R]</span>',"<strong>sin medir</strong>"]],
-     "Para B_RealEstate")
- + '</div>'
- + '<p class="note"><strong>A $30,000 de lista la cuota de entrada apenas cubre el costo de '
-   'lanzamiento</strong> —y en el extremo alto del rango, casi sin margen. Al precio fundador de '
-   '$25,000 probablemente está <strong>por debajo del costo</strong>. Es aceptable para los dos '
-   'primeros socios como una <strong>inversión declarada en referencias</strong>, pero debe registrarse '
-   'así y nunca modelarse como utilidad de la cuota de entrada.</p>'
+ + '<h2 style="margin-top:4mm"><span class="snum">01</span>Por qué no es simplemente licenciar el software</h2>'
+ + table(["Componente","Qué aporta"], [
+     ["<strong>Implementación y migración</strong>",
+      "Traer la información histórica de forma ordenada, sin perder lo que ya existe y sin frenar la "
+      "operación."],
+     ["<strong>Armado del modelo operativo</strong>",
+      "Traducir la forma de trabajar de la firma a procesos documentados, en lugar de imponer un molde ajeno."],
+     ["<strong>Procesos y manuales adaptados</strong>",
+      "La biblioteca de procesos ajustada al mercado y a la realidad local del socio."],
+     ["<strong>Formación del equipo</strong>",
+      "Incorporación a Building Blocks para que el equipo alcance el estándar sin depender de quién le enseñó."],
+     ["<strong>Acompañamiento continuo</strong>",
+      "Una relación de trabajo permanente, no una licencia y un manual de usuario."],
+     ["<strong>Participación en la red</strong>",
+      "Acceso elegible a inventario curado y a la red — un beneficio que su competencia local no tiene."]], None, 99)
+ + '<p class="note">Si lo que la firma quiere es únicamente la plataforma, <strong>lo correcto es '
+   'ofrecerle el software directo</strong>. Este modelo tiene sentido cuando busca el acompañamiento y '
+   'el método, no solo el acceso.</p>'
  + simple([
-     "El socio conserva <strong>su propia marca</strong>. Nosotros le ponemos el software, los procesos "
-     "y el acompañamiento por detrás.",
-     "Paga <strong>$25,000–$30,000</strong> de entrada y <strong>4% de la comisión que cobra</strong>. "
-     "No paga fondo de marca porque promociona su marca, no la nuestra.",
-     "¿Por qué 4% y no 6% como Dproperty? Porque <strong>esos 3 puntos de diferencia son el precio de "
-     "usar la marca Dproperty</strong>. Si cobramos igual, uno de los dos modelos no tiene sentido.",
-     "Cuidado con esto: <strong>lanzar un socio nos cuesta entre $15,000 y $33,000</strong>. La cuota "
-     "de entrada apenas lo cubre. No es donde ganamos — ganamos en la regalía a lo largo del tiempo.",
-     "El límite real no es el dinero, es <strong>nuestra capacidad de atender</strong>. Sugerimos "
-     "máximo <strong>2 socios fundadores</strong> antes de comprometer más."]),
- p2=masthead("B_ Partner", "Modelo de Negocio", None, "B_RealEstate<br>24 sept 2026", small=True)
+     "B_ Partner es para la inmobiliaria que <strong>ya tiene su marca y no la quiere cambiar</strong>, "
+     "pero quiere la maquinaria por detrás.",
+     "Conserva su nombre, su clientela y su información. Suma nuestros procesos, nuestras plataformas "
+     "y nuestro acompañamiento.",
+     "Aporta <strong>menos que una franquicia de marca</strong> — y eso es a propósito: no está usando "
+     "nuestra marca ni recibiendo ese beneficio, así que no contribuye al fondo que la construye.",
+     "Es un modelo <strong>de servicio</strong>: el valor está en la implementación, el método y el "
+     "acompañamiento. Si alguien solo quiere la plataforma, le ofrecemos la plataforma directa.",
+     "Una regla que no se negocia: <strong>sus datos son suyos.</strong> Corremos sobre la misma "
+     "plataforma pero su información está separada y le pertenece."]),
+ p2=masthead("B_ Partner", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
  + canvas(dict(
    kp=["Inmobiliarias establecidas con marca propia","Asesores legales por jurisdicción",
-       "Proveedores de software del stack","Consultores de implementación"],
-   ka=["Implementación y migración","Armado del modelo operativo","Configuración del stack",
-       "Acompañamiento operativo continuo","Gestión de permisos y configuración de marca"],
-   vp=["Conserva tu marca, gana nuestra infraestructura",
-       "Modelo operativo armado, no hay que diseñarlo",
-       "Stack completo configurado y soportado",
-       "Menor regalía que una franquicia de marca",
-       "Participación en la red y acceso elegible a Select y VAULTED",
+       "Proveedores de las plataformas","Consultores de implementación"],
+   ka=["Implementación y migración","Armado del modelo operativo","Configuración de las plataformas",
+       "Acompañamiento operativo continuo","Configuración de marca y permisos"],
+   vp=["<strong>Conserva tu marca, suma nuestra infraestructura</strong>",
+       "El modelo operativo armado, no hay que diseñarlo",
+       "Las plataformas configuradas y acompañadas",
+       "Aporta menos que una franquicia de marca",
+       "Acceso elegible a inventario curado y a la red",
        "<strong>Tus datos son tuyos</strong> — garantía contractual"],
    cr=["Implementación de alto contacto","Acompañamiento operativo recurrente",
        "Relación de socio, no de franquiciado"],
    cs=["Inmobiliarias con marca establecida y reputación local",
-       "Firmas que rechazan franquiciar su marca",
-       "Operaciones que necesitan estructura sin perder identidad"],
-   kr=["Mismo código y modelo de datos que todos","Motor de configuración y permisos",
-       "Paquetes de proceso y manuales","Capacidad de implementación del equipo"],
-   ch=["Venta directa del fundador","Referidos del sector",
-       "Conversión desde clientes de BluePrint que quieren más servicio"],
-   cost=["<strong>Trabajo de implementación — intensivo</strong>","Acompañamiento operativo continuo",
-         "Costo de venta del socio","Legal y contratación","Plataforma de software"],
-   rev=["Cuota de entrada — $30,000 lista, $25,000 fundadora",
-        "Regalía — 4% del GCI cobrado",
-        "Piso mínimo — $400/mes desde el mes 13",
-        "Software valorizado a precio de lista tras el año 1",
-        "Migración compleja y oficinas adicionales, cotizadas",
+       "Firmas que no quieren franquiciar su nombre",
+       "Operaciones que buscan estructura sin perder identidad"],
+   kr=["Misma plataforma para todos, con configuración por socio",
+       "Motor de permisos y personalización de marca",
+       "Paquetes de procesos y manuales","Capacidad de implementación del equipo"],
+   ch=["Relación directa","Referidos del sector",
+       "Conversión desde clientes que ya usan las plataformas"],
+   cost=["<strong>Implementación — el componente principal</strong>",
+         "Acompañamiento operativo continuo","Desarrollo del canal",
+         "Legal y contratación","Plataformas"],
+   rev=["Cuota de incorporación",
+        "Regalía sobre la comisión efectivamente cobrada",
+        "Plataformas después del período incluido",
+        "Migraciones complejas y oficinas adicionales, a la medida",
         "<strong>Sin fondo de marca</strong>"]))
- + '<h2 style="margin-top:5mm"><span class="snum">02</span>El riesgo de capacidad — la restricción real</h2>'
- + '<p class="small">B_ Partner es <strong>intensivo en servicio</strong>. Cada socio consume capacidad '
-   'de implementación y acompañamiento que de otro modo atendería clientes de venta directa. '
-   '<strong>Límite sugerido:</strong> tope de socios fundadores en el número que el equipo realmente '
-   'puede implementar (se sugiere <strong>dos</strong>, igual al número de descuentos fundadores) antes '
-   'de comprometer más. Un socio firmado que no se puede implementar a tiempo destruye justamente el '
-   'valor de referencia por el que se dio el descuento.</p>'
- + '<h2 style="margin-top:3mm"><span class="snum">03</span>Pendientes críticos</h2>'
- + '<p class="small soft"><span class="chip">[R]</span> Costo de soporte y gestión de cuenta por socio '
-   'sin medir — la contribución neta es desconocida · <span class="chip">[R]</span> la estructura de '
-   'regalía requiere diseño de contrato y asesoría legal local · <span class="chip">[R]</span> '
-   '<strong>¿confiarán las firmas ajenas a Dproperty</strong> en una plataforma cuyo dueño también '
-   'opera una marca de franquicia competidora? Requiere una historia de separación legal y técnica · '
-   '<span class="chip">[A]</span> el GCI de $360k es un escenario modelado, no un resultado observado.</p>'
- + simple("En una frase: <strong>es para la inmobiliaria que quiere nuestra maquinaria pero no quiere "
-   "dejar de ser ella misma.</strong> Paga menos regalía que una franquicia porque no usa nuestra marca. "
-   "Nos sirve para llegar a firmas buenas y establecidas que jamás aceptarían franquiciarse — pero "
-   "consume mucho tiempo de nuestro equipo, así que hay que ir despacio."),
+ + '<h2 style="margin-top:5mm"><span class="snum">02</span>La restricción real: capacidad de acompañar</h2>'
+ + '<p class="small">Este modelo es <strong>intensivo en acompañamiento</strong>. Cada socio consume '
+   'tiempo de implementación y de asesoría que de otro modo atendería a otros clientes.</p>'
+ + '<div class="callout gold">Por eso incorporamos <strong>pocos socios a la vez y de forma deliberada</strong>. '
+   'Un socio bien implementado se convierte en referencia; un socio mal acompañado daña justamente la '
+   'confianza que el modelo necesita para crecer. <strong>Preferimos ir despacio y hacerlo bien.</strong></div>'
+ + '<h2 style="margin-top:3mm"><span class="snum">03</span>Lo que está en construcción</h2>'
+ + '<p class="small soft">El costo real de acompañamiento por socio se está midiendo con los primeros '
+   'casos · la estructura de regalía requiere diseño de contrato y asesoría legal local antes de firmar · '
+   'y hay una conversación honesta pendiente: <strong>cómo garantizar a una firma independiente que la '
+   'plataforma es neutral</strong>, siendo que el mismo grupo opera una marca de franquicia. La respuesta '
+   'está en la separación técnica y contractual de la información, y se documenta explícitamente.</p>'
+ + simple("En una frase: <strong>es para la inmobiliaria que quiere nuestra maquinaria sin dejar de ser "
+   "ella misma.</strong> Aporta menos que una franquicia porque no usa nuestra marca. Nos permite llegar "
+   "a firmas buenas y establecidas que nunca aceptarían franquiciarse — y por eso mismo vamos despacio: "
+   "cada socio requiere acompañamiento real."),
 )

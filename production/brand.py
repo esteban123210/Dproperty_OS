@@ -136,9 +136,9 @@ caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:up
 FONTS = ("https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400"
          "&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap")
 
-DISCLAIMER_ES = ("Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · "
-                 "[T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una "
-                 "solicitud de inversión.")
+DISCLAIMER_ES = ("Documento descriptivo del modelo. Las capacidades en desarrollo se señalan como "
+                 "tales. Los términos comerciales se detallan en propuesta aparte. No constituye una "
+                 "oferta ni una solicitud de inversión.")
 
 
 def doc(title, pages, disclaimer=DISCLAIMER_ES, lang="es"):

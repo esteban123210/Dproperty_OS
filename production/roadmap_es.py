@@ -12,25 +12,25 @@ ROADMAP = [
 # ═══════════════════════════════ PÁGINA 1 — ESTRATEGIA Y FASE 1
 masthead("Ruta de Desarrollo", "De dónde partimos y en qué orden",
   "Secuencia, tiempos, capital por etapa y qué especialista se necesita en cada frente.",
-  "B_RealEstate<br>24 sept 2026<br>v1.0")
+  "B_RealEstate<br>25 sept 2026<br>v3.0")
 
 + '<h2><span class="snum">00</span>Por qué este orden y no otro</h2>'
 + '<div class="cols2">'
 + '<div><p class="small">La secuencia no es arbitraria. Empezamos por GoHighLevel por cinco razones '
   'que se refuerzan:</p>'
-+ '<p class="small"><strong>1 · Es lo más barato y lo más rápido.</strong> Semanas, no meses. '
-  'Miles, no cientos de miles.</p>'
++ '<p class="small"><strong>1 · Es lo más rápido de poner en marcha.</strong> Se mide en semanas, no '
+  'en trimestres, y con una inversión modesta frente al resto del plan.</p>'
 + '<p class="small"><strong>2 · Resuelve dolor de hoy.</strong> El equipo comercial gana velocidad de '
   'respuesta y deja de perder prospectos esta misma semana.</p>'
 + '<p class="small"><strong>3 · Genera el dato que BluePrint necesita.</strong> No se puede construir '
-  'un sistema de gestión sin saber cómo se comporta la operación real.</p>'
+  'un sistema de gestión sin conocer primero cómo se comporta la operación real.</p>'
 + '<p class="small"><strong>4 · Valida la Biblioteca de Procesos antes de codificarla.</strong> '
-  'Corregir un proceso en GoHighLevel cuesta una tarde. Corregirlo en software construido cuesta '
-  'decenas de miles.</p></div>'
+  'Ajustar un proceso en GoHighLevel toma una tarde. Ajustarlo en software ya construido cuesta '
+  'mucho más, en dinero y en tiempo.</p></div>'
 + '<div><p class="small"><strong>5 · Reduce el riesgo de BluePrint.</strong> Aprendemos el flujo '
   'verdadero antes de pagar por construirlo. Esta es la razón más importante.</p>'
 + '<div class="callout gold" style="margin-top:2mm"><strong>El principio:</strong> aprender barato '
-  'antes de construir caro. Cada fase compra información que hace más segura la siguiente.</div>'
+  'antes de construir. Cada fase entrega información que hace más segura la siguiente.</div>'
 + '<p class="small" style="margin-top:2mm"><strong>La franquicia arranca en paralelo desde el mes 2</strong> '
   'porque el trabajo legal y de marca tiene plazos largos y <strong>no depende del software</strong>. '
   'Si esperamos a tener BluePrint, perdemos seis meses de reloj legal.</p>'
@@ -41,25 +41,23 @@ masthead("Ruta de Desarrollo", "De dónde partimos y en qué orden",
 + '<h2 style="margin-top:4mm"><span class="snum">01</span>Vista general</h2>'
 + '<div class="bar"><i class="on" style="width:17%"></i><i class="next" style="width:50%"></i>'
   '<i class="later" style="width:33%"></i></div>'
-+ table(["Fase","Qué","Cuándo","Capital"], [
-    ["<strong>1</strong>","GoHighLevel — Dproperty + DpropertyLiving","Semana 1–10","<strong>$12k–22k</strong>"],
-    ["<strong>2A</strong>","BluePrint — descubrimiento, prototipo, cotizaciones","Mes 3–4","$15k–35k"],
-    ["<strong>2B</strong>","BluePrint — MVP núcleo","Mes 5–8","$90k–180k"],
-    ["<strong>2C</strong>","BluePrint — cumplimiento, comisiones, Copiloto","Mes 9–12","$70k–140k"],
-    ["<strong>2D</strong>","Building Blocks — plataforma y dimensionamiento","Mes 4–6","$10k–20k"],
-    ["<strong>2E</strong>","Building Blocks — currículo base y certificación","Mes 6–10","$15k–35k"],
-    ["<strong>3</strong>","Franquicia — legal, marca, estructura (paralelo)","Mes 2–12","$69k–180k"],
-    ["<strong>4</strong>","VAULTED — bloqueado hasta meta de 90 días","Mes 13+","por definir"],
-    ["","<strong>Total de proyecto directo</strong>","18 meses","<strong>$281k–612k</strong>"]], None, 3)
-+ '<p class="note">Contra el sobre de <strong>$950k de capitalización</strong> y el plan operativo de '
-  '<strong>$800k a 18 meses</strong>. La diferencia entre el costo directo de proyecto y el plan '
-  'operativo es equipo, nómina y capital de trabajo.</p>'
++ table(["Fase","Qué","Cuándo","Inversión relativa"], [
+    ["<strong>1</strong>","GoHighLevel — Dproperty + DpropertyLiving","Semana 1–10","Baja"],
+    ["<strong>2A</strong>","BluePrint — descubrimiento, prototipo y cotizaciones","Mes 3–4","Baja"],
+    ["<strong>2B</strong>","BluePrint — núcleo del producto","Mes 5–8","<strong>Alta</strong>"],
+    ["<strong>2C</strong>","BluePrint — finanzas, procesos y roles agénticos","Mes 9–12","<strong>Alta</strong>"],
+    ["<strong>2D</strong>","Building Blocks — plataforma y alcance del currículo","Mes 4–6","Baja"],
+    ["<strong>2E</strong>","Building Blocks — currículo base y certificación","Mes 6–10","Media"],
+    ["<strong>3</strong>","Franquicia — legal, marca y estructura (en paralelo)","Mes 2–12","Media"],
+    ["<strong>4</strong>","VAULTED — en pausa hasta consolidar BluePrint","Mes 13+","Por definir"]], None, 3)
++ '<p class="note">El detalle de la inversión por etapa y el calendario de desembolsos se presentan en el modelo financiero, en documento aparte. <strong>Cada etapa se financia contra el resultado de la anterior</strong>, no contra el calendario.</p>'
+
 
 ,
 
 # ═══════════════════════════════ PÁGINA 2 — FASE 1 ARRANQUE
 masthead("Ruta de Desarrollo", "Fase 1 · GoHighLevel", None,
-         "B_RealEstate<br>24 sept 2026", small=True)
+         "B_RealEstate<br>25 sept 2026", small=True)
 + '<h2><span class="snum">02</span>Fase 1 — GoHighLevel · Semanas 1 a 10</h2>'
 + '<p class="small"><strong>Dos sub-cuentas, un solo motor.</strong> Dproperty habla de rendimiento e '
   'inversión. DpropertyLiving habla de estilo de vida y hogar. <strong>Mismo inventario, dos '
@@ -67,7 +65,7 @@ masthead("Ruta de Desarrollo", "Fase 1 · GoHighLevel", None,
 
 + '<div class="tl">'
 + phase("Sem 1–2","Fundaciones","Cuentas, dominios y el camino crítico",
-  '<p class="small">Cuenta <strong>Agency Pro</strong> ($497/mes) con SaaS Mode · dos sub-cuentas · '
+  '<p class="small">Cuenta de agencia con modo de reventa habilitado · dos sub-cuentas · '
   'dominios y subdominios · <strong>autenticación de correo SPF, DKIM y DMARC</strong> (sin esto, todo '
   'lo demás cae en spam) · números telefónicos y registro A2P donde aplique · conexión de Instagram, '
   'Facebook, LinkedIn y Google Business Profile.</p>'
@@ -100,7 +98,7 @@ masthead("Ruta de Desarrollo", "Fase 1 · GoHighLevel", None,
 
 # ═══════════════════════════════ PÁGINA 2 — FASE 1 (cont.) Y FASE 2
 masthead("Ruta de Desarrollo", "Fase 1 continuación y Fase 2", None,
-         "B_RealEstate<br>24 sept 2026", small=True)
+         "B_RealEstate<br>25 sept 2026", small=True)
 
 + '<div class="tl">'
 + phase("Sem 4–6","Contenido y redes","Dos calendarios, dos tonos de voz",
@@ -134,30 +132,24 @@ masthead("Ruta de Desarrollo", "Fase 1 continuación y Fase 2", None,
 ,
 
 # ═══════════════════════════════ PÁGINA 4 — CAPITAL F1 Y FASE 2
-masthead("Ruta de Desarrollo", "Capital de Fase 1 y arranque de Fase 2", None,
-         "B_RealEstate<br>24 sept 2026", small=True)
-+ '<h2><span class="snum">03</span>Capital de la Fase 1</h2>'
-+ table(["Concepto","Monto"], [
-    ["GoHighLevel Agency Pro — 3 meses","$1,491"],
-    ["Números telefónicos y mensajería — 3 meses","~$900"],
-    ["Implementación especializada en GoHighLevel","$6,000–12,000"],
-    ["Producción de contenido inicial — 30 días × 2 marcas","$2,500–5,000"],
-    ["Diseño de páginas de aterrizaje","$1,000–2,500"],
-    ["Dominios y correo","~$300"],
-    ["<strong>Total Fase 1</strong>","<strong>$12,000–22,000</strong>"]], None, 1)
-+ '<p class="note">Si la implementación se hace internamente en lugar de contratar un especialista, baja '
-  'a <strong>$5,000–9,000</strong> — pero cuesta entre 6 y 8 semanas de tiempo propio. Recomendación: '
-  '<strong>contratar al especialista</strong>. El tiempo del fundador vale más en la conversación de '
-  'franquicia y de capital.</p>'
-
-,
+masthead("Ruta de Desarrollo", "Qué hace falta para la Fase 1", None,
+         "B_RealEstate<br>25 sept 2026", small=True)
++ '<h2><span class="snum">03</span>Qué hace falta para la Fase 1</h2>'
++ table(["Componente","Qué implica"], [
+    ["Licencia de la plataforma","Una sola cuenta de agencia, con sub-cuentas para ambas marcas."],
+    ["Números y mensajería","Líneas telefónicas y verificación de WhatsApp Business."],
+    ["Implementación especializada","Un especialista en GoHighLevel que arme la configuración completa."],
+    ["Producción de contenido inicial","Plantillas y primer mes de calendario editorial para cada marca."],
+    ["Páginas de aterrizaje","Diseño de las páginas por proyecto e inventario."],
+    ["Dominios y correo","Configuración técnica y autenticación de envío."]], None, 99)
++ '<p class="note">Es la fase de menor inversión de todo el plan y la que más rápido se nota en el día a día del equipo comercial. <strong>Recomendación: contratar al especialista</strong> en lugar de hacerlo internamente — el tiempo del fundador rinde más en la conversación de franquicia y de capital que configurando embudos.</p>',
 
 # ═══════════════════════════════ PÁGINA 5 — FASE 2 DETALLE
 masthead("Ruta de Desarrollo", "Fase 2 · BluePrint y Building Blocks", None,
-         "B_RealEstate<br>24 sept 2026", small=True)
+         "B_RealEstate<br>25 sept 2026", small=True)
 + '<h2><span class="snum">04</span>Fase 2 — BluePrint y Building Blocks</h2>'
 + '<div class="tl">'
-+ phase("Mes 3–4","2A · $15k–35k","Descubrimiento, prototipo y dos cotizaciones",
++ phase("Mes 3–4","2A · Diseño","Descubrimiento, prototipo y dos cotizaciones",
   '<p class="small">Mapas de recorrido, datos y permisos · prototipo clickeable del '
   '<strong>flujo dorado</strong>: ingreso calificado → expediente → documentos y cumplimiento → '
   'aprobación → cierre → cálculo de comisión → reporte de gestión · arquitectura técnica · '
@@ -166,118 +158,104 @@ masthead("Ruta de Desarrollo", "Fase 2 · BluePrint y Building Blocks", None,
   '<div class="callout" style="margin:1.5mm 0"><strong>Meta de la etapa:</strong> no se libera capital de '
   'construcción hasta tener <strong>dos cotizaciones comparables</strong>. Es una brecha de evidencia '
   'declarada hoy.</div>')
-+ phase("Mes 5–8","2B · $90k–180k","MVP núcleo",
++ phase("Mes 5–8","2B · Núcleo","MVP núcleo",
   '<p class="small">Onboarding y roles · ingreso de oportunidad calificada · expediente de transacción · '
   'tareas · documentos y versiones · auditoría · reportes base. <strong>Piloto interno en Dproperty '
   'primero</strong>, después socios de diseño externos.</p>'
   '<p class="small"><strong>Condición de aprobación:</strong> un flujo corre de punta a punta '
   '<strong>sin que una hoja de cálculo paralela sea la autoridad</strong>.</p>')
-+ phase("Mes 9–12","2C · $70k–140k","Cumplimiento, comisiones y Copiloto",
++ phase("Mes 9–12","2C · Gerencia","Cumplimiento, comisiones y Copiloto",
   '<p class="small">Motor de cumplimiento y aprobaciones · <strong>snapshots de cálculo de comisión</strong> · '
   'conector con GoHighLevel (aquí se cierra el traspaso definido en la Fase 1) · Copiloto con permisos '
   'para consulta y borradores · endurecimiento para producción y pruebas de seguridad.</p>'
   '<p class="small"><strong>Meta:</strong> 5 socios de diseño y 3 conversiones pagadas.</p>')
-+ phase("Mes 4–6","2D · $10k–20k","Building Blocks — plataforma",
-  '<p class="small"><strong>Cotización formal del LMS</strong> (mercado: $8k–$25k/año) · '
-  '<strong>dimensionar el currículo base</strong> — hoy el rango de construcción es de $7k a $48k, '
-  'siete veces de amplitud, porque nunca se contó cuántos módulos son · montaje de plataforma e '
++ phase("Mes 4–6","2D · Plataforma","Building Blocks — plataforma",
+  '<p class="small"><strong>Cotización formal de la plataforma de formación</strong> · '
+  '<strong>definir el alcance del currículo base</strong> — cuántos módulos, para qué roles y '
+  'con qué profundidad; hoy es la variable más abierta del plan · montaje de plataforma e '
   'integración con BluePrint.</p>')
-+ phase("Mes 6–10","2E · $15k–35k","Building Blocks — currículo y certificación",
++ phase("Mes 6–10","2E · Currículo","Building Blocks — currículo y certificación",
   '<p class="small">Producción del currículo base de incorporación (12–20 módulos estimados) · '
   'evaluaciones · certificación con vencimiento y renovación · la <strong>habilitación de permisos</strong> '
   'desde BluePrint según certificación vigente.</p>'
   '<div class="callout gold" style="margin:1.5mm 0"><strong>No expandir el catálogo</strong> más allá de '
-  'la incorporación base hasta demostrar enganche real disparado por señales de BluePrint. El año 1 de '
-  'Building Blocks pierde dinero en todos los escenarios; no agravarlo produciendo contenido que nadie '
-  'pidió.</div>')
+  'la incorporación base hasta ver demanda real derivada desde BluePrint. Es un producto que madura '
+  'despacio: conviene construir lo que se va a usar y ampliar después.</div>')
 + '</div>',
 
 # ═══════════════════════════════ PÁGINA 3 — FASE 3 ASESORES Y CAPITAL
 masthead("Ruta de Desarrollo", "Fase 3 · Franquicia, asesores y tramos de capital", None,
-         "B_RealEstate<br>24 sept 2026", small=True)
+         "B_RealEstate<br>25 sept 2026", small=True)
 
 + '<h2><span class="snum">05</span>Fase 3 — Franquiciar la empresa · en paralelo desde el mes 2</h2>'
 + '<p class="small">Arranca <strong>antes</strong> de que BluePrint esté listo porque el reloj legal y de '
   'marca es largo y no depende del software. Cada frente necesita un especialista distinto — '
   '<strong>ningún abogado generalista cubre todo esto</strong>.</p>'
-+ table(["Frente","Quién lo debe ver","Cuándo","Costo estimado"], [
++ table(["Frente","Quién lo debe ver","Cuándo"], [
     ["<strong>Estructura y contrato de franquicia</strong><br><span class='soft'>Documento de divulgación, "
      "contrato maestro, derechos territoriales, terminación, piso de regalía</span>",
-     "Abogado <strong>especialista en franquicias</strong> — Panamá y cada mercado objetivo","Mes 2–5","$15k–40k"],
+     "Abogado <strong>especialista en franquicias</strong> — Panamá y cada mercado objetivo","Mes 2–5"],
     ["<strong>Registro de marca</strong><br><span class='soft'>Dproperty, DpropertyLiving, BluePrint, "
      "BlankCRM, Building Blocks, VAULTED, B_</span>",
-     "Abogado de <strong>propiedad intelectual</strong> con alcance multi-jurisdicción","Mes 2–4","$5k–15k"],
+     "Abogado de <strong>propiedad intelectual</strong> con alcance multi-jurisdicción","Mes 2–4"],
     ["<strong>Estructura fiscal y corporativa</strong><br><span class='soft'>Entidad, regalías "
      "transfronterizas, precios de transferencia, retenciones</span>",
-     "<strong>Fiscalista internacional</strong> + contador","Mes 3–5","$8k–20k"],
+     "<strong>Fiscalista internacional</strong> + contador","Mes 3–5"],
     ["<strong>Licencias de corretaje</strong><br><span class='soft'>Quién puede cobrar comisión y bajo "
      "qué licencia en cada mercado</span>",
-     "Abogado local por mercado · <strong>ACOBIR</strong> en Panamá","Mes 3–6","$3k–10k"],
+     "Abogado local por mercado · <strong>ACOBIR</strong> en Panamá","Mes 3–6"],
     ["<strong>Protección de datos</strong><br><span class='soft'>Ley 81 de Panamá, Ley 1581 de Colombia, "
      "acuerdos de tratamiento, datos entre inquilinos</span>",
-     "Abogado de <strong>privacidad y datos</strong>","Mes 4–6","$5k–12k"],
+     "Abogado de <strong>privacidad y datos</strong>","Mes 4–6"],
     ["<strong>Modelo financiero</strong><br><span class='soft'>Revisión independiente antes de mostrarlo "
      "a inversionistas o franquiciados</span>",
-     "<strong>Consultor financiero</strong> independiente","Mes 3–4","$5k–15k"],
+     "<strong>Consultor financiero</strong> independiente","Mes 3–4"],
     ["<strong>Desarrollo de franquicia</strong><br><span class='soft'>Perfil del franquiciado, proceso de "
      "reclutamiento, materiales de venta, validación del paquete</span>",
-     "<strong>Consultor de desarrollo de franquicias</strong>","Mes 5–8","$10k–25k"],
+     "<strong>Consultor de desarrollo de franquicias</strong>","Mes 5–8"],
     ["<strong>Auditoría de manuales</strong><br><span class='soft'>Los manuales resisten un estándar "
-     "multinacional</span>","Auditor de <strong>operaciones y calidad</strong>","Mes 6–8","$4k–10k"],
+     "multinacional</span>","Auditor de <strong>operaciones y calidad</strong>","Mes 6–8"],
     ["<strong>Seguridad de la información</strong><br><span class='soft'>Obligatorio antes de que "
      "BluePrint toque datos de clientes en producción</span>",
-     "<strong>Auditor de seguridad</strong> / pentest","Mes 9–11","$8k–18k"],
+     "<strong>Auditor de seguridad</strong> / pentest","Mes 9–11"],
     ["<strong>PLD / AML</strong><br><span class='soft'>Solo si VAULTED avanza o si hay flujo de fondos</span>",
-     "Consultor de <strong>cumplimiento PLD</strong>","Mes 8–12","$6k–15k"],
-    ["","","<strong>Total Fase 3</strong>","<strong>$69k–180k</strong>"]], None, 3)
+     "Consultor de <strong>cumplimiento PLD</strong>","Mes 8–12"],], None, 99)
 + '<div class="callout gold"><strong>Prioridad absoluta dentro de la Fase 3:</strong> el '
   '<strong>registro de marca</strong> arranca primero. Es lo más barato, lo más rápido y lo único '
   'irreversible si alguien más registra los nombres antes. Hoy la posición de marca está '
-  '<strong>sin verificar</strong> <span class="chip">[R]</span> para todos los nombres del portafolio.</div>'
+  '<strong>pendiente de verificar</strong> para todos los nombres del portafolio.</div>'
 
 ,
 
 # ═══════════════════════════════ PÁGINA 7 — TRAMOS DE CAPITAL
 masthead("Ruta de Desarrollo", "Tramos de capital atados a metas", None,
-         "B_RealEstate<br>24 sept 2026", small=True)
-+ '<h2><span class="snum">06</span>Tramos de capital atados a metas</h2>'
-+ '<p class="small">El capital se libera contra evidencia, no contra calendario. Sobre de '
-  '<strong>$950k</strong>; plan operativo de <strong>$800k a 18 meses</strong>.</p>'
-+ table(["Tramo","Monto","Qué financia","Meta para liberar el siguiente"], [
-    ["<strong>1</strong>","<strong>$120k</strong>",
-     "Fase 1 completa · descubrimiento y prototipo de BluePrint · inicio de marca y legal de franquicia",
-     "GoHighLevel en producción con el equipo usándolo · prototipo validado · <strong>dos cotizaciones "
-     "de desarrollo</strong> · marcas presentadas"],
-    ["<strong>2</strong>","<strong>$280k</strong>",
-     "MVP núcleo de BluePrint · plataforma de Building Blocks · contrato de franquicia redactado",
-     "Un flujo completo <strong>sin hoja de cálculo paralela</strong> · piloto interno en Dproperty "
-     "funcionando · contrato listo para firma"],
-    ["<strong>3</strong>","<strong>$250k</strong>",
-     "Cumplimiento, comisiones y Copiloto · currículo base · auditoría de seguridad · primeros socios",
-     "<strong>5 socios de diseño y 3 conversiones pagadas</strong> · sin hallazgo de seguridad crítico · "
-     "primer franquiciado o socio firmado y pagado"],
-    ["<strong>4</strong>","<strong>$150k</strong>",
-     "Escala de canales · segundo mercado · evaluación de VAULTED",
-     "Economía unitaria observada por cohorte, no modelada"]], None, 1)
-+ '<p class="note"><strong>Regla de la meta a 90 días:</strong> sin automatización de marketplace ni '
-  'expansión geográfica antes de la revisión. Y <strong>ser un producto con nombre no otorga '
-  'presupuesto</strong> — BluePrint recibe el capital de ingeniería; los demás se lo ganan demostrando '
-  'enganche o demanda propia.</p>'
+         "B_RealEstate<br>25 sept 2026", small=True)
++ '<h2><span class="snum">06</span>Etapas de financiamiento atadas a resultados</h2>'
++ '<p class="small">El financiamiento se libera <strong>contra evidencia, no contra calendario</strong>. Cada etapa tiene una condición concreta que debe cumplirse antes de abrir la siguiente. Los montos se detallan en el modelo financiero.</p>'
++ table(["Etapa","Qué financia","Qué debe demostrarse para abrir la siguiente"], [
+    ["<strong>1</strong>","Fase 1 completa · descubrimiento y prototipo de BluePrint · inicio de marca y legal de franquicia",
+     "GoHighLevel en producción con el equipo usándolo a diario · prototipo validado con usuarios reales · <strong>dos cotizaciones de desarrollo comparables</strong> · marcas presentadas a registro"],
+    ["<strong>2</strong>","Núcleo de BluePrint · plataforma de Building Blocks · contrato de franquicia redactado",
+     "Un proceso completo corriendo dentro de BluePrint · piloto interno en Dproperty en uso real · contrato listo para firma con revisión legal"],
+    ["<strong>3</strong>","Finanzas, procesos y roles agénticos · currículo base · auditoría de seguridad · primeros socios",
+     "Socios de diseño activos y primeras conversiones pagadas · sin hallazgos críticos de seguridad · primer operador de franquicia o socio firmado"],
+    ["<strong>4</strong>","Escala de canales · segundo mercado · evaluación de VAULTED",
+     "Economía unitaria observada con clientes reales, no modelada"]], None, 99)
++ '<p class="note"><strong>Regla de la revisión a 90 días:</strong> sin automatización de la red ni expansión geográfica antes de esa revisión. Y una disciplina que nos protege: <strong>que un producto exista en el mapa no le otorga presupuesto</strong> — BluePrint concentra la inversión de ingeniería, y los demás la reciben cuando demuestran demanda.</p>'
 
 + simple([
-  "<strong>Primero GoHighLevel</strong> (2 meses y medio, $12k–22k). Montamos el CRM y las redes de "
-  "Dproperty y DpropertyLiving, con todo automatizado para que el equipo de ventas deje de perder "
-  "prospectos. Es barato, rápido y nos enseña cómo opera el negocio de verdad.",
-  "<strong>Con eso andando, empezamos BluePrint</strong> (mes 3 al 12, $175k–355k). Se construye en tres "
-  "pedazos y cada pedazo se paga solo si el anterior funcionó.",
-  "<strong>Building Blocks va al lado de BluePrint</strong> (mes 4 al 10, $25k–55k). Primero cotizamos la "
-  "plataforma y contamos cuántos cursos son — hoy no lo sabemos y por eso el presupuesto varía 7 veces.",
+  "<strong>Primero GoHighLevel</strong> (unas diez semanas). Montamos el CRM y las redes de Dproperty "
+  "y DpropertyLiving, con todo automatizado para que el equipo comercial deje de perder oportunidades. "
+  "Es rápido, es la inversión más baja del plan y nos enseña cómo opera el negocio de verdad.",
+  "<strong>Con eso andando, empezamos BluePrint</strong> (del mes 3 al 12). Se construye en tres etapas "
+  "y cada etapa se financia solo si la anterior funcionó.",
+  "<strong>Building Blocks va al lado de BluePrint</strong> (del mes 4 al 10). Primero cotizamos la "
+  "plataforma y definimos cuántos cursos son — hoy esa es la variable más abierta del plan.",
   "<strong>La franquicia arranca desde el mes 2, en paralelo.</strong> No hay que esperar el software: "
-  "los abogados y el registro de marca toman meses. <strong>Lo primero de todo es registrar las marcas</strong> "
-  "— es barato y es lo único que no se puede deshacer si alguien nos gana el nombre.",
-  "<strong>VAULTED se queda para el final y a propósito.</strong> Es la apuesta grande pero no gastamos "
-  "en ella hasta que BluePrint esté estable.",
-  "<strong>El dinero entra en cuatro tramos</strong> ($120k, $280k, $250k, $150k) y cada tramo se libera "
-  "solo cuando el anterior demostró algo concreto. Si algo no funciona, nos detenemos ahí y no perdimos "
-  "el resto."]),
+  "los abogados y el registro de marca toman meses. <strong>Lo primero de todo es registrar las "
+  "marcas</strong> — es lo más rápido y lo único que no se puede deshacer si alguien más las registra.",
+  "<strong>VAULTED se queda para el final, a propósito.</strong> Es la apuesta de mayor potencial y no "
+  "consume recursos hasta que BluePrint esté consolidado.",
+  "<strong>El financiamiento entra por etapas</strong>, y cada una se abre solo cuando la anterior "
+  "demostró algo concreto. Si algo no funciona, nos detenemos ahí sin haber comprometido el resto."]),
 ]

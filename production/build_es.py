@@ -38,7 +38,7 @@ for i, key in enumerate(order, 1):
 try:
     from ecosystem_es import ECO
     html = doc("B_RealEstate — Ecosistema", ECO)
-    name = "09 - B_RealEstate - Ecosistema - Dos Paginas - 2026-09-24.html"
+    name = "09 - B_RealEstate - Ecosistema - Dos Paginas - 2026-09-25.html"
     with open(os.path.join(OUT, name), "w", encoding="utf-8", newline="") as fh:
         fh.write(html)
     written.append(name); print("OK ", name)
@@ -48,7 +48,7 @@ except ImportError:
 try:
     from roadmap_es import ROADMAP
     html = doc("B_RealEstate — Ruta de Desarrollo", ROADMAP)
-    name = "10 - B_RealEstate - Ruta de Desarrollo - 2026-09-24.html"
+    name = "10 - B_RealEstate - Ruta de Desarrollo - 2026-09-25.html"
     with open(os.path.join(OUT, name), "w", encoding="utf-8", newline="") as fh:
         fh.write(html)
     written.append(name); print("OK ", name)

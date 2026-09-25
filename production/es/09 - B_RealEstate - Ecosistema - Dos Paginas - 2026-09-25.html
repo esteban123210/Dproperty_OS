@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>B_RealEstate — Ecosistema</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bone:#F7F4ED; --bone-deep:#EFEAE0; --bone-warm:#FAF8F3;
+  --charcoal:#1A1A1A; --soft:#55514C; --champagne:#B89B5E;
+  --blue:#1F4E79; --rule:rgba(26,26,26,.25);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+@page{size:letter;margin:11mm 13mm}
+html,body{background:var(--bone);color:var(--charcoal);
+  font-family:'Inter',system-ui,sans-serif;font-size:9pt;line-height:1.43;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:190mm;min-height:234mm;margin:0 auto;background:var(--bone);
+  position:relative;padding-bottom:10mm}
+.page+.page{page-break-before:always}
+
+.eyebrow{font-family:'JetBrains Mono',monospace;font-size:7pt;text-transform:uppercase;
+  letter-spacing:.09em;color:var(--soft)}
+.masthead{display:flex;justify-content:space-between;align-items:flex-start}
+.brandmark{font-family:'JetBrains Mono',monospace;font-size:6.8pt;letter-spacing:.09em;
+  color:var(--soft);text-align:right;line-height:1.7}
+h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:22pt;
+  line-height:1.05;letter-spacing:-.022em;margin:1.5mm 0}
+h1.sm{font-size:17pt}
+.positioning{font-size:9.4pt;color:var(--soft);max-width:134mm;line-height:1.4}
+.hrule{border-top:1.4pt solid var(--charcoal);margin:3mm 0 3.5mm}
+.hrule.thin{border-top:.4pt solid var(--rule);margin:3mm 0 4mm}
+
+h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:11.5pt;
+  letter-spacing:-.012em;margin:0 0 1.5mm;break-after:avoid}
+.snum{font-family:'JetBrains Mono',monospace;font-size:7pt;letter-spacing:.09em;
+  color:var(--champagne);display:block;margin-bottom:.8mm}
+h3{font-family:'JetBrains Mono',monospace;font-size:7pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.09em;color:var(--soft);
+  margin:0 0 1.5mm;break-after:avoid}
+h3.mt{margin-top:2.8mm}
+p{margin:0 0 1.8mm}
+strong{font-weight:600}
+em{font-family:'Playfair Display',serif;font-style:italic}
+.small{font-size:8.3pt}
+.soft{color:var(--soft)}
+
+.cols{display:grid;grid-template-columns:1fr 62mm;gap:5.5mm;align-items:start}
+.cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5mm}
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+
+.panel{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);
+  padding:3mm 3.5mm;break-inside:avoid}
+.panel.blue{border-left-color:var(--blue)}
+.panel.dark{border-left-color:var(--charcoal);background:var(--bone-deep)}
+.dl div{display:flex;gap:2.5mm;padding:1mm 0;border-bottom:.4pt solid var(--rule);font-size:7.8pt}
+.dl div:last-of-type{border-bottom:none}
+.dl dt{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);min-width:16mm;padding-top:.5mm}
+.dl dd{flex:1}
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:2.2mm;margin-top:3mm;
+  padding-top:2.5mm;border-top:.9pt solid var(--charcoal)}
+.fig .n{font-family:'Playfair Display',serif;font-weight:500;font-size:13.5pt;
+  line-height:1;color:var(--champagne)}
+.fig .l{font-family:'JetBrains Mono',monospace;font-size:6pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);margin-top:1mm;line-height:1.35}
+
+table{width:100%;border-collapse:collapse;font-size:8pt;margin:1.2mm 0 2.2mm;break-inside:avoid}
+th{background:var(--bone-deep);font-family:'JetBrains Mono',monospace;font-size:6.5pt;
+  font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:var(--soft);
+  text-align:left;padding:1.2mm 1.8mm;border-bottom:.9pt solid var(--charcoal)}
+td{padding:1mm 1.8mm;border-bottom:.4pt solid var(--rule);vertical-align:top}
+tr:nth-child(even) td{background:var(--bone-warm)}
+.num{text-align:right;white-space:nowrap}
+caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);text-align:left;padding-bottom:1.4mm}
+
+.chip{font-family:'JetBrains Mono',monospace;font-size:6.3pt;background:var(--bone-deep);
+  color:var(--blue);padding:.3mm 1.1mm;border-radius:1pt;white-space:nowrap;font-weight:500}
+
+.note{font-size:7.6pt;color:var(--soft);border-left:2pt solid var(--rule);
+  padding-left:3.5mm;margin:1.5mm 0 2.2mm}
+.callout{background:var(--bone-deep);padding:2.2mm 3mm;font-size:8.1pt;margin:1.8mm 0;
+  border-left:2.6pt solid var(--charcoal)}
+.callout.gold{border-left-color:var(--champagne);background:var(--bone-warm)}
+
+/* SIMPLE-READING BLOCK — the plain-language conclusion */
+.simple{background:var(--bone-warm);border:.5pt solid var(--champagne);
+  border-left:3.2pt solid var(--champagne);padding:3mm 3.5mm;margin:2.5mm 0;break-inside:avoid}
+.simple h3{color:var(--champagne);font-size:7.4pt;margin-bottom:2mm}
+.simple p{font-size:8.6pt;margin-bottom:1.5mm}
+.simple p:last-child{margin-bottom:0}
+.simple ul{list-style:none;font-size:8.6pt}
+.simple li{padding-left:3.5mm;position:relative;margin-bottom:1mm}
+.simple li::before{content:"→";position:absolute;left:0;color:var(--champagne);font-weight:600}
+
+/* canvas */
+.canvas{display:grid;grid-template-columns:repeat(5,1fr);gap:1.2mm;margin-top:1.5mm}
+.cell{background:var(--bone-deep);border:.4pt solid var(--rule);padding:2mm 2.2mm;break-inside:avoid}
+.cell h4{font-family:'JetBrains Mono',monospace;font-size:6pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.07em;color:var(--soft);margin-bottom:1.4mm}
+.cell ul{list-style:none;font-size:6.9pt;line-height:1.35}
+.cell li{padding-left:2.5mm;position:relative;margin-bottom:.6mm}
+.cell li::before{content:"·";position:absolute;left:.6mm;color:var(--champagne);font-weight:700}
+.vp{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);grid-column:3;grid-row:1/span 2}
+.vp h4{color:var(--charcoal)}
+.kp{grid-column:1;grid-row:1/span 2}
+.cseg{grid-column:5;grid-row:1/span 2}
+.wide-l{grid-column:1/span 2}
+.wide-r{grid-column:3/span 3}
+
+/* timeline / roadmap */
+.tl{position:relative;margin:2.5mm 0}
+.phase{display:grid;grid-template-columns:20mm 1fr;gap:3mm;padding:2.4mm 0;
+  border-top:.5pt solid var(--rule);break-inside:avoid}
+.phase:first-child{border-top:1.2pt solid var(--charcoal)}
+.phase .when{font-family:'JetBrains Mono',monospace;font-size:6.8pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--champagne);line-height:1.5;padding-top:.5mm}
+.phase .when b{display:block;color:var(--charcoal);font-size:8.5pt;letter-spacing:0;
+  font-family:'Playfair Display',serif;font-weight:500;margin-bottom:.8mm}
+.phase h4{font-family:'Playfair Display',serif;font-size:9.8pt;font-weight:500;margin-bottom:1mm}
+.bar{height:3.4mm;background:var(--bone-deep);display:flex;margin:2mm 0 3mm;border:.4pt solid var(--rule)}
+.bar i{display:block;height:100%}
+.bar i.on{background:var(--champagne)}
+.bar i.next{background:rgba(184,155,94,.35)}
+.bar i.later{background:transparent}
+.gridnote{display:grid;grid-template-columns:1fr 1fr;gap:4mm;font-size:8.2pt}
+.cap{font-family:'JetBrains Mono',monospace;font-size:8pt;color:var(--charcoal);font-weight:500}
+
+.foot{position:absolute;bottom:0;left:0;right:0;border-top:.4pt solid var(--rule);
+  padding-top:2mm;display:flex;justify-content:space-between;
+  font-family:'JetBrains Mono',monospace;font-size:6pt;letter-spacing:.05em;color:var(--soft)}
+.foot span{max-width:152mm;line-height:1.5}
+</style>
+</head>
+<body>
+<section class="page" style="zoom:0.853"><div class="masthead"><div><div class="eyebrow">Ecosistema</div><h1 class="">Cómo encaja todo</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026<br>v1.0</div></div><p class="positioning">Ocho ofertas, un solo negocio. Cada bloque hace algo que hace más valioso al siguiente — y esa es la diferencia entre un portafolio y una empresa.</p><div class="hrule"></div><h3>La frase que ordena todo</h3><div class="callout gold" style="margin-top:1mm"><strong>El CRM ayuda al equipo a vender. BluePrint hace la gerencia. Building Blocks forma a las personas. VAULTED amplía el alcance.</strong> Cada pieza hace aquello en lo que es mejor, y ninguna le pide a otra que haga su trabajo.</div><p class="note">La idea central: <strong>el vendedor vende, y la empresa se ordena por detrás.</strong> BluePrint además acompaña el uso del CRM y reporta si la actividad comercial está alineada con los objetivos de la empresa — no es solo el siguiente paso, también es la mirada sobre el anterior.</p><h2 style="margin-top:4mm"><span class="snum">01</span>El flujo</h2><pre style="font-family:'JetBrains Mono',monospace;font-size:6.2pt;line-height:1.26;background:var(--bone-deep);padding:3mm;border-left:2.6pt solid var(--champagne);white-space:pre;overflow:hidden">  Dproperty (inversionista)        DpropertyLiving (usuario final)
+            └──────────────┬──────────────┘
+                           ▼
+            ┌──────────────────────────────┐
+            │  BlankCRM  (GoHighLevel)     │  el equipo comercial vende
+            └──────────────┬───────────────┘
+                     │     ▲ BluePrint acompaña el uso del CRM
+   Contabilidad ──► ┌┴─────┴──────┐ ◄── Building Blocks (forma y certifica)
+   Banco · Firma    │  BluePrint  │  CEO · CFO · COO · CMO agénticos
+                    │  la gerencia profesional de la empresa
+                    │  Glitch Report · finanzas · trazabilidad
+                    └──────┬──────┘
+                           ▼
+                    ┌─────────────┐ ◄── Dproperty Select (oferta curada)
+                    │   VAULTED   │ ◄── Desarrolladores (oferta de proyecto)
+                    └─────────────┘
+
+  CANALES: Franquicia Dproperty · B_ Partner · Alianzas con Desarrolladores</pre><h2 style="margin-top:4mm"><span class="snum">02</span>Quién se encarga de qué</h2><table><thead><tr><th>Ámbito</th><th>Se encarga</th><th>Por qué ahí</th></tr></thead><tbody><tr><td>Prospectos, contactos, conversaciones y campañas</td><td><strong>BlankCRM</strong></td><td>Es la herramienta del equipo comercial</td></tr><tr><td>El seguimiento comercial hasta la calificación</td><td><strong>BlankCRM</strong></td><td>Es donde el vendedor trabaja</td></tr><tr><td>La información financiera respaldada y su clasificación</td><td><strong>BluePrint</strong></td><td>Nace de un documento, no de un campo llenado</td></tr><tr><td>Procesos, Glitch Report, indicadores y trazabilidad</td><td><strong>BluePrint</strong></td><td>Es la mirada gerencial de la empresa</td></tr><tr><td>Inventario de propiedades y proyectos</td><td>Sistema del desarrollador o la red</td><td>Es de quien lo tiene</td></tr><tr><td>Oferta de red, conexiones y reconocimiento del aporte</td><td><strong>VAULTED</strong></td><td>Es una red, no un sistema interno</td></tr><tr><td>Contenido, evaluación y certificación</td><td><strong>Building Blocks</strong></td><td>Es formación, con su propia plataforma</td></tr><tr><td>Libro contable, impuestos y movimiento de fondos</td><td>Contador y banca</td><td>Corresponde a profesionales y entidades reguladas</td></tr></tbody></table><p class="note"><strong>Una sola responsable por ámbito.</strong> No hablamos de «una sola base de datos»: es un ecosistema conectado donde cada pieza sabe cuál es su trabajo. Por eso nada se duplica y nadie se pisa.</p><div class="simple"><h3>Cómo leerlo en simple</h3><ul><li>Piénsalo como <strong>un equipo donde cada uno hace lo que mejor sabe hacer</strong>.</li><li><strong>BlankCRM</strong> es del vendedor: le facilita conseguir y atender clientes.</li><li><strong>BluePrint</strong> es la gerencia: ordena las finanzas, documenta los procesos, anota los tropiezos y acompaña el uso del CRM. Así <strong>el vendedor no tiene que volverse administrador</strong>.</li><li><strong>Building Blocks</strong> forma al equipo. <strong>VAULTED</strong> amplía el alcance con la red.</li><li>Y los <strong>canales</strong> — franquicia, socio de marca propia y desarrolladores — son las tres formas de llevar todo el paquete a distintos tipos de operador.</li><li><strong>Lo importante:</strong> ninguna pieza le pide a otra que haga su trabajo. Eso es lo que permite que una empresa pequeña opere con el orden de una grande.</li></ul></div><div class="foot"><span>Documento descriptivo del modelo. Las capacidades en desarrollo se señalan como tales. Los términos comerciales se detallan en propuesta aparte. No constituye una oferta ni una solicitud de inversión.</span><span>1 / 2</span></div></section><section class="page" style="zoom:0.87"><div class="masthead"><div><div class="eyebrow">Ecosistema</div><h1 class="sm">Cómo cada bloque crea valor para los demás</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026</div></div><div class="hrule"></div><h2><span class="snum">03</span>Matriz de intercambio de valor</h2><p class="small soft" style="margin-bottom:2mm">Lee cada fila así: «este bloque <strong>le da</strong> esto a los demás». Donde una fila está vacía, el bloque todavía no aporta — y eso también es información.</p><table><thead><tr><th>Bloque</th><th>Qué le da al resto del ecosistema</th></tr></thead><tbody><tr><td><strong>BluePrint</strong></td><td>Al <strong>CRM</strong>: lo acompaña y avisa cuando algo no está cuadrando, sin pedirle al equipo más trabajo administrativo. A <strong>Building Blocks</strong>: le indica qué formación hace falta y para quién. A <strong>VAULTED</strong>: operaciones respaldadas y reconocimiento confiable del aporte. A los <strong>canales</strong>: la consistencia que hace posible franquiciar, y una empresa <strong>ordenada y transferible</strong>.</td></tr><tr><td><strong>BlankCRM</strong></td><td>A <strong>BluePrint</strong>: oportunidades calificadas — sin esto no tiene materia prima. A <strong>VAULTED</strong>: señales de demanda autorizada. A los <strong>canales</strong>: un producto de entrada barato. A <strong>Dproperty y DpropertyLiving</strong>: la maquinaria de contenido. Su límite: <strong>depende de que el equipo lo use bien</strong>.</td></tr><tr><td><strong>VAULTED</strong></td><td>A <strong>BluePrint</strong>: más transacciones. A los <strong>canales</strong>: un beneficio que ningún competidor local ofrece. A <strong>Select</strong>: distribución. <strong>Hoy da poco: está bloqueado a propósito.</strong></td></tr><tr><td><strong>Building Blocks</strong></td><td>A <strong>BluePrint</strong> y al <strong>CRM</strong>: equipos que saben aprovecharlos — la razón más común por la que un buen software no rinde es que nadie tuvo tiempo de aprenderlo. A la <strong>franquicia</strong>: consistencia entre oficinas. A <strong>desarrolladores</strong>: corredores formados y certificados por proyecto.</td></tr><tr><td><strong>Franquicia Dproperty</strong></td><td>A <strong>BluePrint</strong>: los casos reales que prueban el producto y los primeros ingresos. A <strong>VAULTED</strong>: participantes y oferta. A <strong>Select</strong>: fuerza de distribución. A la empresa: credibilidad — operamos lo que vendemos.</td></tr><tr><td><strong>B_ Partner</strong></td><td>A <strong>BluePrint</strong>: clientes que <em>no</em> son Dproperty — la prueba de que la plataforma es neutral. A <strong>VAULTED</strong>: oferta y demanda independientes.</td></tr><tr><td><strong>Desarrolladores</strong></td><td>A <strong>VAULTED</strong>: la oferta inicial — resuelve el arranque en frío. A <strong>Select</strong>: oportunidades candidatas. A <strong>BluePrint</strong>: aprendizaje de ventas complejas.</td></tr><tr><td><strong>Dproperty Select</strong></td><td>A la <strong>franquicia</strong>: la razón para elegirnos sobre otra marca. A <strong>VAULTED</strong>: su primera oferta de calidad. A la empresa: la prueba de que entendemos inmobiliaria, no solo software.</td></tr></tbody></table><h2 style="margin-top:4mm"><span class="snum">04</span>Los tres circuitos que se refuerzan</h2><div class="cols3"><div class="panel"><h3>1 · Círculo de mejora</h3><p class="small">BluePrint identifica dónde el proceso necesita apoyo → Building Blocks forma a quien lo necesita → BluePrint reconoce la certificación → la operación mejora → hay más información para seguir mejorando. <strong>Cada vuelta hace la herramienta más útil y la formación más pertinente.</strong></p></div><div class="panel"><h3>2 · Circuito de red</h3><p class="small">Más oficinas y socios → más oferta y demanda en VAULTED → más transacciones atribuibles → la red vale más → ser franquicia o socio vale más. <strong>Es el único circuito con potencial de efecto de red real.</strong></p></div><div class="panel"><h3>3 · Círculo de prueba</h3><p class="small">Dproperty opera con las plataformas todos los días → genera casos y aprendizajes reales → el producto mejora y se vuelve ofrecible a terceros → más operadores → más aprendizaje. <strong>Es la ventaja de haber construido esto desde dentro de una inmobiliaria que opera.</strong></p></div></div><div class="simple"><h3>Cómo leerlo en simple</h3><ul><li>La pregunta real es: <strong>¿por qué esto es una empresa y no cuatro productos sueltos?</strong> Porque cada pieza hace más valiosa a la siguiente.</li><li>Ejemplo concreto: <strong>BluePrint nota que en una oficina siempre se traba el mismo paso. Building Blocks forma a esa persona. BluePrint verifica que quedó resuelto.</strong> Ninguna plataforma de formación tiene la señal, y ninguna de gestión tiene el curso.</li><li>Otro: <strong>los desarrolladores aportan inventario. Ese inventario da valor a la red. La red hace más atractivo pertenecer al ecosistema. Más participantes traen más inventario.</strong></li><li>Y el más importante: <strong>Dproperty usa todo esto todos los días.</strong> No es un producto diseñado en teoría — se construyó desde dentro de una inmobiliaria que opera.</li><li>Siendo honestos sobre la madurez: <strong>hoy el corazón es BluePrint.</strong> VAULTED es la apuesta grande y está en pausa a propósito. Los canales llevan el paquete al mercado. Y Select es lo único que un competidor definitivamente no puede copiar.</li></ul></div><div class="foot"><span>Documento descriptivo del modelo. Las capacidades en desarrollo se señalan como tales. Los términos comerciales se detallan en propuesta aparte. No constituye una oferta ni una solicitud de inversión.</span><span>2 / 2</span></div></section>
+</body>
+</html>

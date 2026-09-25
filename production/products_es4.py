@@ -3,233 +3,239 @@
 
 from brand import masthead, simple, table, glance, canvas
 
-M = "B_RealEstate<br>24 sept 2026<br>v1.0"
+M = "B_RealEstate<br>25 sept 2026<br>v3.0"
 P4 = {}
 
 # ══════════════════════════════════════════════════════════ 7 · DESARROLLADORES
 P4["07_Developer_Partnerships"] = dict(
  file="Alianzas con Desarrolladores",
- p1=masthead("Canal — Ingreso, oferta y distribución", "Alianzas con Desarrolladores",
-   "Servicio comercial a equipos de venta de desarrolladores: proceso, formación, reporte y "
-   "distribución en red.", M)
+ p1=masthead("Canal — Alianza comercial", "Alianzas con Desarrolladores",
+   "Acompañamos al equipo comercial de un desarrollador: proceso, formación, activación de corredores, "
+   "reportería y distribución en red.", M)
  + '<div class="cols"><div>'
  + '<h3>La idea</h3>'
- + '<p>Las alianzas con desarrolladores son un canal de <strong>ingreso + oferta + distribución + '
-   'aprendizaje de producto</strong>. No son un quinto producto.</p>'
- + '<p>B_ puede aportar: armado de CRM y proceso comercial, formación, activación de corredores, '
-   'reporte, mesa de ventas gestionada, distribución en red y servicios operativos seleccionados.</p>'
- + '<h3 class="mt">Por qué importan más allá de la comisión</h3>'
- + '<p class="small"><strong>1)</strong> Ingreso directo de servicio y desempeño · <strong>2)</strong> '
-   '<strong>siembran la oferta de VAULTED</strong> — la ventaja de arranque en frío · '
-   '<strong>3)</strong> oportunidades potenciales para Dproperty Select · <strong>4)</strong> '
-   'aprendizaje de producto con organizaciones de venta complejas · <strong>5)</strong> distribución '
-   'hacia los equipos de venta del desarrollador.</p>'
- + '<p class="small">Las razones 2 a 5 son por las que este canal existe a pesar de una contribución '
-   'delgada en el retainer. Internamente hay que ser honestos: <strong>el retainer está cerca de ser '
-   'un mecanismo de recuperación de costos</strong>, no de margen.</p>'
- + '<h3 class="mt">La ambigüedad que se corrigió</h3>'
- + '<p class="small">Los porcentajes históricos se citaban <strong>sin decir sobre qué base</strong>. '
-   '0.5% del valor de la transacción en una unidad de $300,000 son <strong>$1,500</strong>; 0.5% de '
-   'una bolsa de comisión del 3% son <strong>$45</strong>. Una diferencia de <strong>33 veces</strong>. '
-   'Regla nueva: <strong>todo porcentaje declara su denominador, siempre</strong>.</p>'
+ + '<p>Un desarrollador construye bien. Vender es otro oficio, y sostenerlo exige una estructura '
+   'comercial que no siempre tiene sentido montar internamente para un solo proyecto.</p>'
+ + '<p>Ahí entramos: aportamos el <strong>proceso comercial armado</strong>, la formación y activación '
+   'de corredores, la reportería de avance y el acceso a nuestra red de compradores — sin que el '
+   'desarrollador tenga que construir un área comercial desde cero.</p>'
+ + '<h3 class="mt">Tres formas de trabajar juntos</h3>'
+ + '<p class="small"><strong>1 · Mesa comercial gestionada.</strong> Operamos la mesa de ventas del '
+   'proyecto: proceso, seguimiento, reportería y coordinación de corredores, con un honorario mensual '
+   'definido.</p>'
+ + '<p class="small"><strong>2 · Apoyo al equipo propio.</strong> El desarrollador vende con su gente; '
+   'nosotros aportamos el proceso, las plataformas, la formación y la reportería. El reconocimiento es '
+   'menor porque la relación con el cliente sigue siendo suya.</p>'
+ + '<p class="small"><strong>3 · Originado en la red.</strong> Nosotros traemos al comprador. El '
+   'reconocimiento es mayor porque aportamos el insumo más escaso: la demanda calificada.</p>'
+ + '<h3 class="mt">Una claridad importante</h3>'
+ + '<p class="small">Nuestro reconocimiento <strong>sale de la bolsa de comisión que el proyecto ya tiene '
+   'asignada</strong> — no se suma por encima. Cada propuesta se revisa contra la estructura real de ese '
+   'proyecto antes de presentarse, para que la operación sea viable para todas las partes. '
+   '<strong>Un acuerdo que no le cierra al desarrollador no le sirve a nadie.</strong></p>'
  + '</div>'
- + glance([("Tipo","Canal. Alianza comercial y de distribución, no consultoría de desarrollo."),
-           ("Trabajo","Servir al equipo comercial del desarrollador y sembrar oferta de red."),
-           ("Mesa gestionada","<strong>$3,000–$5,000</strong>/mes — retainer fijo"),
-           ("Equipo propio","<strong>0.5%</strong> del <strong>valor de la transacción</strong>"),
-           ("Originado en red","<strong>2.5–3.0%</strong> del <strong>valor de la transacción</strong>")],
-          [("$1,500","Equipo propio, unidad de $300k"),("$7,500","Originado en red, 2.5%"),
-           ("$500–2,500","Contribución mensual de la mesa"),("33×","La ambigüedad corregida")])
+ + glance([("Tipo","Canal. Alianza comercial y de distribución."),
+           ("Trabajo","Acompañar al equipo comercial del desarrollador y sumar oferta a la red."),
+           ("Modelo","Honorario mensual por mesa gestionada, o reconocimiento sobre la operación "
+                     "concretada según quién aportó el comprador."),
+           ("Base","El reconocimiento sale de la bolsa de comisión ya asignada del proyecto."),
+           ("Alcance","Alianza de ventas y distribución — no consultoría de desarrollo.")],
+          [("Proceso","Comercial armado, sin montar estructura"),("Corredores","Activados y formados"),
+           ("Red","Acceso a compradores calificados"),("Reporte","Avance real de ventas")])
  + '</div>'
- + '<h2 style="margin-top:4mm"><span class="snum">01</span>Ejemplos sobre una unidad de $300,000</h2>'
- + '<div class="cols2">'
- + table(["Escenario","Comisión","B_ recibe"], [
-     ["Equipo propio del desarrollador, B_ opera proceso y reporte","0.5% del valor","$1,500"],
-     ["Originado en red — B_ trae al comprador","2.5% del valor","$7,500"],
-     ["Originado en red, banda alta","3.0% del valor","$9,000"],
-     ["Mesa de ventas gestionada","fijo","$3,000–$5,000/mes"]], "Tarifas con base explícita")
- + table(["Caso","B_ recibe","Queda para los demás"], [
-     ["Equipo propio 0.5%","$1,500","$10,500"],
-     ["Originado en red 2.5%","$7,500","$4,500"],
-     ["Originado en red 3.0%","$9,000","$3,000"]], "Sobre una bolsa del 4% = $12,000")
- + '</div>'
- + '<div class="callout"><strong>Aquí es donde el precio se prueba en la realidad.</strong> Al 3% del '
-   'valor de la transacción, B_ toma tres cuartas partes de una bolsa del 4%. Eso solo se defiende '
-   'cuando B_ realmente consiguió un comprador que el desarrollador no podía alcanzar. '
-   '<strong>Si la bolsa del desarrollador es del 3%, una tarifa de red del 3% se la consume completa '
-   'y el negocio es imposible.</strong> Cada cotización debe verificarse contra la bolsa real de ese '
-   'proyecto antes de ofrecerse.</div>'
- + '<p class="note"><strong>Por qué la brecha de 5–6× entre equipo propio y originado en red es '
-   'correcta:</strong> en el primer caso B_ aporta <em>proceso e infraestructura</em> mientras los '
-   'corredores del desarrollador son dueños de la relación y de la venta. En el segundo, B_ aporta '
-   '<em>el comprador</em> — que es el insumo escaso y carga el costo de adquisición.</p>'
+ + '<h2 style="margin-top:4mm"><span class="snum">01</span>Qué aporta cada modalidad</h2>'
+ + table(["Modalidad","Qué aportamos","Qué reconoce el proyecto"], [
+     ["<strong>Mesa comercial gestionada</strong>",
+      "Operación completa de la mesa: proceso, seguimiento, coordinación de corredores, reportería a la "
+      "dirección.",
+      "Honorario mensual definido, independiente del resultado."],
+     ["<strong>Apoyo al equipo propio</strong>",
+      "Proceso comercial, plataformas configuradas, formación del equipo y reportería de avance. La "
+      "relación con el cliente es del desarrollador.",
+      "Reconocimiento menor sobre la operación — aportamos infraestructura, no la demanda."],
+     ["<strong>Originado en la red</strong>",
+      "El comprador. Calificado, acompañado y con la información preparada.",
+      "Reconocimiento mayor — aportamos el insumo escaso y asumimos el costo de conseguirlo."]], None, 99)
+ + '<p class="note">La diferencia entre las dos últimas modalidades es deliberada y se explica sola: '
+   '<strong>traer el proceso y traer el comprador son aportes de valor muy distinto.</strong></p>'
  + simple([
-     "Hay <strong>tres formas</strong> de cobrar: una mesa de ventas fija ($3,000–$5,000 al mes), "
-     "un <strong>0.5%</strong> si el desarrollador vende con su propio equipo y nosotros ponemos el "
-     "proceso, o un <strong>2.5–3%</strong> si nosotros traemos al comprador.",
-     "Todos esos porcentajes son <strong>sobre el precio de la propiedad</strong>, no sobre la comisión. "
-     "Antes esto estaba confuso y la diferencia era de <strong>33 veces</strong>.",
-     "Traducido: en una propiedad de $300,000 cobramos <strong>$1,500</strong> si es su equipo, o "
-     "<strong>$7,500</strong> si nosotros conseguimos al comprador.",
-     "<strong>Advertencia importante:</strong> nuestra comisión sale de la bolsa que el desarrollador "
-     "ya tenía asignada, no se suma. Si el desarrollador solo tiene 3% para repartir y nosotros "
-     "pedimos 3%, <strong>el negocio no se puede hacer</strong>. Hay que revisar proyecto por proyecto.",
-     "La mesa de ventas <strong>casi no deja margen</strong>. La hacemos porque nos da relación, "
-     "inventario para VAULTED y aprendizaje — no porque sea rentable."]),
+     "Ayudamos al desarrollador a vender su proyecto sin que tenga que montar un área comercial completa.",
+     "Hay <strong>tres formas</strong>: le operamos la mesa de ventas por un honorario mensual, le "
+     "ponemos el proceso y la formación mientras vende con su equipo, o le traemos nosotros al comprador.",
+     "Cuanto más aportamos, mayor es el reconocimiento. <strong>Traer al comprador vale más que traer "
+     "el proceso</strong>, y así se refleja.",
+     "Algo clave y muy concreto: <strong>lo que cobramos sale de la comisión que el proyecto ya tenía "
+     "asignada, no se suma encima.</strong> Por eso revisamos cada proyecto antes de proponer: si no le "
+     "cierra al desarrollador, no hay negocio para nadie.",
+     "Para nosotros este canal vale por algo más que el honorario: <strong>nos da inventario para la red, "
+     "relación con desarrolladores y aprendizaje real</strong> de cómo opera una fuerza de ventas grande."]),
  p2=masthead("Alianzas con Desarrolladores", "Modelo de Negocio", None,
-             "B_RealEstate<br>24 sept 2026", small=True)
+             "B_RealEstate<br>25 sept 2026", small=True)
  + canvas(dict(
    kp=["Desarrolladores inmobiliarios","Red de corredores externos",
-       "Asesores legales para comisiones y licencias","Proveedores de marketing de proyecto"],
-   ka=["Armado de CRM y proceso comercial","Activación y formación de corredores",
-       "Operación de mesa de ventas","Reporte al desarrollador","Distribución en red"],
-   vp=["Proceso comercial armado sin contratar estructura",
-       "Corredores activados y formados rápido",
-       "Reporte confiable del avance de ventas",
-       "<strong>Acceso a nuestra red de compradores</strong>",
+       "Asesores legales en materia de comisiones y licencias","Proveedores de marketing de proyecto"],
+   ka=["Armado del proceso comercial","Activación y formación de corredores",
+       "Operación de la mesa de ventas","Reportería a la dirección","Distribución en la red"],
+   vp=["Proceso comercial armado sin montar estructura interna",
+       "Corredores activados y formados con rapidez",
+       "Reportería confiable del avance de ventas",
+       "<strong>Acceso a una red de compradores calificados</strong>",
        "Formación específica del proyecto vía Building Blocks"],
-   cr=["Relación directa con la dirección comercial","Reporte periódico de desempeño",
+   cr=["Relación directa con la dirección comercial","Reportería periódica de desempeño",
        "Mesa gestionada como servicio continuo"],
-   cs=["Desarrolladores con equipo de venta interno",
-       "Desarrolladores que venden vía corredores externos",
-       "Proyectos de preventa y nueva construcción"],
+   cs=["Desarrolladores con equipo comercial interno",
+       "Desarrolladores que venden a través de corredores externos",
+       "Proyectos de preventa y obra nueva"],
    kr=["<strong>La red de compradores e inversionistas</strong>","Proceso comercial documentado",
-       "Capacidad de mesa de ventas","Stack de software configurable"],
+       "Capacidad de operar una mesa de ventas","Plataformas configurables"],
    ch=["Relaciones existentes de Dproperty","Referidos del sector",
-       "Presentaciones directas a desarrolladores"],
-   cost=["<strong>Personal de mesa de ventas — intensivo en headcount</strong>",
-         "Gestión de cuenta y reporte","Armado inicial de proceso","Formación de corredores"],
-   rev=["Mesa de ventas gestionada — $3,000–$5,000/mes",
-        "Equipo propio — 0.5% del <strong>valor de la transacción</strong>",
-        "Originado en red — 2.5–3.0% del <strong>valor de la transacción</strong>",
-        "Software para el equipo del desarrollador — precio de lista",
-        "Cohortes de Building Blocks — licencia cotizada",
-        "<strong>Componente de éxito — bloqueado hasta revisión legal</strong>"]))
- + '<h2 style="margin-top:5mm"><span class="snum">02</span>Límite que no debe desplazarse</h2>'
- + '<p class="small">B_RealEstate <strong>no es dueño</strong> del inventario de proyectos ni unidades '
-   'del desarrollador, y <strong>BluePrint no se convierte</strong> en el sistema de registro del '
-   'inventario. La ejecución de reservas queda en el sistema propio del desarrollador. Disciplina de '
-   'alcance: esto es una <strong>alianza de ventas y distribución de inventario</strong>, no consultoría '
-   'amplia de desarrollo.</p>'
- + '<h2 style="margin-top:3mm"><span class="snum">03</span>Pendientes críticos</h2>'
- + '<p class="small soft"><span class="chip">[R]</span> Las <strong>comisiones de éxito requieren '
-   'abogado</strong> antes de ofrecerse en cualquier jurisdicción — las licencias de corretaje y las '
-   'reglas de reparto de comisión las gobiernan · <span class="chip">[R]</span> el acceso al inventario '
-   'del desarrollador es una <strong>dependencia crítica sin base contractual documentada</strong> · '
-   '<span class="chip">[R]</span> las cohortes de Building Blocks no tienen estructura de precio — '
-   'riesgo real de que se absorban gratis en el retainer · <span class="chip">[R]</span> los acuerdos '
-   'firmados existentes deben revisarse contra estas bases antes de reutilizar cualquier cifra.</p>'
- + simple("En una frase: <strong>servimos al desarrollador para conseguir dos cosas que no se compran "
-   "con dinero: inventario y aprendizaje.</strong> La mesa de ventas casi no deja margen, pero nos pone "
-   "adentro de proyectos grandes, nos da producto para vender y para VAULTED, y nos enseña cómo opera "
-   "una fuerza de ventas compleja. Hay que ser muy cuidadosos con los porcentajes: salen de la bolsa "
-   "que el desarrollador ya tenía, no se suman."),
+       "Presentación directa a desarrolladores"],
+   cost=["<strong>Equipo de la mesa comercial</strong> — el componente principal",
+         "Gestión de la relación y reportería","Armado inicial del proceso",
+         "Formación de corredores"],
+   rev=["Honorario mensual por mesa comercial gestionada",
+        "Reconocimiento sobre operaciones con apoyo al equipo propio",
+        "Reconocimiento mayor sobre operaciones originadas en la red",
+        "Plataformas para el equipo del desarrollador",
+        "Cohortes de formación específicas del proyecto"]))
+ + '<h2 style="margin-top:5mm"><span class="snum">02</span>Por qué este canal importa más allá del honorario</h2>'
+ + table(["Beneficio","Por qué cuenta"], [
+     ["<strong>Oferta para la red</strong>",
+      "Resuelve el arranque en frío de VAULTED. El inventario de proyecto es la primera oferta de "
+      "calidad que puede activar la red."],
+     ["<strong>Candidatos para Dproperty Select</strong>",
+      "Las mejores oportunidades que pasan por aquí pueden entrar al programa curado."],
+     ["<strong>Aprendizaje de producto</strong>",
+      "Una fuerza de ventas de proyecto es más compleja que una inmobiliaria boutique. Lo que "
+      "aprendemos ahí mejora las plataformas para todos."],
+     ["<strong>Distribución</strong>",
+      "Acceso a los equipos comerciales del desarrollador, que son usuarios potenciales del ecosistema."]], None, 99)
+ + '<div class="callout">Internamente somos claros: <strong>la mesa gestionada no es el negocio de mayor '
+   'margen.</strong> Se hace porque abre relación, inventario y aprendizaje — y esos tres no se compran.</div>'
+ + '<h2 style="margin-top:3mm"><span class="snum">03</span>Límites y pendientes</h2>'
+ + '<p class="small soft">No somos dueños del inventario del desarrollador ni de la ejecución de sus '
+   'reservas — eso queda en sus sistemas · es una alianza de ventas y distribución, '
+   '<strong>no consultoría amplia de desarrollo</strong> · los componentes de reconocimiento por '
+   'desempeño requieren revisión legal en cada jurisdicción antes de ofrecerse, porque las reglas de '
+   'licencia y reparto de comisión los gobiernan · el acceso al inventario debe quedar documentado '
+   'contractualmente en cada alianza.</p>'
+ + simple("En una frase: <strong>acompañamos al desarrollador para conseguir dos cosas que no se compran: "
+   "inventario y aprendizaje.</strong> La mesa comercial deja margen modesto, pero nos pone dentro de "
+   "proyectos grandes, nos da producto para la red y nos enseña cómo funciona una fuerza de ventas "
+   "compleja. Y siempre revisamos que el acuerdo le cierre al desarrollador."),
 )
 
 # ══════════════════════════════════════════════════════════ 8 · DPROPERTY SELECT
 P4["08_Dproperty_Select"] = dict(
  file="Dproperty Select",
  p1=masthead("Activo estratégico — Inventario curado", "Dproperty Select",
-   "El programa de oportunidades de inversión curadas por HQ: flujo de negocio diferenciado que la "
-   "competencia no puede replicar comprando software.", M)
+   "El programa de oportunidades de inversión seleccionadas por la casa matriz: lo que un competidor "
+   "no puede replicar comprando tecnología.", M)
  + '<div class="cols"><div>'
  + '<h3>La idea</h3>'
- + '<p>Dproperty Select es el programa de oportunidades de inversión <strong>curadas por HQ</strong>. '
-   'Aporta flujo de negocio diferenciado, relaciones negociadas, prueba de expertise en el dominio y '
-   'economía de transacción.</p>'
- + '<p><strong>No es un producto de software.</strong> Es un activo estratégico — y es la parte del '
-   'ecosistema que un competidor no puede replicar comprando tecnología.</p>'
- + '<h3 class="mt">La distinción crítica con VAULTED</h3>'
- + '<p><strong>Dproperty Select = curado por nosotros.</strong> HQ decide qué califica.<br>'
-   '<strong>VAULTED = marketplace de red.</strong> Participar no implica respaldo.</p>'
+ + '<p>Dproperty Select es el programa de oportunidades de inversión <strong>curadas por la casa '
+   'matriz</strong>. Aporta flujo de negocio diferenciado, condiciones negociadas y la prueba de que '
+   'entendemos el oficio inmobiliario, no solamente el software.</p>'
+ + '<p><strong>No es un producto de tecnología.</strong> Es un activo construido con años de relación, '
+   'y es la parte del ecosistema que no se puede copiar con presupuesto.</p>'
+ + '<h3 class="mt">Qué aporta a quien lo distribuye</h3>'
+ + '<p class="small">Una oficina o un socio de la red puede ofrecer a sus clientes oportunidades que su '
+   'competencia local no tiene, con la información y los supuestos ya preparados. '
+   '<strong>Amplía lo que puede ofrecer sin tener que salir a buscar y negociar cada oportunidad por su '
+   'cuenta.</strong> Y recibe un reconocimiento por la operación que concreta.</p>'
+ + '<h3 class="mt">Qué aporta al inversionista</h3>'
+ + '<p class="small">Oportunidades filtradas por quien conoce el mercado, con supuestos preparados y '
+   'condiciones negociadas. <strong>Ahorra tiempo de búsqueda y reduce el riesgo de evaluar solo.</strong></p>'
+ + '<h3 class="mt">La distinción con VAULTED</h3>'
+ + '<p><strong>Select lo seleccionamos nosotros.</strong> La casa matriz decide qué califica.<br>'
+   '<strong>VAULTED es una red abierta a sus participantes.</strong> Estar en la red no implica respaldo.</p>'
  + '<p class="small">Select puede aparecer dentro de VAULTED como una colección claramente identificada, '
-   'pero <strong>VAULTED nunca confiere aprobación Select</strong>.</p>'
- + '<h3 class="mt">Gobierno — no negociable</h3>'
- + '<p class="small">HQ controla la curaduría, los supuestos aprobados, los materiales, el acceso y los '
-   'términos comerciales. Los socios <strong>pueden proponer</strong> oportunidades pero '
-   '<strong>no pueden auto-aprobar</strong> el estatus Select. Cualquier afirmación pública de que los '
-   'franquiciados curan el portafolio es <strong>incorrecta</strong> y debe corregirse.</p>'
+   'pero <strong>estar en VAULTED nunca otorga el estatus Select</strong>.</p>'
  + '</div>'
  + glance([("Tipo","Activo estratégico. No es producto de software ni canal de franquicia."),
-           ("Trabajo","Proveer flujo de oportunidad de inversión curada."),
-           ("Economía","Comisión de transacción retenida"),
-           ("Pago histórico",'<strong>2.5%</strong> a socio de marca · <strong>1.5%</strong> a socio '
-                             'de marca propia elegible <span class="chip">[A]</span>'),
-           ("Estado","Activo y operando. <strong>Verificar acuerdos firmados</strong> antes de uso externo.")],
-          [("HQ","Única autoridad de curaduría"),("2.5% / 1.5%","Pago a socio, por verificar"),
-           ("≠ VAULTED","Curado, no marketplace"),("Difícil","De replicar por un competidor")])
+           ("Trabajo","Proveer flujo de oportunidades de inversión curadas."),
+           ("Modelo","Comisión de la operación, con un reconocimiento al socio que la concreta."),
+           ("Gobierno","La casa matriz cura, aprueba y define los términos. Los socios proponen."),
+           ("Por qué importa","Es lo que un competidor no puede replicar comprando tecnología.")],
+          [("Curado","Seleccionado, no listado"),("Matriz","Única autoridad de aprobación"),
+           ("≠ VAULTED","Curado, no red abierta"),("Años","De relación construida")])
  + '</div>'
- + '<h2 style="margin-top:4mm"><span class="snum">01</span>Qué controla y qué no</h2>'
- + '<div class="cols2">'
- + table(["Controla"], [["Decisiones de curaduría y aprobación"],
-     ["Supuestos aprobados y materiales"],["Derechos de acceso y niveles"],
-     ["Términos comerciales"],["Estructura de pago a socios"]], None, 99)
- + table(["NO controla"], [["Inventario de proyectos como sistema (sistema del desarrollador)"],
-     ["Ejecución de la transacción (BluePrint)"],["Mecánica de marketplace (VAULTED)"],
-     ["El libro contable"],["Aprobación de estatus Select por parte de socios"]], None, 99)
- + '</div>'
- + '<p class="note">BluePrint puede recibir resultados financieros y operativos verificados a nivel '
-   'empresa relacionados con Select. <strong>No administra el inventario ni ejecuta la transacción.</strong></p>'
- + '<h2 style="margin-top:3mm"><span class="snum">02</span>Por qué es valioso estratégicamente</h2>'
- + '<p class="small">Un competidor puede comprar un CRM, licenciar un LMS y construir un software de '
-   'transacciones. <strong>No puede comprar quince años de relaciones con desarrolladores ni la '
-   'capacidad de negociar condiciones preferentes.</strong> Select es la prueba de que B_RealEstate '
-   'entiende el negocio inmobiliario y no solo el software — y es lo que hace creíble la promesa de '
-   'franquicia y de red.</p>'
- + '<p class="small">También es el <strong>combustible inicial de VAULTED</strong>: la primera oferta '
-   'de calidad que puede sembrar el marketplace viene de aquí y de las alianzas con desarrolladores.</p>'
+ + '<h2 style="margin-top:4mm"><span class="snum">01</span>Gobierno del programa</h2>'
+ + table(["Aspecto","Cómo funciona"], [
+     ["<strong>Curaduría</strong>",
+      "La casa matriz evalúa y decide qué oportunidad entra al programa. El criterio es explícito y "
+      "consistente."],
+     ["<strong>Materiales y supuestos</strong>",
+      "Se preparan y aprueban centralmente, para que todos presenten la misma información verificada."],
+     ["<strong>Propuestas de la red</strong>",
+      "Los socios <strong>pueden proponer</strong> oportunidades y se les agradece que lo hagan — pero "
+      "<strong>la aprobación siempre es de la casa matriz</strong>."],
+     ["<strong>Acceso</strong>",
+      "Definido por nivel y elegibilidad, según el tipo de relación con el ecosistema."],
+     ["<strong>Términos comerciales</strong>",
+      "Definidos centralmente, con un reconocimiento al socio que concreta la operación."]], None, 99)
+ + '<div class="callout gold">Cualquier afirmación pública de que las oficinas de la red curan el '
+   'portafolio <strong>es incorrecta y debe corregirse</strong>. La curaduría centralizada es justamente '
+   'lo que le da valor al programa: si cualquiera pudiera aprobar, no sería un programa curado.</div>'
  + simple([
-     "Select es <strong>nuestra lista de oportunidades escogidas a mano</strong>. Nosotros decidimos "
-     "qué entra y qué no. Punto.",
-     "Al socio que vende una de estas oportunidades le pagamos <strong>2.5%</strong> si usa nuestra "
-     "marca, o <strong>1.5%</strong> si usa su propia marca. <strong>Hay que verificar esto contra los "
-     "contratos firmados</strong> antes de decirlo por fuera.",
-     "No confundir con VAULTED: <strong>Select lo escogemos nosotros; VAULTED es un mercado abierto a "
-     "la red.</strong> Que algo esté en VAULTED no significa que lo aprobamos.",
-     "Un franquiciado <strong>puede proponer</strong> una oportunidad, pero <strong>nunca puede "
-     "aprobarla él mismo</strong>. Si en algún lugar dice lo contrario, está mal y hay que corregirlo.",
-     "Por qué importa aunque no sea software: <strong>un competidor puede copiar nuestra tecnología, "
-     "pero no puede copiar quince años de relaciones con desarrolladores.</strong>"]),
- p2=masthead("Dproperty Select", "Modelo de Negocio", None, "B_RealEstate<br>24 sept 2026", small=True)
+     "Select es <strong>nuestra lista de oportunidades escogidas a mano</strong>. La casa matriz decide "
+     "qué entra y qué no, y prepara la información.",
+     "Para una oficina de la red, esto significa <strong>poder ofrecerle a su cliente algo que la "
+     "competencia local no tiene</strong>, sin tener que salir a buscar y negociar cada oportunidad "
+     "por su cuenta.",
+     "Para el inversionista significa oportunidades ya filtradas, con los supuestos preparados y las "
+     "condiciones negociadas. <strong>Ahorra tiempo y reduce riesgo.</strong>",
+     "No confundir con VAULTED: <strong>Select lo escogemos nosotros; VAULTED es una red.</strong> Que "
+     "algo esté en la red no significa que lo respaldamos.",
+     "Una oficina <strong>puede proponer</strong> una oportunidad — y se agradece — pero la aprobación "
+     "es siempre de la casa matriz. Esa disciplina es precisamente lo que hace valioso el programa.",
+     "Por qué importa aunque no sea software: <strong>un competidor puede copiar la tecnología, pero no "
+     "puede copiar años de relación con los desarrolladores.</strong>"]),
+ p2=masthead("Dproperty Select", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
  + canvas(dict(
-   kp=["Desarrolladores con proyectos de calidad","Vendedores de inmuebles de inversión",
-       "Asesores legales y fiscales","Socios de marca y marca propia como distribuidores"],
-   ka=["<strong>Curaduría y aprobación</strong>","Negociación de condiciones preferentes",
-       "Producción de materiales y supuestos","Control de acceso por nivel",
-       "Supervisión del cumplimiento de términos"],
-   vp=["Oportunidades filtradas por quien conoce el mercado",
-       "Condiciones negociadas mejores que las de mercado abierto",
-       "Supuestos y materiales preparados y aprobados",
-       "<strong>Ahorro de tiempo y reducción de riesgo</strong> para el inversionista",
-       "Para el socio: producto diferenciado que su competencia no tiene"],
-   cr=["Acceso por nivel y elegibilidad","Relación directa con HQ para aprobaciones",
+   kp=["Desarrolladores con proyectos de calidad","Propietarios de inmuebles de inversión",
+       "Asesores legales y fiscales","Oficinas y socios de la red como distribuidores"],
+   ka=["<strong>Curaduría y aprobación</strong>","Negociación de condiciones",
+       "Preparación de materiales y supuestos","Control de acceso por nivel",
        "Acompañamiento en la presentación al inversionista"],
+   vp=["Oportunidades filtradas por quien conoce el mercado",
+       "Condiciones negociadas mejores que en el mercado abierto",
+       "Supuestos y materiales preparados y verificados",
+       "<strong>Ahorro de tiempo y menor riesgo</strong> para el inversionista",
+       "Para el socio: producto diferenciado que su competencia no tiene"],
+   cr=["Acceso por nivel y elegibilidad","Relación directa con la casa matriz para aprobaciones",
+       "Acompañamiento en la presentación"],
    cs=["Inversionistas inmobiliarios","Franquicias Dproperty como distribuidores",
-       "Socios B_ Partner elegibles","Clientes de banca privada y asesores patrimoniales"],
+       "Socios B_ Partner elegibles","Asesores patrimoniales y banca privada"],
    kr=["<strong>Las relaciones con desarrolladores</strong> — el activo real",
-       "Criterio y método de curaduría","Historial de operaciones",
-       "Reputación de la marca Dproperty"],
-   ch=["Franquicias y socios como fuerza de distribución",
-       "Relaciones directas con inversionistas",
+       "El criterio y el método de curaduría","El historial de operaciones",
+       "La reputación de la marca Dproperty"],
+   ch=["Oficinas y socios como fuerza de distribución",
+       "Relación directa con inversionistas",
        "Posible colección identificada dentro de VAULTED"],
    cost=["Tiempo de análisis y curaduría","Negociación y relación con desarrolladores",
-         "Producción de materiales","Pago de comisión a socios distribuidores",
+         "Preparación de materiales","Reconocimiento al socio que concreta",
          "Revisión legal de cada oportunidad"],
-   rev=["Comisión de transacción retenida por HQ",
-        "Pago al socio de marca — 2.5% histórico, por verificar",
-        "Pago al socio de marca propia elegible — 1.5% histórico, por verificar",
-        "<strong>Economía separada del software y de las regalías</strong>"]))
- + '<h2 style="margin-top:5mm"><span class="snum">03</span>Pendientes críticos</h2>'
- + '<p class="small soft"><span class="chip">[R]</span> <strong>Economía sin verificar contra acuerdos '
-   'firmados.</strong> La base de 2.5%/1.5% es histórica · <span class="chip">[R]</span> '
-   '<strong>no existe nota legal</strong> — responsabilidad de curaduría, idoneidad del inversionista, '
-   'descargos de inversión y límites de afirmaciones de marketing están sin documentar. Esto es un '
-   'programa de <strong>inversión</strong>, así que es una exposición real · '
-   '<span class="chip">[R]</span> no existe perfil definido del inversionista Select.</p>'
- + '<div class="callout gold"><strong>Regla de comunicación:</strong> nunca insinuar disponibilidad '
-   'amplia en la red ni autoridad de curaduría por parte de los franquiciados.</div>'
- + simple("En una frase: <strong>es la razón por la que un corredor querría nuestra franquicia en vez "
-   "de cualquier otra.</strong> No es software y no se puede copiar. Es el acceso a oportunidades que "
-   "nosotros escogimos y negociamos. Nos falta ponerle orden legal y verificar los porcentajes contra "
-   "los contratos, pero estratégicamente es lo que hace creíble todo lo demás."),
+   rev=["Comisión de la operación, retenida por la casa matriz",
+        "Reconocimiento al socio distribuidor según su relación con el ecosistema",
+        "<strong>Economía independiente del software y de las regalías</strong>"]))
+ + '<h2 style="margin-top:5mm"><span class="snum">02</span>Qué acompaña y qué no</h2>'
+ + '<div class="cols2">'
+ + '<div><h3>Acompaña</h3><p class="small">La decisión de curaduría y aprobación · los supuestos y '
+   'materiales aprobados · los derechos de acceso por nivel · los términos comerciales · la estructura '
+   'de reconocimiento a los socios distribuidores.</p></div>'
+ + '<div><h3>No acompaña</h3><p class="small soft">El inventario del proyecto como sistema — eso es del '
+   'desarrollador · la ejecución de la operación — eso es de BluePrint · la mecánica de la red — eso es '
+   'de VAULTED · el libro contable.</p></div>'
+ + '</div>'
+ + '<h2 style="margin-top:3mm"><span class="snum">03</span>Lo que está en construcción</h2>'
+ + '<p class="small soft">La estructura de reconocimiento a los socios se está verificando contra los '
+   'acuerdos firmados antes de publicarse · falta documentar el marco legal del programa: '
+   'responsabilidad de la curaduría, idoneidad del inversionista y límites de las afirmaciones de '
+   'marketing — <strong>es un programa de inversión y merece ese rigor</strong> · y falta definir con '
+   'precisión el perfil del inversionista Select.</p>'
+ + simple("En una frase: <strong>es la razón por la que un corredor querría nuestra red y no otra.</strong> "
+   "No es software y no se puede copiar: es el acceso a oportunidades que nosotros seleccionamos y "
+   "negociamos. Le falta orden legal y verificación de los términos, pero estratégicamente es lo que "
+   "hace creíble todo lo demás."),
 )
