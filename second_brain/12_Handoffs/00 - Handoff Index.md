@@ -15,6 +15,11 @@ tags: [handoff, production, source-of-truth]
 
 # Handoff Index
 
+> [!IMPORTANT] How to produce files
+> **[[00 - Production Pipeline]]** — markdown → presentable PDF. Tier 1 Obsidian export · Tier 2 Claude artifact (default for proposals) · Tier 3 ChatGPT/Canva.
+> Reusable design prompt: [[CLAUDE DESIGN - Offer One-Pager Template]]
+
+
 > **What a handoff file is.** A **single, self-contained Markdown file** that carries *everything an external tool needs* to generate the final, highest-fidelity version of a deliverable — content **plus** design direction, assets list, and copy-paste tool instructions. It is a **build artifact**: you hand this one file to an AI presentation tool, a website builder, or a book/PDF generator and get the finished product.
 >
 > **Self-contained by design.** External tools can't read the vault or follow wikilinks, so a handoff **inlines the actual final content** (not links). Duplication with the source note is intentional and is kept in sync by the update rule below.

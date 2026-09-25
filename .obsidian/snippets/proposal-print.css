@@ -1,0 +1,171 @@
+/* ============================================================
+   B_RealEstate — Proposal print / PDF export styling
+   Enable: Settings → Appearance → CSS snippets → proposal-print
+   Use: open the note → Ctrl+P → "Export to PDF"
+   Brand source: 12_Handoffs/CLAUDE DESIGN - Ecosystem Website Design Prompt.md
+   ============================================================ */
+
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap');
+
+:root {
+  --bone:        #F7F4ED;
+  --bone-deep:   #EFEAE0;
+  --bone-warm:   #FAF8F3;
+  --charcoal:    #1A1A1A;
+  --charcoal-sf: #55514C;
+  --champagne:   #B89B5E;
+  --deep-blue:   #1F4E79;
+  --rule:        rgba(26, 26, 26, 0.25);
+}
+
+@media print {
+
+  /* ---- page geometry: US Letter. Swap to A4 by changing `letter` → `A4` ---- */
+  @page {
+    size: letter;
+    margin: 18mm 16mm 16mm 16mm;
+  }
+
+  body,
+  .markdown-preview-view,
+  .markdown-rendered {
+    background: var(--bone) !important;
+    color: var(--charcoal) !important;
+    font-family: 'Inter', -apple-system, sans-serif !important;
+    font-size: 9.5pt !important;
+    line-height: 1.5 !important;
+  }
+
+  /* ---- headings: Playfair carries the boutique ---- */
+  .markdown-rendered h1 {
+    font-family: 'Playfair Display', Georgia, serif !important;
+    font-weight: 500 !important;
+    font-size: 25pt !important;
+    line-height: 1.08 !important;
+    letter-spacing: -0.02em !important;
+    color: var(--charcoal) !important;
+    margin: 0 0 2mm 0 !important;
+    padding-bottom: 3mm;
+    border-bottom: 1.5pt solid var(--charcoal);
+  }
+
+  .markdown-rendered h2 {
+    font-family: 'Playfair Display', Georgia, serif !important;
+    font-weight: 500 !important;
+    font-size: 13pt !important;
+    letter-spacing: -0.01em !important;
+    color: var(--charcoal) !important;
+    margin: 6mm 0 2mm 0 !important;
+    break-after: avoid;
+  }
+
+  .markdown-rendered h3 {
+    font-family: 'JetBrains Mono', monospace !important;
+    font-size: 7.5pt !important;
+    font-weight: 500 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.08em !important;
+    color: var(--charcoal-sf) !important;
+    margin: 4mm 0 1.5mm 0 !important;
+    break-after: avoid;
+  }
+
+  .markdown-rendered p { margin: 0 0 2.5mm 0 !important; }
+  .markdown-rendered strong { font-weight: 600 !important; color: var(--charcoal) !important; }
+  .markdown-rendered em { font-family: 'Playfair Display', serif !important; font-style: italic !important; }
+
+  /* ---- tables: where the economics live ---- */
+  .markdown-rendered table {
+    width: 100% !important;
+    border-collapse: collapse !important;
+    font-size: 8.5pt !important;
+    margin: 2mm 0 4mm 0 !important;
+    break-inside: avoid;
+  }
+
+  .markdown-rendered thead th {
+    background: var(--bone-deep) !important;
+    font-family: 'JetBrains Mono', monospace !important;
+    font-size: 7pt !important;
+    font-weight: 500 !important;
+    text-transform: uppercase;
+    letter-spacing: 0.06em !important;
+    color: var(--charcoal-sf) !important;
+    text-align: left;
+    padding: 2mm 2.5mm !important;
+    border-bottom: 1pt solid var(--charcoal) !important;
+  }
+
+  .markdown-rendered tbody td {
+    padding: 1.8mm 2.5mm !important;
+    border-bottom: 0.5pt solid var(--rule) !important;
+    vertical-align: top;
+  }
+
+  .markdown-rendered tbody tr:nth-child(even) { background: var(--bone-warm) !important; }
+
+  /* ---- callouts become quiet framed notes, not coloured boxes ---- */
+  .markdown-rendered .callout {
+    background: var(--bone-warm) !important;
+    border: 0.5pt solid var(--rule) !important;
+    border-left: 2.5pt solid var(--champagne) !important;
+    border-radius: 0 !important;
+    padding: 3mm 4mm !important;
+    margin: 3mm 0 !important;
+    font-size: 8.5pt !important;
+    break-inside: avoid;
+  }
+  .markdown-rendered .callout-title { font-weight: 600 !important; font-size: 8.5pt !important; }
+  .markdown-rendered .callout[data-callout="warning"] { border-left-color: var(--deep-blue) !important; }
+
+  /* ---- truth labels read as engineer's annotations ---- */
+  .markdown-rendered code {
+    font-family: 'JetBrains Mono', monospace !important;
+    font-size: 7.5pt !important;
+    background: var(--bone-deep) !important;
+    color: var(--deep-blue) !important;
+    padding: 0.3mm 1.2mm !important;
+    border-radius: 1pt !important;
+  }
+
+  .markdown-rendered blockquote {
+    border-left: 2pt solid var(--champagne) !important;
+    background: transparent !important;
+    margin: 3mm 0 !important;
+    padding: 0 0 0 4mm !important;
+    font-style: normal !important;
+    color: var(--charcoal-sf) !important;
+  }
+
+  .markdown-rendered ul,
+  .markdown-rendered ol { margin: 0 0 2.5mm 0 !important; padding-left: 5mm !important; }
+  .markdown-rendered li { margin: 0 0 1mm 0 !important; }
+
+  .markdown-rendered hr {
+    border: none !important;
+    border-top: 0.5pt solid var(--rule) !important;
+    margin: 5mm 0 !important;
+  }
+
+  /* ---- page-break control: put `---` in the note where a page should break ---- */
+  .markdown-rendered h1 { break-before: auto; }
+  .markdown-rendered h2 + table,
+  .markdown-rendered h3 + table { break-before: avoid; }
+
+  /* hide vault chrome that should never reach a client */
+  .markdown-rendered .frontmatter,
+  .markdown-rendered .frontmatter-container,
+  .markdown-rendered .metadata-container,
+  .markdown-rendered .internal-link-unresolved,
+  .markdown-rendered .collapse-indicator,
+  .markdown-embed-title { display: none !important; }
+
+  /* internal links print as plain text, not blue links */
+  .markdown-rendered a,
+  .markdown-rendered a.internal-link {
+    color: var(--charcoal) !important;
+    text-decoration: none !important;
+    font-weight: 500 !important;
+  }
+  .markdown-rendered a.external-link { color: var(--deep-blue) !important; }
+}
