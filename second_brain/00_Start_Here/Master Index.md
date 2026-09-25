@@ -17,7 +17,7 @@ tags: [index, navigation]
 
 **B_RealEstate builds operating infrastructure for independent real-estate businesses.** Product-led software and network company — **not** a franchise company.
 
-**The handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.
+**The handoff line:** BlankCRM helps the team sell and depends on their discipline. BluePrint runs the back office and depends only on evidence. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.
 
 ---
 

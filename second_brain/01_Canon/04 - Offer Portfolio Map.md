@@ -21,7 +21,7 @@ tags: [canon, offers, portfolio, pricing, navigation]
 
 | # | Offer | Type | Job | Price `[A]` unless noted | Folder |
 |---|---|---|---|---|---|
-| 1 | **BluePrint** | Product — proprietary core | Run and control the company | Core **$399**/mo · Growth **$799**/mo · **$1,500** setup, per org/office | [[../02_Offers/01_BluePrint/00 - README\|01_BluePrint]] |
+| 1 | **BluePrint** | Product — proprietary core | **Agentic back office** — the C-suite without C-suite payroll | Core **$399**/mo · Growth **$799**/mo · **$1,500** setup, per org/office | [[../02_Offers/01_BluePrint/00 - README\|01_BluePrint]] |
 | 2 | **BlankCRM** | Product — attach | Sell | **Open** — model from GHL + messaging/AI + support + margin | [[../02_Offers/02_BlankCRM/01 - Definition and Boundaries\|02_BlankCRM]] |
 | 3 | **VAULTED** | Product — network | Access the network | Take rate on attributable transactions; 0.35% effective base | [[../02_Offers/03_VAULTED/01 - Definition and Boundaries\|03_VAULTED]] |
 | 4 | **Building Blocks** | Product — learning | Operate better | **$199**/enrollment `[A]`; core onboarding included in packages | [[../02_Offers/04_Building_Blocks/01 - Definition and Boundaries\|04_Building_Blocks]] |
@@ -78,8 +78,8 @@ curated inventory"] --> VA
 |---|---|---|
 | Leads, contacts, conversations, campaigns | **BlankCRM** | Powered by GoHighLevel |
 | Pre-qualification pipeline | **BlankCRM** | Reported, not verified |
-| Qualified opportunity onward: transaction file, compliance evidence, approvals, closing, commission | **BluePrint** | System of record |
-| Management budgets, variance, KPIs, process assurance, Glitches, period close, audit | **BluePrint** | System of record |
+| Evidence-backed financial record: only registers with a valid attachment | **BluePrint** | System of record — CFO function |
+| Glitch Report, process intelligence, budgets, variance, KPIs, period close, audit | **BluePrint** | System of record |
 | Property/project/unit inventory, listings, MLS | **Developer system / portal / VAULTED** | **Never BluePrint** |
 | Gated network listings, matches, introductions, attribution, GMV | **VAULTED** | Separate system |
 | Learning content, assessments, certification | **Building Blocks** | Open edX |
@@ -93,7 +93,7 @@ Full matrix: [[07 - System of Record and Integration Matrix]].
 
 | Offer | Status | Next gate |
 |---|---|---|
-| **BluePrint** | Spec complete; **build priority** | Prototype golden workflow → 5 design partners → 3 paid conversions |
+| **BluePrint** | Spec complete; **build priority**. Agents are `[T]` thesis, not built | Prototype glitch→diagnosis and invoice→classified record → 5 design partners → 3 paid |
 | **BlankCRM** | Definition complete; **price unmodelled** | Build COGS model from GHL plan + messaging/AI + support |
 | **VAULTED** | Hypothesis only | **Gated** — no automation before BluePrint stability; needs attribution + legal model per jurisdiction |
 | **Building Blocks** | Standalone product; **cost base unquoted** | Quote LMS cost; prove attach via BluePrint signals |

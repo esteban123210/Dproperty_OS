@@ -19,12 +19,18 @@ B_RealEstate / B_ is being built as a **product-led operating-infrastructure com
 
 ## 2. Core products
 
-### BluePrint — *run the company*
-Proprietary, chat-first AI management OS for small/growing sales-led agencies. **Its system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity.**
+### BluePrint — *the agentic back office*
+**A CEO, CFO, COO and CMO in one place, without the cost of hiring an actual C-suite.** For a small, sales-led company — **floor is two people** — with back-office needs but no means to hire management.
 
-Owns: qualified-opportunity intake · transaction file · documents, compliance checklists and evidence · approval policies and e-sign evidence · closing milestones · commission rules, calculation snapshots, receivable/payout status · management budgets/forecast/variance · KPIs and reports · processes/SOPs/controls and process health · Glitches and corrective actions · management actions and decisions · reconciliation/exception queues · period close · long-term audit trail · permission-grounded Copilot.
+**The two defining rules:** (1) **nothing is recorded without evidence** — no receipt/invoice/contract, no record; (2) **agents manage, not just report** — they detect, explain, suggest and escalate.
 
-Goal: one capable administrator + BluePrint + specialist systems instead of premature COO/CFO/operations headcount.
+**The problem it solves:** a CRM's output is only as good as the discipline of the people feeding it, who are the same people paid on what it reports. So CRM revenue does not reconcile with what accounting processed or with real receivables. BluePrint depends on no one's discipline.
+
+**Agents:** CFO (classifies evidence-backed entries into P&L and budget, tracks cash/receivables/variance) · COO (**Glitch Report**, Four Seasons model — finds which process step always fails and who fails most, then suggests fixes) · CEO (verified company position, what needs a decision) · CMO (**reads the CRM** to audit whether sales execution matches management goals) · Auditor (continuous trail, period close, due-diligence ready).
+
+**Also an exit-value argument:** it makes the business **sellable** — an ongoing managed operation with current reporting, clean accounting, documented processes and an audit trail is worth materially more than one run from a founder's head.
+
+**Status:** the agentic C-suite is the product **thesis**, not built software. All `[T]`.
 
 ### BlankCRM — *sell*
 Sellable configured front-office product **powered by GoHighLevel**. Leads, communications, marketing, follow-up, calendars and the **pre-qualification** pipeline. Not core proprietary IP.
@@ -37,7 +43,7 @@ Enablement/standards/certification layer powered by Open edX; primarily bundled.
 
 ## 3. The handoff line
 
-**BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
+**BlankCRM helps the team sell and depends on their discipline. BluePrint runs the back office and depends only on evidence. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
 
 ## 4. Channels
 

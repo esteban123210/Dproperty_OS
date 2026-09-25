@@ -202,19 +202,21 @@
       "audio-recorder:Start/stop recording": false
     }
   },
-  "active": "0cab61b4f641215e",
+  "active": "0bbfd0970c308a5c",
   "lastOpenFiles": [
+    "production/pdf/10 - B_RealEstate - Ruta de Desarrollo - 2026-09-24.pdf",
+    "production/pdf/09 - B_RealEstate - Ecosistema - Dos Paginas - 2026-09-24.pdf",
+    "production/pdf/08 - B_RealEstate - Dproperty Select - Dos Paginas - 2026-09-25.pdf",
+    "production/pdf/07 - B_RealEstate - Alianzas con Desarrolladores - Dos Paginas - 2026-09-25.pdf",
+    "production/pdf/06 - B_RealEstate - B_ Partner - Dos Paginas - 2026-09-25.pdf",
+    "production/pdf/05 - B_RealEstate - Franquicia Dproperty - Dos Paginas - 2026-09-25.pdf",
+    "production/pdf/04 - B_RealEstate - Building Blocks - Dos Paginas - 2026-09-25.pdf",
+    "production/pdf/03 - B_RealEstate - VAULTED - Dos Paginas - 2026-09-25.pdf",
+    "production/pdf/02 - B_RealEstate - BlankCRM - Dos Paginas - 2026-09-25.pdf",
+    "production/pdf/01 - B_RealEstate - BluePrint - Tres Paginas - 2026-09-25.pdf",
+    "production/pdf",
+    "second_brain/01_Canon/22 - BluePrint Repositioned - Agentic Back Office.md",
     "second_brain/01_Canon/21 - Ruta de Desarrollo 2026-2028.md",
-    "production/es/10 - B_RealEstate - Ruta de Desarrollo - 2026-09-24.html",
-    "production/__pycache__/roadmap_es.cpython-312.pyc",
-    "production/es/09 - B_RealEstate - Ecosistema - Dos Paginas - 2026-09-24.html",
-    "production/__pycache__/ecosystem_es.cpython-312.pyc",
-    "production/roadmap_es.py",
-    "production/ecosystem_es.py",
-    "production/es/08 - B_RealEstate - Dproperty Select - Dos Paginas - 2026-09-24.html",
-    "production/es/07 - B_RealEstate - Alianzas con Desarrolladores - Dos Paginas - 2026-09-24.html",
-    "production/es/06 - B_RealEstate - B_ Partner - Dos Paginas - 2026-09-24.html",
-    "production/es/05 - B_RealEstate - Franquicia Dproperty - Dos Paginas - 2026-09-24.html",
     "second_brain/98_Archive/Exports/Dproperty_OS_Business_Plan.md",
     "second_brain/01_Canon/20 - DpropertyLiving Reactivated - Consumer Channel.md",
     "second_brain/00_Start_Here/Current Priorities.md",
@@ -237,8 +239,6 @@
     "second_brain/02_Offers/04_Building_Blocks/00 - README.md",
     "university brain/02_Year_2/Semester_2/Marketing & Sales in the Digital Age/05_Project/Working-Canvas.md",
     "university brain/02_Year_2/Semester_2/Marketing & Sales in the Digital Age/05_Project/Project-Status-and-Next-Actions.md",
-    "university brain/02_Year_2/Semester_2/Marketing & Sales in the Digital Age/05_Project/Dproperty-Strategy-Course-Application.md",
-    "university brain/02_Year_2/Semester_2/Marketing & Sales in the Digital Age/04_Readings/Reading-Notes-Index.md",
-    "university brain/02_Year_2/Semester_2/Marketing & Sales in the Digital Age/04_Readings/Puntoni-2021-Consumers-and-AI.md"
+    "university brain/02_Year_2/Semester_2/Marketing & Sales in the Digital Age/05_Project/Dproperty-Strategy-Course-Application.md"
   ]
 }

@@ -55,7 +55,12 @@ masthead("Ruta de Desarrollo", "De dónde partimos y en qué orden",
   '<strong>$800k a 18 meses</strong>. La diferencia entre el costo directo de proyecto y el plan '
   'operativo es equipo, nómina y capital de trabajo.</p>'
 
-+ '<h2 style="margin-top:4mm"><span class="snum">02</span>Fase 1 — GoHighLevel · Semanas 1 a 10</h2>'
+,
+
+# ═══════════════════════════════ PÁGINA 2 — FASE 1 ARRANQUE
+masthead("Ruta de Desarrollo", "Fase 1 · GoHighLevel", None,
+         "B_RealEstate<br>24 sept 2026", small=True)
++ '<h2><span class="snum">02</span>Fase 1 — GoHighLevel · Semanas 1 a 10</h2>'
 + '<p class="small"><strong>Dos sub-cuentas, un solo motor.</strong> Dproperty habla de rendimiento e '
   'inversión. DpropertyLiving habla de estilo de vida y hogar. <strong>Mismo inventario, dos '
   'narrativas.</strong> Se construyen a la vez porque comparten configuración base.</p>'
@@ -126,7 +131,12 @@ masthead("Ruta de Desarrollo", "Fase 1 continuación y Fase 2", None,
   'experiencia cuesta meses de adopción.</p>')
 + '</div>'
 
-+ '<h2 style="margin-top:3mm"><span class="snum">03</span>Capital de la Fase 1</h2>'
+,
+
+# ═══════════════════════════════ PÁGINA 4 — CAPITAL F1 Y FASE 2
+masthead("Ruta de Desarrollo", "Capital de Fase 1 y arranque de Fase 2", None,
+         "B_RealEstate<br>24 sept 2026", small=True)
++ '<h2><span class="snum">03</span>Capital de la Fase 1</h2>'
 + table(["Concepto","Monto"], [
     ["GoHighLevel Agency Pro — 3 meses","$1,491"],
     ["Números telefónicos y mensajería — 3 meses","~$900"],
@@ -140,7 +150,12 @@ masthead("Ruta de Desarrollo", "Fase 1 continuación y Fase 2", None,
   '<strong>contratar al especialista</strong>. El tiempo del fundador vale más en la conversación de '
   'franquicia y de capital.</p>'
 
-+ '<h2 style="margin-top:3mm"><span class="snum">04</span>Fase 2 — BluePrint y Building Blocks</h2>'
+,
+
+# ═══════════════════════════════ PÁGINA 5 — FASE 2 DETALLE
+masthead("Ruta de Desarrollo", "Fase 2 · BluePrint y Building Blocks", None,
+         "B_RealEstate<br>24 sept 2026", small=True)
++ '<h2><span class="snum">04</span>Fase 2 — BluePrint y Building Blocks</h2>'
 + '<div class="tl">'
 + phase("Mes 3–4","2A · $15k–35k","Descubrimiento, prototipo y dos cotizaciones",
   '<p class="small">Mapas de recorrido, datos y permisos · prototipo clickeable del '
@@ -220,7 +235,12 @@ masthead("Ruta de Desarrollo", "Fase 3 · Franquicia, asesores y tramos de capit
   'irreversible si alguien más registra los nombres antes. Hoy la posición de marca está '
   '<strong>sin verificar</strong> <span class="chip">[R]</span> para todos los nombres del portafolio.</div>'
 
-+ '<h2 style="margin-top:4mm"><span class="snum">06</span>Tramos de capital atados a metas</h2>'
+,
+
+# ═══════════════════════════════ PÁGINA 7 — TRAMOS DE CAPITAL
+masthead("Ruta de Desarrollo", "Tramos de capital atados a metas", None,
+         "B_RealEstate<br>24 sept 2026", small=True)
++ '<h2><span class="snum">06</span>Tramos de capital atados a metas</h2>'
 + '<p class="small">El capital se libera contra evidencia, no contra calendario. Sobre de '
   '<strong>$950k</strong>; plan operativo de <strong>$800k a 18 meses</strong>.</p>'
 + table(["Tramo","Monto","Qué financia","Meta para liberar el siguiente"], [

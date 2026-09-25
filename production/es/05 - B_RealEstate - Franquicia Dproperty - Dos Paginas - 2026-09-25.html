@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>B_RealEstate — Franquicia Dproperty</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bone:#F7F4ED; --bone-deep:#EFEAE0; --bone-warm:#FAF8F3;
+  --charcoal:#1A1A1A; --soft:#55514C; --champagne:#B89B5E;
+  --blue:#1F4E79; --rule:rgba(26,26,26,.25);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+@page{size:letter;margin:11mm 13mm}
+html,body{background:var(--bone);color:var(--charcoal);
+  font-family:'Inter',system-ui,sans-serif;font-size:9pt;line-height:1.43;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:190mm;min-height:234mm;margin:0 auto;background:var(--bone);
+  position:relative;padding-bottom:10mm}
+.page+.page{page-break-before:always}
+
+.eyebrow{font-family:'JetBrains Mono',monospace;font-size:7pt;text-transform:uppercase;
+  letter-spacing:.09em;color:var(--soft)}
+.masthead{display:flex;justify-content:space-between;align-items:flex-start}
+.brandmark{font-family:'JetBrains Mono',monospace;font-size:6.8pt;letter-spacing:.09em;
+  color:var(--soft);text-align:right;line-height:1.7}
+h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:22pt;
+  line-height:1.05;letter-spacing:-.022em;margin:1.5mm 0}
+h1.sm{font-size:17pt}
+.positioning{font-size:9.4pt;color:var(--soft);max-width:134mm;line-height:1.4}
+.hrule{border-top:1.4pt solid var(--charcoal);margin:3mm 0 3.5mm}
+.hrule.thin{border-top:.4pt solid var(--rule);margin:3mm 0 4mm}
+
+h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:11.5pt;
+  letter-spacing:-.012em;margin:0 0 1.5mm;break-after:avoid}
+.snum{font-family:'JetBrains Mono',monospace;font-size:7pt;letter-spacing:.09em;
+  color:var(--champagne);display:block;margin-bottom:.8mm}
+h3{font-family:'JetBrains Mono',monospace;font-size:7pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.09em;color:var(--soft);
+  margin:0 0 1.5mm;break-after:avoid}
+h3.mt{margin-top:2.8mm}
+p{margin:0 0 1.8mm}
+strong{font-weight:600}
+em{font-family:'Playfair Display',serif;font-style:italic}
+.small{font-size:8.3pt}
+.soft{color:var(--soft)}
+
+.cols{display:grid;grid-template-columns:1fr 62mm;gap:5.5mm;align-items:start}
+.cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5mm}
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+
+.panel{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);
+  padding:3mm 3.5mm;break-inside:avoid}
+.panel.blue{border-left-color:var(--blue)}
+.panel.dark{border-left-color:var(--charcoal);background:var(--bone-deep)}
+.dl div{display:flex;gap:2.5mm;padding:1mm 0;border-bottom:.4pt solid var(--rule);font-size:7.8pt}
+.dl div:last-of-type{border-bottom:none}
+.dl dt{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);min-width:16mm;padding-top:.5mm}
+.dl dd{flex:1}
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:2.2mm;margin-top:3mm;
+  padding-top:2.5mm;border-top:.9pt solid var(--charcoal)}
+.fig .n{font-family:'Playfair Display',serif;font-weight:500;font-size:13.5pt;
+  line-height:1;color:var(--champagne)}
+.fig .l{font-family:'JetBrains Mono',monospace;font-size:6pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);margin-top:1mm;line-height:1.35}
+
+table{width:100%;border-collapse:collapse;font-size:8pt;margin:1.2mm 0 2.2mm;break-inside:avoid}
+th{background:var(--bone-deep);font-family:'JetBrains Mono',monospace;font-size:6.5pt;
+  font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:var(--soft);
+  text-align:left;padding:1.2mm 1.8mm;border-bottom:.9pt solid var(--charcoal)}
+td{padding:1mm 1.8mm;border-bottom:.4pt solid var(--rule);vertical-align:top}
+tr:nth-child(even) td{background:var(--bone-warm)}
+.num{text-align:right;white-space:nowrap}
+caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);text-align:left;padding-bottom:1.4mm}
+
+.chip{font-family:'JetBrains Mono',monospace;font-size:6.3pt;background:var(--bone-deep);
+  color:var(--blue);padding:.3mm 1.1mm;border-radius:1pt;white-space:nowrap;font-weight:500}
+
+.note{font-size:7.6pt;color:var(--soft);border-left:2pt solid var(--rule);
+  padding-left:3.5mm;margin:1.5mm 0 2.2mm}
+.callout{background:var(--bone-deep);padding:2.2mm 3mm;font-size:8.1pt;margin:1.8mm 0;
+  border-left:2.6pt solid var(--charcoal)}
+.callout.gold{border-left-color:var(--champagne);background:var(--bone-warm)}
+
+/* SIMPLE-READING BLOCK — the plain-language conclusion */
+.simple{background:var(--bone-warm);border:.5pt solid var(--champagne);
+  border-left:3.2pt solid var(--champagne);padding:3mm 3.5mm;margin:2.5mm 0;break-inside:avoid}
+.simple h3{color:var(--champagne);font-size:7.4pt;margin-bottom:2mm}
+.simple p{font-size:8.6pt;margin-bottom:1.5mm}
+.simple p:last-child{margin-bottom:0}
+.simple ul{list-style:none;font-size:8.6pt}
+.simple li{padding-left:3.5mm;position:relative;margin-bottom:1mm}
+.simple li::before{content:"→";position:absolute;left:0;color:var(--champagne);font-weight:600}
+
+/* canvas */
+.canvas{display:grid;grid-template-columns:repeat(5,1fr);gap:1.2mm;margin-top:1.5mm}
+.cell{background:var(--bone-deep);border:.4pt solid var(--rule);padding:2mm 2.2mm;break-inside:avoid}
+.cell h4{font-family:'JetBrains Mono',monospace;font-size:6pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.07em;color:var(--soft);margin-bottom:1.4mm}
+.cell ul{list-style:none;font-size:6.9pt;line-height:1.35}
+.cell li{padding-left:2.5mm;position:relative;margin-bottom:.6mm}
+.cell li::before{content:"·";position:absolute;left:.6mm;color:var(--champagne);font-weight:700}
+.vp{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);grid-column:3;grid-row:1/span 2}
+.vp h4{color:var(--charcoal)}
+.kp{grid-column:1;grid-row:1/span 2}
+.cseg{grid-column:5;grid-row:1/span 2}
+.wide-l{grid-column:1/span 2}
+.wide-r{grid-column:3/span 3}
+
+/* timeline / roadmap */
+.tl{position:relative;margin:2.5mm 0}
+.phase{display:grid;grid-template-columns:20mm 1fr;gap:3mm;padding:2.4mm 0;
+  border-top:.5pt solid var(--rule);break-inside:avoid}
+.phase:first-child{border-top:1.2pt solid var(--charcoal)}
+.phase .when{font-family:'JetBrains Mono',monospace;font-size:6.8pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--champagne);line-height:1.5;padding-top:.5mm}
+.phase .when b{display:block;color:var(--charcoal);font-size:8.5pt;letter-spacing:0;
+  font-family:'Playfair Display',serif;font-weight:500;margin-bottom:.8mm}
+.phase h4{font-family:'Playfair Display',serif;font-size:9.8pt;font-weight:500;margin-bottom:1mm}
+.bar{height:3.4mm;background:var(--bone-deep);display:flex;margin:2mm 0 3mm;border:.4pt solid var(--rule)}
+.bar i{display:block;height:100%}
+.bar i.on{background:var(--champagne)}
+.bar i.next{background:rgba(184,155,94,.35)}
+.bar i.later{background:transparent}
+.gridnote{display:grid;grid-template-columns:1fr 1fr;gap:4mm;font-size:8.2pt}
+.cap{font-family:'JetBrains Mono',monospace;font-size:8pt;color:var(--charcoal);font-weight:500}
+
+.foot{position:absolute;bottom:0;left:0;right:0;border-top:.4pt solid var(--rule);
+  padding-top:2mm;display:flex;justify-content:space-between;
+  font-family:'JetBrains Mono',monospace;font-size:6pt;letter-spacing:.05em;color:var(--soft)}
+.foot span{max-width:152mm;line-height:1.5}
+</style>
+</head>
+<body>
+<section class="page"><div class="masthead"><div><div class="eyebrow">Canal — Franquicia de marca</div><h1 class="">Franquicia Dproperty</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026<br>v1.0</div></div><p class="positioning">El modelo operativo completo bajo la marca Dproperty: identidad, stack de software, estándares, formación y acceso a inventario curado.</p><div class="hrule"></div><div class="cols"><div><h3>La idea</h3><p>Dproperty es la marca insignia de inversión, el laboratorio de operación y un canal de distribución verticalmente integrado del stack de B_.</p><p>Una franquicia recibe el modelo operativo completo: identidad Dproperty, stack configurado (<strong>BluePrint + BlankCRM + Building Blocks + VAULTED</strong>), estándares y formación, acceso a Dproperty Select, implementación y participación en la red.</p><p><strong>No es la definición de la empresa.</strong> B_RealEstate es una compañía de software e infraestructura; la franquicia es <em>un canal</em>. Es una ventaja de salida al mercado que la mayoría de las startups de software no tiene — no es la tecnología propietaria en sí.</p><h3 class="mt">Estructura de regalía — resuelta</h3><p class="small">Existían tres estructuras en conflicto. La estructura <strong>diferenciada</strong> es la canónica: Dproperty <strong>6% + 1%</strong> de fondo de marca restringido; marca propia <strong>4% sin fondo</strong>. La diferencia de 3 puntos <strong>es el precio de la marca</strong>. Si se elimina, uno de los dos canales queda redundante.</p><h3 class="mt">Definición que importa</h3><p class="small soft">La regalía se calcula sobre <strong>GCI cobrado</strong> — comisión efectivamente cobrada y retenida después de compartir con corredores externos y devoluciones, sin impuesto indirecto, antes de pagos a agentes internos. El <strong>fondo de 1% no es ingreso ni utilidad</strong>: está segregado y excluido del EBITDA.</p></div><aside class="panel"><h3 style="margin-bottom:2.5mm">En resumen</h3><div class="dl"><div><dt>Tipo</dt><dd>Canal. No es un producto de software separado.</dd></div><div><dt>Trabajo</dt><dd>Desplegar el modelo operativo completo de marca.</dd></div><div><dt>Entrada</dt><dd><strong>$50,000</strong> lista · <strong>$40,000</strong> para las dos primeras aperturas fundadoras <span class="chip">[A]</span></dd></div><div><dt>Regalía</dt><dd><strong>6%</strong> del GCI cobrado + piso de $750/mes desde el mes 13</dd></div><div><dt>Fondo de marca</dt><dd><strong>1%</strong> del GCI cobrado — restringido, excluido del EBITDA</dd></div></div><div class="figs"><div class="fig"><div class="n">$58,224</div><div class="l">Utilidad operativa modelada</div></div><div class="fig"><div class="n">16.2%</div><div class="l">Utilidad sobre GCI</div></div><div class="fig"><div class="n">37 meses</div><div class="l">Recuperación de inversión</div></div><div class="fig"><div class="n">~$98,000</div><div class="l">Capital recomendado para abrir</div></div></div></aside></div><h2 style="margin-top:4mm"><span class="snum">01</span>Economía</h2><div class="cols2"><table><caption>Para el franquiciado — oficina madura [A]</caption><thead><tr><th>Concepto</th><th class="num">Anual</th></tr></thead><tbody><tr><td>GCI cobrado</td><td class="num">$360,000</td></tr><tr><td>Pagos a agentes</td><td class="num">($198,000)</td></tr><tr><td>Costo fijo local + sueldo del dueño</td><td class="num">($72,000)</td></tr><tr><td>Regalía 6%</td><td class="num">($21,600)</td></tr><tr><td>Fondo de marca 1%</td><td class="num">($3,600)</td></tr><tr><td>BluePrint después del año 1</td><td class="num">(~$4,788)</td></tr><tr><td><strong>Utilidad operativa modelada</strong></td><td class="num"><strong>~$58,224</strong></td></tr></tbody></table><table><caption>Para B_RealEstate — por oficina madura</caption><thead><tr><th>Concepto</th><th class="num">Anual</th></tr></thead><tbody><tr><td>Regalía 6%</td><td class="num">$21,600</td></tr><tr><td>BluePrint tras el año gratis</td><td class="num">~$4,788</td></tr><tr><td>BlankCRM si se engancha</td><td class="num">~$2,988</td></tr><tr><td><strong>Ingreso recurrente bruto</strong></td><td class="num"><strong>~$29,376</strong></td></tr><tr><td>Fondo de marca 1%</td><td class="num">$3,600 — <strong>no es ingreso</strong></td></tr><tr><td>Costo de soporte por oficina <span class="chip">[R]</span></td><td class="num"><strong>sin medir</strong></td></tr></tbody></table></div><div class="callout gold"><strong>La pregunta que realmente hace un prospecto:</strong> «¿Cuánto tengo que ganar de más para justificar el costo de la franquicia frente a seguir independiente?» — Aproximadamente <strong>$92,632 de GCI adicional al año, unos 9.3 cierres más</strong> <span class="chip">[A]</span>. Es una barra real, y decirlo con claridad convence más que cualquier proyección.</div><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>1 / 2</span></div></section><section class="page" style="zoom:0.87"><div class="masthead"><div><div class="eyebrow">Franquicia Dproperty</div><h1 class="sm">Modelo de Negocio</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026</div></div><div class="hrule"></div><div class="canvas"><div class="cell kp"><h4>Socios clave</h4><ul><li>Franquiciados locales</li><li>Asesores legales por jurisdicción</li><li>Desarrolladores para inventario</li><li>ACOBIR y cuerpos locales del sector</li></ul></div><div class="cell "><h4>Actividades clave</h4><ul><li>Reclutamiento y selección de franquiciados</li><li>Implementación y apertura</li><li>Formación y certificación</li><li>Soporte de campo continuo</li></ul></div><div class="cell vp"><h4>Propuesta de valor</h4><ul><li>Modelo operativo probado, no hay que inventarlo</li><li>Stack completo de software incluido el primer año</li><li>Marca con reputación en inversión inmobiliaria</li><li>Acceso a <strong>Dproperty Select</strong> — inventario curado</li><li>Participación en la red y en VAULTED cuando sea elegible</li></ul></div><div class="cell "><h4>Relación con clientes</h4><ul><li>Acompañamiento intensivo en la apertura</li><li>Soporte de campo recurrente</li><li>Plan estratégico anual con HQ</li></ul></div><div class="cell cseg"><h4>Segmentos de clientes</h4><ul><li>Corredores establecidos que quieren estructura</li><li>Profesionales con cartera que quieren marca</li><li>Inversionistas que buscan operar un negocio inmobiliario</li></ul></div><div class="cell "><h4>Recursos clave</h4><ul><li><strong>La marca Dproperty</strong> y su historial</li><li>Biblioteca de procesos y manuales</li><li>Stack de software propio</li><li>Relaciones con desarrolladores</li><li>Programa Dproperty Select</li></ul></div><div class="cell "><h4>Canales</h4><ul><li>Referidos de la red existente</li><li>Venta directa del fundador</li><li>Eventos del sector</li></ul></div><div class="cell wide-l"><h4>Estructura de costos</h4><ul><li>Apertura y viajes</li><li>Comisión de venta</li><li>Legal y contratación</li><li>Soporte de campo</li><li>Plataforma de software</li></ul></div><div class="cell wide-r"><h4>Fuentes de ingreso</h4><ul><li>Cuota de entrada — $50,000 lista, $40,000 fundadora</li><li>Regalía — 6% del GCI cobrado</li><li>Piso mínimo de regalía — $750/mes desde el mes 13</li><li>Software tras el año gratis — valorizado a precio de lista</li><li><strong>Fondo de marca 1% — restringido, NO es ingreso</strong></li></ul></div></div><h2 style="margin-top:5mm"><span class="snum">02</span>Comparación con B_ Partner</h2><table><thead><tr><th>Concepto</th><th class="num">Franquicia Dproperty</th><th class="num">B_ Partner</th></tr></thead><tbody><tr><td>Cuota de entrada</td><td class="num">$50,000 ($40k fundadora)</td><td class="num">$30,000 ($25k fundadora)</td></tr><tr><td>Regalía</td><td class="num">6% del GCI cobrado</td><td class="num">4% del GCI cobrado</td></tr><tr><td>Piso mínimo</td><td class="num">$750/mes</td><td class="num">$400/mes</td></tr><tr><td>Fondo de marca</td><td class="num">1% restringido</td><td class="num">ninguno</td></tr><tr><td>Marca al consumidor</td><td class="num">Dproperty</td><td class="num">la del socio</td></tr><tr><td>Recurrente a $360k de GCI</td><td class="num">~$29,376</td><td class="num">~$22,176</td></tr></tbody></table><h2 style="margin-top:3mm"><span class="snum">03</span>Pendientes críticos</h2><p class="small soft"><span class="chip">[R]</span> Diseño de contrato y asesoría legal local por jurisdicción — nada aquí está revisado legalmente · <span class="chip">[R]</span> <strong>no existe pipeline firmado ni pagado</strong>; toda la economía del franquiciado es modelada, no observada · <span class="chip">[R]</span> costo de soporte y campo por oficina sin medir, por lo que la contribución neta es desconocida · <span class="chip">[R]</span> mecánica contractual del piso de regalía ante bajo desempeño y terminación.</p><div class="simple"><h3>Cómo leerlo en simple</h3><ul><li>El franquiciado paga <strong>$40,000–$50,000</strong> de entrada y necesita unos <strong>$98,000</strong> en total para abrir, contando remodelación y capital de trabajo.</li><li>Después paga <strong>6% de la comisión que cobra</strong>, más <strong>1%</strong> que va a un fondo de marca (ese 1% no es nuestra ganancia, se gasta en marca).</li><li>En una oficina que funciona bien, al franquiciado le quedan unos <strong>$58,000 al año</strong> y recupera su inversión en <strong>poco más de 3 años</strong>.</li><li>Lo honesto: para que le convenga frente a seguir solo, tiene que vender <strong>unos 9 inmuebles más al año</strong>. Si no los vende, no le conviene.</li><li>A nosotros nos deja unos <strong>$29,000 al año por oficina</strong> — pero todavía <strong>no sabemos cuánto nos cuesta atenderla</strong>. Eso falta medir.</li></ul></div><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>2 / 2</span></div></section>
+</body>
+</html>

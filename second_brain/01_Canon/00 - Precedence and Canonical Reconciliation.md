@@ -27,6 +27,13 @@ Two internally-consistent canonical layers were built three days apart and they 
 
 Left unresolved, this makes the vault unusable for investors, developers and AI assistants: two files answer "what are we building" differently, and neither is labelled as losing.
 
+> [!WARNING] Positioning corrected 2026-09-25
+> The **boundaries** below still hold, but the **positioning and differentiator do not**.
+> BluePrint is an **agentic back office** — a CEO/CFO/COO/CMO without C-suite payroll — whose
+> defining rule is that **nothing is recorded without evidence**. The "transaction spine from
+> qualified opportunity" framing claimed a differentiator a CRM already provides.
+> See [[22 - BluePrint Repositioned - Agentic Back Office]].
+
 ## 2. The decision
 
 **The two definitions were never actually mutually exclusive. They are merged, not chosen between.**

@@ -2,6 +2,8 @@
 
 > **PRECEDENCE — READ FIRST.** `01_Canon/00 - Precedence and Canonical Reconciliation.md` controls this vault.
 >
+> **BLUEPRINT POSITIONING — 2026-09-25.** BluePrint is an **agentic back office**: a CEO, CFO, COO and CMO in one place without C-suite payroll. Defining rule: **nothing is recorded without evidence** — no attachment, no record. Its differentiator is *not* transaction workflow (a CRM does that); it is that **a CRM depends on the sales team's discipline and BluePrint does not**. Headline features: the **Glitch Report** (Four Seasons model) and **auditing the CRM**. See `01_Canon/22 - BluePrint Repositioned - Agentic Back Office.md`.
+>
 > **ARCHITECTURE — READ SECOND.** `00_Start_Here/Vault Architecture Map.md` defines where everything lives. The vault was restructured on 2026-09-23: the old `00_Index`–`19_Canonical_B_RealEstate` tree is gone, the two rival canonical folders were dissolved, and every sellable thing now has its own folder under `02_Offers/`.
 
 You are working inside the local Obsidian vault for the B_RealEstate ecosystem and the BluePrint platform.
@@ -18,12 +20,12 @@ Act as my B_RealEstate ecosystem and BluePrint project assistant. Create, update
 
 | Product | Job | Owns | Role |
 |---|---|---|---|
-| **BluePrint** | Run/control the company | Qualified opportunity → transaction file → compliance evidence → approvals → closing → commission calculation → budgets/variance/KPIs → process assurance/Glitches → management actions → period close → audit trail | Proprietary core SaaS/IP |
+| **BluePrint** | **Agentic back office** — CEO/CFO/COO/CMO without C-suite payroll | Evidence-backed financial record (no attachment, no record) → classification to P&L and budget → **Glitch Report** and process intelligence → management actions and KPIs → period close → audit trail → **audit of the CRM** | Proprietary core SaaS/IP |
 | **BlankCRM** | Sell | Leads, contacts, messaging, forms/calendars, nurture, pre-qualification pipeline, campaign attribution | Attach product, **powered by GoHighLevel** |
 | **VAULTED** | Access the network | Gated listings, access rules, matches, introductions, attribution, GMV, fees | Network upside; gated pilot after BluePrint stability |
 | **Building Blocks** | Operate better | Learning content, assessments, certification evidence | Enablement layer, **powered by Open edX** |
 
-**The handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply/access. Building Blocks owns capability. Accounting remains the ledger.
+**The handoff line:** BlankCRM helps the team sell and depends on their discipline. BluePrint runs the back office and depends only on evidence. VAULTED owns network supply/access. Building Blocks owns capability. Accounting remains the ledger.
 
 ### Four channels — not products
 

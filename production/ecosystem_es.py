@@ -11,40 +11,36 @@ masthead("Ecosistema", "Cómo encaja todo",
   "es la diferencia entre un portafolio y una empresa.",
   "B_RealEstate<br>24 sept 2026<br>v1.0")
 + '<h3>La frase que ordena todo</h3>'
-+ '<div class="callout gold" style="margin-top:1mm"><strong>BlankCRM es dueño de la demanda hasta la '
-  'calificación. BluePrint es dueño de todo lo que pasa después. VAULTED es dueño de la oferta y el '
-  'acceso de red. Building Blocks es dueño de la capacidad. La contabilidad sigue siendo el libro '
-  'mayor.</strong></div>'
++ '<div class="callout gold" style="margin-top:1mm"><strong>BlankCRM ayuda al equipo a vender y '
+  'depende de su disciplina. BluePrint opera el back office y depende únicamente de la evidencia.</strong> '
+  'VAULTED es dueño de la oferta y el acceso de red. Building Blocks es dueño de la capacidad. La '
+  'contabilidad sigue siendo el libro mayor.</div>'
++ '<p class="note">Y algo más: <strong>BluePrint lee el CRM</strong> para auditar si la ejecución '
+  'comercial cumple los objetivos de la gerencia. No es solo el siguiente paso del flujo — también es '
+  'el control sobre el paso anterior.</p>'
 
 + '<h2 style="margin-top:4mm"><span class="snum">01</span>El flujo</h2>'
-+ '<pre style="font-family:\'JetBrains Mono\',monospace;font-size:7.2pt;line-height:1.55;'
-  'background:var(--bone-deep);padding:4mm;border-left:2.6pt solid var(--champagne);'
++ '<pre style="font-family:\'JetBrains Mono\',monospace;font-size:6.2pt;line-height:1.26;'
+  'background:var(--bone-deep);padding:3mm;border-left:2.6pt solid var(--champagne);'
   'white-space:pre;overflow:hidden">'
 + """  Dproperty (inversionista)        DpropertyLiving (usuario final)
-            │                                  │
-            └──────────────┬───────────────────┘
+            └──────────────┬──────────────┘
                            ▼
-                   ┌───────────────┐
-                   │   BlankCRM    │   prospectos · contenido · seguimiento
-                   │ (GoHighLevel) │   dos sub-cuentas, un solo motor
-                   └───────┬───────┘
-                           │  ◄── OPORTUNIDAD CALIFICADA ──►  el único traspaso
+            ┌──────────────────────────────┐
+            │  BlankCRM  (GoHighLevel)     │  dos sub-cuentas, un motor
+            └──────────────┬───────────────┘
+                     │     ▲ BluePrint AUDITA el CRM
+   Contabilidad ──► ┌┴─────┴──────┐ ◄── Building Blocks (certifica permisos)
+   Banco · Firma    │  BluePrint  │  CEO · CFO · COO · CMO agénticos
+                    │  sin comprobante NO hay registro
+                    │  Glitch Report · P&L · auditoría
+                    └──────┬──────┘
                            ▼
-   Contabilidad ─────► ┌───────────┐ ◄───── Building Blocks
-   Banco · Firma       │ BluePrint │        certificación habilita permisos
-   Drive               │           │
-                       │ expediente · cumplimiento · aprobaciones
-                       │ cierre · COMISIÓN · auditoría
-                       └─────┬─────┘
-                             │  resultados verificados
-                             ▼
-                       ┌───────────┐
-                       │  VAULTED  │ ◄──── Dproperty Select (oferta curada)
-                       │  red      │ ◄──── Desarrolladores (oferta de proyecto)
-                       └───────────┘
+                    ┌─────────────┐ ◄── Dproperty Select (oferta curada)
+                    │   VAULTED   │ ◄── Desarrolladores (oferta de proyecto)
+                    └─────────────┘
 
-   CANALES que despliegan el stack completo:
-   Franquicia Dproperty · B_ Partner · Alianzas con Desarrolladores"""
+  CANALES: Franquicia Dproperty · B_ Partner · Alianzas con Desarrolladores"""
 + '</pre>'
 
 + '<h2 style="margin-top:4mm"><span class="snum">02</span>Quién es dueño de qué dato</h2>'
@@ -58,8 +54,7 @@ masthead("Ecosistema", "Cómo encaja todo",
      "<strong>Nunca BluePrint</strong>"],
     ["Listados de red, coincidencias, atribución, GMV","<strong>VAULTED</strong>","Sistema separado"],
     ["Contenido, evaluaciones, certificación","<strong>Building Blocks</strong>","Open edX"],
-    ["Libro mayor, impuestos, nómina","Plataforma contable","BluePrint solo lee"],
-    ["Fideicomiso, custodia, movimiento de dinero","Banco / fiduciario","BluePrint solo lee evidencia"]], None, 99)
+    ["Libro mayor · fideicomiso · custodia","Contabilidad / banco","BluePrint solo lee evidencia"]], None, 99)
 + '<p class="note"><strong>Una sola autoridad por clase de dato.</strong> Nunca decimos «una sola base '
   'de datos» — es un ecosistema conectado con fuentes de verdad definidas. Jerarquía de confianza: '
   '<strong>reportado → verificado operativamente → verificado financieramente → cerrado</strong>.</p>'
@@ -67,14 +62,13 @@ masthead("Ecosistema", "Cómo encaja todo",
 + simple([
   "Piénsalo como una <strong>fábrica con estaciones</strong>. Cada estación hace una cosa y le pasa "
   "el trabajo a la siguiente.",
-  "<strong>BlankCRM</strong> consigue y persigue clientes. Cuando un cliente ya es serio, se lo pasa "
-  "a <strong>BluePrint</strong>. Ese traspaso es el único punto de conexión que importa.",
-  "<strong>BluePrint</strong> se encarga de que el negocio se cierre bien: papeles, aprobaciones, "
-  "comisión exacta, y deja todo auditado.",
+  "<strong>BlankCRM</strong> consigue y persigue clientes — pero lo que muestra depende de lo que el "
+  "vendedor escribió.",
+  "<strong>BluePrint</strong> es la gerencia: solo registra lo que tiene comprobante, clasifica las "
+  "facturas, lleva el P&amp;L, anota los errores con el Glitch Report y <strong>revisa el CRM para ver "
+  "si lo reportado cuadra con lo cobrado</strong>.",
   "<strong>Building Blocks</strong> entrena a la gente. <strong>VAULTED</strong> conecta con la red "
   "para conseguir más producto y más compradores.",
-  "Los <strong>canales</strong> (franquicia, socio de marca propia, desarrolladores) son las tres "
-  "formas de vender todo el paquete junto.",
   "<strong>Lo importante:</strong> ninguna estación es dueña del trabajo de otra. Por eso nada se "
   "duplica y nadie se pisa."]),
 
@@ -87,44 +81,36 @@ masthead("Ecosistema", "Cómo cada bloque crea valor para los demás", None,
   'esto a los demás». Donde una fila está vacía, el bloque todavía no aporta — y eso también es información.</p>'
 + table(["Bloque","Qué le da al resto del ecosistema"], [
     ["<strong>BluePrint</strong>",
-     "Da a <strong>BlankCRM</strong> la razón para subir de precio (el CRM solo no cierra negocios). "
-     "Da a <strong>Building Blocks</strong> su motor de demanda: detecta la falla de proceso y dice a "
-     "quién hay que entrenar. Da a <strong>VAULTED</strong> transacciones verificadas y atribución "
-     "confiable. Da a los <strong>canales</strong> la consistencia operativa que hace posible "
-     "franquiciar. Da a <strong>Select</strong> resultados financieros verificados."],
+     "A <strong>BlankCRM</strong>: lo <strong>audita</strong> — detecta cuando lo reportado no cuadra con "
+     "lo cobrado. A <strong>Building Blocks</strong>: su motor de demanda — el Glitch Report dice a quién "
+     "entrenar y en qué. A <strong>VAULTED</strong>: transacciones verificadas y atribución confiable. A los "
+     "<strong>canales</strong>: la consistencia que hace posible franquiciar, y un negocio "
+     "<strong>vendible</strong> al final."],
     ["<strong>BlankCRM</strong>",
-     "Da a <strong>BluePrint</strong> oportunidades ya calificadas — sin esto BluePrint no tiene "
-     "materia prima. Da a <strong>VAULTED</strong> señales de demanda autorizada (qué busca cada "
-     "comprador). Da a los <strong>canales</strong> un producto de entrada barato que abre la puerta. "
-     "Da a <strong>Dproperty y DpropertyLiving</strong> la maquinaria de contenido y seguimiento."],
+     "A <strong>BluePrint</strong>: oportunidades calificadas — sin esto no tiene materia prima. A "
+     "<strong>VAULTED</strong>: señales de demanda autorizada. A los <strong>canales</strong>: un producto "
+     "de entrada barato. A <strong>Dproperty y DpropertyLiving</strong>: la maquinaria de contenido. Su límite: <strong>depende de que el equipo lo use bien</strong>."],
     ["<strong>VAULTED</strong>",
-     "Da a <strong>BluePrint</strong> más transacciones que procesar. Da a los <strong>canales</strong> "
-     "un beneficio que ningún competidor local ofrece (acceso a red). Da a <strong>Select</strong> un "
-     "canal de distribución. Da a <strong>desarrolladores</strong> compradores. "
+     "A <strong>BluePrint</strong>: más transacciones. A los <strong>canales</strong>: un beneficio que "
+     "ningún competidor local ofrece. A <strong>Select</strong>: distribución. "
      "<strong>Hoy da poco: está bloqueado a propósito.</strong>"],
     ["<strong>Building Blocks</strong>",
-     "Da a <strong>BluePrint</strong> usuarios que saben usarlo — la causa número uno de fracaso en "
-     "software B2B es que nadie aprendió. Da a la <strong>franquicia</strong> consistencia entre "
-     "oficinas, que es el problema central de franquiciar. Da a <strong>B_ Partner</strong> velocidad "
-     "de arranque. Da a <strong>desarrolladores</strong> corredores certificados por proyecto."],
+     "A <strong>BluePrint</strong>: usuarios que saben usarlo — la causa nº1 de fracaso en software B2B "
+     "es que nadie aprendió. A la <strong>franquicia</strong>: consistencia entre oficinas. A "
+     "<strong>desarrolladores</strong>: corredores certificados por proyecto."],
     ["<strong>Franquicia Dproperty</strong>",
-     "Da a <strong>BluePrint</strong> los casos reales que prueban que el producto funciona — y los "
-     "primeros ingresos. Da a <strong>VAULTED</strong> participantes y oferta. Da a <strong>Select</strong> "
-     "una fuerza de distribución. Da a la <strong>empresa</strong> credibilidad: operamos lo que vendemos."],
+     "A <strong>BluePrint</strong>: los casos reales que prueban el producto y los primeros ingresos. A "
+     "<strong>VAULTED</strong>: participantes y oferta. A <strong>Select</strong>: fuerza de distribución. "
+     "A la empresa: credibilidad — operamos lo que vendemos."],
     ["<strong>B_ Partner</strong>",
-     "Da a <strong>BluePrint</strong> clientes que <em>no</em> son Dproperty — la prueba de que la "
-     "plataforma es neutral y no un truco para franquiciar. Da a <strong>VAULTED</strong> oferta y "
-     "demanda independientes. Da ingreso recurrente sin costo de marca."],
-    ["<strong>Alianzas con Desarrolladores</strong>",
-     "Da a <strong>VAULTED</strong> la oferta inicial — resuelve el arranque en frío del marketplace. "
-     "Da a <strong>Select</strong> oportunidades candidatas. Da a <strong>BluePrint</strong> aprendizaje "
-     "de organizaciones de venta complejas. Da a <strong>Building Blocks</strong> un comprador de "
-     "cohortes empresariales."],
+     "A <strong>BluePrint</strong>: clientes que <em>no</em> son Dproperty — la prueba de que la "
+     "plataforma es neutral. A <strong>VAULTED</strong>: oferta y demanda independientes."],
+    ["<strong>Desarrolladores</strong>",
+     "A <strong>VAULTED</strong>: la oferta inicial — resuelve el arranque en frío. A <strong>Select</strong>: "
+     "oportunidades candidatas. A <strong>BluePrint</strong>: aprendizaje de ventas complejas."],
     ["<strong>Dproperty Select</strong>",
-     "Da a la <strong>franquicia</strong> la razón para elegirnos sobre cualquier otra marca. Da a "
-     "<strong>VAULTED</strong> su primera oferta de calidad. Da a <strong>B_ Partner</strong> un "
-     "producto diferenciado que su competencia no tiene. Da a la <strong>empresa</strong> la prueba "
-     "de que entendemos inmobiliaria, no solo software."]], None, 99)
+     "A la <strong>franquicia</strong>: la razón para elegirnos sobre otra marca. A <strong>VAULTED</strong>: "
+     "su primera oferta de calidad. A la empresa: la prueba de que entendemos inmobiliaria, no solo software."]], None, 99)
 
 + '<h2 style="margin-top:4mm"><span class="snum">04</span>Los tres circuitos que se refuerzan</h2>'
 + '<div class="cols3">'
@@ -139,17 +125,6 @@ masthead("Ecosistema", "Cómo cada bloque crea valor para los demás", None,
   'aprendizaje de producto. <strong>Es la ventaja que la mayoría de startups de software no tiene.</strong></p></div>'
 + '</div>'
 
-+ '<h2 style="margin-top:4mm"><span class="snum">05</span>Dónde está el valor de la empresa — sin adornos</h2>'
-+ table(["Capa","Rol estratégico","Dónde está el valor"], [
-    ["<strong>BluePrint</strong>","Núcleo propietario","<strong>Aquí</strong> — es lo único que puede ser una compañía de software valiosa por sí sola"],
-    ["<strong>VAULTED</strong>","Opción de red","<strong>Potencial alto, evidencia cero</strong> — la apuesta grande"],
-    ["BlankCRM","Producto de enganche","Asignación eficiente de capital, no ventaja competitiva"],
-    ["Building Blocks","Formación y retención","Consistencia y enganche, no foso defensivo"],
-    ["Canales","Distribución","Ventaja de salida al mercado, no tecnología"],
-    ["Dproperty Select","Activo estratégico","<strong>No se puede copiar</strong> — relaciones, no software"]], None, 99)
-+ '<div class="callout"><strong>Regla de presentación:</strong> nunca presentar todos los bloques como '
-  'negocios iguales. La jerarquía es <strong>BluePrint como núcleo → VAULTED como potencial de red → '
-  'BlankCRM como enganche → Building Blocks y canales como soporte.</strong></div>'
 
 + simple([
   "La pregunta real es: <strong>¿por qué esto es una empresa y no cuatro productos sueltos?</strong> "

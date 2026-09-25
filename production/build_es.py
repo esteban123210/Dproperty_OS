@@ -4,7 +4,7 @@ import os, sys
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 os.chdir(os.path.dirname(os.path.abspath(__file__)))
 
-from brand import doc
+from brand import doc, rebalance
 from products_es import P
 from products_es2 import P2
 from products_es3 import P3
@@ -23,8 +23,11 @@ order = ["01_BluePrint", "02_BlankCRM", "03_VAULTED", "04_Building_Blocks",
 written = []
 for i, key in enumerate(order, 1):
     d = ALL[key]
-    html = doc(f"B_RealEstate — {d['file']}", [d["p1"], d["p2"]])
-    name = f"{i:02d} - B_RealEstate - {d['file']} - Dos Paginas - 2026-09-24.html"
+    p1, p2 = rebalance(d["p1"], d["p2"])
+    pages = [p1, p2] + ([d["p3"]] if d.get("p3") else [])
+    html = doc(f"B_RealEstate — {d['file']}", pages)
+    label = {2: "Dos Paginas", 3: "Tres Paginas"}.get(len(pages), f"{len(pages)} Paginas")
+    name = f"{i:02d} - B_RealEstate - {d['file']} - {label} - 2026-09-25.html"
     path = os.path.join(OUT, name)
     with open(path, "w", encoding="utf-8", newline="") as fh:
         fh.write(html)

@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>B_RealEstate — VAULTED</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bone:#F7F4ED; --bone-deep:#EFEAE0; --bone-warm:#FAF8F3;
+  --charcoal:#1A1A1A; --soft:#55514C; --champagne:#B89B5E;
+  --blue:#1F4E79; --rule:rgba(26,26,26,.25);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+@page{size:letter;margin:11mm 13mm}
+html,body{background:var(--bone);color:var(--charcoal);
+  font-family:'Inter',system-ui,sans-serif;font-size:9pt;line-height:1.43;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:190mm;min-height:234mm;margin:0 auto;background:var(--bone);
+  position:relative;padding-bottom:10mm}
+.page+.page{page-break-before:always}
+
+.eyebrow{font-family:'JetBrains Mono',monospace;font-size:7pt;text-transform:uppercase;
+  letter-spacing:.09em;color:var(--soft)}
+.masthead{display:flex;justify-content:space-between;align-items:flex-start}
+.brandmark{font-family:'JetBrains Mono',monospace;font-size:6.8pt;letter-spacing:.09em;
+  color:var(--soft);text-align:right;line-height:1.7}
+h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:22pt;
+  line-height:1.05;letter-spacing:-.022em;margin:1.5mm 0}
+h1.sm{font-size:17pt}
+.positioning{font-size:9.4pt;color:var(--soft);max-width:134mm;line-height:1.4}
+.hrule{border-top:1.4pt solid var(--charcoal);margin:3mm 0 3.5mm}
+.hrule.thin{border-top:.4pt solid var(--rule);margin:3mm 0 4mm}
+
+h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:11.5pt;
+  letter-spacing:-.012em;margin:0 0 1.5mm;break-after:avoid}
+.snum{font-family:'JetBrains Mono',monospace;font-size:7pt;letter-spacing:.09em;
+  color:var(--champagne);display:block;margin-bottom:.8mm}
+h3{font-family:'JetBrains Mono',monospace;font-size:7pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.09em;color:var(--soft);
+  margin:0 0 1.5mm;break-after:avoid}
+h3.mt{margin-top:2.8mm}
+p{margin:0 0 1.8mm}
+strong{font-weight:600}
+em{font-family:'Playfair Display',serif;font-style:italic}
+.small{font-size:8.3pt}
+.soft{color:var(--soft)}
+
+.cols{display:grid;grid-template-columns:1fr 62mm;gap:5.5mm;align-items:start}
+.cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5mm}
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+
+.panel{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);
+  padding:3mm 3.5mm;break-inside:avoid}
+.panel.blue{border-left-color:var(--blue)}
+.panel.dark{border-left-color:var(--charcoal);background:var(--bone-deep)}
+.dl div{display:flex;gap:2.5mm;padding:1mm 0;border-bottom:.4pt solid var(--rule);font-size:7.8pt}
+.dl div:last-of-type{border-bottom:none}
+.dl dt{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);min-width:16mm;padding-top:.5mm}
+.dl dd{flex:1}
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:2.2mm;margin-top:3mm;
+  padding-top:2.5mm;border-top:.9pt solid var(--charcoal)}
+.fig .n{font-family:'Playfair Display',serif;font-weight:500;font-size:13.5pt;
+  line-height:1;color:var(--champagne)}
+.fig .l{font-family:'JetBrains Mono',monospace;font-size:6pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);margin-top:1mm;line-height:1.35}
+
+table{width:100%;border-collapse:collapse;font-size:8pt;margin:1.2mm 0 2.2mm;break-inside:avoid}
+th{background:var(--bone-deep);font-family:'JetBrains Mono',monospace;font-size:6.5pt;
+  font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:var(--soft);
+  text-align:left;padding:1.2mm 1.8mm;border-bottom:.9pt solid var(--charcoal)}
+td{padding:1mm 1.8mm;border-bottom:.4pt solid var(--rule);vertical-align:top}
+tr:nth-child(even) td{background:var(--bone-warm)}
+.num{text-align:right;white-space:nowrap}
+caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);text-align:left;padding-bottom:1.4mm}
+
+.chip{font-family:'JetBrains Mono',monospace;font-size:6.3pt;background:var(--bone-deep);
+  color:var(--blue);padding:.3mm 1.1mm;border-radius:1pt;white-space:nowrap;font-weight:500}
+
+.note{font-size:7.6pt;color:var(--soft);border-left:2pt solid var(--rule);
+  padding-left:3.5mm;margin:1.5mm 0 2.2mm}
+.callout{background:var(--bone-deep);padding:2.2mm 3mm;font-size:8.1pt;margin:1.8mm 0;
+  border-left:2.6pt solid var(--charcoal)}
+.callout.gold{border-left-color:var(--champagne);background:var(--bone-warm)}
+
+/* SIMPLE-READING BLOCK — the plain-language conclusion */
+.simple{background:var(--bone-warm);border:.5pt solid var(--champagne);
+  border-left:3.2pt solid var(--champagne);padding:3mm 3.5mm;margin:2.5mm 0;break-inside:avoid}
+.simple h3{color:var(--champagne);font-size:7.4pt;margin-bottom:2mm}
+.simple p{font-size:8.6pt;margin-bottom:1.5mm}
+.simple p:last-child{margin-bottom:0}
+.simple ul{list-style:none;font-size:8.6pt}
+.simple li{padding-left:3.5mm;position:relative;margin-bottom:1mm}
+.simple li::before{content:"→";position:absolute;left:0;color:var(--champagne);font-weight:600}
+
+/* canvas */
+.canvas{display:grid;grid-template-columns:repeat(5,1fr);gap:1.2mm;margin-top:1.5mm}
+.cell{background:var(--bone-deep);border:.4pt solid var(--rule);padding:2mm 2.2mm;break-inside:avoid}
+.cell h4{font-family:'JetBrains Mono',monospace;font-size:6pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.07em;color:var(--soft);margin-bottom:1.4mm}
+.cell ul{list-style:none;font-size:6.9pt;line-height:1.35}
+.cell li{padding-left:2.5mm;position:relative;margin-bottom:.6mm}
+.cell li::before{content:"·";position:absolute;left:.6mm;color:var(--champagne);font-weight:700}
+.vp{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);grid-column:3;grid-row:1/span 2}
+.vp h4{color:var(--charcoal)}
+.kp{grid-column:1;grid-row:1/span 2}
+.cseg{grid-column:5;grid-row:1/span 2}
+.wide-l{grid-column:1/span 2}
+.wide-r{grid-column:3/span 3}
+
+/* timeline / roadmap */
+.tl{position:relative;margin:2.5mm 0}
+.phase{display:grid;grid-template-columns:20mm 1fr;gap:3mm;padding:2.4mm 0;
+  border-top:.5pt solid var(--rule);break-inside:avoid}
+.phase:first-child{border-top:1.2pt solid var(--charcoal)}
+.phase .when{font-family:'JetBrains Mono',monospace;font-size:6.8pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--champagne);line-height:1.5;padding-top:.5mm}
+.phase .when b{display:block;color:var(--charcoal);font-size:8.5pt;letter-spacing:0;
+  font-family:'Playfair Display',serif;font-weight:500;margin-bottom:.8mm}
+.phase h4{font-family:'Playfair Display',serif;font-size:9.8pt;font-weight:500;margin-bottom:1mm}
+.bar{height:3.4mm;background:var(--bone-deep);display:flex;margin:2mm 0 3mm;border:.4pt solid var(--rule)}
+.bar i{display:block;height:100%}
+.bar i.on{background:var(--champagne)}
+.bar i.next{background:rgba(184,155,94,.35)}
+.bar i.later{background:transparent}
+.gridnote{display:grid;grid-template-columns:1fr 1fr;gap:4mm;font-size:8.2pt}
+.cap{font-family:'JetBrains Mono',monospace;font-size:8pt;color:var(--charcoal);font-weight:500}
+
+.foot{position:absolute;bottom:0;left:0;right:0;border-top:.4pt solid var(--rule);
+  padding-top:2mm;display:flex;justify-content:space-between;
+  font-family:'JetBrains Mono',monospace;font-size:6pt;letter-spacing:.05em;color:var(--soft)}
+.foot span{max-width:152mm;line-height:1.5}
+</style>
+</head>
+<body>
+<section class="page" style="zoom:0.873"><div class="masthead"><div><div class="eyebrow">Producto — Red / Marketplace</div><h1 class="">VAULTED</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026<br>v1.0</div></div><p class="positioning">El mercado privado de oportunidades: acceso controlado, coincidencias atribuibles y una comisión de éxito sobre transacciones completadas.</p><div class="hrule"></div><div class="cols"><div><h3>La idea</h3><p>VAULTED es el marketplace privado de B_ para oferta inmobiliaria elegible, demanda calificada, presentaciones y transacciones atribuibles. Es la apuesta de <strong>efecto de red</strong> del portafolio: mientras BluePrint es el motor de software, VAULTED es el motor potencial de red.</p><h3 class="mt">Estado honesto</h3><p><strong>Hipótesis, no negocio.</strong> Cero transacciones, cero listados, cero participantes firmados. Está deliberadamente <strong>bloqueado</strong> detrás de la estabilidad de BluePrint. Este documento existe para poder razonar y refutar la economía, no para citarla.</p><h3 class="mt">Qué controlaría</h3><p class="small">Listados y oportunidades · reglas de acceso · identidad de participantes · coincidencias y presentaciones · <strong>atribución</strong> · registros de transacciones completadas · volumen transado (GMV) y comisiones del marketplace.</p><h3 class="mt">Qué NO controla</h3><p class="small soft">Conversaciones del CRM · procesos de gestión y ejecución de transacciones de BluePrint · contabilidad · decisiones de curaduría de Dproperty Select · <strong>custodia, fideicomiso, cambio de divisas o vehículos de inversión</strong> — explícitamente fuera de alcance.</p></div><aside class="panel"><h3 style="margin-bottom:2.5mm">En resumen</h3><div class="dl"><div><dt>Tipo</dt><dd>Producto — red. Máximo potencial, mínima evidencia.</dd></div><div><dt>Trabajo</dt><dd>Dar acceso y conectar oferta con demanda.</dd></div><div><dt>Precio</dt><dd><strong>0.35%</strong> del valor de la transacción atribuible <span class="chip">[A]</span></dd></div><div><dt>Estado</dt><dd><strong>Bloqueado.</strong> Sin producto, sin economía validada.</dd></div><div><dt>Próxima meta</dt><dd>Prueba de liquidez en un nicho estrecho con relaciones existentes</dd></div></div><div class="figs"><div class="fig"><div class="n">$1,050</div><div class="l">Ingreso por transacción de $300k</div></div><div class="fig"><div class="n">5 de 7</div><div class="l">Etapas del embudo sin base</div></div><div class="fig"><div class="n">100+</div><div class="l">Transacciones/año para ser relevante</div></div><div class="fig"><div class="n">0</div><div class="l">Transacciones hoy</div></div></div></aside></div><div class="callout"><strong>Regla de modelado obligatoria:</strong> nunca estimar el ingreso de VAULTED como «todos los clientes de BluePrint × un GMV arbitrario». Hay que modelar el embudo completo, donde <strong>cada etapa se prueba por separado</strong>.</div><h2 style="margin-top:4mm"><span class="snum">01</span>El embudo — siete etapas</h2><table><thead><tr><th>Etapa</th><th>Supuesto</th><th>Base</th><th class="num">Confianza</th></tr></thead><tbody><tr><td>Valor promedio de transacción</td><td>$300,000</td><td>Modelo de portafolio</td><td class="num">Baja-media</td></tr><tr><td>Comisión efectiva</td><td>0.35%</td><td>Modelo de portafolio</td><td class="num"><strong>Baja</strong></td></tr><tr><td>Tasa de activación</td><td>?</td><td><strong>ninguna</strong></td><td class="num"><strong>Sin base</strong></td></tr><tr><td>Tasa de publicación de oferta</td><td>?</td><td><strong>ninguna</strong></td><td class="num"><strong>Sin base</strong></td></tr><tr><td>Tasa de coincidencia</td><td>?</td><td><strong>ninguna</strong></td><td class="num"><strong>Sin base</strong></td></tr><tr><td>Supervivencia de atribución</td><td>?</td><td><strong>ninguna</strong></td><td class="num"><strong>Sin base — la crítica</strong></td></tr><tr><td>Fuga / elusión</td><td>?</td><td><strong>ninguna</strong></td><td class="num"><strong>Sin base</strong></td></tr></tbody></table><p class="note">El ingreso es el producto de <strong>siete</strong> factores inciertos. Si cada uno se equivoca por la mitad, el ingreso se equivoca por ~100×. Por eso está bloqueado.</p><h2 style="margin-top:3mm"><span class="snum">02</span>Escala requerida</h2><table><thead><tr><th>Transacciones atribuibles/año</th><th class="num">GMV</th><th class="num">Ingreso a 0.35%</th></tr></thead><tbody><tr><td>10</td><td class="num">$3.0M</td><td class="num">$10,500</td></tr><tr><td>50</td><td class="num">$15.0M</td><td class="num">$52,500</td></tr><tr><td>200</td><td class="num">$60.0M</td><td class="num">$210,000</td></tr><tr><td>500</td><td class="num">$150.0M</td><td class="num">$525,000</td></tr></tbody></table><p class="note">Para contexto: toda la historia de Dproperty se cita en ~700 operaciones. VAULTED necesita <strong>cientos de transacciones atribuibles al año</strong> para ser una línea de ingreso relevante. No es una historia de ingreso cercano — es una <strong>opción de red</strong>.</p><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>1 / 2</span></div></section><section class="page"><div class="masthead"><div><div class="eyebrow">VAULTED</div><h1 class="sm">Modelo de Negocio</h1></div><div class="brandmark">B_RealEstate<br>24 sept 2026</div></div><div class="hrule"></div><div class="canvas"><div class="cell kp"><h4>Socios clave</h4><ul><li>Desarrolladores — siembran oferta</li><li>Red de corredores</li><li>Inversionistas existentes</li><li>Asesoría legal por jurisdicción</li><li>Proveedores de identidad y KYC</li></ul></div><div class="cell "><h4>Actividades clave</h4><ul><li>Diseño de atribución</li><li>Curaduría y verificación de acceso</li><li>Emparejamiento</li><li>Gestión de disputas</li><li>Cumplimiento por jurisdicción</li></ul></div><div class="cell vp"><h4>Propuesta de valor</h4><ul><li>Acceso a oportunidades fuera de mercado</li><li>Demanda calificada para quien tiene oferta</li><li>Presentaciones con atribución documentada</li><li>Reglas de acceso claras — no es un portal abierto</li><li><strong>Potencial de efecto de red</strong>: más participantes, más valor</li></ul></div><div class="cell "><h4>Relación con clientes</h4><ul><li>Acceso por invitación</li><li>Curaduría activa de participantes</li><li>Gestión de relación por acuerdo</li></ul></div><div class="cell cseg"><h4>Segmentos de clientes</h4><ul><li>Desarrolladores con inventario</li><li>Corredores con compradores</li><li>Inversionistas buscando oportunidad</li><li>Franquicias y socios elegibles</li></ul></div><div class="cell "><h4>Recursos clave</h4><ul><li><strong>La red de relaciones existente</strong> — ventaja de arranque en frío</li><li>Motor de atribución</li><li>Reglas de acceso y elegibilidad</li><li>Registro de transacciones</li></ul></div><div class="cell "><h4>Canales</h4><ul><li>Relaciones existentes de Dproperty</li><li>Canal de desarrolladores</li><li>Franquicias y socios B_ Partner</li><li>BlankCRM aporta demanda autorizada</li></ul></div><div class="cell wide-l"><h4>Estructura de costos</h4><ul><li>Construcción de producto</li><li><strong>Atribución y disputas — intensivo en trabajo</strong></li><li>Verificación de participantes</li><li>Legal por jurisdicción</li><li>Siembra de red</li></ul></div><div class="cell wide-r"><h4>Fuentes de ingreso</h4><ul><li>Comisión de éxito sobre transacciones atribuibles — 0.35% efectivo hipotético</li><li>Posible después: membresía o acceso premium</li><li>Posible después: servicios de datos agregados con consentimiento</li><li><strong>Sin ingreso hoy</strong> — producto no construido</li></ul></div></div><h2 style="margin-top:5mm"><span class="snum">03</span>Secuencia obligatoria</h2><p class="small">Probar en este orden, y <strong>detenerse si una falla</strong>: <strong>1)</strong> liquidez de oferta en un nicho estrecho donde ya tenemos relaciones · <strong>2)</strong> liquidez de demanda calificada · <strong>3)</strong> atribución evidenciable · <strong>4)</strong> control de fuga · <strong>5)</strong> disposición a pagar la comisión · <strong>6)</strong> estructura legal por jurisdicción con abogado.</p><div class="callout gold"><strong>Sin automatización del marketplace ni expansión geográfica</strong> antes de la revisión de meta a 90 días.</div><div class="simple"><h3>Cómo leerlo en simple</h3><ul><li>Cobraríamos <strong>0.35%</strong> de cada operación cerrada por la plataforma. En una propiedad de $300,000 son <strong>$1,050</strong>.</li><li>Para que esto sea un negocio real necesitamos <strong>cientos de operaciones al año</strong>. Hoy tenemos <strong>cero</strong>.</li><li>La pregunta que decide si esto existe: <strong>si presentamos al comprador y al vendedor, ¿qué impide que cierren por fuera y no nos paguen?</strong> Hasta que eso tenga respuesta de contrato, ningún otro número importa.</li><li>Ojo con algo incómodo: <strong>$1,050 puede ser menos de lo que cuesta pelear un caso dudoso</strong>. Tal vez conviene cobrar más en menos operaciones mejor documentadas.</li><li>Por eso está <strong>detenido a propósito</strong> hasta que BluePrint esté estable. Es la apuesta de mayor potencial y la de menor evidencia.</li></ul></div><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>2 / 2</span></div></section>
+</body>
+</html>

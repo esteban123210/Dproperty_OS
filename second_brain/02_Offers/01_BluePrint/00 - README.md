@@ -4,7 +4,7 @@ title: "BluePrint — Offer README"
 type: offer_readme
 status: Canonical — build priority
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-25
 tags: [offer, readme, blueprint]
 ---
 
@@ -14,27 +14,50 @@ tags: [offer, readme, blueprint]
 # BluePrint
 
 **Type:** **Product** — proprietary core SaaS/IP. This is where the moat is.
-**Job:** Run and control the company.
+**Job:** Be the whole back office of a company that has no management layer.
 **Price:** Core **$399**/mo · Growth **$799**/mo · **$1,500** setup, per organization/office (never per agent seat). Scale tier quoted, undefined. `[A]`
-**Status:** Specification complete. **Current build priority.** No paid external validation yet.
+**Status:** Specification complete. **Current build priority.** The agentic C-suite is the product **thesis, not built software** — all `[T]`.
 
-BluePrint is a chat-first, AI-native management operating system for small and growing real-estate agencies, **whose system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity.**
+> **BluePrint is an agentic back office. It gives a small, sales-led company a CEO, CFO, COO and CMO in one place — without the cost of hiring an actual C-suite.**
 
-The 2026-09-23 reconciliation merged two competing definitions: the management-control layer (2026-09-20) and the transaction spine (2026-09-23). Both are now true. The *property/unit inventory and MLS* ambition stays permanently retired.
+**The problem, precisely.** A CRM standardizes pipelines, computes commission splits and holds documents — it does those well. But its output is only as good as the discipline of the people feeding it, and those are the same people paid on what it reports. Deals get marked Won early or misclassified, so **CRM revenue does not reconcile with what accounting processed, nor with real receivables.** Good CRM usage is the CRM's own main dependency.
 
-**Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+**BluePrint depends on no one's discipline.** Two rules define it:
+
+1. **Nothing is recorded without evidence** — no receipt, invoice, contract or bank proof, no record.
+2. **Agents manage, not just report** — they detect, explain, suggest and escalate.
+
+**Repositioned 2026-09-25.** The earlier "transaction spine from qualified opportunity" framing claimed a differentiator a CRM already provides. See [[../../01_Canon/22 - BluePrint Repositioned - Agentic Back Office]].
+
+**Boundary in one line:** BluePrint owns the **evidence-backed record and the management intelligence on top of it**. It does not own the deal workflow, and it does not own the property as inventory.
 
 ## What it owns
 
-**Transaction spine — the wedge, from qualified opportunity onward**
-qualified-opportunity intake · transaction file · parties/assets as transaction participants · documents, compliance checklists, retention · approval policies and e-signature evidence · reservation/contract milestones and closing · commission rules, calculation snapshots, adjustments, receivable/payout status
+**The agentic C-suite**
 
-**Management control**
-management truth and verification · budgets, forecast, variance · KPIs and reports · processes/SOPs/controls and process health · Glitches, root causes, corrective actions · management actions, approvals, decisions · governed company knowledge · reconciliation/exception queues · period close · long-term audit trail · permission-grounded Copilot
+| Agent | What it does |
+|---|---|
+| **CFO** | Evidence-backed entries only. Classifies invoices to P&L and budget line, applies accounting treatment, can push to the accounting system. Cash, receivables, variance. |
+| **COO** | The **Glitch Report**. Finds which process step always fails and who fails most. Suggests process, team and training changes. Operating KPIs. |
+| **CEO** | Verified company position — what needs attention, what decision is pending, and why. |
+| **CMO** | **Reads the CRM** and reports whether sales execution matches management goals. |
+| **Auditor** | Continuous audit trail, period close, due-diligence ready. |
+
+**Verified financial truth** — evidence-backed records, classification, cash, receivables, commission liability, variance, period close.
+
+**Process intelligence** — process/SOP registry, Glitch Report, root cause, recurrence, corrective actions, process health.
+
+**Management layer** — actions, approvals, decisions, KPI definitions, reporting, long-term audit.
+
+**Company knowledge** — governed manuals, policies, templates, contacts, institutional memory.
+
+**The CRM audit** — reads the front office and reports alignment to management goals.
 
 ## What it does NOT own
 
-Leads, marketing automation and the **pre-qualification** pipeline (→ BlankCRM) · property/project/unit **inventory**, listings, MLS · general ledger, tax, payroll (→ accounting) · property management · LMS delivery (→ Building Blocks) · marketplace listings and matching (→ VAULTED) · escrow, custody, money movement, FX · sales-agent prospecting workspace
+Leads, marketing automation and the **pre-qualification** pipeline (→ BlankCRM) · property/project/unit **inventory**, listings, MLS · **the general ledger of record**, tax filing, payroll (→ accounting) · property management · course delivery (→ Building Blocks) · marketplace listings (→ VAULTED) · escrow, custody, money movement, FX · the sales-agent prospecting workspace.
+
+**CRM-agnostic by design** — must work with GoHighLevel, HubSpot, Salesforce or manual intake.
 
 ## Files in this folder
 
@@ -67,16 +90,25 @@ Leads, marketing automation and the **pre-qualification** pipeline (→ BlankCRM
 - **`06 - Legal.md` missing.** No SaaS terms, DPA, SLA or IP-ownership note exists yet. `[R]` Required before any paid pilot.
 - **Transaction-spine module spec not yet written into `12 - Core Modules`** at the same depth as the management modules. The reconciliation reinstated it; the module detail is still thin.
 - No paid external validation. Willingness to pay at $399/$799 is `[A]`.
+- **The ICP floor moved to two people, but pricing was modelled on a ~30-person agency.** Whether a two-person team supports $399/month is `[R]` unvalidated.
+- **The Glitch Report is the adoption risk.** People do not enjoy logging their own failures, and it is the dataset every agent depends on.
+- **How much accounting treatment can BluePrint apply before it needs a licensed accountant?** `[R]`
+
+## It makes the business sellable
+
+If the operator ever wants to sell the business or the franchise, BluePrint hands over an **ongoing managed operation** — current financial reporting, clean accounting, documented processes, audit trail, management history. A two-person agency with that is worth materially more than one whose records live in the founder's head.
+
+**This is an exit-value argument, not only an efficiency argument** — and it is the strongest argument in a franchise sale.
 
 ## Product test
 
 **If BluePrint does not deliver material value to an agency that already has a good CRM and competent accounting software, the product thesis fails.**
 
-That is the sentence to re-read whenever scope creeps toward rebuilding a CRM or an ERP.
+Re-read that whenever scope creeps toward rebuilding a CRM or an ERP.
 
 ## Next gate
 
-Prototype the golden workflow — **qualified intake → transaction file → documents/compliance → approval → closing → commission snapshot → management report** — then 5 design partners and 3 paid conversions.
+Prototype the two golden flows — **(a) glitch reported by chat → process match → recurrence detected → suggested fix**, and **(b) invoice sent by chat → classified to P&L and budget → management report** — then 5 design partners and 3 paid conversions.
 
 **Pass condition:** the workflow runs with **no shadow spreadsheet acting as the authority**.
 

@@ -4,9 +4,18 @@ title: "BluePrint ICP and Jobs To Be Done"
 type: product_strategy
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-25
 tags: [blueprint, icp, personas, jtbd]
 ---
+
+> [!IMPORTANT] ICP corrected 2026-09-25
+> **The floor is two people, not 3-50.** Size is not the qualifier — *sales-led, with no C-suite and no means to hire one* is the qualifier.
+>
+> **Canonical persona:** a franchisee, a team of two, excellent at selling apartments. BlankCRM makes their selling easier; **BluePrint makes their back office meet the highest standard.**
+>
+> **Job added — "make my business sellable."** An operator who may exit wants to hand over an ongoing managed operation: current reporting, clean accounting, documented processes, audit trail. That is worth real money in a valuation, and it is the strongest argument in a franchise sale.
+>
+> See [[../../01_Canon/22 - BluePrint Repositioned - Agentic Back Office]].
 
 > [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
 > [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.

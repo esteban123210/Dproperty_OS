@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+<meta charset="utf-8">
+<title>B_RealEstate — BluePrint</title>
+<link href="https://fonts.googleapis.com/css2?family=Playfair+Display:ital,wght@0,400;0,500;1,400&family=Inter:wght@400;500;600&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet">
+<style>
+:root{
+  --bone:#F7F4ED; --bone-deep:#EFEAE0; --bone-warm:#FAF8F3;
+  --charcoal:#1A1A1A; --soft:#55514C; --champagne:#B89B5E;
+  --blue:#1F4E79; --rule:rgba(26,26,26,.25);
+}
+*{box-sizing:border-box;margin:0;padding:0}
+@page{size:letter;margin:11mm 13mm}
+html,body{background:var(--bone);color:var(--charcoal);
+  font-family:'Inter',system-ui,sans-serif;font-size:9pt;line-height:1.43;
+  -webkit-print-color-adjust:exact;print-color-adjust:exact}
+.page{width:190mm;min-height:234mm;margin:0 auto;background:var(--bone);
+  position:relative;padding-bottom:10mm}
+.page+.page{page-break-before:always}
+
+.eyebrow{font-family:'JetBrains Mono',monospace;font-size:7pt;text-transform:uppercase;
+  letter-spacing:.09em;color:var(--soft)}
+.masthead{display:flex;justify-content:space-between;align-items:flex-start}
+.brandmark{font-family:'JetBrains Mono',monospace;font-size:6.8pt;letter-spacing:.09em;
+  color:var(--soft);text-align:right;line-height:1.7}
+h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:22pt;
+  line-height:1.05;letter-spacing:-.022em;margin:1.5mm 0}
+h1.sm{font-size:17pt}
+.positioning{font-size:9.4pt;color:var(--soft);max-width:134mm;line-height:1.4}
+.hrule{border-top:1.4pt solid var(--charcoal);margin:3mm 0 3.5mm}
+.hrule.thin{border-top:.4pt solid var(--rule);margin:3mm 0 4mm}
+
+h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:11.5pt;
+  letter-spacing:-.012em;margin:0 0 1.5mm;break-after:avoid}
+.snum{font-family:'JetBrains Mono',monospace;font-size:7pt;letter-spacing:.09em;
+  color:var(--champagne);display:block;margin-bottom:.8mm}
+h3{font-family:'JetBrains Mono',monospace;font-size:7pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.09em;color:var(--soft);
+  margin:0 0 1.5mm;break-after:avoid}
+h3.mt{margin-top:2.8mm}
+p{margin:0 0 1.8mm}
+strong{font-weight:600}
+em{font-family:'Playfair Display',serif;font-style:italic}
+.small{font-size:8.3pt}
+.soft{color:var(--soft)}
+
+.cols{display:grid;grid-template-columns:1fr 62mm;gap:5.5mm;align-items:start}
+.cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5mm}
+.cols2{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
+
+.panel{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);
+  padding:3mm 3.5mm;break-inside:avoid}
+.panel.blue{border-left-color:var(--blue)}
+.panel.dark{border-left-color:var(--charcoal);background:var(--bone-deep)}
+.dl div{display:flex;gap:2.5mm;padding:1mm 0;border-bottom:.4pt solid var(--rule);font-size:7.8pt}
+.dl div:last-of-type{border-bottom:none}
+.dl dt{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);min-width:16mm;padding-top:.5mm}
+.dl dd{flex:1}
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:2.2mm;margin-top:3mm;
+  padding-top:2.5mm;border-top:.9pt solid var(--charcoal)}
+.fig .n{font-family:'Playfair Display',serif;font-weight:500;font-size:13.5pt;
+  line-height:1;color:var(--champagne)}
+.fig .l{font-family:'JetBrains Mono',monospace;font-size:6pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);margin-top:1mm;line-height:1.35}
+
+table{width:100%;border-collapse:collapse;font-size:8pt;margin:1.2mm 0 2.2mm;break-inside:avoid}
+th{background:var(--bone-deep);font-family:'JetBrains Mono',monospace;font-size:6.5pt;
+  font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:var(--soft);
+  text-align:left;padding:1.2mm 1.8mm;border-bottom:.9pt solid var(--charcoal)}
+td{padding:1mm 1.8mm;border-bottom:.4pt solid var(--rule);vertical-align:top}
+tr:nth-child(even) td{background:var(--bone-warm)}
+.num{text-align:right;white-space:nowrap}
+caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--soft);text-align:left;padding-bottom:1.4mm}
+
+.chip{font-family:'JetBrains Mono',monospace;font-size:6.3pt;background:var(--bone-deep);
+  color:var(--blue);padding:.3mm 1.1mm;border-radius:1pt;white-space:nowrap;font-weight:500}
+
+.note{font-size:7.6pt;color:var(--soft);border-left:2pt solid var(--rule);
+  padding-left:3.5mm;margin:1.5mm 0 2.2mm}
+.callout{background:var(--bone-deep);padding:2.2mm 3mm;font-size:8.1pt;margin:1.8mm 0;
+  border-left:2.6pt solid var(--charcoal)}
+.callout.gold{border-left-color:var(--champagne);background:var(--bone-warm)}
+
+/* SIMPLE-READING BLOCK — the plain-language conclusion */
+.simple{background:var(--bone-warm);border:.5pt solid var(--champagne);
+  border-left:3.2pt solid var(--champagne);padding:3mm 3.5mm;margin:2.5mm 0;break-inside:avoid}
+.simple h3{color:var(--champagne);font-size:7.4pt;margin-bottom:2mm}
+.simple p{font-size:8.6pt;margin-bottom:1.5mm}
+.simple p:last-child{margin-bottom:0}
+.simple ul{list-style:none;font-size:8.6pt}
+.simple li{padding-left:3.5mm;position:relative;margin-bottom:1mm}
+.simple li::before{content:"→";position:absolute;left:0;color:var(--champagne);font-weight:600}
+
+/* canvas */
+.canvas{display:grid;grid-template-columns:repeat(5,1fr);gap:1.2mm;margin-top:1.5mm}
+.cell{background:var(--bone-deep);border:.4pt solid var(--rule);padding:2mm 2.2mm;break-inside:avoid}
+.cell h4{font-family:'JetBrains Mono',monospace;font-size:6pt;font-weight:500;
+  text-transform:uppercase;letter-spacing:.07em;color:var(--soft);margin-bottom:1.4mm}
+.cell ul{list-style:none;font-size:6.9pt;line-height:1.35}
+.cell li{padding-left:2.5mm;position:relative;margin-bottom:.6mm}
+.cell li::before{content:"·";position:absolute;left:.6mm;color:var(--champagne);font-weight:700}
+.vp{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);grid-column:3;grid-row:1/span 2}
+.vp h4{color:var(--charcoal)}
+.kp{grid-column:1;grid-row:1/span 2}
+.cseg{grid-column:5;grid-row:1/span 2}
+.wide-l{grid-column:1/span 2}
+.wide-r{grid-column:3/span 3}
+
+/* timeline / roadmap */
+.tl{position:relative;margin:2.5mm 0}
+.phase{display:grid;grid-template-columns:20mm 1fr;gap:3mm;padding:2.4mm 0;
+  border-top:.5pt solid var(--rule);break-inside:avoid}
+.phase:first-child{border-top:1.2pt solid var(--charcoal)}
+.phase .when{font-family:'JetBrains Mono',monospace;font-size:6.8pt;text-transform:uppercase;
+  letter-spacing:.07em;color:var(--champagne);line-height:1.5;padding-top:.5mm}
+.phase .when b{display:block;color:var(--charcoal);font-size:8.5pt;letter-spacing:0;
+  font-family:'Playfair Display',serif;font-weight:500;margin-bottom:.8mm}
+.phase h4{font-family:'Playfair Display',serif;font-size:9.8pt;font-weight:500;margin-bottom:1mm}
+.bar{height:3.4mm;background:var(--bone-deep);display:flex;margin:2mm 0 3mm;border:.4pt solid var(--rule)}
+.bar i{display:block;height:100%}
+.bar i.on{background:var(--champagne)}
+.bar i.next{background:rgba(184,155,94,.35)}
+.bar i.later{background:transparent}
+.gridnote{display:grid;grid-template-columns:1fr 1fr;gap:4mm;font-size:8.2pt}
+.cap{font-family:'JetBrains Mono',monospace;font-size:8pt;color:var(--charcoal);font-weight:500}
+
+.foot{position:absolute;bottom:0;left:0;right:0;border-top:.4pt solid var(--rule);
+  padding-top:2mm;display:flex;justify-content:space-between;
+  font-family:'JetBrains Mono',monospace;font-size:6pt;letter-spacing:.05em;color:var(--soft)}
+.foot span{max-width:152mm;line-height:1.5}
+</style>
+</head>
+<body>
+<section class="page"><div class="masthead"><div><div class="eyebrow">Producto — Núcleo propietario</div><h1 class="">BluePrint</h1></div><div class="brandmark">B_RealEstate<br>25 sept 2026<br>v2.0</div></div><p class="positioning">Un back office agéntico: te da un CEO, CFO, COO y CMO en un solo lugar, sin el costo de contratar una gerencia completa.</p><div class="hrule"></div><div class="cols"><div><h3>El problema, dicho con precisión</h3><p>Un CRM hace muchas cosas bien. Estandariza embudos, calcula divisiones de comisión, adjunta documentos y le dice al equipo comercial cuál es el debido proceso.</p><p><strong>Pero lo que sale de un CRM vale exactamente lo que vale la disciplina de quien lo alimenta — y esa es la misma gente a la que se le paga según lo que el CRM reporta.</strong></p><p class="small">Entonces un negocio se marca como cerrado antes de tiempo. O se mal clasifica: tipo equivocado, etapa equivocada, monto equivocado. Y el resultado es que <strong>las ventas del CRM no cuadran con lo que contabilidad realmente procesó, ni con las cuentas por cobrar reales</strong>. Nadie puede decir cuál número es el verdadero, y la gerencia termina operando por intuición.</p><div class="callout gold"><strong>El buen uso del CRM es, en sí mismo, la principal dependencia del CRM.</strong> Ese es el hueco que BluePrint existe para cerrar. BluePrint no depende de la disciplina de nadie: <strong>solo registra lo que tiene comprobante</strong>.</div><h3 class="mt">Las dos reglas que definen el producto</h3><p class="small"><strong>1 · Nada se registra sin evidencia.</strong> Una venta, una compra o un pago se registran únicamente cuando existe el adjunto válido — recibo, factura, contrato, comprobante bancario. Sin adjunto, no hay registro.</p><p class="small"><strong>2 · Los agentes gestionan, no solo reportan.</strong> No dibujan un tablero y esperan. Detectan, explican, sugieren y escalan.</p><h3 class="mt">La interfaz</h3><p class="small">Todo pasa por detrás. <strong>Al frente solo hay un chat.</strong> Debajo están los manuales, los procesos, la biblioteca de conocimiento de la empresa, las plantillas, los contactos y los registros. El producto es ultracompleto; la experiencia es tan simple o tan profunda como el usuario quiera. Reportar un glitch debe ser tan fácil como mandar un mensaje.</p></div><aside class="panel"><h3 style="margin-bottom:2.5mm">En resumen</h3><div class="dl"><div><dt>Tipo</dt><dd>Producto — núcleo propietario. Aquí está la ventaja competitiva.</dd></div><div><dt>Trabajo</dt><dd>Ser el back office completo de una empresa que no tiene gerencia.</dd></div><div><dt>Precio</dt><dd>$1,500 implementación · Core <strong>$399</strong>/mes · Growth <strong>$799</strong>/mes, por organización <span class="chip">[A]</span></dd></div><div><dt>Para quién</dt><dd>Equipos de <strong>2 personas en adelante</strong>, liderados por ventas, sin gerencia y sin medios para contratarla.</dd></div><div><dt>Estado</dt><dd>Especificación completa. Los agentes son la tesis, no software construido <span class="chip">[T]</span></dd></div></div><div class="figs"><div class="fig"><div class="n">$4,788</div><div class="l">Valor anual contrato Core</div></div><div class="fig"><div class="n">2</div><div class="l">Personas: el piso del cliente objetivo</div></div><div class="fig"><div class="n">3.3 meses</div><div class="l">Recuperación de CAC</div></div><div class="fig"><div class="n">0</div><div class="l">Adjuntos faltantes permitidos</div></div></div></aside></div><h2 style="margin-top:4mm"><span class="snum">01</span>La gerencia agéntica</h2><table><thead><tr><th>Agente</th><th>Qué hace realmente</th></tr></thead><tbody><tr><td><strong>CFO</strong></td><td>Registra solo asientos con comprobante. Le mandas una factura y le dices qué es: la clasifica en P&amp;L y en la línea de presupuesto, aplica el tratamiento contable correcto, genera el registro y puede empujarlo al sistema contable. Controla caja, cuentas por cobrar y variación contra presupuesto. Produce reportería digna de un CFO.</td></tr><tr><td><strong>COO</strong></td><td>Opera el <strong>Glitch Report</strong>. Detecta que <em>el mismo paso de un proceso siempre falla</em>, o que <em>una persona falla más seguido que el resto</em>. Sugiere cambios de proceso, de equipo o de capacitación. Produce KPIs operativos. Es consultor <strong>y</strong> gerente.</td></tr><tr><td><strong>CEO</strong></td><td>La vista de empresa: qué requiere atención, qué está fuera de plan, qué decisión está pendiente y por qué — sobre la posición verificada, no la reportada.</td></tr><tr><td><strong>CMO</strong></td><td><strong>Lee el CRM</strong> y reporta si las campañas, el embudo y la ejecución comercial realmente cumplen los objetivos de la gerencia. Es la auditoría del front office.</td></tr><tr><td><strong>Auditor / Consultor</strong></td><td>Rastro de auditoría continuo, cierre de período, y una empresa <strong>lista para due diligence</strong> en cualquier momento.</td></tr></tbody></table><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>1 / 3</span></div></section><section class="page"><div class="masthead"><div><div class="eyebrow">BluePrint</div><h1 class="sm">El Glitch Report, el modelo y por qué vale</h1></div><div class="brandmark">B_RealEstate<br>25 sept 2026</div></div><div class="hrule"></div><h2><span class="snum">02</span>El Glitch Report — inspirado en Four Seasons</h2><p class="small">Tomado del reporte de glitches del hotel <strong>Four Seasons</strong>: <strong>cualquier falla, por pequeña que sea, se reporta y se registra.</strong> El propósito no es culpar a nadie — es tener un registro medible de la eficiencia y la eficacia de los procesos.</p><p class="small">Produce un dato que ningún CRM tiene: <strong>dónde se rompe la empresa de verdad.</strong> Es lo que permite al agente COO <em>recomendar</em> en vez de solo <em>mostrar</em>, y por qué <strong>el producto vale más mientras más lleva corriendo</strong>.</p><h3 class="mt">Los manuales: qué hace el CRM con ellos y qué hace BluePrint</h3><table><thead><tr><th></th><th>CRM</th><th>BluePrint</th></tr></thead><tbody><tr><td>Papel del manual</td><td><strong>Una guía</strong> — le dice al equipo el debido proceso</td><td><strong>Un proceso instrumentado</strong></td></tr><tr><td>Qué aprendes</td><td>Si alguien lo abrió</td><td><strong>Dónde falla, con qué frecuencia y quién</strong></td></tr><tr><td>Resultado</td><td>Cumplimiento, con suerte</td><td>Glitch → diagnóstico → mejora sugerida → resultado medido</td></tr></tbody></table><p class="note">Los dos pueden tener los mismos manuales. <strong>Solo BluePrint te dice si funcionan.</strong></p><h2 style="margin-top:3mm"><span class="snum">03</span>Hace que el negocio se pueda vender</h2><p class="small">Si el día de mañana el dueño quiere vender su negocio o su franquicia, con BluePrint entrega <strong>una operación gestionada y andando</strong>: reportería financiera al día, contabilidad limpia, procesos y manuales documentados, rastro de auditoría e historial de gestión.</p><div class="callout gold">Una inmobiliaria de dos personas con todo eso <strong>vale bastante más</strong> que una donde los registros viven en la cabeza del dueño y en una hoja de cálculo. BluePrint es un argumento de <strong>valor de salida</strong>, no solo de eficiencia — y es el argumento más fuerte en una venta de franquicia: el franquiciado compra un negocio que <em>va a valer algo</em> cuando lo deje.</div><div class="simple"><h3>Cómo leerlo en simple</h3><ul><li>Un CRM te ayuda a vender. <strong>BluePrint te hace la gerencia.</strong></li><li>El problema del CRM es simple: <strong>la información la mete el vendedor, y al vendedor le pagan por lo que reporta.</strong> Por eso las ventas del CRM casi nunca cuadran con lo que realmente entró al banco.</li><li>BluePrint arregla eso con una regla dura: <strong>si no hay factura o recibo adjunto, no existe el registro.</strong> Así los números sí se pueden creer.</li><li>Le mandas una foto de una factura por chat, le dices qué es, y él la mete donde va: P&amp;L, presupuesto, flujo de caja, contabilidad.</li><li>Y con el <strong>Glitch Report</strong> anotas cada error, grande o chico. Con el tiempo el sistema te dice <strong>en qué paso siempre se traba el proceso y quién se equivoca más</strong> — y qué hacer al respecto.</li><li>Es para el que vende bien pero no tiene ni quiere pagar un gerente financiero, un gerente de operaciones y un gerente de mercadeo. <strong>Desde 2 personas.</strong></li></ul></div><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>2 / 3</span></div></section><section class="page"><div class="masthead"><div><div class="eyebrow">BluePrint</div><h1 class="sm">Modelo de Negocio</h1></div><div class="brandmark">B_RealEstate<br>25 sept 2026</div></div><div class="hrule"></div><div class="canvas"><div class="cell kp"><h4>Socios clave</h4><ul><li>CRM (GoHighLevel y otros) — fuente a auditar</li><li>Sistemas contables</li><li>Nube y proveedores de IA</li><li>Firma electrónica</li></ul></div><div class="cell "><h4>Actividades clave</h4><ul><li>Ingeniería de agentes</li><li>Diseño del Glitch Report</li><li>Reglas de clasificación contable</li><li>Implementación y soporte</li></ul></div><div class="cell vp"><h4>Propuesta de valor</h4><ul><li><strong>Un CEO, CFO, COO y CMO sin nómina de gerencia</strong></li><li>Sin comprobante no hay registro: números confiables</li><li>Glitch Report: dónde y quién falla</li><li><strong>Un negocio vendible</strong>, listo para due diligence</li></ul></div><div class="cell "><h4>Relación con clientes</h4><ul><li>Implementación de alto contacto</li><li>Onboarding estandarizado</li><li>Los agentes como relación diaria</li></ul></div><div class="cell cseg"><h4>Segmentos de clientes</h4><ul><li><strong>Equipos de 2+ personas liderados por ventas</strong></li><li>Franquicias Dproperty</li><li>Socios de marca propia B_ Partner</li><li>Inmobiliarias boutique sin gerencia</li></ul></div><div class="cell "><h4>Recursos clave</h4><ul><li><strong>El dataset de glitches</strong> — crece y no se copia</li><li>Modelo de datos y reglas de evidencia</li><li>Biblioteca de procesos y plantillas</li><li>Rastro de auditoría acumulado</li></ul></div><div class="cell "><h4>Canales</h4><ul><li>Venta directa del fundador</li><li>Socios de diseño</li><li>Canal de franquicia y socios</li><li>Building Blocks</li></ul></div><div class="cell wide-l"><h4>Estructura de costos</h4><ul><li>Ingeniería y producto</li><li>Nube, API e inferencia de IA</li><li>Seguridad y cumplimiento</li><li>Implementación y soporte</li></ul></div><div class="cell wide-r"><h4>Fuentes de ingreso</h4><ul><li>Implementación — $1,500, más si la migración es compleja</li><li>Core — $399/mes por organización</li><li>Growth — $799/mes por organización</li><li>Consumo de IA y almacenamiento sobre el límite incluido</li><li>Nivel Scale — cotizado, sin definir</li></ul></div></div><p class="note"><strong>Estado honesto:</strong> la gerencia agéntica es la <strong>tesis del producto, no software construido</strong> <span class="chip">[T]</span>. El riesgo de adopción es el Glitch Report: a nadie le gusta registrar sus propios errores, y es el dato del que depende todo.</p><div class="foot"><span>Las cifras marcadas [A] son supuestos sin validar · [M] resultado de modelo · [T] objetivo · [R] evidencia pendiente. No constituye una oferta ni una solicitud de inversión.</span><span>3 / 3</span></div></section>
+</body>
+</html>

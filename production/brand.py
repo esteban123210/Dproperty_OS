@@ -2,6 +2,7 @@
 """B_RealEstate brand system for print-ready HTML documents.
 Palette and typography per 12_Handoffs/CLAUDE DESIGN - Ecosystem Website Design Prompt.md
 """
+import re
 
 CSS = """
 :root{
@@ -10,12 +11,12 @@ CSS = """
   --blue:#1F4E79; --rule:rgba(26,26,26,.25);
 }
 *{box-sizing:border-box;margin:0;padding:0}
-@page{size:letter;margin:13mm 14mm}
+@page{size:letter;margin:11mm 13mm}
 html,body{background:var(--bone);color:var(--charcoal);
-  font-family:'Inter',system-ui,sans-serif;font-size:9.3pt;line-height:1.47;
+  font-family:'Inter',system-ui,sans-serif;font-size:9pt;line-height:1.43;
   -webkit-print-color-adjust:exact;print-color-adjust:exact}
-.page{width:186mm;min-height:246mm;margin:0 auto;background:var(--bone);
-  position:relative;padding-bottom:12mm}
+.page{width:190mm;min-height:234mm;margin:0 auto;background:var(--bone);
+  position:relative;padding-bottom:10mm}
 .page+.page{page-break-before:always}
 
 .eyebrow{font-family:'JetBrains Mono',monospace;font-size:7pt;text-transform:uppercase;
@@ -23,52 +24,52 @@ html,body{background:var(--bone);color:var(--charcoal);
 .masthead{display:flex;justify-content:space-between;align-items:flex-start}
 .brandmark{font-family:'JetBrains Mono',monospace;font-size:6.8pt;letter-spacing:.09em;
   color:var(--soft);text-align:right;line-height:1.7}
-h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:26pt;
+h1{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:22pt;
   line-height:1.05;letter-spacing:-.022em;margin:1.5mm 0}
-h1.sm{font-size:19pt}
-.positioning{font-size:10.2pt;color:var(--soft);max-width:134mm;line-height:1.4}
-.hrule{border-top:1.4pt solid var(--charcoal);margin:4mm 0 5mm}
+h1.sm{font-size:17pt}
+.positioning{font-size:9.4pt;color:var(--soft);max-width:134mm;line-height:1.4}
+.hrule{border-top:1.4pt solid var(--charcoal);margin:3mm 0 3.5mm}
 .hrule.thin{border-top:.4pt solid var(--rule);margin:3mm 0 4mm}
 
-h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:13pt;
-  letter-spacing:-.012em;margin:0 0 2mm;break-after:avoid}
+h2{font-family:'Playfair Display',Georgia,serif;font-weight:500;font-size:11.5pt;
+  letter-spacing:-.012em;margin:0 0 1.5mm;break-after:avoid}
 .snum{font-family:'JetBrains Mono',monospace;font-size:7pt;letter-spacing:.09em;
   color:var(--champagne);display:block;margin-bottom:.8mm}
 h3{font-family:'JetBrains Mono',monospace;font-size:7pt;font-weight:500;
   text-transform:uppercase;letter-spacing:.09em;color:var(--soft);
   margin:0 0 1.5mm;break-after:avoid}
-h3.mt{margin-top:4mm}
-p{margin:0 0 2.3mm}
+h3.mt{margin-top:2.8mm}
+p{margin:0 0 1.8mm}
 strong{font-weight:600}
 em{font-family:'Playfair Display',serif;font-style:italic}
-.small{font-size:8.5pt}
+.small{font-size:8.3pt}
 .soft{color:var(--soft)}
 
-.cols{display:grid;grid-template-columns:1fr 64mm;gap:7mm;align-items:start}
+.cols{display:grid;grid-template-columns:1fr 62mm;gap:5.5mm;align-items:start}
 .cols3{display:grid;grid-template-columns:1fr 1fr 1fr;gap:5mm}
 .cols2{display:grid;grid-template-columns:1fr 1fr;gap:6mm}
 
 .panel{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);
-  padding:4mm 4.5mm;break-inside:avoid}
+  padding:3mm 3.5mm;break-inside:avoid}
 .panel.blue{border-left-color:var(--blue)}
 .panel.dark{border-left-color:var(--charcoal);background:var(--bone-deep)}
-.dl div{display:flex;gap:2.5mm;padding:1.3mm 0;border-bottom:.4pt solid var(--rule);font-size:8.3pt}
+.dl div{display:flex;gap:2.5mm;padding:1mm 0;border-bottom:.4pt solid var(--rule);font-size:7.8pt}
 .dl div:last-of-type{border-bottom:none}
 .dl dt{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
   letter-spacing:.07em;color:var(--soft);min-width:16mm;padding-top:.5mm}
 .dl dd{flex:1}
-.figs{display:grid;grid-template-columns:1fr 1fr;gap:3mm;margin-top:4mm;
-  padding-top:3.5mm;border-top:.9pt solid var(--charcoal)}
-.fig .n{font-family:'Playfair Display',serif;font-weight:500;font-size:15.5pt;
+.figs{display:grid;grid-template-columns:1fr 1fr;gap:2.2mm;margin-top:3mm;
+  padding-top:2.5mm;border-top:.9pt solid var(--charcoal)}
+.fig .n{font-family:'Playfair Display',serif;font-weight:500;font-size:13.5pt;
   line-height:1;color:var(--champagne)}
 .fig .l{font-family:'JetBrains Mono',monospace;font-size:6pt;text-transform:uppercase;
   letter-spacing:.07em;color:var(--soft);margin-top:1mm;line-height:1.35}
 
-table{width:100%;border-collapse:collapse;font-size:8.3pt;margin:1.5mm 0 3mm;break-inside:avoid}
+table{width:100%;border-collapse:collapse;font-size:8pt;margin:1.2mm 0 2.2mm;break-inside:avoid}
 th{background:var(--bone-deep);font-family:'JetBrains Mono',monospace;font-size:6.5pt;
   font-weight:500;text-transform:uppercase;letter-spacing:.07em;color:var(--soft);
-  text-align:left;padding:1.7mm 2.1mm;border-bottom:.9pt solid var(--charcoal)}
-td{padding:1.4mm 2.1mm;border-bottom:.4pt solid var(--rule);vertical-align:top}
+  text-align:left;padding:1.2mm 1.8mm;border-bottom:.9pt solid var(--charcoal)}
+td{padding:1mm 1.8mm;border-bottom:.4pt solid var(--rule);vertical-align:top}
 tr:nth-child(even) td{background:var(--bone-warm)}
 .num{text-align:right;white-space:nowrap}
 caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:uppercase;
@@ -77,28 +78,28 @@ caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:up
 .chip{font-family:'JetBrains Mono',monospace;font-size:6.3pt;background:var(--bone-deep);
   color:var(--blue);padding:.3mm 1.1mm;border-radius:1pt;white-space:nowrap;font-weight:500}
 
-.note{font-size:8.1pt;color:var(--soft);border-left:2pt solid var(--rule);
-  padding-left:3.5mm;margin:2mm 0 3mm}
-.callout{background:var(--bone-deep);padding:3mm 4mm;font-size:8.7pt;margin:2.5mm 0;
+.note{font-size:7.6pt;color:var(--soft);border-left:2pt solid var(--rule);
+  padding-left:3.5mm;margin:1.5mm 0 2.2mm}
+.callout{background:var(--bone-deep);padding:2.2mm 3mm;font-size:8.1pt;margin:1.8mm 0;
   border-left:2.6pt solid var(--charcoal)}
 .callout.gold{border-left-color:var(--champagne);background:var(--bone-warm)}
 
 /* SIMPLE-READING BLOCK — the plain-language conclusion */
 .simple{background:var(--bone-warm);border:.5pt solid var(--champagne);
-  border-left:3.2pt solid var(--champagne);padding:4mm 4.5mm;margin:3.5mm 0;break-inside:avoid}
+  border-left:3.2pt solid var(--champagne);padding:3mm 3.5mm;margin:2.5mm 0;break-inside:avoid}
 .simple h3{color:var(--champagne);font-size:7.4pt;margin-bottom:2mm}
-.simple p{font-size:9pt;margin-bottom:2mm}
+.simple p{font-size:8.6pt;margin-bottom:1.5mm}
 .simple p:last-child{margin-bottom:0}
-.simple ul{list-style:none;font-size:9pt}
-.simple li{padding-left:4mm;position:relative;margin-bottom:1.4mm}
+.simple ul{list-style:none;font-size:8.6pt}
+.simple li{padding-left:3.5mm;position:relative;margin-bottom:1mm}
 .simple li::before{content:"→";position:absolute;left:0;color:var(--champagne);font-weight:600}
 
 /* canvas */
-.canvas{display:grid;grid-template-columns:repeat(5,1fr);gap:1.5mm;margin-top:2mm}
-.cell{background:var(--bone-deep);border:.4pt solid var(--rule);padding:2.6mm 2.8mm;break-inside:avoid}
+.canvas{display:grid;grid-template-columns:repeat(5,1fr);gap:1.2mm;margin-top:1.5mm}
+.cell{background:var(--bone-deep);border:.4pt solid var(--rule);padding:2mm 2.2mm;break-inside:avoid}
 .cell h4{font-family:'JetBrains Mono',monospace;font-size:6pt;font-weight:500;
   text-transform:uppercase;letter-spacing:.07em;color:var(--soft);margin-bottom:1.4mm}
-.cell ul{list-style:none;font-size:7.5pt;line-height:1.4}
+.cell ul{list-style:none;font-size:6.9pt;line-height:1.35}
 .cell li{padding-left:2.5mm;position:relative;margin-bottom:.6mm}
 .cell li::before{content:"·";position:absolute;left:.6mm;color:var(--champagne);font-weight:700}
 .vp{background:var(--bone-warm);border-left:2.6pt solid var(--champagne);grid-column:3;grid-row:1/span 2}
@@ -109,15 +110,15 @@ caption{font-family:'JetBrains Mono',monospace;font-size:6.5pt;text-transform:up
 .wide-r{grid-column:3/span 3}
 
 /* timeline / roadmap */
-.tl{position:relative;margin:4mm 0}
-.phase{display:grid;grid-template-columns:22mm 1fr;gap:4mm;padding:3.5mm 0;
+.tl{position:relative;margin:2.5mm 0}
+.phase{display:grid;grid-template-columns:20mm 1fr;gap:3mm;padding:2.4mm 0;
   border-top:.5pt solid var(--rule);break-inside:avoid}
 .phase:first-child{border-top:1.2pt solid var(--charcoal)}
 .phase .when{font-family:'JetBrains Mono',monospace;font-size:6.8pt;text-transform:uppercase;
   letter-spacing:.07em;color:var(--champagne);line-height:1.5;padding-top:.5mm}
 .phase .when b{display:block;color:var(--charcoal);font-size:8.5pt;letter-spacing:0;
   font-family:'Playfair Display',serif;font-weight:500;margin-bottom:.8mm}
-.phase h4{font-family:'Playfair Display',serif;font-size:11pt;font-weight:500;margin-bottom:1.5mm}
+.phase h4{font-family:'Playfair Display',serif;font-size:9.8pt;font-weight:500;margin-bottom:1mm}
 .bar{height:3.4mm;background:var(--bone-deep);display:flex;margin:2mm 0 3mm;border:.4pt solid var(--rule)}
 .bar i{display:block;height:100%}
 .bar i.on{background:var(--champagne)}
@@ -162,6 +163,20 @@ def doc(title, pages, disclaimer=DISCLAIMER_ES, lang="es"):
 {''.join(body)}
 </body>
 </html>"""
+
+
+
+def rebalance(p1, p2):
+    """Move page 1's 'Como leerlo en simple' block to the end of page 2, and drop
+    page 2's redundant one-line version. Keeps exactly one simplified conclusion."""
+    blocks = list(re.finditer(r'<div class="simple">.*?</div>\s*(?=<|$)', p1, re.S))
+    moved = ""
+    if blocks:
+        b = blocks[-1]
+        moved = b.group(0)
+        p1 = p1[:b.start()] + p1[b.end():]
+    p2 = re.sub(r'<div class="simple">.*?</div>\s*$', "", p2, flags=re.S)
+    return p1, p2 + moved
 
 
 def masthead(eyebrow, title, positioning=None, meta="B_RealEstate", small=False):
