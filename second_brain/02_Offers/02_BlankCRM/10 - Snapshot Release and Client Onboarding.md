@@ -12,13 +12,13 @@ tags: [blankcrm, gohighlevel, onboarding, snapshot]
 
 Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] · product boundary: [[01 - Definition and Boundaries]].
 
-This is the step-by-step build order for a nontechnical founder and the person configuring GoHighLevel. The first pilot is a **Panama presale franchise office** (confirmed by Esteban 2026-09-29); the master remains reusable and country-neutral. Follow [[13 - Start From Zero - Agency Account]] for account creation, [[08 - Master Product Specification]] for what to build and [[09 - Configuration Acceptance Tests]] for proof. A checkbox means complete only when evidence is linked; creating an empty screen is not a pass.
+This is the step-by-step build order for a nontechnical founder and the person configuring GoHighLevel. The first pilot is **Dproperty**, a Panama presale franchise with several projects and developer-direct reservation payments (confirmed by Esteban 2026-09-29); the master remains reusable and country-neutral. Follow [[13 - Start From Zero - Agency Account]] for account creation, [[08 - Master Product Specification]] for what to build and [[09 - Configuration Acceptance Tests]] for proof. A checkbox means complete only when evidence is linked; creating an empty screen is not a pass.
 
 ## Phase 0 — decide the pilot rules before clicking in GoHighLevel
 
-1. Record the pilot office name, city, primary language, currency and time zone. Country is **Panama** and first transaction type is **new-development/pre-sale**, confirmed by the founder; do not guess the other values.
+1. Record the pilot office's legal entity, city, primary language, currency and time zone. Brand is **Dproperty**, country is **Panama**, and first transaction type is **new-development/pre-sale**, confirmed by the founder; do not guess the other values. Obtain the first two project records for multi-project testing.
 2. Name one owner for sales, legal, operations, finance/collections and office management. Ask each to approve their actual decision authority, documents and escalation times.
-3. Write the local rules sheet: qualification criteria, lead SLAs, approved scripts, reservation authority, document checklist, contract signer, buyer/developer payment routes, closing evidence, office commission, agent split and franchise royalty if applicable. Mark unknowns as decisions, not default values.
+3. Use [[14 - Panama Presale Pilot Mapping]] to write the local rules sheet: qualification criteria, lead SLAs, approved scripts, reservation money/authority, document checklist, contract signer, buyer/developer payment routes, closing evidence, office commission, agent split and franchise royalty if applicable. Mark unknowns as decisions, not default values.
 4. Inventory the current Lovable and Webflow site forms/calendars, social accounts, CEO video, domains, email sender, phone/WhatsApp number, e-sign/payment providers and privacy/consent copy. Keep credentials out of this document.
 5. Set the pilot commercial scope and price after estimating actual setup, support, usage and integration cost. The prior $750/$249 list was modelled for a narrower setup and is a **validation hypothesis** for the full product.
 
@@ -36,7 +36,7 @@ This is the step-by-step build order for a nontechnical founder and the person c
 
 1. In Agency Pro, create `BlankCRM MASTER`, `BlankCRM TEST`, and a separate pilot office sub-account. The MASTER has no real people, money, connected client accounts or live conversations.
 2. Configure brand-neutral folders/naming, time zone defaults and module prefixes. Record product version `1.0.0-draft` in the snapshot manifest.
-3. Create custom fields and the three associated custom objects from [[12 - GoHighLevel Build Manifest]], with contact/person fields separate from opportunity/deal fields. Establish transaction ID, active status and next-action rules. Create explicit `unknown` and `not applicable` options where relevant.
+3. Create custom fields and the four associated custom-object schemas from [[12 - GoHighLevel Build Manifest]], with contact/person fields separate from opportunity/deal fields. Establish transaction ID, active status and next-action rules. Create explicit `unknown` and `not applicable` options where relevant. Real Dproperty project records are client-local, not master data.
 4. Create one authoritative sales opportunity pipeline and the daily role queues. Make roles/permission presets, then test with separate synthetic user logins.
 5. Add only synthetic contacts/opportunities needed to develop and test. Never snapshot or export client secrets.
 
@@ -65,7 +65,7 @@ This is the step-by-step build order for a nontechnical founder and the person c
 
 1. Build commercial dashboards from the same opportunity records and compare totals to synthetic raw deals.
 2. If BluePrint is present, map read-only events/evidence, reconcile duplicates/corrections and test the full path with the link disabled. BluePrint never writes transaction decisions back.
-3. Refresh the master snapshot, record included assets, clone into a **fresh** TEST sub-account, reconnect only test integrations and run C01–C36. Record gaps and fixes.
+3. Refresh the master snapshot, record included assets, clone into a **fresh** TEST sub-account, reconnect only test integrations and run C01–C41. Record gaps and fixes.
 4. Freeze a numbered release, save export/configuration evidence and a change log. Promote only after the acceptance gate. For existing offices, review each snapshot update for field conflicts, overwritten local customization and workflow duplication before push.
 
 **Gate:** all critical tests pass; noncritical manual gaps have owners and dates.
@@ -84,4 +84,4 @@ Provide the office with a one-page daily routine by role, workflow/approval auth
 
 ## Current status — 2026-09-29
 
-The architecture, build order and test protocol are written. Esteban confirmed on 2026-09-29 that he **does not yet have a GoHighLevel account** and that the first pilot is Panama presale. Live construction and testing are **not started**. The first hands-on steps are Phase 0 decisions and opening Agency Pro; the first release cannot be called tested until the TEST clone passes the acceptance matrix.
+The architecture, build order and test protocol are written. Esteban confirmed on 2026-09-29 that he **does not yet have a GoHighLevel account** and that the first pilot is **Dproperty Panama presale across several projects, with reservation payments made to the developer**. Live construction and testing are **not started**. The first hands-on steps are Phase 0 decisions and opening Agency Pro; the first release cannot be called tested until the TEST clone passes the acceptance matrix.

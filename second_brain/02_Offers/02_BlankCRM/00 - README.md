@@ -45,6 +45,7 @@ management budgets and finance control · official management truth · process a
 | `11 - Pilot Office Intake Worksheet` | Fill-in decisions and ownership for the first office |
 | `12 - GoHighLevel Build Manifest` | Exact records, fields, pipeline, queues, workflows and snapshot inventory |
 | `13 - Start From Zero - Agency Account` | Founder guide to open the agency account before live build/testing |
+| `14 - Panama Presale Pilot Mapping` | Source-process-to-CRM mapping and local decisions for the first franchise |
 | `05 - GoHighLevel Engine` | What GHL owns and does not own |
 | `05A - GoHighLevel Role` | Role of GHL in the ecosystem |
 | `07 - Investor Two-Pager` | Comparable investor summary |

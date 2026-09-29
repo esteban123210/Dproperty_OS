@@ -18,10 +18,10 @@ Copy this sheet for each office. Fill in decisions with the office owner, sales 
 
 | Decision | Pilot answer | Decision owner |
 |---|---|---|
-| Office/franchise legal name and brand | TBD | Office owner |
+| Office/franchise legal name and brand | **Dproperty** brand confirmed; legal entity TBD | Office owner |
 | Country, jurisdiction, language, time zone, currency | **Panama**; city/jurisdiction details, language, time zone and currency to confirm | Office owner/legal |
 | First transaction type | **New-development/pre-sale** (confirmed by Esteban) | Sales director |
-| First project/developer and inventory authority | TBD | Sales director |
+| First two projects/developers and inventory authority | **Several projects** confirmed; select the first two and their developers for testing | Sales director |
 | Pilot start date and one initial lead source | TBD | Office owner |
 | Office-specific domain and published website (Lovable, Webflow or both) | TBD | Marketing owner |
 
@@ -52,10 +52,10 @@ Copy this sheet for each office. Fill in decisions with the office owner, sales 
 | Decision | Pilot answer | Decision owner |
 |---|---|---|
 | Offer and reservation approval threshold/approver | TBD | Sales director |
-| Developer reservation request and expiry rules | TBD | Sales director/developer |
+| Developer reservation request and expiry rules | Developer receives reservation payment; request approval, expiry and rejection/refund procedure TBD | Sales director/developer |
 | Document checklist and legal exceptions | TBD | Legal |
 | Approved contract template, signer order and retention | TBD | Legal |
-| Buyer payment schedule, payee and proof of receipt | TBD | Finance/legal |
+| Buyer payment schedule, payee and proof of receipt | Reservation payee = **developer**; later payees/schedule and developer verification evidence TBD | Finance/legal |
 | Closing and handover evidence | TBD | Legal/operations |
 | Developer-to-office commission rate and due trigger | TBD | Finance/sales director |
 | Office-to-agent split and payout trigger | TBD | Finance/office owner |

@@ -12,7 +12,7 @@ tags: [blankcrm, gohighlevel, beginner, setup]
 
 Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] · next: [[10 - Snapshot Release and Client Onboarding]].
 
-**Current fact:** Esteban confirmed on 2026-09-29 that there is no GoHighLevel account yet. The first pilot is a Panama presale franchise office. Nothing in GoHighLevel has been built or tested. This page is the founder's first action list.
+**Current fact:** Esteban confirmed on 2026-09-29 that there is no GoHighLevel account yet. The first pilot is **Dproperty**, a Panama presale franchise with several projects and developer-direct reservation payments. Nothing in GoHighLevel has been built or tested. This page is the founder's first action list.
 
 ## Understand the three layers
 
@@ -27,7 +27,7 @@ HighLevel may also offer a designated **Agency Sub-Account** for your own billin
 - Decide who legally owns the subscription and who will be the permanent agency owner. Use a business-controlled email address that will remain accessible; do not use a freelancer's account.
 - Have the agency business name, billing address and payment method ready. Keep passwords, codes and card details out of chat and the repository.
 - Block time for the first two weeks of setup. HighLevel currently advertises a **14-day trial** on Agency Pro and says billing begins automatically afterward unless cancelled; usage charges may occur during the trial. Check the terms and total shown at checkout. [Official pricing](https://www.gohighlevel.com/pricing).
-- Keep the first pilot details at hand: Panama, presale, franchise office name and the sales/legal/finance decision owners. Other local rules can be completed while the master is being built, but must be approved before live contracts or payment messages.
+- Keep the first pilot details at hand: Dproperty, Panama, presale, two representative projects/developers and the sales/legal/finance decision owners. Other local rules can be completed while the master is being built, but must be approved before live contracts or payment messages.
 
 ## Founder signup steps
 
