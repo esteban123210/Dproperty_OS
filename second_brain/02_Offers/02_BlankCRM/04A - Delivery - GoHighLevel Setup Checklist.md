@@ -19,6 +19,8 @@ tags: [crm, gohighlevel]
 
 # GoHighLevel Setup Checklist
 
+> **Execution order:** [[08 - Master Product Specification]] defines the product; [[10 - Snapshot Release and Client Onboarding]] gives the build order; [[09 - Configuration Acceptance Tests]] defines launch proof. This short list is an orientation, not a completed configuration.
+
 ## Franchise Setup
 
 - Account/workspace created.
@@ -34,19 +36,9 @@ tags: [crm, gohighlevel]
 - Reporting dashboard configured.
 - User permissions configured.
 
-## Pipeline Stages
+## Legacy pipeline sketch — superseded by the full-lifecycle specification
 
-- New Lead.
-- Qualified.
-- Call Booked.
-- Needs Project Match.
-- Project Presented.
-- Follow-Up.
-- Reservation Intent.
-- Reserved.
-- Contract.
-- Closed.
-- Lost/Nurture.
+- This sketch covers early sales only. Build the opportunity stage and independent status model in [[08 - Master Product Specification#Workflow state machine]]. Legal, contract, verified payment, closing, commission and post-sale must remain visible and testable after reservation.
 
 ## Full commercial lifecycle acceptance — 2026-09-29 [D]
 

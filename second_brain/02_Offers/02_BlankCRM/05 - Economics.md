@@ -2,7 +2,7 @@
 project: B_RealEstate
 title: "BlankCRM — Economics"
 type: unit_economics
-status: Modelled v1.0 — vendor rates sourced 2026-09-24
+status: Historical cost model — full-lifecycle scope requires pilot validation
 owner: Esteban
 last_updated: 2026-09-24
 tags: [offer, blankcrm, economics, unit-economics, cogs]
@@ -13,11 +13,11 @@ tags: [offer, blankcrm, economics, unit-economics, cogs]
 
 # BlankCRM — Economics
 
-> **Status change 2026-09-24.** This offer previously had *no* cost model and its price was recorded as "open." The GoHighLevel cost base is now sourced from published vendor pricing, so a defensible price and margin can be stated. Remaining `[A]` items are labelled.
+> **Scope correction 2026-09-29.** The tables below preserve the earlier subscription and labour assumptions for comparison. They do **not** establish price or margin for the corrected full-lifecycle BlankCRM product. Legal workflows, approval rules, contract templates, payment/commission mapping, integrations, QA and role training may materially raise onboarding and support cost. Measure these in the pilot and revise this model before confirming the package economics.
 
 ## The structural finding
 
-**GoHighLevel's reseller model gives BlankCRM near-zero marginal platform cost.**
+**The earlier model assumed near-zero marginal platform cost.** This does not mean near-zero marginal delivery, integration, usage or support cost.
 
 | Vendor fact | Source | Consequence for BlankCRM |
 |---|---|---|
@@ -27,7 +27,7 @@ tags: [offer, blankcrm, economics, unit-economics, cogs]
 | **Rebill phone/email/AI usage with markup** (Pro only) | `[F]` published | Messaging and AI are **pass-through at a margin**, not a cost centre |
 | AI Employee add-on $97/month per sub-account | `[F]` published | Optional, rebillable to the customer |
 
-This means BlankCRM's gross margin is **not** constrained by vendor cost. It is constrained by **support and onboarding labour**. That is the number to manage.
+Vendor cost is one input. Full-lifecycle gross margin also depends on implementation, third-party integrations, usage, support and exception handling. The tables below are scenarios, not observed margins.
 
 ## Cost structure
 
@@ -40,7 +40,7 @@ This means BlankCRM's gross margin is **not** constrained by vendor cost. It is 
 | Ongoing support labour | Variable per customer | 0.5–1.5 hrs/month `[A]` | `[A]` |
 | Loaded labour rate | — | $25–40/hr `[A]` | `[A]` |
 
-## Gross margin at $249/month list
+## Historical gross-margin scenario at $249/month list
 
 Platform cost is fixed, so margin **improves with customer count** — the opposite of a per-seat resale model.
 
@@ -51,9 +51,9 @@ Platform cost is fixed, so margin **improves with customer count** — the oppos
 | 25 | $19.88 | $12.50–$37.50 | $192–$217 | **77–87%** |
 | 50 | $9.94 | $12.50–$37.50 | $202–$227 | **81–91%** |
 
-**Breakeven on the platform: 2–3 customers at $249/month.** That is an unusually low bar and is the strongest argument for keeping BlankCRM in the portfolio.
+**Platform-fee coverage in this simplified scenario: 2–3 customers at $249/month.** This is not full-business breakeven.
 
-## Onboarding economics at $750 setup
+## Historical onboarding scenario at $750 setup
 
 | Item | Amount |
 |---|---:|
@@ -61,12 +61,12 @@ Platform cost is fixed, so margin **improves with customer count** — the oppos
 | Onboarding labour at 8–12 hrs × $25–40/hr | $200–$480 `[A]` |
 | **Contribution** | **$270–$550** |
 
-The setup fee covers onboarding with margin **provided onboarding stays under ~15 hours**. Above that it becomes a loss leader — this is the single metric to instrument first.
+This contribution exists only if the 8–12-hour assumption holds for the full scope. Instrument actual hours by module and revise the model.
 
 ## What this means commercially
 
-1. **The price is defensible.** $750 + $249/month sits well above cost at any realistic scale.
-2. **Margin is a support-discipline problem, not a pricing problem.** Every hour of unplanned support costs ~$25–40 against a $249 monthly ticket.
+1. **The price is unproven for the corrected scope.** Compare pilot labour, integrations, usage and support with the hypothesis before confirming it.
+2. **Margin depends on package design and delivery discipline.** Every extra hour of support costs against a $249 monthly ticket if that list price is retained.
 3. **Usage should be rebilled, not absorbed.** Agency Pro allows markup; absorbing messaging cost would convert a margin line into a variable cost with no ceiling.
 4. **Attach economics are excellent.** At a 35% attach rate to BluePrint `[A]`, BlankCRM adds meaningful contribution with no incremental platform cost.
 

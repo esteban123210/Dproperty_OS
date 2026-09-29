@@ -13,7 +13,7 @@
 
 ## Executive summary
 
-BlankCRM is a managed real-estate front-office package built on GoHighLevel. It provides standardized lead capture, marketing automation, communication, appointment scheduling, full commercial pipeline, templates, and integration to BluePrint. Its purpose is speed and adoption—not rebuilding a commodity CRM.
+BlankCRM is a managed real-estate front-office package built on GoHighLevel. It provides standardized lead capture, marketing automation, communication, appointment scheduling, legal workflow, approvals, contracts, payment milestones, closing, commissions, post-sale, commercial dashboards and optional read-only visibility for BluePrint. Its purpose is speed and adoption—not rebuilding a commodity CRM.
 
 BlankCRM owns the full commercial lifecycle and works standalone. BluePrint optionally reads authorized evidence for management verification; secure legal archives retain authoritative originals and least-privilege access.
 
@@ -26,6 +26,8 @@ BlankCRM owns the full commercial lifecycle and works standalone. BluePrint opti
 - SMS, WhatsApp, email, phone and premium AI usage prepaid or passed through to the customer.
 
 ## Economics hypothesis
+
+These figures predate the full-lifecycle implementation. They are planning assumptions, not a confirmed quote or measured margin; see [[03 - Offer and Pricing]] and [[05 - Economics]].
 
 | Item | Hypothesis |
 |---|---:|
@@ -58,5 +60,4 @@ Vendor dependency, price changes, API limits, messaging policy, deliverability, 
 
 ## Gates
 
-Validate 10 managed accounts, <4 hours standard setup after templates mature, support burden within margin, standalone lead-to-post-sale completion and read-only management evidence ingestion, customer retention, and positive contribution after vendor/usage/support. If not, treat BlankCRM as optional referral/integration rather than a managed product.
-
+Validate one full-lifecycle pilot first, then 10 managed accounts; measure whether standard setup can reach <4 hours after templates mature, support burden within margin, standalone lead-to-post-sale completion and read-only management evidence ingestion, customer retention, and positive contribution after vendor/usage/support. If not, revise scope/price or treat BlankCRM as optional referral/integration rather than a managed product.

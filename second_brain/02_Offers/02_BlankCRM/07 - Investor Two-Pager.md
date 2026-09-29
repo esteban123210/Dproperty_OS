@@ -21,13 +21,13 @@ The strategic logic is speed: do not spend capital rebuilding commodity CRM feat
 
 **Buyer:** small agency or franchise office that lacks a disciplined CRM or does not want to configure and manage one.
 
-**Problem:** leads arrive through many channels, follow-up is inconsistent, automation is poorly configured, and qualified opportunities are re-entered manually into operational tools.
+**Problem:** leads arrive through many channels, follow-up is inconsistent, and sales, legal, approvals, contracts, payments, closing and commissions are fragmented across people and tools.
 
 **Value proposition:** a ready-to-use, managed real-estate acquisition stack with a clean boundary: BlankCRM owns full commercial execution through post-sale; BluePrint owns back-office management, verification, governance and intelligence.
 
 ## 3. Offer and boundaries
 
-Included: sub-account/workspace setup, pipeline, fields, calendars, forms, templates, baseline automations, integration mapping, signed webhooks, retries, deduplication, reconciliation, status writeback, and defined support.
+Included: sub-account/workspace setup, pipeline, fields, calendars, forms, legal/approval/contract/payment/closing/commission/post-sale configuration, baseline automations, optional read-only BluePrint feed with retries/deduplication/reconciliation, and defined support. The pilot must verify which actions are native, integrated or human-confirmed.
 
 Separately priced or passed through: custom campaigns, complex migration, custom automation, WhatsApp/SMS/email/phone charges, premium AI use, advertising, and non-standard integrations.
 
@@ -43,6 +43,8 @@ BlankCRM must always be represented honestly as a managed package built on a thi
 | Underlying vendor reference | $497/month platform plus usage, shared where contract permits |
 | Base attach rate | 35% of B_ customers |
 | Modeled direct COGS | 35% of setup and subscription |
+
+This historical model predates the full-lifecycle build. The pilot must measure legal, contract, payment and commission setup plus integrations and support before these prices or margins are treated as sale-ready. See [[03 - Offer and Pricing]].
 
 At 35% COGS, one attached office generates modeled annual subscription gross profit of **$1,942.20** and setup gross profit of **$487.50**, before allocated sales, product, and corporate costs. Across the whole B_ customer base, a 35% attach rate yields expected BlankCRM ARR of **$1,045.80 per B_ customer**. Base year-5 BlankCRM revenue is modeled at **$342,102**.
 
@@ -79,7 +81,7 @@ Mitigation requires exports, configuration-as-code where practical, connector ab
 ## 8. What must be proven
 
 - Ten active managed accounts.
-- Standard setup below four hours after templates mature.
+- Measure whether standard setup can fall below four hours after templates mature; do not assume the pilot achieves it.
 - Standalone full commercial lifecycle and read-only evidence reconciliation under failure conditions.
 - Positive contribution after actual vendor, usage, setup, and support costs.
 - Retention and attach rate by customer type.
