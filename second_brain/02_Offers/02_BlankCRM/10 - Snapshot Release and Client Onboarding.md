@@ -28,7 +28,7 @@ This is the step-by-step build order for a nontechnical founder and the person c
 
 1. In Agency Pro, create `BlankCRM MASTER`, `BlankCRM TEST`, and a separate pilot office sub-account. The MASTER has no real people, money, connected client accounts or live conversations.
 2. Configure brand-neutral folders/naming, time zone defaults and module prefixes. Record product version `1.0.0-draft` in the snapshot manifest.
-3. Create custom fields from the specification, with contact/person fields separate from opportunity/deal fields. Establish transaction ID, active status and next-action rules. Create explicit `unknown` and `not applicable` options where relevant.
+3. Create custom fields and the three associated custom objects from [[12 - GoHighLevel Build Manifest]], with contact/person fields separate from opportunity/deal fields. Establish transaction ID, active status and next-action rules. Create explicit `unknown` and `not applicable` options where relevant.
 4. Create one authoritative sales opportunity pipeline and the daily role queues. Make roles/permission presets, then test with separate synthetic user logins.
 5. Add only synthetic contacts/opportunities needed to develop and test. Never snapshot or export client secrets.
 
@@ -57,7 +57,7 @@ This is the step-by-step build order for a nontechnical founder and the person c
 
 1. Build commercial dashboards from the same opportunity records and compare totals to synthetic raw deals.
 2. If BluePrint is present, map read-only events/evidence, reconcile duplicates/corrections and test the full path with the link disabled. BluePrint never writes transaction decisions back.
-3. Refresh the master snapshot, record included assets, clone into a **fresh** TEST sub-account, reconnect only test integrations and run C01–C32. Record gaps and fixes.
+3. Refresh the master snapshot, record included assets, clone into a **fresh** TEST sub-account, reconnect only test integrations and run C01–C35. Record gaps and fixes.
 4. Freeze a numbered release, save export/configuration evidence and a change log. Promote only after the acceptance gate. For existing offices, review each snapshot update for field conflicts, overwritten local customization and workflow duplication before push.
 
 **Gate:** all critical tests pass; noncritical manual gaps have owners and dates.

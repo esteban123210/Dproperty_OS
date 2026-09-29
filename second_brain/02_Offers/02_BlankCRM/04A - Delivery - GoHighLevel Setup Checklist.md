@@ -19,7 +19,7 @@ tags: [crm, gohighlevel]
 
 # GoHighLevel Setup Checklist
 
-> **Execution order:** [[08 - Master Product Specification]] defines the product; [[10 - Snapshot Release and Client Onboarding]] gives the build order; [[09 - Configuration Acceptance Tests]] defines launch proof. This short list is an orientation, not a completed configuration.
+> **Execution order:** [[08 - Master Product Specification]] defines the product; [[12 - GoHighLevel Build Manifest]] names the exact assets; [[10 - Snapshot Release and Client Onboarding]] gives the build order; [[09 - Configuration Acceptance Tests]] defines launch proof. This short list is an orientation, not a completed configuration.
 
 ## Franchise Setup
 

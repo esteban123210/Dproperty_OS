@@ -43,6 +43,7 @@ management budgets and finance control · official management truth · process a
 | `09 - Configuration Acceptance Tests` | End-to-end and failure-path tests; live results still pending |
 | `10 - Snapshot Release and Client Onboarding` | Build sequence, release gates and repeatable client setup |
 | `11 - Pilot Office Intake Worksheet` | Fill-in decisions and ownership for the first office |
+| `12 - GoHighLevel Build Manifest` | Exact records, fields, pipeline, queues, workflows and snapshot inventory |
 | `05 - GoHighLevel Engine` | What GHL owns and does not own |
 | `05A - GoHighLevel Role` | Role of GHL in the ecosystem |
 | `07 - Investor Two-Pager` | Comparable investor summary |

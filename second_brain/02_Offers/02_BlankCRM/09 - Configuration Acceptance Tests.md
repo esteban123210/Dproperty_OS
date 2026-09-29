@@ -54,6 +54,9 @@ Test with synthetic contacts, units, amounts, document templates and messages. N
 | C30 | High | AI receives legal, discount, financing and payment-dispute prompts; it hands off and makes no binding claim | AI guardrails | Pending |
 | C31 | Critical | Refresh snapshot after a master fix, clone again and compare; new assets appear, tenant-specific settings and data stay isolated | Release manifest/update protocol | Pending |
 | C32 | High | Management dashboard totals agree with raw test deals for lead conversion, stage age, overdue milestones and commission states | Commercial reporting | Pending |
+| C33 | Critical | Create two approvals, three payment milestones and three commission obligations for one opportunity; all are associated to that deal, visible in the correct role queues, and absent from another deal for the same contact | One-to-many custom-object associations | Pending |
+| C34 | Critical | Submit duplicate event/record IDs; unique object IDs prevent duplicate obligations, while a second legitimate milestone with a new ID is accepted | Unique custom-object IDs/idempotency | Pending |
+| C35 | Critical | Create an approval or milestone without an opportunity association, then advance a stage through workflow/API; the exception guard catches both missing link and missing prerequisite | Association/guard audit | Pending |
 
 ## End-to-end golden path
 
