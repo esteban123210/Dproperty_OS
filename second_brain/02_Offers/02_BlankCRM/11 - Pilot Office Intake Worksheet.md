@@ -19,8 +19,8 @@ Copy this sheet for each office. Fill in decisions with the office owner, sales 
 | Decision | Pilot answer | Decision owner |
 |---|---|---|
 | Office/franchise legal name and brand | TBD | Office owner |
-| Country, jurisdiction, language, time zone, currency | TBD | Office owner/legal |
-| First transaction type (default hypothesis: new-development/pre-sale) | TBD | Sales director |
+| Country, jurisdiction, language, time zone, currency | **Panama**; city/jurisdiction details, language, time zone and currency to confirm | Office owner/legal |
+| First transaction type | **New-development/pre-sale** (confirmed by Esteban) | Sales director |
 | First project/developer and inventory authority | TBD | Sales director |
 | Pilot start date and one initial lead source | TBD | Office owner |
 | Office-specific domain and published website (Lovable, Webflow or both) | TBD | Marketing owner |

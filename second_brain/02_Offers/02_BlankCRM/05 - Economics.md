@@ -4,7 +4,7 @@ title: "BlankCRM — Economics"
 type: unit_economics
 status: Historical cost model — full-lifecycle scope requires pilot validation
 owner: Esteban
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 tags: [offer, blankcrm, economics, unit-economics, cogs]
 ---
 
@@ -25,7 +25,7 @@ tags: [offer, blankcrm, economics, unit-economics, cogs]
 | **Unlimited sub-accounts** on Unlimited and Agency Pro | `[F]` published | Each additional customer costs **$0** in platform fees |
 | **SaaS Mode requires Agency Pro** | `[F]` published | $497 is mandatory, not optional, to sell BlankCRM as a product |
 | **Rebill phone/email/AI usage with markup** (Pro only) | `[F]` published | Messaging and AI are **pass-through at a margin**, not a cost centre |
-| AI Employee add-on $97/month per sub-account | `[F]` published | Optional, rebillable to the customer |
+| AI Employee add-ons $50/month Growth or $97/month Unlimited per sub-account (published 2026-09-29) | `[F]` published | Optional; select only after pilot use case and costs are approved |
 
 Vendor cost is one input. Full-lifecycle gross margin also depends on implementation, third-party integrations, usage, support and exception handling. The tables below are scenarios, not observed margins.
 

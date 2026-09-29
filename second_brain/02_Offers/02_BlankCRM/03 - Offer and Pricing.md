@@ -22,7 +22,7 @@ tags: [offer, blankcrm, pricing]
 | **Setup / configuration** | **$750** one-off | `[A]` recorded hypothesis; full-scope cost unvalidated |
 | **Subscription** | **$249/month per office** | `[A]` recorded hypothesis; full-scope support unvalidated |
 | **Messaging / voice / AI usage** | **Rebilled at markup** | `[F]` capability; `[R]` markup % undecided |
-| AI Employee (optional) | $97/month per sub-account, rebilled | `[F]` vendor rate |
+| AI Employee (optional) | $50/month Growth or $97/month Unlimited per sub-account, before usage/terms | `[F]` published rates checked 2026-09-29; verify checkout |
 | Complex migration, extra offices, integrations | Quoted separately | — |
 
 **Pricing unit: per office (sub-account), not per agent seat.** Consistent with BluePrint's org-level shape.
@@ -71,7 +71,7 @@ Willingness to pay at the proposed price · standalone conversion vs attach conv
 
 ## Sources
 
-- [HighLevel Pricing](https://www.gohighlevel.com/pricing)
+- [HighLevel Pricing](https://www.gohighlevel.com/pricing) — plan and current add-on rates
 - [GoHighLevel Pricing 2026 (Apexure)](https://www.apexure.com/blog/gohighlevel-pricing)
 
 Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

@@ -57,6 +57,7 @@ Test with synthetic contacts, units, amounts, document templates and messages. N
 | C33 | Critical | Create two approvals, three payment milestones and three commission obligations for one opportunity; all are associated to that deal, visible in the correct role queues, and absent from another deal for the same contact | One-to-many custom-object associations | Pending |
 | C34 | Critical | Submit duplicate event/record IDs; unique object IDs prevent duplicate obligations, while a second legitimate milestone with a new ID is accepted | Unique custom-object IDs/idempotency | Pending |
 | C35 | Critical | Create an approval or milestone without an opportunity association, then advance a stage through workflow/API; the exception guard catches both missing link and missing prerequisite | Association/guard audit | Pending |
+| C36 | Critical | Clone the country-neutral master for the Panama presale pilot; confirm approved local reservation amount, document checklist, contract authority, buyer-to-developer payment route and three commission rules are present only in the pilot, with no Panama-only values forced into the master | Localized pilot rules / clone boundary | Pending |
 
 ## End-to-end golden path
 

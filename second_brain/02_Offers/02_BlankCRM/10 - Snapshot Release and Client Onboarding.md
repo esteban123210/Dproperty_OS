@@ -12,17 +12,25 @@ tags: [blankcrm, gohighlevel, onboarding, snapshot]
 
 Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] · product boundary: [[01 - Definition and Boundaries]].
 
-This is the step-by-step build order for a nontechnical founder and the person configuring GoHighLevel. Follow [[08 - Master Product Specification]] for what to build and [[09 - Configuration Acceptance Tests]] for proof. A checkbox means complete only when evidence is linked; creating an empty screen is not a pass.
+This is the step-by-step build order for a nontechnical founder and the person configuring GoHighLevel. The first pilot is a **Panama presale franchise office** (confirmed by Esteban 2026-09-29); the master remains reusable and country-neutral. Follow [[13 - Start From Zero - Agency Account]] for account creation, [[08 - Master Product Specification]] for what to build and [[09 - Configuration Acceptance Tests]] for proof. A checkbox means complete only when evidence is linked; creating an empty screen is not a pass.
 
 ## Phase 0 — decide the pilot rules before clicking in GoHighLevel
 
-1. Name the pilot office, country, primary language, currency and time zone. Confirm its first transaction type is new-development/pre-sale, or record a revised golden path.
+1. Record the pilot office name, city, primary language, currency and time zone. Country is **Panama** and first transaction type is **new-development/pre-sale**, confirmed by the founder; do not guess the other values.
 2. Name one owner for sales, legal, operations, finance/collections and office management. Ask each to approve their actual decision authority, documents and escalation times.
 3. Write the local rules sheet: qualification criteria, lead SLAs, approved scripts, reservation authority, document checklist, contract signer, buyer/developer payment routes, closing evidence, office commission, agent split and franchise royalty if applicable. Mark unknowns as decisions, not default values.
 4. Inventory the current Lovable and Webflow site forms/calendars, social accounts, CEO video, domains, email sender, phone/WhatsApp number, e-sign/payment providers and privacy/consent copy. Keep credentials out of this document.
 5. Set the pilot commercial scope and price after estimating actual setup, support, usage and integration cost. The prior $750/$249 list was modelled for a narrower setup and is a **validation hypothesis** for the full product.
 
-**Gate:** a signed-off local rules sheet and named owners. Missing bank, legal or commission authority blocks the relevant automation.
+**Gate to begin the reusable master:** the agency owner, Panama presale path and provisional role map are known. **Gate to activate the pilot:** signed-off local rules and named owners. Missing bank, legal or commission authority blocks the relevant live automation, not creation of the clean master.
+
+## Phase 0A — open the agency account
+
+1. Read [[13 - Start From Zero - Agency Account]]. The founder chooses Agency Pro monthly and completes signup, billing details, any legal terms and authentication personally.
+2. Confirm Agency View opens, the selected plan is Agency Pro, and the owner can access Sub-Accounts and Account Snapshots. Record renewal date and usage billing settings.
+3. Do not connect the franchise's WhatsApp, email sender, domain, payment provider, social accounts or real contacts to the clean master. Those belong to the pilot office after the snapshot passes TEST.
+
+**Gate:** authenticated agency owner access. No live HighLevel configuration or test result can be claimed before this point.
 
 ## Phase 1 — foundation and clean master
 
@@ -57,7 +65,7 @@ This is the step-by-step build order for a nontechnical founder and the person c
 
 1. Build commercial dashboards from the same opportunity records and compare totals to synthetic raw deals.
 2. If BluePrint is present, map read-only events/evidence, reconcile duplicates/corrections and test the full path with the link disabled. BluePrint never writes transaction decisions back.
-3. Refresh the master snapshot, record included assets, clone into a **fresh** TEST sub-account, reconnect only test integrations and run C01–C35. Record gaps and fixes.
+3. Refresh the master snapshot, record included assets, clone into a **fresh** TEST sub-account, reconnect only test integrations and run C01–C36. Record gaps and fixes.
 4. Freeze a numbered release, save export/configuration evidence and a change log. Promote only after the acceptance gate. For existing offices, review each snapshot update for field conflicts, overwritten local customization and workflow duplication before push.
 
 **Gate:** all critical tests pass; noncritical manual gaps have owners and dates.
@@ -76,4 +84,4 @@ Provide the office with a one-page daily routine by role, workflow/approval auth
 
 ## Current status — 2026-09-29
 
-The architecture, build order and test protocol are written. Live construction and testing are **not started** because no authenticated GoHighLevel agency account was available in this session. The first hands-on step is Phase 0 rule collection and Agency Pro access; the first release cannot be called tested until the TEST clone passes the acceptance matrix.
+The architecture, build order and test protocol are written. Esteban confirmed on 2026-09-29 that he **does not yet have a GoHighLevel account** and that the first pilot is Panama presale. Live construction and testing are **not started**. The first hands-on steps are Phase 0 decisions and opening Agency Pro; the first release cannot be called tested until the TEST clone passes the acceptance matrix.
