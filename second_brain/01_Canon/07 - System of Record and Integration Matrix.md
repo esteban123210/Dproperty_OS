@@ -4,7 +4,7 @@ title: "System of Record and Integration Matrix"
 type: data_governance
 status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [ecosystem, integrations, data-governance, blueprint]
 ---
 
@@ -17,35 +17,23 @@ tags: [ecosystem, integrations, data-governance, blueprint]
 
 Each datum has a declared authority. BluePrint is not a universal writable master; it is the **management control and reconciliation layer**.
 
-| Domain/object | Writable authority | BluePrint role |
+| Domain / object | Writable authority | BluePrint role |
 |---|---|---|
-| Leads/contacts/conversations | CRM | Reference for management |
-| Campaign/source/appointments | CRM | Aggregate/interpret |
-| Pre-qualification pipeline status | CRM | Treat as reported until verified |
-| **Qualified opportunity acceptance** | **BluePrint** | System of record from qualification onward |
-| **Transaction file / deal record** | **BluePrint** | System of record |
-| **Compliance checklists and evidence** | **BluePrint** | System of record |
-| **Approvals and approval policy** | **BluePrint** | System of record |
-| **Closing milestones** | **BluePrint** | System of record |
-| **Commission rules and calculation snapshots** | **BluePrint** | System of record |
-| Property/project/unit inventory and listings | Developer system / portal / VAULTED | **Not BluePrint** — reference only |
-| Escrow/custody/money movement | Bank / escrow provider | **Not BluePrint** — read evidence only |
-| Accounting ledger/statutory books | Accounting platform | Read authoritative finance data |
-| Bank/payment settlement | Bank/payment/accounting | Reconcile/read evidence |
-| Binary documents | Drive/SharePoint/legal archive | Govern metadata/evidence/link |
-| E-signature evidence | E-sign provider | Read status/timestamp/link |
-| Marketplace inventory/engagement | VAULTED | Separate system |
-| Course activity | Open edX/LMS | Read relevant completion |
-| Management budgets | **BluePrint** | System of record |
-| Management forecast/KPI definitions | **BluePrint** | System of record |
-| Verification state/provenance | **BluePrint** | System of record |
-| Processes/SOP/control graph | **BluePrint** | System of record |
-| Operational incidents/Glitches | **BluePrint** | System of record |
-| Corrective/preventive actions | **BluePrint** | System of record |
-| Management actions/decisions | **BluePrint** | System of record |
-| Management period snapshots/close | **BluePrint** | System of record |
-| Integration discrepancies/exceptions | **BluePrint** | System of record |
-| Management audit events | **BluePrint** | Long-term system of record |
+| Leads, contacts, consent, campaigns, messages, appointments | BlankCRM / chosen CRM | Read authorized data; assess CRM usage |
+| Qualification, deal stages, commercial tasks and dashboards | BlankCRM / chosen CRM | Observe completion, freshness and exceptions |
+| Legal workflow, commercial compliance review, documents and approvals | BlankCRM / chosen CRM with legal/document integrations | Verify evidence; flag gaps; no execution or sign-off |
+| Contracts, reservation, payment milestones, collection follow-up, closing, post-sale | BlankCRM / chosen CRM with signature/payment services | Read status and reconcile evidence; no signing, collection or closing |
+| Commission rules, calculations, splits, adjustments and commercial approval | BlankCRM / chosen CRM | Verify sourced liabilities and discrepancies; no calculation authority or payout |
+| Settlement / movement of funds | Bank / payment provider | Compare expected vs actual cash with provenance |
+| Statutory ledger, tax and payroll | Accounting / payroll system | Read actuals and prepare management views |
+| Signature evidence / immutable legal files | E-sign provider / secure legal archive | Permissioned metadata and evidence references |
+| Management financial health, expected cash, expenses, budgets, forecasts and variance | BluePrint | Maintain evidence-backed management records; do not replace statutory books |
+| Management KPI definitions, CRM-usage oversight, processes, Glitches | BluePrint | Observe, diagnose, govern and recommend |
+| Policies, management decisions, corrective actions and executive AI recommendations | BluePrint | Govern internal management work; commercial remediation occurs in CRM |
+| Verification, provenance, management audit and period close | BluePrint | Own management record; period close is not a sales closing |
+| Property/project/unit inventory and listings | Developer / inventory service / authorized marketplace | Read references only |
+| Marketplace access, matches, attribution and fees | VAULTED | Read permitted outcomes |
+| Learning and certification activity | Building Blocks / LMS | Read evidence for management policy oversight |
 
 ## Verification hierarchy
 

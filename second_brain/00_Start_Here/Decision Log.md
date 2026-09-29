@@ -4,10 +4,20 @@ title: "Decision Log"
 type: decision_log
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 source: Merged canonical (00_Index + AI Handoff Pack synced 2026-07-14)
 tags: [decisions, source-of-truth]
 ---
+
+## 2026-09-29 — Commercial execution and management governance separated [D]
+
+BlankCRM executes the full commercial lifecycle from lead capture through legal workflow, approvals, contracts, payment milestones, closing, commissions and post-sale, including communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPIs, CRM-usage oversight, processes/Glitches, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone; BluePrint reads authorized data, verifies, governs and recommends without executing sales actions.
+
+This decision supersedes the September 23 transaction-spine allocation and any later partial correction. Historical entries below are not current implementation instructions.
+
+
+> [!WARNING] Historical architecture — superseded 2026-09-29
+> Earlier assignments of commercial execution to BluePrint are historical only and must not guide implementation. BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 
 # Decision Log
 

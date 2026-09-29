@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Developer “Franchise” / Sales Program — Investor Two-Pager
 
@@ -15,7 +15,7 @@
 
 The Developer Sales Program gives a property developer one governed way to manage project and unit information, authorize agencies, distribute approved inventory, capture qualified interest, control reservations and approvals, coordinate transactions, validate commissions, and see channel performance.
 
-It combines a developer workspace, selected VAULTED distribution, and BluePrint execution. It is not construction management, a generic advertising agency, an ERP replacement, or a promise that B_ will sell the inventory.
+It combines a developer workspace, selected VAULTED distribution, and BlankCRM/chosen-CRM execution with optional BluePrint management oversight. It is not construction management, a generic advertising agency, an ERP replacement, or a promise that B_ will sell the inventory.
 
 Management currently uses “developer franchise” as a convenient label. For investors and contracts, **Developer Sales Program** is more accurate until the offer is standardized, transferable, repeatable, and legally determined to be a franchise or another form of commercial license.
 
@@ -35,7 +35,7 @@ Management currently uses “developer franchise” as a convenient label. For i
 4. Agency authorization and distribution windows.
 5. Qualified interest with source, consent, and attribution evidence.
 6. Inventory validation, allocation, or reservation.
-7. BluePrint transaction workspace for documents, approvals, milestones, closing, and commission.
+7. BlankCRM/chosen-CRM transaction workspace for documents, approvals, milestones, closing, and commission.
 8. Developer report covering response, reservations, close rate, cycle time, channel contribution, and disputes.
 
 ## 4. Revenue model and unit economics
@@ -79,7 +79,7 @@ No success fee enters a forecast until the contract defines payer, trigger, attr
 
 Sell.Do offers real-estate-native CRM, inventory, channel-partner, booking, post-sales, and developer workflows. Salesforce and Propertybase offer extensible CRM and real-estate lifecycle capabilities. Large developers can build or customize ERP/CRM systems, while smaller developers continue with spreadsheets, portals, and WhatsApp.
 
-B_'s potential wedge is not feature breadth. It is a focused corridor connecting governed developer inventory to independent agencies, qualified investors, and a complete BluePrint transaction record. The disadvantage is that incumbents have deeper CRM/ERP breadth and more implementation resources.
+B_'s potential wedge is not feature breadth. It is a focused corridor connecting governed developer inventory to independent agencies, qualified investors, and a complete CRM commercial record with optional BluePrint management verification. The disadvantage is that incumbents have deeper CRM/ERP breadth and more implementation resources.
 
 ## 7. Defensibility and risks
 

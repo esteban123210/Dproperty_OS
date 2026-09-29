@@ -4,7 +4,7 @@ title: "Open Questions"
 type: open_questions
 status: Active v2.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [decisions, open]
 ---
 
@@ -17,7 +17,7 @@ tags: [decisions, open]
 
 | Question | Resolution |
 |---|---|
-| Is BluePrint a management-control layer or a transaction spine? | **Both — merged.** Management OS whose system of record is the verified transaction/commission record from qualified opportunity. Inventory/MLS stays retired. |
+| Does BluePrint execute commercial transactions? | **No — resolved 2026-09-29.** BlankCRM executes the full commercial lifecycle; BluePrint independently verifies, governs and recommends. |
 | Academy or Building Blocks? | **Academy.** Building Blocks is a legacy alias. |
 | B_ Partner or White-Label? | **B_ Partner.** |
 | $299/$599/$999 or $399/$799 + setup? | **$399 / $799 + $1,500 setup**, per organization/office. |
@@ -34,7 +34,7 @@ tags: [decisions, open]
 
 - **Franchise royalty structure:** 6% + 1% restricted brand fund (Dproperty) vs 4% no fund (own-brand) vs the isolated model's flat 6% + 1.5%. Needs contract design and local advice.
 - ~~Does Academy ever become a standalone commercial product?~~ **RESOLVED 2026-09-24: yes — Building Blocks is a standalone product.** See [[../01_Canon/19 - Portfolio Composition Principle]]. Open sub-question: does a standalone *buyer* exist outside the ecosystem?
-- How is the transaction spine scoped so it does not drift back into inventory/MLS?
+- Which integrations and permission controls are required for the full BlankCRM lifecycle, and how will read-only evidence reach BluePrint?
 
 
 ## BluePrint validation

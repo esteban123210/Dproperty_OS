@@ -4,9 +4,13 @@ title: "01_Canon — What the Company Is"
 type: folder_readme
 status: Active
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [readme, navigation]
 ---
+
+> [!IMPORTANT] Product boundary — 2026-09-29 [D]
+> BlankCRM executes the full commercial lifecycle from lead capture through legal workflow, approvals, contracts, payment milestones, closing, commissions and post-sale, including communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPIs, CRM-usage oversight, processes/Glitches, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone; BluePrint reads authorized data, verifies, governs and recommends without executing sales actions.
+
 
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation]] · Architecture: [[../00_Start_Here/Vault Architecture Map]]
 
@@ -55,6 +59,6 @@ tags: [readme, navigation]
 - One authority per data class.
 - BlankCRM/front-office data is **reported**, not automatically management truth.
 - Accounting remains the ledger.
-- BluePrint owns the deal as a governed management object — **not the property as inventory**.
+- BluePrint owns independent management verification and oversight; the CRM owns full commercial execution.
 - Franchising is a channel, not the TAM definition.
 - Per-offer detail belongs in `02_Offers/`, not here.

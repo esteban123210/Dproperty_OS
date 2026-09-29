@@ -4,7 +4,7 @@ title: "Dproperty Select — Offer README"
 type: offer_readme
 status: Active — verify agreements before investor use
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [offer, readme, dproperty-select]
 ---
 
@@ -36,7 +36,7 @@ Curation decisions and approval · approved assumptions and materials · access 
 
 ## What it does NOT own
 
-Project/unit inventory as a system (→ developer system) · transaction execution (→ BluePrint) · marketplace mechanics (→ VAULTED) · the ledger
+Project/unit inventory as a system (→ developer system) · transaction execution (→ BlankCRM/chosen CRM) · marketplace mechanics (→ VAULTED) · the ledger
 
 BluePrint may receive verified company-level financial/operating outcomes related to Select. It does not manage the inventory or execute the transaction.
 

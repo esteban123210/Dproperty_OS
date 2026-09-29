@@ -5,7 +5,7 @@ type: business_plan_note
 status: In Review
 version: 0.6
 owner: Esteban
-last_updated: 2026-07-04
+last_updated: 2026-09-29
 source: Updated per 2026-07-04 franchise pricing restructure
 supersedes: v0.5 baseline (2026-07-01)
 tags: [business-plan, pricing]
@@ -24,7 +24,7 @@ tags: [business-plan, pricing]
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, superseded BluePrint execution assumptions, or “physical hub as the business” framing as current.
 > Current source: [[../02_Offers/01_BluePrint/03 - Offer and Pricing]] and [[../01_Canon/09 - Unit Economics Registry]]
 
 # Pricing Model
@@ -86,3 +86,7 @@ Resold as a margin line via white-label sub-accounts (confirmed over HubSpot, 20
 - **Keller Williams:** est. initial investment ~$183k–$337k, ~$150k minimum cash to open a Market Center; FDD references ~$35k initial fee, 6% royalty on gross commission income. [VALIDATE — figures to confirm]
 - **Engel & Völkers:** Europe €42,500 initial fee, €250k–€400k average investment, 12.5% royalty on net commission income; Americas references ~$35k franchise fee, 3.75%–6% royalty, ~1.5%–2% brand/ad fund.
 - Rationale: Dproperty lacks those brands' scale but sells a *complete system*, so $30k founding / $40k mature is defensible without over-promising.
+
+## Architecture cost allocation — 2026-09-29 [D]
+
+BlankCRM carries configuration/support and third-party costs for the full commercial lifecycle, including legal/approval/signature/payment/commission integrations. BluePrint carries evidence ingestion, financial reconciliation, CRM/process oversight, management governance and executive AI costs. Existing prices, rates, forecasts and formulas are unchanged assumptions, not validation of the revised scope. Requote both delivery scopes before committing budgets; do not fund a BluePrint transaction-execution engine or require BluePrint for standalone BlankCRM.

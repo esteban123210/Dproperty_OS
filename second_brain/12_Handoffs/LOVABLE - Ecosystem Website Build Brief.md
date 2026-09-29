@@ -12,7 +12,7 @@ tags: [handoff, lovable, website, bilingual, production]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Building Blocks (not Academy) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
+> **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint oversees management outcomes across the commercial lifecycle without executing the sale · Building Blocks (not Academy) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
@@ -628,3 +628,9 @@ Branded login → BluePrint. SSO-ready.
 4. Product videos for the Platform / CRM / Academy showcases.
 
 **Names (B_RealEstate, BluePrint) are resolved but pending trademark clearance — keep them as config variables.**
+
+## Product architecture acceptance — 2026-09-29 [D]
+
+BlankCRM executes lead capture, legal workflow, commercial approvals, contracts, payment milestones, closing, commissions and post-sale, with communications, automation and commercial dashboards. BluePrint provides CRM-agnostic financial health, expected-vs-actual cash, expense/budget/variance control, KPI/CRM oversight, Glitches, policies, management audit and executive AI recommendations. Commercial execution screens belong in BlankCRM; BluePrint screens show evidence, verification and management intervention. BlankCRM must operate without BluePrint. A BluePrint management decision does not execute a sales action.
+
+Spanish production copy: BlankCRM ejecuta todo el ciclo comercial: captación, calificación, gestión legal, aprobaciones, contratos, hitos de pago, cierre, comisiones y postventa; comunicaciones, automatización y tableros comerciales. Puede operar sin BluePrint. BluePrint es la capa de gestión interna, gobierno e inteligencia, independiente del CRM: salud financiera, caja esperada frente a real, gastos, presupuestos, desviaciones, KPI, supervisión del CRM, procesos y Glitches, auditoría, políticas y roles ejecutivos de IA. Observa, verifica y recomienda; no ejecuta ventas.

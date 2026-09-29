@@ -46,7 +46,7 @@ masthead("Ecosistema", "Cómo encaja todo",
 + table(["Ámbito","Se encarga","Por qué ahí"], [
     ["Prospectos, contactos, conversaciones y campañas","<strong>BlankCRM</strong>",
      "Es la herramienta del equipo comercial"],
-    ["El seguimiento comercial hasta la calificación","<strong>BlankCRM</strong>",
+    ["Todo el ciclo comercial, de captación a postventa","<strong>BlankCRM</strong>",
      "Es donde el vendedor trabaja"],
     ["La información financiera respaldada y su clasificación","<strong>BluePrint</strong>",
      "Nace de un documento, no de un campo llenado"],
@@ -89,11 +89,11 @@ masthead("Ecosistema", "Cómo cada bloque crea valor para los demás", None,
      "aporte. A los <strong>canales</strong>: la consistencia que hace posible franquiciar, y una empresa "
      "<strong>ordenada y transferible</strong>."],
     ["<strong>BlankCRM</strong>",
-     "A <strong>BluePrint</strong>: oportunidades calificadas — sin esto no tiene materia prima. A "
+     "A <strong>BluePrint</strong>: evidencia autorizada del ciclo comercial; también admite otros CRM. A "
      "<strong>VAULTED</strong>: señales de demanda autorizada. A los <strong>canales</strong>: un producto "
      "de entrada barato. A <strong>Dproperty y DpropertyLiving</strong>: la maquinaria de contenido. Su límite: <strong>depende de que el equipo lo use bien</strong>."],
     ["<strong>VAULTED</strong>",
-     "A <strong>BluePrint</strong>: más transacciones. A los <strong>canales</strong>: un beneficio que "
+     "A <strong>BluePrint</strong>: evidencia para supervisión gerencial. A los <strong>canales</strong>: un beneficio que "
      "ningún competidor local ofrece. A <strong>Select</strong>: distribución. "
      "<strong>Hoy da poco: está bloqueado a propósito.</strong>"],
     ["<strong>Building Blocks</strong>",

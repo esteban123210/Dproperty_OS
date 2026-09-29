@@ -4,7 +4,7 @@ title: "Ecosystem Master Map"
 type: ecosystem_architecture
 status: Canonical v4.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [ecosystem, architecture, map]
 ---
 
@@ -15,11 +15,11 @@ tags: [ecosystem, architecture, map]
 
 ## One-sentence definition
 
-**B_ is operating infrastructure for real-estate businesses: BlankCRM helps the team sell, BluePrint helps management run and control the company from qualified opportunity through commission and audit, and VAULTED connects the company to a transaction network.**
+**B_ is operating infrastructure for real-estate businesses: BlankCRM helps the team sell, BluePrint helps management understand, verify and govern the company using financial and operational evidence, and VAULTED connects the company to a transaction network.**
 
 ## The handoff line
 
-**BlankCRM helps the team sell and depends on their discipline. BluePrint runs the back office and depends only on evidence. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
+**BlankCRM executes the commercial process through post-sale. BluePrint verifies evidence and supports back-office management; data completeness and human review remain essential. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
 
 ## Core architecture
 
@@ -27,10 +27,10 @@ tags: [ecosystem, architecture, map]
 flowchart LR
     C["Clients / Leads"] --> CRM["BlankCRM
 powered by GoHighLevel
-demand → qualification"]
-    CRM -->|"qualified opportunity"| BP["BluePrint
+lead → legal → contract → closing → commission → post-sale"]
+    CRM -->|"authorized lifecycle observations"| BP["BluePrint
 Management OS
-transaction · commission · control · audit"]
+financial health · governance · intelligence · audit"]
     EXT["Accounting · Bank · Drive · E-sign"] --> BP
     CRM <--> VA["VAULTED
 Private marketplace/network"]
@@ -54,14 +54,14 @@ Learning & certification"] --> BP
 
 | Product | Core job | Owns | Strategic role |
 |---|---|---|---|
-| **BluePrint** | Run/control the company | Qualified opportunity → transaction file → compliance evidence → approvals → closing → commission calculation → budgets/variance/KPIs → process assurance → period close → audit | Proprietary SaaS/IP |
-| **BlankCRM** | Generate, organize and convert demand | Leads, contacts, messaging, forms/calendars, nurture, pre-qualification pipeline, campaign attribution | Attach/acquisition product; third-party engine |
+| **BluePrint** | Manage/govern the company | Evidence-backed financial health, expected vs actual cash, expenses, budgets and variance; KPI and CRM-usage oversight; process/Glitch monitoring; policies, management interventions, audit and AI executive support | Proprietary SaaS/IP |
+| **BlankCRM** | Generate, organize and convert demand | Leads, contacts, messaging, forms/calendars, nurture, full commercial pipeline through post-sale, campaign attribution | Attach/acquisition product; third-party engine |
 | **VAULTED** | Access/match network supply and demand | Gated listings, access rules, matches, introductions, attribution, GMV, fees | Network effect + GMV/take-rate upside |
 | **Building Blocks** | Teach standards and close capability gaps | Learning content, assessments, certification evidence | Retention/quality/enablement (legacy alias: Building Blocks) |
 
 ### What BluePrint does **not** own
 
-Property/project/unit inventory · listing management/MLS · pre-qualification lead pipeline and marketing automation · general ledger, tax, payroll · property management · LMS delivery · marketplace listings and matching.
+Property/project/unit inventory · listing management/MLS · full commercial workflow and marketing automation · general ledger, tax, payroll · property management · LMS delivery · marketplace listings and matching.
 
 ## Distribution and monetization channels
 

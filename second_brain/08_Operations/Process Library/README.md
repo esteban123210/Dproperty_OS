@@ -4,7 +4,7 @@ title: "Process Library"
 type: folder_readme
 status: Active
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [readme, operations, process, roles]
 ---
 
@@ -34,7 +34,7 @@ This is the operating core of the business and the **canonical role taxonomy for
 These processes are used by **Dproperty Franchise**, **B_ Partner** and the **BluePrint product specification** alike. Duplicating them per offer would guarantee drift. They live here once.
 
 - Franchise-specific packaging → `02_Offers/05_Dproperty_Franchise/`
-- What the software must support → `02_Offers/01_BluePrint/` and [[../Golden Transaction Workflow]]
+- Execution configuration → `02_Offers/02_BlankCRM/`; management oversight → `02_Offers/01_BluePrint/` and [[../Golden Transaction Workflow]]
 
 ## Binding standard — roles, never names
 
@@ -46,6 +46,6 @@ Any office-, country- or currency-specific value — commission percentages, ACO
 
 The Process Library describes **how the business operates**. BluePrint is **the software that governs it**.
 
-`01 - Leads` sits mostly in **BlankCRM** (pre-qualification). Processes `02`–`07` sit mostly in **BluePrint**, which becomes the system of record at **qualified opportunity**. `07 - Commissions` is the clearest example of BluePrint-owned truth.
+Commercial processes 01–05 and 07 execute in **BlankCRM/chosen CRM**, including legal, approvals, closing, commission and post-sale. Process 06 property-management service delivery remains with the designated property-management system; its commercial communications and milestones can be coordinated in CRM. **BluePrint** reads outcomes to verify finances, monitor Glitches and govern processes; it executes none of these sales processes.
 
 **When the process and the product spec disagree, the operating reality wins** and the product spec is updated — not the other way around.

@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Data Architecture and Canonical Entities
 
@@ -15,24 +15,19 @@
 
 Relational system of record (PostgreSQL), encrypted object storage for file bytes, permission-aware full-text/semantic index, queue/event bus for asynchronous work, immutable audit stream, and an analytics store when history/load justify it. Use stable UUIDs, decimal money with ISO currency, UTC timestamps plus relevant legal local date, explicit state machines, checksums/versioning, policy-driven soft deletion/retention, and namespaced external IDs.
 
-## Core entities
+## Core entities and ownership
 
-| Domain | Entities | Key relationships |
+| Owner | Entities | Rule |
 |---|---|---|
-| Identity | User, ExternalIdentity | User has memberships and provider identities |
-| Tenancy | Organization, Network, Office, Membership, Role, Entitlement | User can have different role per organization |
-| CRM boundary | Party, Consent, Opportunity, SourceAttribution | Qualified opportunity creates/references transaction |
-| Supply | Developer, Project, Building/Phase, Property, Unit, InventorySnapshot | Developer owns project; unit/version has freshness |
-| Transaction | Transaction, Participant, CommercialTerms, Milestone | Links org, parties, asset, workflow and source |
-| Workflow | WorkflowDefinition/Version, Stage, Task, SLA, Exception | Instance locks version; changes are auditable |
-| Compliance | Requirement, Evidence, Review, Decision, Override | Applicability and decision cite policy version |
-| Content | Document, DocumentVersion, Template, SignatureEnvelope | Bytes immutable; approved-current explicit |
-| Approval | ApprovalPolicy, Request, Decision | Artifact/version and assignee/reason/time |
-| Finance | CommissionRule/Version, Calculation, Split, Receivable, PayoutStatus | Snapshot inputs and approvals |
-| Marketplace | OpportunityListing, AccessPolicy, AccessGrant, NDA, Interest, Allocation | State/expiry/revocation and attribution |
-| Learning | Course, Assignment, Completion, Certification | LMS IDs and BluePrint readiness policy |
-| Platform | IntegrationAccount, WebhookEvent, OutboxEvent, AuditEvent | Delivery/retry/idempotency and actor/object change |
-| AI | KnowledgeSource, SourceVersion, Conversation, Run, Citation, ToolCall, Confirmation | Permission-scoped sources and audited action |
+| Each product | Organization, User, Membership, Role, Entitlement | Tenant-scoped access; explicit external identity mapping |
+| BlankCRM / chosen CRM | Contact, Consent, Opportunity, Transaction, CommercialTask, LegalReview, Approval, Contract, PaymentMilestone, Closing, CommissionRule/Calculation, PostSaleCase | Writable commercial execution; never BluePrint-owned |
+| BluePrint | SourceObservation, EvidenceReference, Verification, ReconciliationException | External source/version/time, evidence, reviewer and independent management status |
+| BluePrint | ExpectedCash, ActualCashObservation, Expense, Budget, Forecast, Variance, LiabilityObservation | Management view; accounting and bank actuals retain authority |
+| BluePrint | KPI, Process, SOP, Policy, Glitch, CorrectiveAction, ManagementDecision, ReportPeriod, AuditEvent | Governance and intelligence; no commercial stage commands |
+| BluePrint | KnowledgeSource, AIRun, Citation, Recommendation, ManagementReview | Permission-scoped CEO/CFO/COO/CMO analysis and proposals |
+| Source providers | SignatureEnvelope, LegalDocument, Settlement, LedgerEntry | Authoritative provider record; BluePrint stores authorized references |
+| Other products | Inventory, Listing, Match, LearningCompletion | Developer/VAULTED/LMS authority |
+| Integration layer | IntegrationAccount, WebhookEvent, ImportBatch, Retry, IdempotencyKey | Read-only commercial ingestion; no blind bidirectional sync |
 
 ## Tenant isolation
 

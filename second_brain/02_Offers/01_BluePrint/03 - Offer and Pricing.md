@@ -4,14 +4,14 @@ title: "BluePrint Pricing and Packaging"
 type: pricing_strategy
 status: Canonical v2.0 — Working Hypothesis, Validate Before Publication
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [blueprint, pricing, packaging, validation]
 ---
 
-> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
-> [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+> [!IMPORTANT] Architecture corrected 2026-09-29 [D]
+> BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 >
-> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+> **Boundary in one line:** BluePrint owns the management verification record, policies and oversight; the CRM owns deal execution and commercial records.
 
 # Pricing and Packaging
 
@@ -25,8 +25,8 @@ Price per organization/operating complexity, not per sales-agent seat. Sales age
 
 | Plan | Target | Working price | Core idea |
 |---|---|---:|---|
-| **Core** | small agency beginning to professionalize; up to ~10 users | **$399/month** | assistant, knowledge, transaction spine, processes, glitches, actions, basic finance/report, capped AI |
-| **Growth** | growing agency with real management complexity; up to ~25 users | **$799/month** | Core + integrations, deeper financial control, commission engine depth, approvals, process health, advanced reports |
+| **Core** | small agency beginning to professionalize; up to ~10 users | **$399/month** | assistant, knowledge, CRM oversight, processes, glitches, actions, basic finance/report, capped AI |
+| **Growth** | growing agency with real management complexity; up to ~25 users | **$799/month** | Core + integrations, deeper financial control, commission-liability reconciliation, management approvals, process health, advanced reports |
 | **Scale** | larger/multi-team or multi-office SME | **quoted — deliberately undefined** | Growth + advanced permissions, controls, integrations, audit and executive reporting |
 
 Priced **per organization/office**, never per agent seat.
@@ -44,7 +44,7 @@ Setup revenue is not incidental: it funds the implementation cost that makes the
 ## Value logic
 
 The product should be easy to justify if:
-- the commission snapshot is trusted over the spreadsheet;
+- the reconciled management cash/liability view is traceable to CRM and accounting evidence;
 - a deal file survives an audit or a dispute without reconstruction;
 - one administrator + BluePrint replaces substantial founder admin time;
 - the customer delays/avoids one additional management hire;

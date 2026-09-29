@@ -4,7 +4,7 @@ title: "B_RealEstate — Master Index"
 type: master_index
 status: Active v5.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [index, navigation]
 ---
 
@@ -17,7 +17,7 @@ tags: [index, navigation]
 
 **B_RealEstate builds operating infrastructure for independent real-estate businesses.** Product-led software and network company — **not** a franchise company.
 
-**The handoff line:** BlankCRM helps the team sell and depends on their discipline. BluePrint runs the back office and depends only on evidence. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.
+**The handoff line:** BlankCRM executes the commercial process through post-sale. BluePrint verifies evidence and supports back-office management; data completeness and human review remain essential. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.
 
 ---
 

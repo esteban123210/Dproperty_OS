@@ -4,7 +4,7 @@ title: "Building Blocks — Offer README"
 type: offer_readme
 status: Canonical — standalone product
 owner: Esteban
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 tags: [offer, readme, building-blocks]
 ---
 
@@ -32,7 +32,7 @@ Learning content and role-based curricula · course structure and learning paths
 
 ## What it does NOT own
 
-Management or process truth → **BluePrint** · the process system of record — **never** · transaction execution, compliance sign-off, approvals → **BluePrint** · leads → **BlankCRM** · marketplace listings → **VAULTED** · **accredited formal qualifications** — no claim is made · licensed legal/compliance training where an accredited provider is required · daily transaction document storage.
+Management or process truth → **BluePrint** · the process system of record — **never** · transaction execution, compliance sign-off, approvals → **BlankCRM/chosen CRM** · leads → **BlankCRM** · marketplace listings → **VAULTED** · **accredited formal qualifications** — no claim is made · licensed legal/compliance training where an accredited provider is required · daily transaction document storage.
 
 ## The differentiator — the closed loop
 

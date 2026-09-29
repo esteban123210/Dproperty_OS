@@ -4,7 +4,7 @@ title: "12_Handoffs — Tool-Ready Production Briefs"
 type: folder_readme
 status: Active
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [readme, navigation]
 ---
 
@@ -41,3 +41,9 @@ Every handoff in this folder predates the **2026-09-23 canonical reconciliation*
 - DpropertyLiving
 
 **Regenerate against current canon before any external use.** Tracked as a pending item in [[../01_Canon/00 - Precedence and Canonical Reconciliation]] §9.
+
+## Product architecture acceptance — 2026-09-29 [D]
+
+BlankCRM executes lead capture, legal workflow, commercial approvals, contracts, payment milestones, closing, commissions and post-sale, with communications, automation and commercial dashboards. BluePrint provides CRM-agnostic financial health, expected-vs-actual cash, expense/budget/variance control, KPI/CRM oversight, Glitches, policies, management audit and executive AI recommendations. Commercial execution screens belong in BlankCRM; BluePrint screens show evidence, verification and management intervention. BlankCRM must operate without BluePrint. A BluePrint management decision does not execute a sales action.
+
+Spanish production copy: BlankCRM ejecuta todo el ciclo comercial: captación, calificación, gestión legal, aprobaciones, contratos, hitos de pago, cierre, comisiones y postventa; comunicaciones, automatización y tableros comerciales. Puede operar sin BluePrint. BluePrint es la capa de gestión interna, gobierno e inteligencia, independiente del CRM: salud financiera, caja esperada frente a real, gastos, presupuestos, desviaciones, KPI, supervisión del CRM, procesos y Glitches, auditoría, políticas y roles ejecutivos de IA. Observa, verifica y recomienda; no ejecuta ventas.

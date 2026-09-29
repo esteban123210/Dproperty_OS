@@ -7,19 +7,19 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # B_RealEstate Ecosystem — Executive Summary
 
-The ecosystem is one universe with modular products and explicit systems of record. Its unifying asset is the transaction spine—not a shared logo or a bundle of unrelated tools.
+The ecosystem is one universe with modular products and explicit systems of record. Its unifying asset is the explicit separation of commercial execution and management governance.
 
 ```mermaid
 flowchart TD
-    A["Acquire and qualify"] --> B["BluePrint transaction spine"]
+    A["Acquire and qualify"] --> B["BlankCRM commercial execution"]
     C["VAULTED opportunity access"] --> B
     D["Building Blocks readiness"] --> B
     B --> E["Close, commission, report"]
-    E --> F["Verified outcomes and improvement"]
+    E --> F["BluePrint: verify, reconcile, govern, recommend"]
     F --> A
 ```
 
@@ -28,8 +28,8 @@ flowchart TD
 | Component | Owns | Does not own |
 |---|---|---|
 | bfranchising.com | Public acquisition, explanation, qualification, application | Authenticated operations |
-| BlankCRM/CRM | Lead capture, marketing, communications, appointments, early pipeline | Compliance, authoritative close/commission |
-| BluePrint | Organization, transaction, evidence, documents, approvals, closing, commissions, reporting, Copilot | General CRM, escrow/custody |
+| BlankCRM/CRM | Full commercial execution: lead capture, legal workflow, approvals, contracts, payment milestones, closing, commissions, post-sale, communications, automation and commercial dashboards | Company-wide management governance; statutory ledger and bank settlement |
+| BluePrint | Financial health, expected vs actual cash, expenses, budgets, variance, KPI/CRM oversight, Glitches, policies, audit and executive AI recommendations | Commercial execution, signing, sales closing, commission approval/payment, escrow/custody |
 | Building Blocks | Curriculum, enrollment, completion, certification | Daily transaction execution |
 | VAULTED | Gated supply/demand access, deal rooms, distribution and attribution | Open portal, pooled investment, money movement |
 | Dproperty | Brokerage/franchise brand and licensed local operations | Neutral platform ownership of partner data |
@@ -44,7 +44,7 @@ Each product must have a reason to buy independently. Bundling may reduce implem
 
 1. Building Blocks produces ready users and qualified demand.
 2. CRM and partner channels generate qualified opportunities.
-3. BluePrint converts opportunities into governed transactions.
+3. BlankCRM/chosen CRM executes transactions; BluePrint optionally verifies management outcomes and recommends intervention.
 4. VAULTED expands approved supply and distribution.
 5. Completed transactions create verified attribution, templates and benchmark data.
 6. Better outcomes improve partner acquisition, onboarding and retention.

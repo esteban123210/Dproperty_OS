@@ -5,7 +5,7 @@ type: finance_note
 status: "v1.0 - Ready"
 version: 1.0
 owner: Esteban
-last_updated: 2026-08-28
+last_updated: 2026-09-29
 tags: [finance, model, excel, guide]
 ---
 
@@ -504,3 +504,7 @@ The model itself is 50% of the work. The other 50% is the story (why this market
 
 Good luck. This model should get you to "serious conversation" with investors.
 
+
+## Architecture cost allocation — 2026-09-29 [D]
+
+BlankCRM carries configuration/support and third-party costs for the full commercial lifecycle, including legal/approval/signature/payment/commission integrations. BluePrint carries evidence ingestion, financial reconciliation, CRM/process oversight, management governance and executive AI costs. Existing prices, rates, forecasts and formulas are unchanged assumptions, not validation of the revised scope. Requote both delivery scopes before committing budgets; do not fund a BluePrint transaction-execution engine or require BluePrint for standalone BlankCRM.

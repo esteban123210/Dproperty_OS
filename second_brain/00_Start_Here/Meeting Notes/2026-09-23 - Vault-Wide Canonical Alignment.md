@@ -4,9 +4,12 @@ title: "2026-09-23 - Vault-Wide Canonical Alignment"
 type: session_closeout
 status: Complete
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [closeout, governance, reconciliation]
 ---
+
+> [!WARNING] Historical architecture — superseded 2026-09-29
+> Earlier assignments of commercial execution to BluePrint are historical only and must not guide implementation. BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 
 > [!IMPORTANT] Precedence
 > [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]] controls the vault.

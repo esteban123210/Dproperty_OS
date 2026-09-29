@@ -1,3 +1,7 @@
+
+> [!IMPORTANT] Product boundary — 2026-09-29 [D]
+> BlankCRM executes the full commercial lifecycle from lead capture through legal workflow, approvals, contracts, payment milestones, closing, commissions and post-sale, including communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPIs, CRM-usage oversight, processes/Glitches, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone; BluePrint reads authorized data, verifies, governs and recommends without executing sales actions.
+
 # B_RealEstate / BluePrint — Claude Code Instructions
 
 > **PRECEDENCE — READ FIRST.** `01_Canon/00 - Precedence and Canonical Reconciliation.md` controls this vault.
@@ -21,11 +25,11 @@ Act as my B_RealEstate ecosystem and BluePrint project assistant. Create, update
 | Product | Job | Owns | Role |
 |---|---|---|---|
 | **BluePrint** | **Agentic back office** — CEO/CFO/COO/CMO without C-suite payroll | Evidence-backed financial record (no attachment, no record) → classification to P&L and budget → **Glitch Report** and process intelligence → management actions and KPIs → period close → audit trail → **audit of the CRM** | Proprietary core SaaS/IP |
-| **BlankCRM** | Sell | Leads, contacts, messaging, forms/calendars, nurture, pre-qualification pipeline, campaign attribution | Attach product, **powered by GoHighLevel** |
+| **BlankCRM** | Sell | Leads, contacts, messaging, forms/calendars, nurture, full commercial pipeline through post-sale, campaign attribution | Attach product, **powered by GoHighLevel** |
 | **VAULTED** | Access the network | Gated listings, access rules, matches, introductions, attribution, GMV, fees | Network upside; gated pilot after BluePrint stability |
 | **Building Blocks** | Operate better | Learning content, assessments, certification evidence | Enablement layer, **powered by Open edX** |
 
-**The handoff line:** BlankCRM helps the team sell and depends on their discipline. BluePrint runs the back office and depends only on evidence. VAULTED owns network supply/access. Building Blocks owns capability. Accounting remains the ledger.
+**The handoff line:** BlankCRM executes the commercial process through post-sale. BluePrint verifies evidence and supports back-office management; data completeness and human review remain essential. VAULTED owns network supply/access. Building Blocks owns capability. Accounting remains the ledger.
 
 ### Four channels — not products
 
@@ -39,9 +43,9 @@ Dproperty brand and testbed · Dproperty Select · developer/broker/investor rel
 
 ## Hard product boundaries
 
-BluePrint **does not** own: property/project/unit inventory · listing management/MLS · the pre-qualification lead pipeline or marketing automation · general ledger, tax, payroll · property management · LMS delivery · marketplace listings and matching · escrow/custody/money movement/FX.
+BluePrint **does not** own: property/project/unit inventory · listing management/MLS · the full commercial workflow or marketing automation · general ledger, tax, payroll · property management · LMS delivery · marketplace listings and matching · escrow/custody/money movement/FX.
 
-**In one line:** BluePrint owns *the deal as a governed management object*. It does not own *the property as inventory*.
+**In one line:** BluePrint owns management verification and oversight, while the CRM owns commercial execution.
 
 Never collapse the products into "one database" or one product claim. Verification hierarchy: **Reported → Operationally verified → Financially verified → Closed-period/final.**
 

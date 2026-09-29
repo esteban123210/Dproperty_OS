@@ -4,7 +4,7 @@ title: "Product and Channel Hierarchy"
 type: strategy_control
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [ecosystem, products, channels, hierarchy]
 ---
 
@@ -15,8 +15,8 @@ tags: [ecosystem, products, channels, hierarchy]
 
 ## Products
 
-1. **BluePrint — RUN THE COMPANY** (qualified opportunity → transaction → commission → control → audit)
-2. **BlankCRM — SELL** (demand → qualification)
+1. **BluePrint — MANAGE AND GOVERN** (evidence → reconciliation → intelligence → management intervention → audit)
+2. **BlankCRM — EXECUTE COMMERCE** (lead → legal/approval → contract/payment milestones → closing → commission → post-sale)
 3. **VAULTED — ACCESS THE NETWORK**
 4. **Building Blocks — OPERATE BETTER** (legacy alias: Building Blocks)
 

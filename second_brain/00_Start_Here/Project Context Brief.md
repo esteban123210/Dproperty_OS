@@ -4,9 +4,13 @@ title: "B_RealEstate Ecosystem - Project Context Brief"
 type: project_context
 status: Canonical v4.0 — reconciled
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [ai-handoff, strategy, source-of-truth]
 ---
+
+> [!IMPORTANT] Product boundary — 2026-09-29 [D]
+> BlankCRM executes the full commercial lifecycle from lead capture through legal workflow, approvals, contracts, payment milestones, closing, commissions and post-sale, including communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPIs, CRM-usage oversight, processes/Glitches, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone; BluePrint reads authorized data, verifies, governs and recommends without executing sales actions.
+
 
 > [!IMPORTANT] Precedence
 > [[../01_Canon/00 - Precedence and Canonical Reconciliation]] controls the vault. It merges the `18_Ecosystem` canon (2026-09-20) with the `19_Canonical_B_RealEstate` baseline (2026-09-23).
@@ -33,7 +37,7 @@ B_RealEstate / B_ is being built as a **product-led operating-infrastructure com
 **Status:** the agentic C-suite is the product **thesis**, not built software. All `[T]`.
 
 ### BlankCRM — *sell*
-Sellable configured front-office product **powered by GoHighLevel**. Leads, communications, marketing, follow-up, calendars and the **pre-qualification** pipeline. Not core proprietary IP.
+Sellable configured front-office product **powered by GoHighLevel**. Leads, communications, marketing, follow-up, calendars and the **full commercial lifecycle**. Not core proprietary IP.
 
 ### VAULTED — *access the network*
 Private marketplace/network. Owns gated listings/opportunities, access rules, participant identity, matches, introductions, attribution, GMV and transaction fees. Gated pilot after BluePrint stability.
@@ -43,7 +47,7 @@ Enablement/standards/certification layer powered by Open edX; primarily bundled.
 
 ## 3. The handoff line
 
-**BlankCRM helps the team sell and depends on their discipline. BluePrint runs the back office and depends only on evidence. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
+**BlankCRM executes the commercial process through post-sale. BluePrint verifies evidence and supports back-office management; data completeness and human review remain essential. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
 
 ## 4. Channels
 
@@ -57,9 +61,9 @@ Dproperty brand/testbed · Dproperty Select curated opportunities · developer/b
 
 ## 6. Product boundaries
 
-BluePrint **does not** own: property/project/unit **inventory**, listing management or MLS · the pre-qualification pipeline or marketing automation · general ledger, tax, payroll · property management · LMS delivery · marketplace listings and matching · escrow/custody/money movement/FX.
+BluePrint **does not** own: property/project/unit **inventory**, listing management or MLS · the full commercial pipeline through post-sale or marketing automation · general ledger, tax, payroll · property management · LMS delivery · marketplace listings and matching · escrow/custody/money movement/FX.
 
-**In one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+**In one line:** BluePrint owns the management verification record, policies and oversight; the CRM owns deal execution and commercial records.
 
 Trust hierarchy: **Reported → Operationally verified → Financially verified → Closed-period/final.**
 
@@ -92,7 +96,7 @@ Agencies roughly 5–50 people (and developer sales teams), led by strong seller
 
 ## 10. Investor narrative
 
-**BlankCRM helps sell. BluePrint helps run the company — owning the deal from qualification through commission and audit. VAULTED connects the network. Building Blocks standardizes. Dproperty, franchise and developer relationships give distribution and a cold-start advantage.**
+**BlankCRM helps sell. BluePrint helps run the company — overseeing verified financial and operational outcomes throughout the lifecycle. VAULTED connects the network. Building Blocks standardizes. Dproperty, franchise and developer relationships give distribution and a cold-start advantage.**
 
 Current investor verdict: **conditional pilot investment**, staged capital, explicit kill criteria. No file may imply historical traction, signed pipeline, production security, legal approval or product-market fit until evidence exists.
 

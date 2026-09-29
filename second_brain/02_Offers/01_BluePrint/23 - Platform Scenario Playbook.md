@@ -5,13 +5,13 @@ type: product_spec
 status: Draft v0.5
 version: 0.5
 owner: Esteban
-last_updated: 2026-07-18
+last_updated: 2026-09-29
 source: Claude working session 2026-07-18
 tags: [product, architecture, scenarios, ux, wireframe]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> Scenarios remain useful for discovery. Re-read against the reconciled boundary: BluePrint owns the deal from **qualified opportunity**, not the property as inventory.
+> Scenarios remain useful for discovery. Re-read against the reconciled boundary: BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 >
 > Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
@@ -23,7 +23,9 @@ tags: [product, architecture, scenarios, ux, wireframe]
 
 ---
 
-## Part A — Agent / franchisee (post-login), 20 scenarios
+## Part A — BlankCRM / specialist commercial systems, 20 scenarios
+
+These paths are commercial configuration concepts, not BluePrint screens. BlankCRM owns execution; inventory, file, signature and learning providers retain their own authority. Validate each integration before claiming delivery.
 
 | # | Scenario | How it works (path + clicks) | Tier |
 |---|----------|------------------------------|------|
@@ -52,7 +54,7 @@ tags: [product, architecture, scenarios, ux, wireframe]
 
 ---
 
-## Part B — Prospective franchisee + HQ selling-agent (pre-login), 20 scenarios
+## Part B — Public website and BlankCRM franchise sales, 20 scenarios
 
 ### Prospective buyer (just-graduated future franchisee)
 | # | Scenario | Path |
@@ -93,7 +95,7 @@ tags: [product, architecture, scenarios, ux, wireframe]
 | 3 | Push a template/price update to all tenants | Template Control → edit → "Publish to network" → versioned, adoption tracked | T0 |
 | 4 | Remediate an underperforming/non-compliant franchise | Franchise profile → flags → open Case → assign remediation → track | T0 |
 | 5 | Publish a Private Collection project | Private Collection → add → set pool, senior manager, authorized franchises → publish | T0 |
-| 6 | Approve items in legal/doc queue | HQ Legal inbox → approve/reject with note | T0 |
+| 6 | Approve commercial legal/doc items | BlankCRM Legal queue → authorized reviewer approves/rejects; BluePrint observes evidence | T0 |
 | 7 | Audit a franchise | Franchise profile → "Audit" → checklist → report | T0 |
 | 8 | Offboard / terminate a franchise | Tenant Lifecycle → wind-down: revoke access, export data, transfer deals, settle royalties, archive | T0 |
 
@@ -107,7 +109,7 @@ tags: [product, architecture, scenarios, ux, wireframe]
 | 2 | Employee requests time off | People → "Request Leave" → routes to Principal → approve → calendar | T0 |
 | 3 | Access contract / payslip / HR docs | "My Profile" → Documents (role-gated: only they + HR) | T0 |
 | 4 | Performance review / certification tracking | People → person → review + Building Blocks cert status (gated) | T0 |
-| 5 | Employee offboarding | People → "Offboard": revoke access, reassign clients/deals, final pay, exit checklist | T0 |
+| 5 | Employee offboarding | People → "Offboard": revoke access, request authorized CRM reassignment of clients/deals and payroll settlement externally, exit checklist | T0 |
 
 ---
 
@@ -126,7 +128,7 @@ tags: [product, architecture, scenarios, ux, wireframe]
 
 ## Part F — Accounting / Finance Ops, 8 scenarios
 
-**OS = the record; payment provider = the money movement. AI touches none of it.**
+**Commission, commercial invoicing, collection and refunds execute in BlankCRM/chosen CRM with payment/accounting providers. BluePrint reads results for reconciliation and management reporting. Expense approvals and management period close may occur in BluePrint; payment remains with providers.**
 
 | # | Scenario | How it works | Tier |
 |---|----------|--------------|------|
@@ -145,9 +147,9 @@ tags: [product, architecture, scenarios, ux, wireframe]
 
 | # | Scenario | How it works | Tier |
 |---|----------|--------------|------|
-| 1 | Client disputes a commission/contract | Dispute case → freezes related payout → routes to Legal/Finance → resolution logged against deal | T0 |
+| 1 | Client disputes a commission/contract | BlankCRM dispute → authorized Legal/Finance decision on payout hold → resolution in CRM; BluePrint tracks risk and evidence | T0 |
 | 2 | Signed doc challenged / legal needs it | Command Bar → deal/doc → signed version + version + approval history (immutable) | T0 |
-| 3 | Payment fails / chargeback | Provider webhook → flags invoice → Finance case → retry/dunning | T0 |
+| 3 | Payment fails / chargeback | BlankCRM/payment-provider webhook → flags invoice → Finance case → authorized retry/dunning; BluePrint observes variance | T0 |
 | 4 | Client "delete my data" request | "Data Request" intake → Data Governance case → Compliance reviews (some records legally retained) → actioned + logged | T0 |
 | 5 | OS outage / can't access | Field Mode offline cache + status page. No mission-critical single point of failure. | T0 |
 | 6 | Two advisors claim the same lead | Lead has source + first-touch timestamp → attribution case → Principal decides → rule logged | T0 |

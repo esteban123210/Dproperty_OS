@@ -4,10 +4,13 @@ title: "Pitch Script"
 type: pitch_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-09-29
 source: ChatGPT baseline vault package
 tags: [pitch]
 ---
+
+> [!WARNING] Historical architecture — superseded 2026-09-29
+> Earlier assignments of commercial execution to BluePrint are historical only and must not guide implementation. BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Script for the pre-reset franchise-first deck.
@@ -17,7 +20,7 @@ tags: [pitch]
 > Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.
 > Current source: [[../../05_Pitch_and_Investor/Pitch Deck Outline]]
 
 # Pitch Script

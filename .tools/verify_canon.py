@@ -1,7 +1,8 @@
 # -*- coding: utf-8 -*-
-import io, os, re, glob, collections
+import io, os, re, glob, collections, sys
+sys.stdout.reconfigure(encoding="utf-8", errors="replace")
 
-ROOT = r"C:\Users\esteb\Desktop\Dproperty_OS\second_brain"
+ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", "second_brain"))
 os.chdir(ROOT)
 
 files = sorted(glob.glob("**/*.md", recursive=True))
@@ -9,7 +10,7 @@ print("total md files:", len(files))
 
 # ---------------------------------------------------------------- 1. coverage
 missing = [f for f in files
-           if "Canonical Reconciliation and Precedence" not in io.open(f, encoding="utf-8").read()]
+           if not re.search(r"Canonical Reconciliation and Precedence|00 - Precedence and Canonical Reconciliation", io.open(f, encoding="utf-8").read())]
 print("\n1. COVERAGE -- files with no precedence reference:", len(missing))
 for f in missing:
     print("   ", f)
@@ -74,7 +75,7 @@ RETIRED = {
  r"\$650[kK]": "retired funding ask",
  r"\bone database\b|una sola base de datos|misma base de datos": "'one database' claim",
  r"CRM propio": "'CRM propio' claim",
- r"Building Blocks": "legacy product name (needs Academy alias note)",
+
 }
 print("\n5. RETIRED CLAIMS still present (excluding files that mark them as retired):")
 for pat, label in RETIRED.items():

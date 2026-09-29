@@ -5,7 +5,7 @@ type: strategy_note
 status: "v2.0 - Active"
 version: 2.0
 owner: Esteban
-last_updated: 2026-08-28
+last_updated: 2026-09-29
 tags: [strategy, customer-journey, economics, expansion]
 ---
 
@@ -145,7 +145,7 @@ This assumes:
 ### What Triggers Adoption
 
 Agencies naturally discover VAULTED:
-1. They're using BluePrint daily (transactions are flowing through).
+1. They're using BluePrint daily (management evidence, reconciliations and actions are current).
 2. They hear about a project/property that's available through VAULTED.
 3. They list it. They sell something. They make money.
 4. They come back.

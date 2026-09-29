@@ -100,3 +100,5 @@ Onboarding hours per customer · support hours per customer per month · usage m
 - [HighLevel Pricing](https://www.gohighlevel.com/pricing) — plan tiers, sub-account limits, SaaS Mode, rebilling
 - [GoHighLevel Pricing 2026 (Apexure)](https://www.apexure.com/blog/gohighlevel-pricing) — $97 / $297 / $497 tiers
 - [GoHighLevel Pricing 2026 (Automize)](https://getautomized.com/gohighlevel-pricing/) — AI Employee add-on, voice AI usage rates
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

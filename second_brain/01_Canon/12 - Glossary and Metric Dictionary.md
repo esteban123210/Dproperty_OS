@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Glossary and Core Metric Dictionary
 
@@ -19,7 +19,7 @@
 | Dproperty Select | **Canonical name** for HQ-curated opportunities; *Private Collection* is a legacy alias |
 | Developer Partnerships | **Canonical name** for the developer channel; *Developer Sales OS* is a legacy alias |
 | Dproperty | Branded brokerage/franchise operating model |
-| BluePrint | Post-qualification transaction/back-office system of record **and** management-control layer: transaction file, compliance, approvals, closing, commission calculation, budgets/variance, process assurance, Glitches, period close, audit. Never property/unit inventory, listings or MLS |
+| BluePrint | CRM-agnostic back-office management, governance and intelligence; evidence-backed financial health, process/CRM oversight, policies and audit; no commercial execution |
 | BlankCRM | Managed GoHighLevel-based front-office package |
 | Academy / Building Blocks | **Canonical name** for the learning/onboarding/certification layer, powered by Open edX; mostly bundled. *Building Blocks* is a legacy alias (corrected 2026-09-23) |
 | VAULTED | Gated opportunity, deal-room and distribution module |

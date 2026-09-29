@@ -4,7 +4,7 @@ title: "Prototype Control Note"
 type: product_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-29
 source: ChatGPT baseline vault package
 tags: [product]
 ---
@@ -52,7 +52,7 @@ BluePrint is the operating system for HQ, franchises, white-label agencies, and 
 - Deal Pipeline.
 - Document Generator.
 - Projection Generator.
-- Commission Tracker.
+- Commission Liability Oversight (read-only source calculations; no approval or payout).
 - Training Academy.
 - Private Collection.
 - Developer Sales OS.
@@ -70,7 +70,7 @@ MVP should include:
 - Deal pipeline.
 - Basic document generation/indexing.
 - Projection template.
-- Commission logic.
+- Commission-liability reconciliation against CRM calculation evidence; no operational calculation authority.
 - Franchise dashboard.
 - Private Collection access/request workflow.
 - Training checklist.

@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Status Dashboard
 
@@ -44,7 +44,7 @@
 - The isolated franchise model's BluePrint price of $300/month is a planning simplification. Current integrated pricing hypotheses are $399 Core and $799 Growth, subject to paid validation.
 - The isolated franchise model uses a 6% royalty across the portfolio and 1.5% network fund; the integrated offer currently differentiates Dproperty at 6% plus 1% restricted brand fund and own-brand at 4% with no fund. Contract design and local advice must resolve the final structure.
 - ~~Product names “Building Blocks” and “Building Blocks” refer to the same learning business pending a final naming decision.~~ **RESOLVED 2026-09-23 in favour of Academy.** An LMS is not defensible IP and must not carry investor weight as a standalone product; Academy is a bundled enablement layer. *Building Blocks* is a legacy alias.
-- **RESOLVED 2026-09-23:** BluePrint is the transaction/commission spine **and** the management-control layer, merging the 2026-09-20 `18_Ecosystem` definition with this folder's. Property/unit inventory, listings and MLS remain permanently retired.
+- **RESOLVED 2026-09-23:** BluePrint is the management verification and reconciliation layer **and** the management-control layer, merging the 2026-09-20 `18_Ecosystem` definition with this folder's. Property/unit inventory, listings and MLS remain permanently retired.
 - **RESOLVED 2026-09-23:** the own-brand channel is **B_ Partner**, not “White-Label”.
 - **RESOLVED 2026-09-23:** BluePrint pricing is **Core $399 / Growth $799 / $1,500 setup** per organization. The $299–$300 franchise-model simplification and the $299/$599/$999 set are both retired; a **Scale** tier is quoted and deliberately undefined.
 

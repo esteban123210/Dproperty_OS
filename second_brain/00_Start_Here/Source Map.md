@@ -4,7 +4,7 @@ title: "Source Map"
 type: source_map
 status: Active
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [research, sources]
 ---
 
@@ -25,7 +25,7 @@ tags: [research, sources]
 
 ## Technology boundaries
 
-BluePrint — proprietary management/control layer; system of record for the verified transaction and commission record from qualified opportunity.  
+BluePrint — proprietary CRM-agnostic back-office management, governance and intelligence; sourced commercial observations never confer execution authority.
 GoHighLevel — third-party engine behind BlankCRM.  
 Open edX — Building Blocks engine.  
 Accounting — ledger.  

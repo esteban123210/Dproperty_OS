@@ -4,7 +4,7 @@ title: "Current Priorities"
 type: priorities
 status: Active v2.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [priorities, investor, product]
 ---
 
@@ -14,7 +14,7 @@ tags: [priorities, investor, product]
 # Current Priorities — Post-Reconciliation
 
 ## P0 — Decisions only Esteban can ratify
-1. **Ratify the reconciled BluePrint definition** — management OS whose system of record is the verified transaction/commission record from qualified opportunity. See [[../01_Canon/00 - Precedence and Canonical Reconciliation]] §2.
+1. **Implement the approved architecture (2026-09-29).** Prove standalone BlankCRM execution and independent BluePrint financial/process oversight.
 2. **Ratify pricing:** Core $399 / Growth $799 / $1,500 setup. Decide whether a Scale tier exists and what it contains.
 3. **Ratify the $950k / $800k capital envelope** as the single current position.
 4. ~~Confirm Academy over Building Blocks.~~ **RESOLVED 2026-09-24: Building Blocks is a standalone product.** See [[../01_Canon/19 - Portfolio Composition Principle]].
@@ -27,7 +27,7 @@ tags: [priorities, investor, product]
 5. Keep the honest verdict visible: **conditional pilot investment**.
 
 ## P1 — Product proof
-1. Lovable BluePrint prototype covering the **golden workflow: qualified intake → transaction file → documents/compliance → approval → closing → commission snapshot → management report.**
+1. Lovable BluePrint prototype covering the **golden workflow: CRM evidence intake → verification → expected vs actual cash reconciliation → variance/Glitch → management recommendation → review → management report.**
 2. Internal Dproperty test.
 3. 10–20 discovery interviews.
 4. 5 design partners.

@@ -4,7 +4,7 @@ title: "08_Operations — How Work Is Actually Done"
 type: folder_readme
 status: Active
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [readme, navigation]
 ---
 
@@ -22,7 +22,7 @@ These are **shared** standards, used by Dproperty Franchise, B_ Partner and the 
 |---|---|
 | `Process Library/` | **The role-based process library** — the operating core |
 | `Operations Manual` | Franchise/office operations manual |
-| `Golden Transaction Workflow` | The end-to-end transaction workflow BluePrint must support |
+| `Golden Transaction Workflow` | The end-to-end commercial workflow BlankCRM executes and BluePrint may observe |
 | `Shared Operating Model` | What all channels share |
 | `Onboarding Support and QA` | Onboarding, support and quality standards |
 | `Reporting and Management Cadence` | Weekly/monthly/quarterly rhythm |

@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Golden Transaction Workflow
 
@@ -27,7 +27,9 @@ Stage and status are separate. Stage is progression; status is active, blocked, 
 
 ## Workflow ownership
 
-CRM owns pre-qualification. BluePrint owns the transaction. VAULTED owns gated discovery/access and creates/references the workspace. LMS owns detailed learning; BluePrint may gate roles/access using completion status. Finance/accounting validates actual receipts/payouts and returns status; BluePrint is operational commission authority, not bank ledger.
+All stages in the table execute in BlankCRM/chosen CRM, including legal review, commercial approvals, signature orchestration, payment milestones, closing, commission calculation/approval and post-sale. Add lead capture/qualification before stage 1 and post-sale service after stage 9. Authorized specialist providers retain inventory, signature, settlement and accounting authority.
+
+BluePrint optionally reads lifecycle events and evidence to verify management outcomes, reconcile expected vs actual cash, monitor CRM usage and process Glitches, and recommend intervention. It never completes a stage or approves a transaction. VAULTED supplies permitted discovery/attribution; Building Blocks supplies learning. Standalone BlankCRM must pass this workflow without BluePrint.
 
 ## First MVP transaction type
 

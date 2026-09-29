@@ -5,7 +5,7 @@ type: strategy_note
 status: "v2.0 - Seed Ready"
 version: 2.0
 owner: Esteban
-last_updated: 2026-08-28
+last_updated: 2026-09-29
 tags: [strategy, investor, seed-funding, pitch]
 ---
 
@@ -100,7 +100,7 @@ Agencies find value in VAULTED
     ↓
 More agencies adopt BluePrint (to access VAULTED)
     ↓
-More transactions through BluePrint
+More CRM commercial outcomes available for BluePrint oversight
     ↓
 Better intelligence for developers
 ```
@@ -183,7 +183,7 @@ Becomes franchise → LTV: $60k+/year
 | **RE/MAX, Engel & Völkers** | Franchise real-estate brands | B_ is technology + network + infrastructure, not brand-dependent. Agents can use B_ while staying independent. |
 | **Zillow, Move, CoStar** | Consumer portals + MLS | B_ is operations + back-office, not consumer portal. Own the backend, not the front end. |
 | **Salesforce, HubSpot, GoHighLevel** | CRM + marketing | B_ is post-CRM (where CRM is inadequate). Works WITH their CRM, not against. |
-| **BoomTown, Follow Up Boss** | Real-estate CRM | B_ owns transaction spine + compliance + commissions. They own lead pipeline only. |
+| **BoomTown, Follow Up Boss** | Real-estate CRM | B_ combines configured full-lifecycle CRM execution with independent back-office oversight. Competitor capabilities require validation; do not claim they stop at leads. |
 | **Zapier + Google Sheets** | DIY automation | B_ is pre-built for real-estate (industry-specific logic, not generic). |
 
 **B_'s unique position:** Nobody owns the full stack (CRM-agnostic operating system + network + marketplace). We can.

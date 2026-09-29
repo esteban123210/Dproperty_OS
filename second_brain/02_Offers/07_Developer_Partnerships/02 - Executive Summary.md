@@ -7,13 +7,13 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Developer Sales Program — Executive Summary
 
 ## Offer
 
-The Developer Sales Program gives property developers a controlled way to publish project/unit truth, authorize agencies, release inventory windows, qualify demand, manage reservations and approvals, coordinate transactions, and see attribution and channel performance. It connects a developer workspace and VAULTED distribution to BluePrint execution.
+The Developer Sales Program gives property developers a controlled way to publish project/unit truth, authorize agencies, release inventory windows, qualify demand, manage reservations and approvals, coordinate transactions, and see attribution and channel performance. It connects a developer workspace and VAULTED distribution to BlankCRM/chosen-CRM execution with optional BluePrint management oversight.
 
 This is not a generic marketing agency, construction-management product, or promise to sell inventory. The initial wedge is sales operations and channel governance for selected investment-oriented projects.
 
@@ -31,7 +31,7 @@ This is not a generic marketing agency, construction-management product, or prom
 4. Agency eligibility and distribution window.
 5. Qualified interest with source attribution and consent.
 6. Inventory validation/allocation or reservation.
-7. BluePrint transaction workspace, documents, approvals, milestones, and closing.
+7. BlankCRM/chosen-CRM transaction workspace, documents, approvals, milestones, and closing.
 8. Commission/fee validation and developer performance report.
 
 ## Commercial model to test

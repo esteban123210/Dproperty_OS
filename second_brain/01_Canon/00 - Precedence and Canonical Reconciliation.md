@@ -2,10 +2,10 @@
 project: B_RealEstate
 title: "Canonical Reconciliation and Precedence"
 type: decision_record
-status: Canonical v1.0 — CONTROLS THE VAULT
+status: Canonical v3.0 — CONTROLS THE VAULT
 owner: Esteban
 date: 2026-09-23
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [ecosystem, governance, precedence, decision, source-of-truth]
 ---
 
@@ -13,56 +13,32 @@ tags: [ecosystem, governance, precedence, decision, source-of-truth]
 
 > **This note resolves the conflict between the `18_Ecosystem` canon (2026-09-20) and the `19_Canonical_B_RealEstate` baseline (2026-09-23). It controls the whole vault. Every other note is subordinate to it.**
 
-## 1. Why this note exists
+## 1. Architecture correction — 2026-09-29 [D]
 
-Two internally-consistent canonical layers were built three days apart and they contradicted each other on the single most important question in the company: **what BluePrint is**.
+The founder's clarified architecture supersedes the September 23 allocation of post-qualification execution to BluePrint and the incomplete September 25 correction. Historical decisions remain evidence, not implementation guidance. Qualification is a stage in the CRM, never a transfer of execution authority.
 
-| | `18_Ecosystem` + `02_Offers/01_BluePrint/BluePrint` (2026-09-20) | `19_Canonical_B_RealEstate` (2026-09-23) |
-|---|---|---|
-| BluePrint | Management-control layer. Transaction spine **explicitly retired**. | **Transaction spine**: qualified opportunity → close → commission → audit. |
-| 4th product | **Academy** (Open edX), bundled enablement | **Building Blocks**, commercial LMS product |
-| Own-brand channel | **B_ Partner** | White-Label partner |
-| BluePrint pricing | $299 / $599 / $999 per org | $1,500 setup + $399 / $799 per office |
-| Raise | $650k ask retired; rebuild milestone-based | **$950k** capitalization / $800k 18-month plan |
+## 2. Binding product boundary
 
-Left unresolved, this makes the vault unusable for investors, developers and AI assistants: two files answer "what are we building" differently, and neither is labelled as losing.
+BluePrint does not execute the sales process.
 
-> [!WARNING] Positioning corrected 2026-09-25
-> The **boundaries** below still hold, but the **positioning and differentiator do not**.
-> BluePrint is an **agentic back office** — a CEO/CFO/COO/CMO without C-suite payroll — whose
-> defining rule is that **nothing is recorded without evidence**. The "transaction spine from
-> qualified opportunity" framing claimed a differentiator a CRM already provides.
-> See [[22 - BluePrint Repositioned - Agentic Back Office]].
+BlankCRM executes the full commercial lifecycle: lead capture, qualification, legal workflow, approvals, contracts, payment milestones, closing, commissions, post-sale, communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPI and CRM-usage oversight, process/Glitch monitoring, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone. When connected, BluePrint observes, verifies, governs and recommends; authorized teams execute sales actions in BlankCRM or their chosen CRM.
 
-## 2. The decision
+### Ownership and evidence
 
-**The two definitions were never actually mutually exclusive. They are merged, not chosen between.**
+- Sales, legal, administration, collections and commercial management work in BlankCRM for the commercial journey. Approvals, signing workflows, collection follow-up, closing and commission calculation/approval remain there, using configured integrations where necessary.
+- BluePrint's administrator maintains back-office records, reconciles expected receipts with bank/accounting evidence, tracks expenses and budgets, investigates discrepancies and records management decisions. A copied CRM stage or commission amount is a sourced observation, not a second writable transaction master.
+- BluePrint may approve management budgets, policies and corrective actions. This does not approve a contract, release a payment, change a deal stage or authorize a commission in the CRM. Management intervention results in a recommendation/escalation; the responsible team implements commercial corrections in the source system.
+- CEO/CFO/COO/CMO agents detect, explain, propose and escalate within permissions. AI roles are product targets, not proof of delivered software. Neither AI nor a CRM label substitutes for legal review or settled-funds evidence.
+- Accounting owns statutory books; banks/payment providers own settlement; e-sign providers and legal archives retain signature evidence. BluePrint owns management verification status and provenance, not these source records.
+- BlankCRM can be sold and used without BluePrint. BluePrint can read BlankCRM, other CRMs or authorized manual imports. Neither product's commercial lifecycle depends on subscribing to the other.
+- Configuration scope is not a claim that every capability is native in GoHighLevel. Pilot each approval, document, signature, payment and commission integration; disclose gaps and costs before sale.
 
-> **BluePrint is a chat-first, AI-native management operating system for small and growing real-estate agencies, whose system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity.**
+### Acceptance examples
 
-The `18_Ecosystem` strategic frame wins (product-led company, CRM-agnostic, one authority per data class, verification hierarchy, franchising is a channel). The `19_Canonical` **transaction/commission object** wins as BluePrint's core entity, because it is the atom of management truth for a brokerage.
-
-### Why this is the right answer business-wise
-
-1. **You cannot verify what you do not hold.** The `18_Ecosystem` verification hierarchy — Reported → Operationally verified → Financially verified → Closed — *is a transaction lifecycle*. Its own worked example is a deal marked Won in CRM becoming verified in BluePrint. That requires BluePrint to hold a deal and commission record.
-2. **A management layer with no owned transaction object is a BI tool.** `13 - Personas` names the buyer's top fear as "buying another dashboard." A pure reporting layer over someone else's data *is* that dashboard. It will not sustain $399–$799/month.
-3. **Commission calculation and deal-file compliance are the real, expensive, defensible pain.** They are what spreadsheets currently do badly, they touch money, and they are genuinely hard to copy. That is a wedge people pay for.
-4. **`03 - Architecture` already conceded it**, listing "receivables, commission liabilities" inside BluePrint's scope.
-5. **`19_Canonical`'s MVP gate is sharper and falsifiable**: "one workflow executes from qualified intake through commission/report without a shadow spreadsheet as authority." That is a testable product thesis. Keep it.
-
-### What stays retired — and this is the important part
-
-The 2026-09-20 decision record was **right to retire** the *property / project / unit inventory* ambition. That retirement stands permanently:
-
-- ❌ property, project and unit inventory
-- ❌ listing management and MLS
-- ❌ pre-qualification lead pipeline and marketing automation
-- ❌ general ledger, tax, payroll
-- ❌ property management
-- ❌ LMS / course delivery
-- ❌ marketplace listings and matching
-
-**What was over-retired was the transaction and commission record.** That comes back, and only that. The distinction is: BluePrint owns *the deal as a governed management object*, not *the property as inventory*.
+1. Legal reviews a contract and the manager approves it in BlankCRM. BluePrint reads the outcome and flags missing evidence; it cannot complete the review or approval.
+2. BlankCRM schedules and follows up a deposit. A processor/bank settles it. BluePrint compares expected and actual cash and reports variance without collecting or moving the funds.
+3. BlankCRM calculates a commission under the approved rule and routes commercial approval. BluePrint verifies the resulting liability against evidence, forecasts cash and escalates disagreement without changing the source calculation or paying it.
+4. A CRM-only client completes lead-to-post-sale work without a BluePrint account or verification gate.
 
 ## 3. Canonical product and channel definitions
 
@@ -70,12 +46,12 @@ The 2026-09-20 decision record was **right to retire** the *property / project /
 
 | # | Product | Job | Owns | Status |
 |---|---|---|---|---|
-| 1 | **BluePrint** | Run and control the company | Qualified opportunity → transaction file → documents/compliance evidence → approvals → closing → commission calculation → budgets/variance/KPIs → process assurance/Glitches → management actions → period close → audit trail | Proprietary core SaaS/IP |
-| 2 | **BlankCRM** | Sell | Leads, contacts, WhatsApp/email/SMS, forms/calendars, nurture, pre-qualification pipeline, campaign attribution | Attach/acquisition product, powered by GoHighLevel |
+| 1 | **BluePrint** | Manage, govern and understand the company | Financial health, expected vs actual cash, expenses, budgets/variance, KPI and CRM-usage oversight, processes/Glitches, audit, policies, AI executive support, management intervention | Proprietary core SaaS/IP |
+| 2 | **BlankCRM** | Execute the full commercial lifecycle | Lead capture through legal, approvals, contracts, payment milestones, closing, commissions and post-sale; communications, automation and commercial dashboards | Standalone product, powered by GoHighLevel |
 | 3 | **VAULTED** | Access the network | Gated listings/opportunities, access rules, participant identity, matches, introductions, attribution, GMV, marketplace fees | Network-effect hypothesis; gated pilot after BluePrint stability |
 | 4 | **Building Blocks** | Operate better | Learning content, curricula, assessments, certification and competency evidence | Standalone learning product, powered by Open edX |
 
-**Handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply/access. Building Blocks owns capability. Accounting remains the ledger.
+**Handoff line:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. VAULTED owns network supply/access. Building Blocks owns capability. Accounting remains the ledger.
 
 ### Channels — not products
 
@@ -186,9 +162,9 @@ Superseded notes keep their content and open with a visible supersession banner 
 
 | Area | Required change | Status |
 |---|---|---|
-| `02_Offers/01_BluePrint/` | Reinstate the transaction/commission spine as the wedge module inside the management OS; keep the inventory/MLS retirement | ✅ done |
+| `02_Offers/01_BluePrint/` | Replace execution ownership with management verification, reconciliation and governance | ✅ done |
 | `02_Offers/01_BluePrint/03 - Offer and Pricing.md` | Move to $399 / $799 + $1,500 setup | ✅ done |
-| `01_Canon/01`, `02`, `07` | BluePrint owns the verified transaction and commission record | ✅ done |
+| `01_Canon/01`, `02`, `07` | BlankCRM owns execution; BluePrint owns evidence-backed management observations | ✅ done |
 | Academy naming | "Building Blocks" demoted to legacy alias across all records | ✅ done |
 | Channel naming | White-Label → **B_ Partner**; Developer Sales OS → **Developer Partnerships**; Private Collection → **Dproperty Select** | ✅ done — folders renamed |
 | Vault architecture | Two parallel canonical folders dissolved; one home per topic; `02_Offers/` created with one folder per sellable thing | ✅ done — see [[../00_Start_Here/Vault Architecture Map]] |

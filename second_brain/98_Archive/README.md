@@ -4,9 +4,12 @@ title: "98_Archive — Evidence Only"
 type: folder_readme
 status: Active
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [readme, navigation]
 ---
+
+> [!WARNING] Historical architecture — superseded 2026-09-29
+> Earlier assignments of commercial execution to BluePrint are historical only and must not guide implementation. BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation]] · Architecture: [[../00_Start_Here/Vault Architecture Map]]
 

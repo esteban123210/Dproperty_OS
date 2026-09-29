@@ -5,7 +5,7 @@ type: decision_record
 status: Canonical v1.0
 owner: Esteban
 date: 2026-09-24
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 tags: [canon, decision, dpropertyliving, brand, channel, b2c]
 ---
 
@@ -65,12 +65,12 @@ If DpropertyLiving is ever proposed as a franchise line or a separate business, 
                  BlankCRM (GoHighLevel)
               two sub-accounts, one engine
                        │
-              qualified opportunity
+              authorized lifecycle evidence
                        ▼
                    BluePrint
 ```
 
-Both brands feed **BlankCRM** as separate sub-accounts, and both hand qualified opportunities to **BluePrint**. The handoff line is unchanged: BlankCRM owns demand until qualification, BluePrint owns everything after.
+Both brands feed **BlankCRM** as separate sub-accounts, and both retain full commercial execution in **BlankCRM**, with optional evidence feeds to **BluePrint**. The handoff line is unchanged: BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 ## Consequences
 

@@ -108,3 +108,5 @@ Acceptance of the 4% royalty · actual launch cost vs the $30,000 entry fee · i
 - `[R]` **Whether non-Dproperty firms trust a platform owned by a company that also runs a competing franchise brand.** Needs a legal/technical separation story.
 - `[A]` The $360,000 mature-office GCI is a modelled scenario, not an observed result.
 - `[A]` Every line in the launch-cost build-up is an estimate with no delivery history.
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Borrowing Brilliance and Originality Method
 
@@ -23,8 +23,8 @@ Study proven patterns from adjacent domains:
 
 | Source domain | Pattern worth studying | B_ translation |
 |---|---|---|
-| CRM | lifecycle, ownership, automation | qualified intake and status writeback |
-| ERP/case management | system of record, controls, approvals | transaction workspace and audit |
+| CRM | lifecycle, ownership, automation | BlankCRM full commercial execution; read-only evidence feed to BluePrint |
+| ERP/case management | controls, exceptions, approvals | BluePrint management case, policy review and audit; commercial approval remains in CRM |
 | Data rooms | progressive access and evidence | VAULTED NDA/invitation states |
 | Franchise systems | playbooks, territory, support, QA | Dproperty/partner operations |
 | LMS/certification | assignments, completion, expiry | Building Blocks readiness gates |
@@ -35,7 +35,7 @@ Borrow patterns, not interface copies or brand claims. Record source, license, w
 
 ## 3. Combine
 
-The novel combination is a transaction spine + configurable operating system + learning/readiness + gated inventory distribution + controlled franchise/partner channel. The combination is valuable only if it reduces handoff friction and creates an auditable outcome—not because it has many modules.
+The novel combination is a full-lifecycle CRM execution + independent management governance + learning/readiness + gated inventory distribution + controlled franchise/partner channel. The combination is valuable only if it reduces handoff friction and creates an auditable outcome—not because it has many modules.
 
 ## 4. Incubate
 

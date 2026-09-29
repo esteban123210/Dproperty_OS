@@ -4,7 +4,7 @@ title: "AI Handoff Pack - Read Me"
 type: ai_handoff
 status: Active v2.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [ai-handoff]
 ---
 
@@ -57,10 +57,8 @@ Key facts you must not get wrong:
 - B_RealEstate is a product-led operating-infrastructure company, NOT a franchise company.
 - Products: BluePrint (run the company) · BlankCRM (sell, powered by GoHighLevel) ·
   VAULTED (network) · Building Blocks (learning, powered by Open edX).
-- BluePrint's system of record is the verified transaction, commission and management-control
-  record, beginning at QUALIFIED OPPORTUNITY. It does NOT own property/unit inventory, MLS,
-  the pre-qualification pipeline, the general ledger, payroll, or escrow.
-- Handoff line: BlankCRM owns demand until qualification; BluePrint owns everything after.
+- BlankCRM executes the full commercial lifecycle from lead capture through legal workflow, approvals, contracts, payment milestones, closing, commissions and post-sale, including communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPIs, CRM-usage oversight, processes/Glitches, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone; BluePrint reads authorized data, verifies, governs and recommends without executing sales actions.
+- Handoff line: BlankCRM executes commerce through post-sale; BluePrint provides optional management oversight.
 - Channels, not products: Direct SaaS · B_ Partner · Dproperty Franchise · Developer Partnerships.
 - Naming: Building Blocks (not Academy) · B_ Partner (not White-Label) ·
   Dproperty Select (not Private Collection) · BluePrint (not Dproperty OS/Plano/La Plataforma).

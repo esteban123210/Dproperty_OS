@@ -4,10 +4,13 @@ title: "Package Contents Index"
 type: package_index
 status: Generated
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-29
 source: ChatGPT baseline vault package
 tags: [package]
 ---
+
+> [!WARNING] Historical architecture — superseded 2026-09-29
+> Earlier assignments of commercial execution to BluePrint are historical only and must not guide implementation. BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > Describes the original July 2026 baseline vault package, before the product-led reset and the 2026-09-23 canonical reconciliation. Folder contents and priorities have changed substantially.

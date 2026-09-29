@@ -4,7 +4,7 @@ title: "Offer Portfolio Map"
 type: offer_portfolio
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 tags: [canon, offers, portfolio, pricing, navigation]
 ---
 
@@ -47,10 +47,10 @@ Navigation is organized by *what we sell*. Strategy is organized by *what create
 ```mermaid
 flowchart LR
     L["Clients / Leads"] --> CRM["2 · BlankCRM
-demand → qualification"]
-    CRM -->|"qualified opportunity"| BP["1 · BluePrint
-transaction · commission
-control · audit"]
+lead → legal → contract → closing → commission → post-sale"]
+    CRM -->|"authorized lifecycle observations"| BP["1 · BluePrint
+financial health · governance
+intelligence · audit"]
     ACC["Accounting · Bank
 Drive · E-sign"] --> BP
     CRM <--> VA["3 · VAULTED
@@ -70,14 +70,14 @@ curated inventory"] --> VA
     DEV --> CRM
 ```
 
-**The handoff line:** BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.
+**The handoff line:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.
 
 ## Boundary table — who owns what
 
 | Domain | Owner | Notes |
 |---|---|---|
 | Leads, contacts, conversations, campaigns | **BlankCRM** | Powered by GoHighLevel |
-| Pre-qualification pipeline | **BlankCRM** | Reported, not verified |
+| Full commercial execution, legal, approvals, contracts, payment milestones, closing, commissions, post-sale | **BlankCRM** | Source commercial records; bank settlement remains external |
 | Evidence-backed financial record: only registers with a valid attachment | **BluePrint** | System of record — CFO function |
 | Glitch Report, process intelligence, budgets, variance, KPIs, period close, audit | **BluePrint** | System of record |
 | Property/project/unit inventory, listings, MLS | **Developer system / portal / VAULTED** | **Never BluePrint** |
@@ -93,7 +93,7 @@ Full matrix: [[07 - System of Record and Integration Matrix]].
 
 | Offer | Status | Next gate |
 |---|---|---|
-| **BluePrint** | Spec complete; **build priority**. Agents are `[T]` thesis, not built | Prototype glitch→diagnosis and invoice→classified record → 5 design partners → 3 paid |
+| **BluePrint** | Manage/govern the company | Evidence-backed financial health, expected vs actual cash, expenses, budgets and variance; KPI and CRM-usage oversight; process/Glitch monitoring; policies, management interventions, audit and AI executive support | Proprietary SaaS/IP |
 | **BlankCRM** | Definition complete; **price unmodelled** | Build COGS model from GHL plan + messaging/AI + support |
 | **VAULTED** | Hypothesis only | **Gated** — no automation before BluePrint stability; needs attribution + legal model per jurisdiction |
 | **Building Blocks** | Standalone product; **cost base unquoted** | Quote LMS cost; prove attach via BluePrint signals |

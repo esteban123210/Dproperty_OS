@@ -5,12 +5,16 @@ type: decision_record
 status: Canonical v1.0 — CORRECTS THE PRODUCT DEFINITION
 owner: Esteban
 date: 2026-09-25
-last_updated: 2026-09-25
+last_updated: 2026-09-29
 tags: [canon, decision, blueprint, positioning, agentic, glitch-report]
 ---
 
+> [!IMPORTANT] Product boundary — 2026-09-29 [D]
+> BlankCRM executes the full commercial lifecycle from lead capture through legal workflow, approvals, contracts, payment milestones, closing, commissions and post-sale, including communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPIs, CRM-usage oversight, processes/Glitches, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone; BluePrint reads authorized data, verifies, governs and recommends without executing sales actions.
+
+
 > [!IMPORTANT] Precedence
-> This note **corrects** the BluePrint definition in [[00 - Precedence and Canonical Reconciliation]] §2. The boundaries there still hold; the **positioning and the differentiator do not**.
+> This September 25 positioning note is amended by the September 29 architecture decision in [[00 - Precedence and Canonical Reconciliation]] §2, which controls product ownership. Agentic management remains the thesis; full commercial execution belongs to BlankCRM.
 
 # BluePrint Repositioned — 2026-09-25
 
@@ -42,7 +46,7 @@ The CRM is fed by the people who are paid on what it reports. So:
 
 **Good CRM usage is itself the CRM's main dependency.** That is the gap.
 
-BluePrint does not depend on anyone's discipline. **It only registers what carries evidence.**
+BluePrint requires evidence to verify actuals. Its reliability still depends on evidence completeness, integration quality and accountable human review. Expected cash, budgets and forecasts are explicitly labeled expectations, not verified receipts.
 
 ## The decision — what BluePrint is
 
@@ -50,7 +54,7 @@ BluePrint does not depend on anyone's discipline. **It only registers what carri
 
 Two rules define it:
 
-1. **Nothing is recorded without evidence.** A sale, purchase or payment registers only when the valid attachment exists — receipt, invoice, contract, bank proof. No attachment, no record. This is what makes BluePrint's numbers trustworthy when the CRM's are not.
+1. **No actual is verified without evidence.** A sale, purchase or payment registers only when the valid attachment exists — receipt, invoice, contract, bank proof. Unverified observations and forecasts are labeled; verified actuals require supporting evidence. This is what makes BluePrint's numbers trustworthy when the CRM's are not.
 2. **Agents manage, not just report.** They do not render a dashboard and wait. They detect, explain, suggest and escalate.
 
 ### The agentic C-suite
@@ -103,7 +107,7 @@ A two-person agency with that is worth materially more than one whose records li
 
 All boundaries from the reconciliation stand:
 
-- ❌ leads, marketing automation, pre-qualification pipeline → **BlankCRM**
+- ❌ leads, marketing automation, full commercial pipeline through post-sale → **BlankCRM**
 - ❌ property/project/unit inventory, listings, MLS
 - ❌ general ledger of record, tax filing, payroll → **accounting platform**
 - ❌ property management · LMS delivery · marketplace · escrow, custody, money movement
@@ -115,7 +119,7 @@ All boundaries from the reconciliation stand:
 
 ## The handoff line — revised
 
-> **BlankCRM helps the team sell and depends on their discipline. BluePrint runs the back office and depends only on evidence.**
+> **BlankCRM executes the commercial process through post-sale. BluePrint verifies evidence and supports back-office management; data completeness and human review remain essential.**
 
 BluePrint additionally **reads** the CRM to audit whether sales execution matches management's goals.
 
@@ -129,8 +133,8 @@ BluePrint additionally **reads** the CRM to audit whether sales execution matche
 | `02_Offers/01_BluePrint/08 - One-Pager Exec Summary.md` | Rewrite | ✅ |
 | Spanish two-pager + ecosystem document | Rewrite | ✅ |
 | `00 - Precedence` §2 | Point to this note | ✅ |
-| `12 - Core Modules` | Add Glitch Report and agent roles as first-class modules | ⬜ pending |
-| `15 - MVP and Validation Plan` | Golden workflow should lead with glitch → diagnosis and invoice → classified record | ⬜ pending |
+| `12 - Core Modules` | CRM oversight, Glitches, finance control and executive roles corrected | Complete 2026-09-29 |
+| `15 - MVP and Validation Plan` | Standalone CRM execution plus independent management reconciliation | Complete 2026-09-29 |
 
 ## Open questions this raises
 

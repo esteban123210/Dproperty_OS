@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Investment Committee Attack Sheet
 
@@ -25,7 +25,7 @@
 | AI is generic | AI is not moat; workflow/data/permissions are | Measurable productivity and safe evaluation |
 | Data moat claim is dangerous | Agreed if ownership/consent unclear | DPAs, minimization, aggregation rules, audit |
 | Founder dependency is extreme | True today | Hiring plan, governance, process and references |
-| Why not use existing CRM/back office? | B_ targets post-qualification, jurisdiction/configuration and partner network | Win/loss evidence and time/cost outcomes |
+| Why not use existing CRM/back office? | B_ targets management reconciliation and oversight alongside full-lifecycle CRM configuration | Win/loss evidence and time/cost outcomes |
 | Cash plan is too precise | It is a scenario with missing quotes | Actuals, vendor quotes, monthly reforecast |
 | $950k is undercapitalized | Adequate only for narrow gated plan | Downside runway and ability to cut scope |
 | Unicorn claim is promotional | Not an operating assumption | Thousands of orgs, retention, GMV and scalable economics |

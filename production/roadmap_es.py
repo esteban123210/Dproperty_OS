@@ -12,7 +12,7 @@ ROADMAP = [
 # ═══════════════════════════════ PÁGINA 1 — ESTRATEGIA Y FASE 1
 masthead("Ruta de Desarrollo", "De dónde partimos y en qué orden",
   "Secuencia, tiempos, capital por etapa y qué especialista se necesita en cada frente.",
-  "B_RealEstate<br>25 sept 2026<br>v3.0")
+  "B_RealEstate<br>29 sept 2026<br>v3.0")
 
 + '<h2><span class="snum">00</span>Por qué este orden y no otro</h2>'
 + '<div class="cols2">'
@@ -57,7 +57,7 @@ masthead("Ruta de Desarrollo", "De dónde partimos y en qué orden",
 
 # ═══════════════════════════════ PÁGINA 2 — FASE 1 ARRANQUE
 masthead("Ruta de Desarrollo", "Fase 1 · GoHighLevel", None,
-         "B_RealEstate<br>25 sept 2026", small=True)
+         "B_RealEstate<br>29 sept 2026", small=True)
 + '<h2><span class="snum">02</span>Fase 1 — GoHighLevel · Semanas 1 a 10</h2>'
 + '<p class="small"><strong>Dos sub-cuentas, un solo motor.</strong> Dproperty habla de rendimiento e '
   'inversión. DpropertyLiving habla de estilo de vida y hogar. <strong>Mismo inventario, dos '
@@ -82,7 +82,7 @@ masthead("Ruta de Desarrollo", "Fase 1 · GoHighLevel", None,
   '<p class="small"><strong>Asignación:</strong> round-robin, por zona o por especialidad, con reasignación '
   'automática si no hay contacto.</p>'
   '<div class="callout gold" style="margin:1.5mm 0"><strong>Definir aquí la «oportunidad calificada».</strong> '
-  'Es el punto exacto donde después BluePrint tomará el control. Definirlo ahora, aunque BluePrint no '
+  'Es una etapa del CRM, no un traspaso de ejecución. Definirla ahora, aunque BluePrint no '
   'exista, evita rehacer todo el embudo el año que viene.</div>')
 + phase("Sem 3–5","Automatización","Quitarle trabajo operativo al equipo comercial",
   '<p class="small"><strong>Velocidad de respuesta:</strong> contacto automático en menos de 5 minutos, '
@@ -98,7 +98,7 @@ masthead("Ruta de Desarrollo", "Fase 1 · GoHighLevel", None,
 
 # ═══════════════════════════════ PÁGINA 2 — FASE 1 (cont.) Y FASE 2
 masthead("Ruta de Desarrollo", "Fase 1 continuación y Fase 2", None,
-         "B_RealEstate<br>25 sept 2026", small=True)
+         "B_RealEstate<br>29 sept 2026", small=True)
 
 + '<div class="tl">'
 + phase("Sem 4–6","Contenido y redes","Dos calendarios, dos tonos de voz",
@@ -133,7 +133,7 @@ masthead("Ruta de Desarrollo", "Fase 1 continuación y Fase 2", None,
 
 # ═══════════════════════════════ PÁGINA 4 — CAPITAL F1 Y FASE 2
 masthead("Ruta de Desarrollo", "Qué hace falta para la Fase 1", None,
-         "B_RealEstate<br>25 sept 2026", small=True)
+         "B_RealEstate<br>29 sept 2026", small=True)
 + '<h2><span class="snum">03</span>Qué hace falta para la Fase 1</h2>'
 + table(["Componente","Qué implica"], [
     ["Licencia de la plataforma","Una sola cuenta de agencia, con sub-cuentas para ambas marcas."],
@@ -146,27 +146,27 @@ masthead("Ruta de Desarrollo", "Qué hace falta para la Fase 1", None,
 
 # ═══════════════════════════════ PÁGINA 5 — FASE 2 DETALLE
 masthead("Ruta de Desarrollo", "Fase 2 · BluePrint y Building Blocks", None,
-         "B_RealEstate<br>25 sept 2026", small=True)
+         "B_RealEstate<br>29 sept 2026", small=True)
 + '<h2><span class="snum">04</span>Fase 2 — BluePrint y Building Blocks</h2>'
 + '<div class="tl">'
 + phase("Mes 3–4","2A · Diseño","Descubrimiento, prototipo y dos cotizaciones",
   '<p class="small">Mapas de recorrido, datos y permisos · prototipo clickeable del '
-  '<strong>flujo dorado</strong>: ingreso calificado → expediente → documentos y cumplimiento → '
-  'aprobación → cierre → cálculo de comisión → reporte de gestión · arquitectura técnica · '
+  '<strong>flujo dorado</strong>: evidencia del CRM → verificación → caja esperada frente a real → '
+  'desviaciones y Glitches → revisión gerencial → reporte de gestión · arquitectura técnica · '
   '<strong>dos propuestas de desarrollo independientes</strong> con equipo nombrado, hitos, derechos de '
   'propiedad intelectual, soporte y exclusiones.</p>'
   '<div class="callout" style="margin:1.5mm 0"><strong>Meta de la etapa:</strong> no se libera capital de '
   'construcción hasta tener <strong>dos cotizaciones comparables</strong>. Es una brecha de evidencia '
   'declarada hoy.</div>')
 + phase("Mes 5–8","2B · Núcleo","MVP núcleo",
-  '<p class="small">Onboarding y roles · ingreso de oportunidad calificada · expediente de transacción · '
-  'tareas · documentos y versiones · auditoría · reportes base. <strong>Piloto interno en Dproperty '
+  '<p class="small">Onboarding y roles · evidencia del CRM · caja esperada frente a real · '
+  'gastos · presupuestos · Glitches · auditoría · reportes gerenciales. <strong>Piloto interno en Dproperty '
   'primero</strong>, después socios de diseño externos.</p>'
   '<p class="small"><strong>Condición de aprobación:</strong> un flujo corre de punta a punta '
   '<strong>sin que una hoja de cálculo paralela sea la autoridad</strong>.</p>')
-+ phase("Mes 9–12","2C · Gerencia","Cumplimiento, comisiones y Copiloto",
-  '<p class="small">Motor de cumplimiento y aprobaciones · <strong>snapshots de cálculo de comisión</strong> · '
-  'conector con GoHighLevel (aquí se cierra el traspaso definido en la Fase 1) · Copiloto con permisos '
++ phase("Mes 9–12","2C · Gerencia","Conciliación, supervisión y roles ejecutivos",
+  '<p class="small">Supervisión de procesos y CRM · <strong>conciliación de caja y pasivos</strong> · '
+  'conector de lectura de GoHighLevel (sin ejecutar acciones comerciales) · Copiloto con permisos '
   'para consulta y borradores · endurecimiento para producción y pruebas de seguridad.</p>'
   '<p class="small"><strong>Meta:</strong> 5 socios de diseño y 3 conversiones pagadas.</p>')
 + phase("Mes 4–6","2D · Plataforma","Building Blocks — plataforma",
@@ -177,7 +177,7 @@ masthead("Ruta de Desarrollo", "Fase 2 · BluePrint y Building Blocks", None,
 + phase("Mes 6–10","2E · Currículo","Building Blocks — currículo y certificación",
   '<p class="small">Producción del currículo base de incorporación (12–20 módulos estimados) · '
   'evaluaciones · certificación con vencimiento y renovación · la <strong>habilitación de permisos</strong> '
-  'desde BluePrint según certificación vigente.</p>'
+  'en cada producto según certificación vigente; BluePrint supervisa la política.</p>'
   '<div class="callout gold" style="margin:1.5mm 0"><strong>No expandir el catálogo</strong> más allá de '
   'la incorporación base hasta ver demanda real derivada desde BluePrint. Es un producto que madura '
   'despacio: conviene construir lo que se va a usar y ampliar después.</div>')
@@ -185,7 +185,7 @@ masthead("Ruta de Desarrollo", "Fase 2 · BluePrint y Building Blocks", None,
 
 # ═══════════════════════════════ PÁGINA 3 — FASE 3 ASESORES Y CAPITAL
 masthead("Ruta de Desarrollo", "Fase 3 · Franquicia, asesores y tramos de capital", None,
-         "B_RealEstate<br>25 sept 2026", small=True)
+         "B_RealEstate<br>29 sept 2026", small=True)
 
 + '<h2><span class="snum">05</span>Fase 3 — Franquiciar la empresa · en paralelo desde el mes 2</h2>'
 + '<p class="small">Arranca <strong>antes</strong> de que BluePrint esté listo porque el reloj legal y de '
@@ -229,7 +229,7 @@ masthead("Ruta de Desarrollo", "Fase 3 · Franquicia, asesores y tramos de capit
 
 # ═══════════════════════════════ PÁGINA 7 — TRAMOS DE CAPITAL
 masthead("Ruta de Desarrollo", "Tramos de capital atados a metas", None,
-         "B_RealEstate<br>25 sept 2026", small=True)
+         "B_RealEstate<br>29 sept 2026", small=True)
 + '<h2><span class="snum">06</span>Etapas de financiamiento atadas a resultados</h2>'
 + '<p class="small">El financiamiento se libera <strong>contra evidencia, no contra calendario</strong>. Cada etapa tiene una condición concreta que debe cumplirse antes de abrir la siguiente. Los montos se detallan en el modelo financiero.</p>'
 + table(["Etapa","Qué financia","Qué debe demostrarse para abrir la siguiente"], [

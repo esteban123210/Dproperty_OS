@@ -5,11 +5,14 @@ type: business_plan
 status: In Review
 version: 0.9
 owner: Esteban
-last_updated: 2026-07-04
+last_updated: 2026-09-29
 source: Realigned to 2026-07-02 decisions + Financial Model v0.5
 supersedes: v0.5 (2026-07-01 ChatGPT baseline)
 tags: [business-plan]
 ---
+
+> [!WARNING] Historical architecture — superseded 2026-09-29
+> Earlier assignments of commercial execution to BluePrint are historical only and must not guide implementation. BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
 > The “Dproperty OS & Network” franchise-first plan. Even its name is legacy — the platform is **BluePrint**.
@@ -19,7 +22,7 @@ tags: [business-plan]
 > Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.
 > Current source: [[../../04_Business_Plan/B_ Business Model Reset - 2026-09-20]]
 
 # Dproperty OS & Network — Business Plan

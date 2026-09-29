@@ -102,3 +102,5 @@ Actual pool percentage by project and market · realized fee by base · desk sta
 - `[R]` Existing signed agreements must be checked against these bases before any figure is reused externally.
 - `[A]` The 0.5% / 2.5–3.0% bands are legacy commercial structures, not validated current pricing.
 - `[A]` The 3–5% pool range is market-dependent and unverified per country.
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

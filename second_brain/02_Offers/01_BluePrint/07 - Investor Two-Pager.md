@@ -7,15 +7,15 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # BluePrint — Investor Two-Pager
 
 ## 1. The idea in plain English
 
-BluePrint is the back-office and transaction operating system for small and midsize real-estate organizations. It starts when a lead becomes a qualified opportunity and controls everything needed to move that opportunity to a documented close: parties, property/project data, compliance evidence, tasks, documents, approvals, reservation and contract milestones, commissions, reports, and audit history.
+BluePrint is the CRM-agnostic back-office management, governance and intelligence system for sales-led businesses. Evidence-backed financial health, expected vs actual cash, expenses, budgets and variance; KPI and CRM-usage oversight; process/Glitch monitoring; policies, management interventions, audit and AI executive support. Commercial execution stays in BlankCRM or the chosen CRM at every stage.
 
-It is designed for agencies run by strong sellers who lack time or deep back-office expertise. A coordinator or manager should be able to understand the business, find blockers, produce documents, and obtain reliable answers through structured workflows and a permission-aware Copilot.
+It is designed for agencies run by strong sellers who lack time or deep back-office expertise. A coordinator or manager should be able to understand the business, find management exceptions, review evidence, and obtain reliable answers through governed records and a permission-aware Copilot.
 
 BluePrint does not replace marketing CRM, public listing portals, accounting, escrow, custody, money movement, or legal judgment.
 
@@ -23,17 +23,17 @@ BluePrint does not replace marketing CRM, public listing portals, accounting, es
 
 **Beachhead:** 3–50-person boutique agencies and developer sales teams handling investment, new-development, or cross-border transactions.
 
-**Buyer:** owner, managing broker, operations lead, or commercial director. **Users:** agents, coordinators, compliance reviewers, finance, and management.
+**Buyer:** owner, managing broker, operations lead, or commercial director. **Users:** back-office administrators, finance reviewers and management. Sales/legal teams execute commerce in BlankCRM.
 
 **Problem:** critical data is scattered across chats, drives, spreadsheets, CRMs, and individual memory. Handoffs fail, documents are missing, approvals are invisible, commissions are disputed, and management reporting requires manual reconstruction.
 
-**Value proposition:** one governed transaction spine that makes the current status, evidence, next action, responsible person, and financial outcome visible and auditable.
+**Value proposition:** one management view linking evidence, expected vs actual cash, process exceptions and accountable corrective action without duplicating the CRM.
 
 ## 3. Product and system boundary
 
-Core modules are organization/roles; Back Office Brain; qualified intake; transaction workspace; party and asset records; tasks; documents and versions; compliance and approvals; closing milestones; commission snapshots; reporting; integrations; and permission-grounded Copilot.
+Core modules: organization/roles; Assistant; Company cockpit; CRM Oversight and Evidence; Finance Control; Processes; Glitches; Management Actions; Knowledge; Reports; Integrations; Audit. CEO/CFO/COO/CMO roles are product targets pending validation.
 
-The CRM remains authoritative for marketing consent, campaigns, communications, appointments, and early pipeline. BluePrint becomes authoritative at the accepted qualified handoff. Accounting remains authoritative for booked financial statements and bank/cash records; BluePrint owns operational commission rules and exports.
+The CRM remains authoritative for marketing consent, campaigns, communications, appointments, and full commercial pipeline. BluePrint owns independent management verification, never commercial execution. Accounting remains authoritative for booked financial statements and bank/cash records; BlankCRM/chosen CRM owns operational commission rules and calculations; BluePrint reconciles observed liabilities.
 
 ## 4. Revenue model and unit economics
 
@@ -55,7 +55,7 @@ The base standalone ecosystem scenario reaches **$1.844M year-5 revenue**, **74.
 | Block | Model |
 |---|---|
 | Customer segments | Boutique agencies, developer sales teams, franchises, own-brand partners |
-| Value proposition | Controlled transactions, fewer errors, faster handoffs, accurate commissions, management visibility |
+| Value proposition | Reconciled cash and liabilities, fewer management blind spots, process oversight and auditable decisions |
 | Channels | Founder-led outbound, design partners, franchise/partner channel, developers, Building Blocks |
 | Relationship | High-touch implementation moving toward standardized onboarding and in-product success |
 | Revenue | Setup/migration, Core/Growth SaaS, usage, integrations, premium implementation |
@@ -68,18 +68,18 @@ The base standalone ecosystem scenario reaches **$1.844M year-5 revenue**, **74.
 
 SkySlope, Dotloop, Lone Wolf, and Brokermint provide mature transaction, document, compliance, and brokerage back-office capabilities. Propertybase and broader CRM platforms can cover much of the lifecycle with configuration. The most common incumbent is still a manual stack of CRM + spreadsheets + shared drives + WhatsApp + staff knowledge.
 
-BluePrint's plausible wedge is a simpler operating layer for LATAM/cross-border and new-development workflows, with explicit CRM boundaries, project inventory, role-based standards, commission logic, and an AI interface grounded only in permitted business data. It must not claim feature superiority before workflow demonstrations and customer evidence.
+BluePrint's proposed wedge is simple back-office administration, financial reconciliation, Glitch/process intelligence and CRM-usage oversight with permission-grounded AI. Validate value and willingness to pay before claiming superiority.
 
 ## 7. Defensibility and risks
 
 Defensibility can emerge from deep workflow fit, accumulated templates and configuration packs, integration reliability, transaction/audit data, implementation speed, verified benchmarks, and high switching cost once BluePrint becomes the system of record.
 
-Main risks: building too much before proving one workflow; security/privacy failure; implementation becoming consulting; users retaining shadow spreadsheets; weak adoption by agents; incumbent localization; AI errors; and pricing that ignores support cost.
+Main risks: building too much before proving one workflow; security/privacy failure; implementation becoming consulting; users retaining shadow spreadsheets; weak adoption by administrators and management; incumbent localization; AI errors; and pricing that ignores support cost.
 
 ## 8. What must be proven
 
 - Five design partners and at least three paid conversions.
-- One complete transaction without a shadow spreadsheet as authority.
+- One evidence-backed management reconciliation without a shadow management spreadsheet; standalone commercial execution remains in BlankCRM.
 - Tenant isolation, permissions, audit, restore, and incident tests.
 - Implementation below 40 hours initially, then below 20; activation under 21 days.
 - Weekly active target users above 60%; critical workflow completion above 70% by month 9.

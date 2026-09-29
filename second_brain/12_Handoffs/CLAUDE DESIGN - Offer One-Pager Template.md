@@ -164,3 +164,5 @@ Design for print first — the screen view is a preview, not the deliverable.
 ## Source & change log
 
 - **2026-09-24** created. Brand system lifted from the Ecosystem Website Design Prompt so print and web stay visually consistent.
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

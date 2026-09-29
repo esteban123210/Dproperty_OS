@@ -4,7 +4,7 @@ title: "Building Blocks — Definition and Boundaries"
 type: offer_definition
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 tags: [offer, building-blocks, learning, certification, standalone-product]
 ---
 
@@ -51,7 +51,7 @@ Two consequences:
 
 - management or process truth → **BluePrint**;
 - the process system of record — **Building Blocks never becomes that**;
-- transaction execution, compliance sign-off or approvals → **BluePrint**;
+- transaction execution, compliance sign-off or approvals → **BlankCRM/chosen CRM**;
 - lead or contact data → **BlankCRM**;
 - marketplace listings → **VAULTED**;
 - accredited formal qualifications — it makes **no** claim to issue them;
@@ -78,7 +78,7 @@ approved SOP → execution → BluePrint Glitch / process-health signal
          → later operating outcome measured in BluePrint
 ```
 
-BluePrint **displays** learning status and **may gate** activation, role assignment or inventory access on certification. Open edX owns the learning activity; BluePrint owns the gate and the management consequence.
+BluePrint **displays** learning status and **may recommend** activation, role assignment or inventory-access decisions on certification. Open edX owns the learning activity; BluePrint owns management policy and evidence; the relevant product enforces its own access controls. BlankCRM standalone uses its own authorized policy administration.
 
 No competitor selling a real-estate LMS has the operating-failure signal to drive enrollment. No competitor selling a management system has the remediation path. **The loop is the differentiator, not the courseware.**
 
@@ -92,7 +92,7 @@ Building Blocks is a **real product with real revenue**. It is **not** where the
 
 State both honestly:
 - **Commercially:** a standalone product with its own price, its own buyers and its own revenue line.
-- **Strategically:** proprietary value concentrates in **BluePrint** (transaction/management IP) and **VAULTED** (network effect). Building Blocks is retention, quality, enablement and attach revenue.
+- **Strategically:** proprietary value concentrates in **BluePrint** (management/governance IP) and **VAULTED** (network effect). Building Blocks is retention, quality, enablement and attach revenue.
 
 Do not present it as a headline venture-scale business on its own. Do not hide it either — a franchise buyer values it highly, and it is part of why the package commands its price.
 

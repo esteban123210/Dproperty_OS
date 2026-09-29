@@ -5,7 +5,7 @@ type: decision_record
 status: Canonical v1.0
 owner: Esteban
 date: 2026-09-24
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 tags: [canon, products, portfolio, packaging, pricing, decision]
 ---
 
@@ -77,7 +77,7 @@ Commercial packaging and investment thesis are **different conversations for dif
 | Audience | Frame |
 |---|---|
 | **Customer / franchisee** | Four named products, each with standalone value, composed into a complete package |
-| **Investor** | Proprietary value concentrates in **BluePrint** (transaction/management IP) and **VAULTED** (network effect). BlankCRM is efficient capital allocation on rented infrastructure. Building Blocks is retention, quality and attach revenue. |
+| **Investor** | Proprietary value concentrates in **BluePrint** (management/governance IP) and **VAULTED** (network effect). BlankCRM is efficient capital allocation on rented infrastructure. Building Blocks is retention, quality and attach revenue. |
 
 Adobe sells many products; investors still know which ones matter. There is no dishonesty in a strong product portfolio with a concentrated moat — **the dishonesty would be implying the moat is broader than it is.**
 

@@ -9,7 +9,7 @@ source_notes: ["06_Finance/Financial Model Summary.md", "00_Start_Here/Decision 
 version: 0.7
 status: Model exists (v0.7); handoff documents its logic for rebuild/extension. Phase-2 NOT built.
 owner: Esteban
-last_updated: 2026-07-21
+last_updated: 2026-09-29
 tags: [handoff, production, finance, model]
 ---
 
@@ -21,7 +21,7 @@ tags: [handoff, production, finance, model]
 > Canon: [[../01_Canon/00 - Precedence and Canonical Reconciliation]] · [[../01_Canon/04 - Offer Portfolio Map]]
 
 > [!NOTE] Verified against canon 2026-09-23
-> **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint owns the deal from qualified opportunity · Building Blocks (not Academy) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
+> **Regenerate before external use.** Handoffs are self-contained snapshots, so this file may still inline pre-reconciliation naming, pricing or product boundaries. Check against canon: BluePrint oversees management outcomes across the commercial lifecycle without executing the sale · Building Blocks (not Academy) · B_ Partner (not White-Label) · $399/$799 + $1,500 setup · $950k raise · no “one database” or “CRM propio” claims. If a handoff and its source note disagree, **the source note wins**.
 >
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
@@ -79,3 +79,9 @@ tags: [handoff, production, finance, model]
 ## 6. Source & Change Log
 - **Source:** [[../06_Finance/Financial Model Summary]] + Decision Log (2026-07-04/05 pricing & waterfall) + Pitch S14–S15. SoT = `Dproperty_OS_Financial_Model.xlsx v0.7`.
 - **Change log:** 0.7 (2026-07-21) — handoff created documenting v0.7 logic. Open: commission-rate confirmation (5% vs 0.75%), OPEX/staffing validation, Phase-2 model.
+
+## Product architecture acceptance — 2026-09-29 [D]
+
+BlankCRM executes lead capture, legal workflow, commercial approvals, contracts, payment milestones, closing, commissions and post-sale, with communications, automation and commercial dashboards. BluePrint provides CRM-agnostic financial health, expected-vs-actual cash, expense/budget/variance control, KPI/CRM oversight, Glitches, policies, management audit and executive AI recommendations. Commercial execution screens belong in BlankCRM; BluePrint screens show evidence, verification and management intervention. BlankCRM must operate without BluePrint. A BluePrint management decision does not execute a sales action.
+
+Spanish production copy: BlankCRM ejecuta todo el ciclo comercial: captación, calificación, gestión legal, aprobaciones, contratos, hitos de pago, cierre, comisiones y postventa; comunicaciones, automatización y tableros comerciales. Puede operar sin BluePrint. BluePrint es la capa de gestión interna, gobierno e inteligencia, independiente del CRM: salud financiera, caja esperada frente a real, gastos, presupuestos, desviaciones, KPI, supervisión del CRM, procesos y Glitches, auditoría, políticas y roles ejecutivos de IA. Observa, verifica y recomienda; no ejecuta ventas.

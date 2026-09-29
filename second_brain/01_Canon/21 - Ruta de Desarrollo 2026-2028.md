@@ -4,7 +4,7 @@ title: "Ruta de Desarrollo 2026–2028"
 type: roadmap
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 tags: [canon, roadmap, capital, sequencing, franchise, advisors]
 ---
 
@@ -43,7 +43,7 @@ Mayor potencial, menor evidencia. No consume capital hasta que BluePrint esté e
 | **1** | GoHighLevel — Dproperty + DpropertyLiving | Semana 1–10 | **$12k–22k** |
 | **2A** | BluePrint — descubrimiento, prototipo, 2 cotizaciones | Mes 3–4 | $15k–35k |
 | **2B** | BluePrint — MVP núcleo | Mes 5–8 | $90k–180k |
-| **2C** | BluePrint — cumplimiento, comisiones, Copiloto | Mes 9–12 | $70k–140k |
+| **2C** | BluePrint — conciliación, supervisión y roles ejecutivos | Mes 9–12 | $70k–140k |
 | **2D** | Building Blocks — plataforma y dimensionamiento | Mes 4–6 | $10k–20k |
 | **2E** | Building Blocks — currículo base y certificación | Mes 6–10 | $15k–35k |
 | **3** | Franquicia — legal, marca, estructura (paralelo) | Mes 2–12 | $69k–180k |
@@ -96,15 +96,15 @@ Internamente baja a $5k–9k pero cuesta 6–8 semanas de tiempo propio. **Recom
 **2A (mes 3–4, $15k–35k).** Mapas de recorrido/datos/permisos · prototipo clickeable del flujo dorado · arquitectura técnica · **dos propuestas de desarrollo independientes** con equipo nombrado, hitos, IP, soporte y exclusiones.
 *Meta: no se libera capital de construcción sin dos cotizaciones comparables.*
 
-**2B (mes 5–8, $90k–180k).** Onboarding y roles · ingreso calificado · expediente de transacción · tareas · documentos y versiones · auditoría · reportes base. Piloto interno en Dproperty, luego socios externos.
+**2B (mes 5–8, $90k–180k).** Onboarding y roles · evidencia del CRM · caja esperada frente a real · gastos · presupuestos · Glitches · auditoría · reportes gerenciales. Piloto interno en Dproperty, luego socios externos.
 *Condición: un flujo corre sin hoja de cálculo paralela como autoridad.*
 
-**2C (mes 9–12, $70k–140k).** Motor de cumplimiento y aprobaciones · snapshots de comisión · conector GoHighLevel · Copiloto con permisos · endurecimiento y pruebas de seguridad.
+**2C (mes 9–12, $70k–140k).** Supervisión de procesos y CRM · conciliación de caja y pasivos · conector de lectura GoHighLevel · Copiloto con permisos · endurecimiento y pruebas de seguridad.
 *Meta: 5 socios de diseño, 3 conversiones pagadas.*
 
 **2D (mes 4–6, $10k–20k).** Cotización formal del LMS · **dimensionar el currículo** (hoy el rango $7k–48k tiene 7× de amplitud porque nunca se contaron los módulos) · plataforma e integración.
 
-**2E (mes 6–10, $15k–35k).** Currículo base (12–20 módulos) · evaluaciones · certificación con vencimiento · habilitación de permisos desde BluePrint.
+**2E (mes 6–10, $15k–35k).** Currículo base (12–20 módulos) · evaluaciones · certificación con vencimiento · supervisión de certificaciones en BluePrint; cada producto aplica sus permisos.
 *No expandir catálogo hasta demostrar enganche por señales de BluePrint.*
 
 ## Fase 3 — Franquicia, asesores requeridos
@@ -135,7 +135,7 @@ El capital se libera contra evidencia, no contra calendario.
 |---|---:|---|---|
 | **1** | **$120k** | Fase 1 · descubrimiento y prototipo BluePrint · inicio marca y legal | GHL en producción con el equipo usándolo · prototipo validado · **dos cotizaciones** · marcas presentadas |
 | **2** | **$280k** | MVP núcleo BluePrint · plataforma Building Blocks · contrato redactado | Un flujo completo **sin hoja paralela** · piloto interno funcionando · contrato listo para firma |
-| **3** | **$250k** | Cumplimiento/comisiones/Copiloto · currículo base · auditoría de seguridad | **5 socios de diseño y 3 conversiones pagadas** · sin hallazgo crítico de seguridad · primer franquiciado firmado y pagado |
+| **3** | **$250k** | Conciliación/supervisión/roles ejecutivos · currículo base · auditoría de seguridad | **5 socios de diseño y 3 conversiones pagadas** · sin hallazgo crítico de seguridad · primer franquiciado firmado y pagado |
 | **4** | **$150k** | Escala de canales · segundo mercado · evaluación VAULTED | Economía unitaria observada por cohorte |
 
 **Regla de la meta a 90 días:** sin automatización de marketplace ni expansión geográfica antes de la revisión. Y **ser un producto con nombre no otorga presupuesto** — BluePrint recibe el capital de ingeniería; los demás se lo ganan.
@@ -148,3 +148,9 @@ El capital se libera contra evidencia, no contra calendario.
 - `[R]` Dimensionamiento del currículo base.
 - `[R]` Posición de marca en todas las jurisdicciones.
 - `[R]` Ningún asesor de la Fase 3 está contratado hoy.
+
+## Frontera de productos — 2026-09-29 [D]
+
+BlankCRM ejecuta todo el ciclo comercial: captación, calificación, gestión legal, aprobaciones, contratos, hitos de pago, cierre, comisiones y postventa; comunicaciones, automatización y tableros comerciales. Puede operar sin BluePrint. BluePrint es la capa de gestión interna, gobierno e inteligencia, independiente del CRM: salud financiera, caja esperada frente a real, gastos, presupuestos, desviaciones, KPI, supervisión del CRM, procesos y Glitches, auditoría, políticas y roles ejecutivos de IA. Observa, verifica y recomienda; no ejecuta ventas.
+
+Los presupuestos y plazos existentes son supuestos: recotizar el alcance corregido de cada producto antes de liberar capital. El piloto debe completar ventas sin BluePrint y demostrar conciliación con fuentes de CRM distintas.

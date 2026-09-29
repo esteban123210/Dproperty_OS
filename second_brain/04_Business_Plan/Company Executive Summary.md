@@ -7,13 +7,13 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # B_RealEstate Executive Summary
 
 B_RealEstate is building operating and transaction infrastructure for independent real-estate organizations, beginning with investment-focused and cross-border workflows in Latin America. Its thesis is that agencies and developer sales networks do not primarily need another lead database; they need a controlled system that turns a qualified opportunity into a compliant, documented, approved, closed, commissioned, and reportable transaction.
 
-The initial product is **BluePrint**, a multi-tenant back-office and transaction system of record. **BlankCRM** supplies a configured front-office CRM and automation layer on GoHighLevel. **Building Blocks** supplies onboarding, role-based learning, and certification through an external LMS. **VAULTED** is a gated opportunity and distribution network that converts qualified interest into BluePrint workspaces. **B_Franchising** packages shared infrastructure into Dproperty-branded franchises, own-brand operating partners, and developer sales programs.
+The initial product is **BluePrint**, a multi-tenant back-office management, governance and intelligence system. **BlankCRM** supplies a configured front-office CRM and automation layer on GoHighLevel. **Building Blocks** supplies onboarding, role-based learning, and certification through an external LMS. **VAULTED** is a gated opportunity and distribution network that converts qualified interest into CRM commercial workspaces, with optional BluePrint oversight. **B_Franchising** packages shared infrastructure into Dproperty-branded franchises, own-brand operating partners, and developer sales programs.
 
 ## Why it can matter
 
@@ -25,7 +25,7 @@ The moat is not “AI.” It is permissioned operational data, workflow depth, t
 
 | Offer | Buyer | Primary value | Monetization |
 |---|---|---|---|
-| BluePrint Core/Growth | Independent agency, franchise, developer sales team | Transaction control and reporting | Setup + monthly subscription |
+| BluePrint Core/Growth | Independent agency, franchise, developer sales team | Financial reconciliation, management oversight and reporting | Setup + monthly subscription |
 | BlankCRM | Organization needing lead/automation stack | Fast configured front office | Setup + monthly managed fee + pass-through usage |
 | Building Blocks | Professionals and organizations | Onboarding, competency, certification | Enrollment, program, enterprise license |
 | VAULTED | Qualified investors, agencies, developers | Gated distribution and transaction coordination | Validated transaction/access economics only after legal review |

@@ -4,7 +4,7 @@ title: "BlankCRM — Offer and Pricing"
 type: pricing
 status: Resolved v1.0 — cost-backed, validate willingness to pay
 owner: Esteban
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 tags: [offer, blankcrm, pricing]
 ---
 
@@ -40,7 +40,7 @@ Full workings: [[05 - Economics]].
 ## The three ways it sells
 
 1. **Standalone** — to an agency that needs a CRM and is not ready for BluePrint. This is the **gateway/acquisition** motion: it lands the relationship cheaply, and BluePrint is the expansion.
-2. **Attached** to BluePrint — 35% attach assumption `[A]`. Zero incremental platform cost, so attach is pure contribution.
+2. **Attached** to BluePrint — 35% attach assumption `[A]`. Shared platform cost does not eliminate onboarding, support, integration or usage costs; contribution must be measured for the full lifecycle.
 3. **Included** in Dproperty Franchise and B_ Partner packages — allocated at **standalone list price** per the binding allocation rule in [[../../01_Canon/19 - Portfolio Composition Principle]]. Never recorded at $0.
 
 ## Value logic
@@ -73,3 +73,5 @@ Willingness to pay at $249 · standalone conversion vs attach conversion · onbo
 
 - [HighLevel Pricing](https://www.gohighlevel.com/pricing)
 - [GoHighLevel Pricing 2026 (Apexure)](https://www.apexure.com/blog/gohighlevel-pricing)
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

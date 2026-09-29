@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Building Blocks — Investor Two-Pager
 
@@ -37,7 +37,7 @@ The real test is not course completion. It is whether trained users activate fas
 | Developer academy | Project-specific training, branded cohort, manager dashboard | Setup + program/license |
 | Events/coaching | Live masterclasses and executive support | Separately priced |
 
-The LMS owns curriculum and detailed learning activity. BluePrint owns organization/role context, required-course policy, activation gates, and synchronized certification evidence.
+The LMS owns curriculum and detailed learning activity. BluePrint owns management policy and certification oversight; the CRM/LMS or marketplace enforces its own permissions.
 
 ## 4. Revenue model and unit economics
 

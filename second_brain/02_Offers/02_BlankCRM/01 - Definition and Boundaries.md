@@ -4,71 +4,38 @@ title: "BlankCRM"
 type: ecosystem_product
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [ecosystem, blankcrm, crm, gohighlevel, front-office]
 ---
 
-> [!IMPORTANT] Reconciled 2026-09-23
-> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this note.
+# BlankCRM — Definition and Boundaries
 
-# BlankCRM
+> Architecture decision: 2026-09-29 [D]. Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 
-## Product definition
+**BlankCRM is B_RealEstate's full commercial execution system, powered by GoHighLevel.** It is a configured product, not proprietary CRM technology.
 
-**BlankCRM is B_'s configured real-estate front-office product, powered by GoHighLevel.**
+## Job and users
 
-It is sold as a practical sales operating environment, not as proprietary CRM technology.
-
-## Job
-
-**Help the agency sell more and lose fewer opportunities.**
+Help the agency sell more and lose fewer opportunities, while sales, legal, administration, collections and management complete the commercial work in one coordinated environment.
 
 ## Owns
 
-- lead/contact management;
-- WhatsApp/email/SMS workflows;
-- forms/landing pages/calendars;
-- follow-up and nurture;
-- sales pipeline and agent activity;
-- campaign/source attribution;
-- sales-team automations.
+Lead capture; contact/consent management; qualification; forms, funnels and calendars; social/content scheduling and communications where supported; follow-up; opportunity stages; legal document requests and reviews; commercial approvals; contracts and signature orchestration; expected payment milestones and collection follow-up; closing and handover; commission rules, calculations, adjustments and approvals; post-sale service; workflow automation; commercial dashboards.
+
+Connected signature, document and payment services can support execution. Bank settlement and statutory accounting remain external authorities. A workflow completion marker must not be presented as proof of funds received.
+
+## Standalone and ecosystem use
+
+BlankCRM can complete the full commercial lifecycle without BluePrint. Build a reusable master configuration and snapshot, then apply client-specific branding, permissions, roles, policies, integrations and commercial rules.
+
+BluePrint is an optional CRM-agnostic back-office management/governance/intelligence layer. It reads authorized CRM events and evidence, reconciles financial outcomes, audits CRM usage, monitors Glitches and recommends intervention. It does not take over at qualification, approve commercial transactions, sign, collect funds, close deals or execute commissions.
+
+VAULTED supplies authorized marketplace opportunities and attribution. Building Blocks supplies learning. Neither changes the execution boundary.
 
 ## Does not own
 
-- management budgets/finance control;
-- official management truth;
-- process assurance/glitches;
-- accounting;
-- marketplace listings;
-- long-term management audit.
+Company-wide management verification, budgets, expense/variance control and executive intelligence (BluePrint or the client's chosen management process); statutory books/payroll/tax; bank custody or settlement; marketplace inventory authority; independent long-term management audit.
 
-## Relationship to BluePrint
+## Delivery and pricing gates
 
-BlankCRM reports what the sales organization currently believes is happening. BluePrint decides what management can stand behind.
-
-Example:
-- BlankCRM: deal marked Won.
-- BluePrint: Reported.
-- Evidence checked: Operationally verified.
-- Accounting/payment evidence: Financially verified.
-
-BluePrint remains CRM-agnostic. A customer can keep HubSpot/Salesforce/another CRM.
-
-## Relationship to VAULTED
-
-BlankCRM provides structured demand signals/client requirements; VAULTED can return eligible network supply/matches. Only the minimum authorized data should cross systems.
-
-## Commercial role
-
-- sell standalone to agencies needing CRM;
-- bundle/attach to BluePrint;
-- gateway product for smaller agencies;
-- front-office layer in Dproperty Franchise and B_ Partner packages.
-
-## Pricing
-
-**Open.** Must be modeled from GHL plan/sub-account cost, messaging/AI cost, onboarding/support and target margin. Do not publish an arbitrary price before the economics are approved.
-
-## Investor framing
-
-BlankCRM is not the core moat. It is efficient capital allocation and distribution infrastructure. Proprietary value is expected to concentrate in BluePrint and VAULTED.
+Full lifecycle is the product scope [D], not a statement that every function is already built or native to GoHighLevel. Validate each native/configured/integrated/manual-supported step in a pilot, including role isolation, approval controls, signatures, commission rules and failure recovery. Record integration costs, usage, onboarding and support before confirming pricing. Existing approved pricing and model assumptions remain governed by the pricing records.

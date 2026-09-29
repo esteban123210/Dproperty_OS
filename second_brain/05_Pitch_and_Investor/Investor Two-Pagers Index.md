@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # B_RealEstate Investor Two-Pager Pack
 
@@ -28,14 +28,14 @@ Financial figures are current management hypotheses from the canonical finance r
 | Dproperty Franchise | Owner-operator / brokerage | Entry fee + 6% collected GCI royalty | Branded distribution and proof environment | Pilot offer | Potentially attractive cash-flow channel; brand and operator economics still unproven |
 | White-Label Partner | Existing boutique agency | Entry fee + 4% collected GCI royalty | Expand network without replacing local brand | Pilot offer | Must prove operational ROI; otherwise simplify to SaaS + implementation |
 | Developer Sales Program | Developer owner / commercial director | Setup + project SaaS; success fee only after legal validation | Governed inventory and developer channel | Discovery/design partner | Strategically valuable, but not yet a repeatable franchise |
-| BluePrint | Agency / developer sales team | Setup + SaaS + scoped usage | Core transaction system and data asset | MVP/design-partner stage | Main software and valuation thesis |
+| BluePrint | Agency / developer sales team | Setup + SaaS + scoped usage | Core management/governance system and evidence asset | MVP/design-partner stage | Main software and valuation thesis |
 | BlankCRM | Small agency / franchise office | Setup + managed monthly fee | Front-office acquisition layer and BluePrint feeder | Vendor-based product hypothesis | Useful attach product; limited standalone moat |
 | Building Blocks | Agency, developer, professional | Enrollment + cohort/certification/program fees | Activation, standards, and retention layer | Initial curriculum | Valuable enablement; unlikely to drive valuation alone |
 | VAULTED | Developer, agency, qualified buyer | Project/SaaS first; validated transaction economics later | Gated supply, distribution, and attribution network | Controlled pilot concept | Largest network upside and largest cold-start/legal risk |
 
 ## Portfolio logic
 
-The shared asset is the governed transaction spine. BlankCRM creates and qualifies demand; Building Blocks makes users competent; Dproperty and white-label partners provide controlled customer cohorts; developers provide structured supply; VAULTED controls access and attribution; BluePrint governs execution from qualified opportunity to close, commission, and report.
+The ecosystem connects independently sellable products through explicit evidence contracts. BlankCRM executes the full commercial lifecycle from lead capture through legal workflow, approvals, contracts, payment milestones, closing, commissions and post-sale, including communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPIs, CRM-usage oversight, processes/Glitches, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone; BluePrint reads authorized data, verifies, governs and recommends without executing sales actions. Building Blocks supplies learning; VAULTED supplies authorized network access and attribution.
 
 This is not yet a proven network effect. It becomes one only when an additional participant improves measurable value for other participants without creating proportional service cost.
 

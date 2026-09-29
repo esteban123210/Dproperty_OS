@@ -4,9 +4,13 @@ title: "BluePrint — Definition and Boundaries"
 type: offer_definition
 status: Canonical v2.0 — repositioned 2026-09-25
 owner: Esteban
-last_updated: 2026-09-25
+last_updated: 2026-09-29
 tags: [offer, blueprint, agentic, back-office, glitch-report, definition]
 ---
+
+> [!IMPORTANT] Product boundary — 2026-09-29 [D]
+> BlankCRM executes the full commercial lifecycle from lead capture through legal workflow, approvals, contracts, payment milestones, closing, commissions and post-sale, including communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPIs, CRM-usage oversight, processes/Glitches, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone; BluePrint reads authorized data, verifies, governs and recommends without executing sales actions.
+
 
 > [!IMPORTANT] Precedence
 > [[../../01_Canon/22 - BluePrint Repositioned - Agentic Back Office]] controls this note. Portfolio: [[../../01_Canon/04 - Offer Portfolio Map]].
@@ -81,7 +85,7 @@ Both can hold the same manuals. Only BluePrint tells you whether they work.
 
 ## What BluePrint does NOT own
 
-- Leads, marketing automation and the **pre-qualification pipeline** → **BlankCRM**
+- Leads, marketing automation and the **full commercial pipeline through post-sale** → **BlankCRM**
 - Property, project and unit **inventory**, listings, MLS
 - **The general ledger of record**, tax filing, payroll → **accounting platform**
 - Property management
@@ -125,3 +129,5 @@ Priced per **organization**, never per agent seat: **Core $399/mo · Growth $799
 The agentic C-suite is the **product thesis, not built software.** Every capability described above is `[T]` target. What exists today is the specification.
 
 **The adoption risk is the Glitch Report.** People do not enjoy logging their own failures, and it is the dataset everything else depends on. If glitch capture does not become habitual, the COO agent has nothing to reason over.
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

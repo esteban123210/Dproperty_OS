@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Decisions, Assumptions, and Dependencies
 
@@ -15,7 +15,7 @@
 
 | ID | Decision | Date | Owner | Revisit trigger |
 |---|---|---|---|---|
-| D-001 | BluePrint transaction spine is the first build priority, **as the wedge module inside the management OS** (reconciled 2026-09-23) | 2026-09-23 | CEO | Five pilots reject authority/value |
+| D-001 | BluePrint management reconciliation and CRM oversight are its build priority; BlankCRM executes commerce independently | 2026-09-29 | CEO | Five pilots reject management value |
 | D-002 | BlankCRM uses GoHighLevel; no proprietary CRM build | 2026-09-23 | CEO/Product | Vendor failure or unit economics unacceptable |
 | D-003 | **Building Blocks** is a standalone product on external LMS/Open edX. Separately priced and sellable; composes into packages at allocated value | 2026-09-24 | Product | No standalone demand after attach test |
 | D-004 | VAULTED is gated and post-BluePrint; no custody/escrow/investment vehicles | 2026-09-23 | CEO/Board | Counsel and transaction proof support expansion |

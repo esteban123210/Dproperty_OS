@@ -5,7 +5,7 @@ type: product_roadmap
 status: "v2.0 - Active"
 version: 2.0
 owner: Esteban
-last_updated: 2026-08-28
+last_updated: 2026-09-29
 tags: [roadmap, product, gtm, phases]
 ---
 
@@ -77,7 +77,7 @@ Prove the model works with real customers.
 - 1 developer pilot project (test supply-side)
 
 **Messaging:**
-"BluePrint is how boutique agencies run transactions better. Try it free for 30 days."
+"BluePrint helps boutique agencies understand financial health, verify CRM data and improve processes. Trial terms require commercial approval."
 
 **Incentive:**
 - Free tier (1 user, 2 active transactions)
@@ -92,7 +92,7 @@ Prove the model works with real customers.
 ### Success Criteria (Gate to Phase 2)
 
 - ✅ Dproperty Panama using BluePrint daily (no workarounds)
-- ✅ 2+ pilot agencies signed and using BluePrint (10+ transactions/month combined)
+- ✅ 2+ pilot agencies signed and using BluePrint for verified management reporting on 10+ CRM transactions/month combined
 - ✅ 1 developer using for project sales (20+ transactions)
 - ✅ $30k–50k revenue (pilots + early adoption)
 - ✅ NPS > 50 from pilot customers
@@ -169,7 +169,7 @@ Acquire 200+ BluePrint organizations. Prove adoption curve and CAC payback.
 
 ### Success Criteria (Gate to Phase 3)
 
-- ✅ 200+ BluePrint organizations (active = 1+ transaction/month)
+- ✅ 200+ BluePrint organizations (active = 1+ reviewed management reconciliation/month)
 - ✅ $300k+ MRR from BluePrint
 - ✅ 50+ active VAULTED listings
 - ✅ 20+ VAULTED deals closed (proof of network)
@@ -189,19 +189,14 @@ Accelerate BluePrint adoption to 600+ organizations. Launch Tier 3 (Network memb
 
 ### Product Scope
 
-**BluePrint Release 2 ("Transaction Spine")**
-- All Release 1, plus:
-- Full transaction workflow (intake → compliance → docs → signature → closing → commission)
-- Document e-signing (integrated with DocuSign or similar)
-- Commission tracking and reporting (ledger, tax documents)
-- Multi-party approvals (supervisor, compliance officer)
-- Audit trail (who did what, when)
-- Integration with external CRM (GoHighLevel, Salesforce webhooks)
+**BluePrint Release 2 — deeper management intelligence [T]**
+- Read-only connectors across the full commercial lifecycle and additional CRMs.
+- Expected vs actual cash, expenses, budgets, variance and liability reconciliation.
+- CRM-usage audits, process/Glitch diagnosis and management KPI reporting.
+- Evidence-grounded CEO/CFO/COO/CMO recommendations with human management review.
+- Policies, management audit and period close.
 
-**NOT included:**
-- Native CRM (it's external)
-- Payroll processing
-- Accounting software
+**Execution boundary:** legal workflow, commercial approvals, contracts, payment milestones, closing, commission calculations/approvals and post-sale remain in BlankCRM/chosen CRM in every release. BluePrint observes, verifies, governs and recommends; no sales-execution writeback.
 
 **VAULTED Release 2 ("Distribution Network")**
 - 200+ active listings (50+ developers)
@@ -213,7 +208,7 @@ Accelerate BluePrint adoption to 600+ organizations. Launch Tier 3 (Network memb
 
 **NOT included:**
 - AI-driven pricing (future phase)
-- Automated commission distribution (handled in BluePrint)
+- Automated commission distribution (commercial workflow in BlankCRM/chosen CRM; settlement by payment provider)
 
 **B_ Network Member Platform**
 - Member dashboard (deals, referrals, performance)
@@ -368,10 +363,10 @@ Reach $30M+ ARR. Own the operating infrastructure layer for independent real est
 
 **BluePrint Release 4 ("Full Stack Operating System")**
 - All Release 3, plus:
-- Payroll integration (direct payroll through platform)
+- Payroll evidence integration (payroll remains in the payroll provider)
 - Accounting integration (automated P&L reporting)
-- Client portal (buyers/sellers can view deals in progress)
-- Advanced compliance (jurisdiction-specific rules by location)
+- Management evidence portal; buyer/seller commercial portals belong to BlankCRM/chosen CRM
+- Management compliance-policy oversight (commercial reviews remain in CRM)
 - Full API and white-label SDK (agencies can build on top)
 
 **VAULTED Release 4 ("Global Marketplace + Intelligence")**

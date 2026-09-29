@@ -7,13 +7,13 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # VAULTED — Investor Two-Pager
 
 ## 1. The idea in plain English
 
-VAULTED is a gated real-estate opportunity and distribution network. Qualified buyers and investors gain controlled access to developer-approved or partner-approved opportunities through trusted agencies. The system manages qualification, permissions, NDAs, deal-room access, interest, agency/developer response, inventory validation, attribution, and conversion into a BluePrint transaction.
+VAULTED is a gated real-estate opportunity and distribution network. Qualified buyers and investors gain controlled access to developer-approved or partner-approved opportunities through trusted agencies. The system manages qualification, permissions, NDAs, deal-room access, interest, agency/developer response, inventory validation, attribution, and conversion into a BlankCRM/chosen-CRM transaction, with optional BluePrint oversight.
 
 It is not an open mass-market listing portal. The first version does not hold money, provide escrow or custody, run pooled investments, automate regulated investment advice, or independently adjudicate AML. Payments remain tracking-only until licensed providers and legal structure are in place.
 
@@ -29,7 +29,7 @@ It is not an open mass-market listing portal. The first version does not hold mo
 
 Access progresses from public teaser to registered/qualified, NDA signed, invited/restricted, and participant in a specific transaction. Every transition records policy version, actor, evidence, time, expiry, and revocation. Access to one deal never implies access to all deals.
 
-The minimum loop is: approved opportunity → permitted discovery → qualification/NDA → interest → agency/developer response → inventory validation → BluePrint workspace → reservation/contract → close → attribution and commission confirmation → outcome data.
+The minimum loop is: approved opportunity → permitted discovery → qualification/NDA → interest → agency/developer response → inventory validation → BlankCRM/chosen-CRM workspace → reservation/contract → close → attribution and commission confirmation → outcome data.
 
 ## 4. Revenue model and unit economics
 
@@ -68,7 +68,7 @@ These figures are scenario mechanics, not validated pricing or legal entitlement
 
 Compass Private Exclusives demonstrates brokerage-controlled private inventory. OffMarket.com and Parnexus address off-market discovery and private networks. Public portals and MLS networks maximize reach, while local brokers distribute private supply through personal networks and messaging groups.
 
-VAULTED's proposed distinction is not “exclusive listings.” It is a governed chain from approved supply and qualified access through agency/developer coordination, BluePrint execution, and confirmed attribution. The disadvantage is severe cold-start risk: without credible supply, demand will not return; without qualified demand, developers will not maintain data.
+VAULTED's proposed distinction is not “exclusive listings.” It is a governed chain from approved supply and qualified access through agency/developer coordination, BlankCRM/chosen-CRM execution with optional BluePrint management oversight, and confirmed attribution. The disadvantage is severe cold-start risk: without credible supply, demand will not return; without qualified demand, developers will not maintain data.
 
 ## 7. Defensibility and risks
 

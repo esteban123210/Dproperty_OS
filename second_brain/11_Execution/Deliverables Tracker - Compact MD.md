@@ -4,7 +4,7 @@ title: "Deliverables Tracker - Compact MD"
 type: tracker
 status: Generated from Excel
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 source: ChatGPT baseline vault package
 tags: [deliverables, tracker]
 ---
@@ -439,7 +439,7 @@ The vault's two competing canonical layers were reconciled. See [[../01_Canon/00
 | Canonical Reconciliation & Precedence note | Did not exist | **Created v1.0** | Critical | Esteban to ratify the 4 open items | `01_Canon/00 - Precedence and Canonical Reconciliation.md` |
 | BluePrint Product Canon (folder) | Canonical v3.0 | **Amended v4.0** | Critical | Build golden workflow from it | `02_Offers/01_BluePrint/` |
 | BluePrint Pricing & Packaging | $299/$599/$999 hypothesis | **$399/$799 + $1,500 setup** | Critical | Validate with design partners | `02_Offers/01_BluePrint/03 - Offer and Pricing.md` |
-| BluePrint Transaction Spine module | Retired 2026-09-20 | **Reinstated as MVP wedge** | Critical | Spec from recovered git design work | `02_Offers/01_BluePrint/12 - Core Modules.md` §3 |
+| BluePrint CRM Oversight and Evidence | Architecture corrected 2026-09-29 | Management reconciliation MVP | Critical | Validate read-only intake, provenance, cash variance and Glitches | `02_Offers/01_BluePrint/12 - Core Modules.md` §3 |
 | BluePrint Golden Workflow spec | Superseded | **Revived — recover from git `ff84d37^`** | Critical | Recover 432 lines, strip inventory scope | `02_Offers/01_BluePrint/19 - Golden Workflow Wireframe and Validation.md` |
 | BluePrint Wireframe (Developer Handoff) | Superseded | **Revived — recover from git `ff84d37^`** | High | Recover 918 lines, strip inventory scope | `02_Offers/01_BluePrint/20 - Wireframe - Back Office OS.md` |
 | BluePrint Data Model | Superseded | **Revived — recover from git `ff84d37^`** | High | Recover 77 lines, strip inventory scope | `02_Offers/01_BluePrint/21 - Data Model.md` |

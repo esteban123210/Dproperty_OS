@@ -4,7 +4,7 @@ title: "README - Start Here"
 type: project_index
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 source: ChatGPT baseline vault package
 tags: [start-here, obsidian, project-management]
 ---
@@ -42,7 +42,7 @@ Start new ecosystem/product work in [[01_Canon/README|18_Ecosystem — Start Her
 
 Parent = **B_RealEstate** · platform = **BluePrint** · front office = **BlankCRM** (powered by GoHighLevel) · network = **VAULTED** · learning = **Building Blocks** (powered by Open edX) · flagship brand = **Dproperty** · curated inventory = **Dproperty Select** · own-brand channel = **B_ Partner**.
 
-**Handoff line:** BlankCRM owns demand until qualification; BluePrint owns everything after qualification.
+**Handoff line:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 ## Current Working Priority
 
@@ -51,7 +51,7 @@ Parent = **B_RealEstate** · platform = **BluePrint** · front office = **BlankC
 Current priorities — see [[00_Start_Here/Current Priorities|Current Priorities]]:
 
 1. Ratify the reconciled BluePrint definition, pricing and capital envelope.
-2. Prototype the BluePrint golden workflow: qualified intake → transaction file → documents/compliance → approval → closing → commission snapshot → management report.
+2. Prototype the BluePrint golden workflow: CRM evidence intake → verification → expected vs actual cash reconciliation → variance/Glitch → management recommendation → review → management report.
 3. Rebuild the investor deck on the reconciled hierarchy.
 4. Five design partners, three paid conversions.
 5. Price BlankCRM from GHL COGS; define VAULTED attribution and take rate.

@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Pricing, Unit Economics, and Revenue Policy
 
@@ -63,3 +63,7 @@ ARR excludes setup, entry, education enrollment, pass-through, restricted funds 
 
 Founding discounts are disclosed, time/quantity limited and linked to reference participation—not disguised list-price traction. Test willingness to pay, time to value, quantified ROI, loss reasons, support effort and renewal. Raise prices only after repeatable delivery and two profitable reference offices. If own-brand partners prefer SaaS, change the model instead of forcing a royalty.
 
+
+## Architecture cost allocation — 2026-09-29 [D]
+
+BlankCRM carries configuration/support and third-party costs for the full commercial lifecycle, including legal/approval/signature/payment/commission integrations. BluePrint carries evidence ingestion, financial reconciliation, CRM/process oversight, management governance and executive AI costs. Existing prices, rates, forecasts and formulas are unchanged assumptions, not validation of the revised scope. Requote both delivery scopes before committing budgets; do not fund a BluePrint transaction-execution engine or require BluePrint for standalone BlankCRM.

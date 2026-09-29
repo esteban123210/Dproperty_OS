@@ -8,6 +8,9 @@ date: 2026-09-20
 tags: [blueprint, decision, product-boundary]
 ---
 
+> [!WARNING] Historical architecture — superseded 2026-09-29
+> Earlier assignments of commercial execution to BluePrint are historical only and must not guide implementation. BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
+
 > [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
 > [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
 >

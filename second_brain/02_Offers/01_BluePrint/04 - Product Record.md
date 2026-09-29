@@ -7,38 +7,38 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # BluePrint — Standalone Product Record
 
 ## Executive summary
 
-BluePrint is a multi-tenant back-office and transaction operating system for real-estate organizations. It becomes authoritative when a lead or opportunity is qualified and owns transaction setup, parties/assets, compliance evidence, documents, approvals, reservation/contract milestones, closing, commissions, operational reporting, and the audit trail.
+BluePrint is the CRM-agnostic back-office management, governance and intelligence system for sales-led businesses. Evidence-backed financial health, expected vs actual cash, expenses, budgets and variance; KPI and CRM-usage oversight; process/Glitch monitoring; policies, management interventions, audit and AI executive support. Commercial execution stays in BlankCRM or the chosen CRM at every stage.
 
 It does not replace general lead-generation CRM, public listing portals, escrow/custody, money movement, or legal judgment. The first release proves one complete golden workflow before broader automation.
 
 ## Customer and value
 
-Beachhead: 3–50-person boutique agencies and developer sales teams handling investment/new-development or cross-border transactions with repeated document, compliance, approval, and commission pain. Buyer is owner/manager/operations lead; daily users are agents, coordinators, compliance reviewers, finance, and managers.
+Beachhead: 3–50-person boutique agencies and developer sales teams handling investment/new-development or cross-border transactions with repeated document, compliance, approval, and commission pain. Buyer is owner/manager/operations lead; daily users are back-office administrators, finance reviewers and managers; commercial departments execute in BlankCRM.
 
-Promise: fewer lost handoffs and missing documents, faster cycle time, one current version, visible blockers, auditable approvals, accurate commission logic, and management reporting without spreadsheet reconstruction.
+Promise: evidence-backed financial health, expected-vs-actual cash, expense/budget variance, CRM-usage and process oversight, and auditable management intervention without rebuilding reports in spreadsheets.
 
 ## Product modules
 
-1. Organization setup, roles, entitlements, branding, integrations and activation checklist.
-2. Back Office Brain: approved SOPs, templates, structured project information, tasks, dashboards and support requests.
-3. Transaction Spine: qualified intake through archive.
-4. Documents, compliance checklists, approval policies, e-signature adapter and retention.
-5. Commission rules, calculation snapshots, adjustments, receivable/payout status and exports.
-6. Reports and product analytics.
-7. Permission-grounded Copilot.
+1. Organization setup, roles, tenant isolation, entitlements and integrations.
+2. Assistant and Company management cockpit with sourced executive recommendations.
+3. CRM Oversight and Evidence: read-only lifecycle observations, provenance and verification.
+4. Finance Control: expected vs actual cash, expenses, budgets, variance and observed commission liabilities.
+5. Processes, SOP policies, Glitches and corrective management actions.
+6. Management reporting, audit and period close.
+7. Permission-grounded CEO/CFO/COO/CMO support [T]; no commercial execution tools.
 
 ## Business model canvas
 
 | Block | Design |
 |---|---|
 | Customer | Independent agencies, franchise offices, developer sales teams |
-| Value | Transaction control, auditability, standardization and management visibility |
+| Value | Management control, financial reconciliation, auditability and process intelligence |
 | Channel | Founder-led outbound, partners/franchise, Building Blocks, developer channel |
 | Revenue | Setup/migration + Core/Growth monthly subscription + usage/custom scope |
 | Resources | Product/IP, schemas, templates, integrations, implementation playbooks |
@@ -57,21 +57,21 @@ Standalone model uses $300 monthly average and $1,500 onboarding for comparabili
 ## MVP acceptance
 
 - Five design partners and three paid conversions.
-- One workflow executes from qualified intake through commission/report without shadow spreadsheet as authority.
+- One management cycle reconciles CRM expectations with accounting/bank evidence, detects a discrepancy and records a reviewed intervention; commercial execution remains in the CRM.
 - Tenant isolation and permission tests pass.
-- All sensitive stage changes, document versions, approvals, overrides, and AI actions are auditable.
+- All management verification changes, source revisions, management approvals and AI recommendations are auditable; commercial audit events are read from the CRM.
 - Implementation <40 hours initially and trending toward <20; median calendar time target <21 days.
 - Weekly active target users >60%; critical workflow completion >70% by month 9.
 - No severity-1 security issue; restore and incident exercises completed.
 
 ## Roadmap
 
-- 0–6 weeks: discovery, journey/data/permission maps, clickable prototype, technical architecture, pricing pilots.
-- 7–12 weeks: onboarding, roles, Back Office Brain, qualified intake, transaction workspace, tasks, documents, audit, base reports.
-- Months 4–6: compliance/approval engine, commission snapshots, GoHighLevel connector, Copilot retrieval/draft, production hardening.
-- Later: configurable workflow builder, additional CRMs, advanced analytics, benchmark products, VAULTED execution, enterprise isolation.
+- 0–6 weeks: management-pain discovery, source/permission maps, prototype, architecture and pricing pilots.
+- 7–12 weeks: organization/roles, evidence intake, expected vs actual cash, budgets/expenses, CRM oversight, Glitches, audit and basic reports.
+- Months 4–6: reconciliation exceptions, process health, read-only GHL connector, permission-grounded executive AI and production hardening.
+- Later, subject to evidence: other CRM connectors, management analytics, benchmarks and enterprise isolation. Commercial workflow expansion belongs to BlankCRM; BluePrint has no later transaction-execution release.
 
 ## Kill/pivot criteria
 
-After 20 qualified interviews and five pilots, pivot if fewer than 40% rank the pain top-three, fewer than three commit to paid use, weekly use remains below 40%, delivery cannot fall below 40 hours, or users refuse BluePrint as transaction authority.
+After 20 qualified interviews and five pilots, pivot if fewer than 40% rank the pain top-three, fewer than three commit to paid use, weekly use remains below 40%, delivery cannot fall below 40 hours, or users reject BluePrint as the management verification and oversight layer.
 

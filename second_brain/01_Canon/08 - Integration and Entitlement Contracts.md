@@ -7,13 +7,13 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Integration and Entitlement Contracts
 
 ## Shared platform contract
 
-Every module reuses identity, organization, membership, role, entitlement, project/property/unit, party, transaction, document, task, approval, event, audit and analytics primitives. A module may extend these entities but may not create a second customer, organization or transaction identity without an approved architecture decision.
+Each product owns its writable records and tenant permissions. Map organization, user and external object identities explicitly; shared identifiers do not imply a shared writable database. Commercial transactions, legal reviews and approvals remain in the CRM. BluePrint stores sourced observations, management verification, reconciliation and governance records.
 
 ## Entitlements
 
@@ -38,12 +38,12 @@ For each connector record: provider/account, credential reference, scopes, owner
 
 ## Current adapters
 
-- GoHighLevel/BlankCRM: early pipeline and status writeback.
+- GoHighLevel/BlankCRM: read-only lifecycle observations and evidence references; no sales-execution writeback.
 - LMS/Open edX: identity/SSO, enrollment, completion, certification.
 - E-signature: envelope, signer, document version, status and evidence.
 - Messaging/email: notifications with secure links; no unnecessary sensitive content.
 - AI provider: provider abstraction, model/prompt version, permitted source sets, tool calls, usage and retention.
-- Accounting/export: approved closing/commission/invoice data only; no hidden accounting authority.
+- Accounting: read authoritative actuals; optional reviewed management classification export only. Commercial invoices/commissions originate in CRM/accounting, not BluePrint sales execution.
 
 ## Anti-coupling rules
 

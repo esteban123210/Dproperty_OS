@@ -7,9 +7,43 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Completeness and QA Report
+
+## Architecture review — 29 September 2026
+
+**Decision:** BlankCRM executes the complete commercial lifecycle and operates standalone. BluePrint remains CRM-agnostic and owns back-office management, financial verification, governance and intelligence; it never executes the sales process.
+
+### Reviewed and changed
+
+- Canonical definitions, precedence, ecosystem diagrams, product hierarchy, ownership matrix, journeys, integration contracts, glossary, roadmap and KPI gates.
+- BluePrint and BlankCRM definitions, product records, executive/investor summaries, modules, MVP acceptance, GHL delivery checklist and design/data-model entry points.
+- Adjacent offer boundaries: VAULTED, Building Blocks, franchise, partner, developer and Select handoffs.
+- Strategy, business plan, investor material, finance cost allocation, operating workflow/process ownership, data/events, handoffs, context and decision records.
+- English production HTML; Spanish source generators and ten HTML/PDF outputs. Existing filenames remain stable; visible Spanish revision dates are 29 September 2026.
+- Historical decisions and archived records retain visibly superseded material; Git history preserves all earlier versions.
+
+### Validation
+
+- `verify_vault.py`: no broken wikilinks, stale folder paths, retired-vocabulary findings or missing README files.
+- `verify_canon.py`: explicit precedence coverage, frontmatter sanity, wikilinks and retired-claim review.
+- `verify_product_boundaries.py`: known contradictory-boundary regression scan plus required ownership/standalone/CRM-independence acceptance concepts. This complements manual review; it is not a proof of every sentence.
+- Ten production PDFs regenerated; expected page counts checked (26 pages), text checked for the retired Spanish handoff claims, and all pages rendered for visual inspection.
+- `git diff --check`: whitespace review. No application runtime or GHL capability tests were claimed.
+
+### Remaining implementation and commercial issues
+
+1. Full-lifecycle scope is approved architecture, not proof of native GoHighLevel features. Validate legal approval controls, signature/document services, payment milestones, commission logic, departmental permissions, cancellation/refunds and recovery in the pilot.
+2. Requote implementation, support, integration and AI costs for both products. Existing financial model values/formulas were intentionally not changed. Published-price/model discrepancies and jurisdiction-specific contracts require the existing commercial review; this architecture change does not validate them.
+3. BluePrint executive AI remains a product target. Validate read-only CRM ingestion, provenance, expected-vs-actual cash, source corrections, tenant isolation and human management review before launch.
+4. Superseded documents intentionally retain historical claims. Their warnings and canonical precedence prevent them being used as current implementation instructions. Existing legacy commercial assumptions remain historical/unvalidated, not newly approved.
+
+No known active execution-ownership contradiction remains after the targeted review. Software delivery and commercial proof remain separate gates.
+
+## Historical QA baseline — 23 September 2026
+
+The earlier checks below are preserved as a historical report; they were not rerun as spreadsheet or application tests in this architecture-only change.
 
 **Review date:** 23 September 2026  
 **Scope:** Second Brain architecture, canonical business plan, product/franchise/ecosystem records, finance, data/AI, operations, strategy and investor diligence.

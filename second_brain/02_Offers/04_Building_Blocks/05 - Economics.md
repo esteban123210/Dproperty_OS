@@ -127,3 +127,5 @@ Bundled enablement is justified by franchise consistency and retention alone. **
 - [Open edX Hosting Guide — Edunext](https://www.edunext.co/articles/open-edx-hosting-how-to-choose-the-right-plan-without-sinking-your-platform/) — EC Core $8,000/yr ≤1,500 MAU; <$0.50/MAU at scale; Stratus $25,000/yr
 - [LMS Pricing Guide — Raccoon Gang](https://raccoongang.com/blog/how-much-does-a-custom-lms-cost/) — ~$150/mo hosting, ~$1,200/mo support, $20k–$35k package
 - [Open edX Service Providers — Edly](https://edly.io/blog/openedx-service-providers/) — provider comparison
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

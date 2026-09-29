@@ -3,7 +3,7 @@
 
 from brand import masthead, simple, table, glance, canvas
 
-M = "B_RealEstate<br>25 sept 2026<br>v3.0"
+M = "B_RealEstate<br>29 sept 2026<br>v3.0"
 P2 = {}
 
 # ══════════════════════════════════════════════════════════ 3 · VAULTED
@@ -71,7 +71,7 @@ P2["03_VAULTED"] = dict(
      "Y lo honesto: <strong>todavía no está en operación, y es a propósito.</strong> Primero "
      "consolidamos BluePrint. Es la apuesta de mayor potencial y preferimos abrirla cuando podamos "
      "sostenerla bien."]),
- p2=masthead("VAULTED", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
+ p2=masthead("VAULTED", "Modelo de Negocio", None, "B_RealEstate<br>29 sept 2026", small=True)
  + canvas(dict(
    kp=["Desarrolladores — aportan oferta","Red de corredores","Inversionistas de la red",
        "Asesoría legal por jurisdicción","Verificación de identidad"],
@@ -175,7 +175,7 @@ P2["04_Building_Blocks"] = dict(
      "correcto</strong>. Después verifica que se certificó.",
      "Lo honesto: <strong>al principio gana poco dinero.</strong> Su valor real está en que hace "
      "consistente la operación y en que retiene a los clientes del ecosistema."]),
- p2=masthead("Building Blocks", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
+ p2=masthead("Building Blocks", "Modelo de Negocio", None, "B_RealEstate<br>29 sept 2026", small=True)
  + canvas(dict(
    kp=["<strong>Open edX</strong> — la plataforma","Proveedor de alojamiento gestionado",
        "Especialistas de contenido por materia","Cuerpos de certificación locales donde aplique"],

@@ -4,7 +4,7 @@ title: "Vault Manifest"
 type: vault_manifest
 status: Active v2.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [manifest, ai-handoff]
 ---
 
@@ -36,13 +36,13 @@ The vault was restructured from the accreted `00_Index`…`19_Canonical_B_RealEs
 - **Authority is now a property of documents, not folders.** Truth labels `[F] [D] [M] [A] [T] [R]` carry precedence.
 - **Verifier added:** `.tools/verify_vault.py` checks broken wikilinks, stale paths, retired vocabulary and README coverage. Currently passing clean.
 
-## Latest — 2026-09-23 Canonical Reconciliation
+## Latest — 2026-09-29 Architecture Correction
 
 The vault had **two competing canonical layers** three days apart. They are now reconciled by [[../01_Canon/00 - Precedence and Canonical Reconciliation]], which controls the vault.
 
-- **BluePrint definition merged, not chosen between.** It is a chat-first AI management OS **whose system of record is the verified transaction, commission and management-control record, beginning at qualified opportunity.**
-- The *property/project/unit inventory and MLS* ambition stays **permanently retired**. The *transaction and commission record* is reinstated as the wedge.
-- **Academy** is canonical; `19_Canonical`'s "Building Blocks" is a legacy alias.
+- **Architecture corrected 2026-09-29 [D].** BlankCRM executes the full commercial lifecycle from lead capture through legal workflow, approvals, contracts, payment milestones, closing, commissions and post-sale, including communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPIs, CRM-usage oversight, processes/Glitches, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone; BluePrint reads authorized data, verifies, governs and recommends without executing sales actions.
+- The *property/project/unit inventory and MLS* ambition stays **permanently retired**. Commercial transaction and commission execution belongs to BlankCRM; BluePrint keeps evidence-backed management observations.
+- **Building Blocks** is canonical; Academy is the legacy alias.
 - **B_ Partner** is canonical; "White-Label" is a legacy alias.
 - BluePrint pricing moved to **Core $399 / Growth $799 / $1,500 setup**; $299/$599/$999 retired.
 - Raise is **$950k capitalization / $800k 18-month plan**, staged; $650k and $1.5M both retired.

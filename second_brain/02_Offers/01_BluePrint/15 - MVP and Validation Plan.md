@@ -4,14 +4,14 @@ title: "BluePrint MVP and Validation Plan"
 type: mvp_spec
 status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [blueprint, mvp, validation]
 ---
 
-> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
-> [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+> [!IMPORTANT] Architecture corrected 2026-09-29 [D]
+> BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 >
-> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+> **Boundary in one line:** BluePrint owns the management verification record, policies and oversight; the CRM owns deal execution and commercial records.
 
 # MVP and Validation Plan
 
@@ -27,14 +27,15 @@ Initially: CRM (GHL first), accounting source/mock, Drive/SharePoint or file rep
 
 ## Primary gate — the golden workflow
 
-**One workflow must execute from qualified intake -> transaction file -> documents/compliance -> approval -> closing -> commission snapshot -> management report, with no shadow spreadsheet acting as the authority.**
+**One workflow must execute from CRM evidence intake -> verification -> expected vs actual cash -> variance/Glitch -> recommendation -> review -> management report, with no shadow spreadsheet acting as the authority.**
 
 This is the single most important MVP test. If the customer still keeps the real answer in Excel, the product has not landed.
 
 ## Six mandatory demo flows
 
-### 0. Qualified deal through close and commission — **the golden workflow**
-CRM marks opportunity qualified, BluePrint accepts and opens the transaction file, parties/assets attached, document and compliance checklist completed with evidence, approval policy satisfied, closing milestones recorded, commission calculated as an auditable snapshot with adjustments and payout status, flowing into the management report and audit trail.
+### 0. Independent execution plus management verification
+
+The pilot completes lead capture through legal, approvals, contract, payment milestones, closing, commission and post-sale in BlankCRM with BluePrint disconnected. Then BluePrint reads those events, compares reported outcomes with legal/bank/accounting evidence, reconciles expected vs actual cash and commissions payable, detects a discrepancy, and proposes a management intervention. The authorized team repairs the source in BlankCRM; BluePrint re-verifies. Repeat with a non-GHL import to prove CRM independence.
 
 ### 1. Invoice through chat
 Upload → extract → classify → budget check → variance → approval if required → structured record → audit → dashboard update.
@@ -53,11 +54,11 @@ Finance + commercial + operations + process health + actions + risks + AI commen
 
 ## MVP modules
 
-Assistant, Home/Company cockpit, **Transaction Spine**, Finance Control, Processes, Glitches, Actions, Knowledge, Reports, Integrations, Audit.
+Assistant, Home/Company cockpit, **CRM Oversight and Evidence**, Finance Control, Processes, Glitches, Actions, Knowledge, Reports, Integrations, Audit.
 
 ## Explicitly excluded
 
-CRM and the pre-qualification pipeline, property/project/unit **inventory**, listings, MLS, marketplace, escrow/custody/money movement, full accounting, payroll, sales-agent workspace, LMS, tax engine, generic project management.
+Commercial execution at every stage, property/project/unit **inventory**, listings, MLS, marketplace, escrow/custody/money movement, full accounting, payroll, sales-agent workspace, LMS, tax engine, generic project management.
 
 ## Validation gate before major custom build
 
@@ -73,7 +74,7 @@ Measure:
 - recurring glitches/process failures identified;
 - time to find/record information;
 - willingness to pay at $399/$799 + $1,500 setup;
-- whether the commission snapshot is trusted over the spreadsheet;
+- whether the reconciled management cash/liability view is traceable to CRM and accounting evidence;
 - weekly usage by admin and owner.
 
 ## Kill condition

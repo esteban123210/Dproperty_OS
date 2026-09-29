@@ -4,7 +4,7 @@ title: "06_Finance — The Numbers"
 type: folder_readme
 status: Active
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [readme, navigation]
 ---
 
@@ -44,3 +44,7 @@ tags: [readme, navigation]
 ## Heaviest evidence gaps `[R]`
 
 Paid cohort retention/CAC · two independent development quotes · franchisee transaction economics · founder employment/EOR · vendor quotations (LMS, e-sign, messaging, AI, infra) · fully-loaded acquisition cost.
+
+## Architecture cost allocation — 2026-09-29 [D]
+
+BlankCRM carries configuration/support and third-party costs for the full commercial lifecycle, including legal/approval/signature/payment/commission integrations. BluePrint carries evidence ingestion, financial reconciliation, CRM/process oversight, management governance and executive AI costs. Existing prices, rates, forecasts and formulas are unchanged assumptions, not validation of the revised scope. Requote both delivery scopes before committing budgets; do not fund a BluePrint transaction-execution engine or require BluePrint for standalone BlankCRM.

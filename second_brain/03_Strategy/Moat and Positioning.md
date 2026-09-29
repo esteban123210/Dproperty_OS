@@ -4,12 +4,12 @@ title: "Moat and Positioning"
 type: strategy_note
 status: Canonical v2.0
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-29
 tags: [strategy, moat, positioning]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> Consistent with canon. The moat concentrates in **BluePrint's transaction/commission/control data model** and **VAULTED's network and attribution** — not in BlankCRM or Academy.
+> Consistent with canon. The moat concentrates in **BluePrint's evidence, reconciliation and management-control data model** and **VAULTED's network and attribution** — not in BlankCRM or Academy.
 >
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 

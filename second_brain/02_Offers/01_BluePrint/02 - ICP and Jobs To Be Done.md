@@ -4,7 +4,7 @@ title: "BluePrint ICP and Jobs To Be Done"
 type: product_strategy
 status: Canonical v1.0
 owner: Esteban
-last_updated: 2026-09-25
+last_updated: 2026-09-29
 tags: [blueprint, icp, personas, jtbd]
 ---
 
@@ -17,10 +17,10 @@ tags: [blueprint, icp, personas, jtbd]
 >
 > See [[../../01_Canon/22 - BluePrint Repositioned - Agentic Back Office]].
 
-> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
-> [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+> [!IMPORTANT] Architecture corrected 2026-09-29 [D]
+> BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 >
-> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+> **Boundary in one line:** BluePrint owns the management verification record, policies and oversight; the CRM owns deal execution and commercial records.
 
 # ICP and Jobs To Be Done
 

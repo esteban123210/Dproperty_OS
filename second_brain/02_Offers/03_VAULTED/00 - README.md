@@ -4,7 +4,7 @@ title: "VAULTED — Offer README"
 type: offer_readme
 status: Hypothesis — gated
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [offer, readme, vaulted]
 ---
 
@@ -30,7 +30,7 @@ Listings and opportunities · access rules · participant identity · marketplac
 
 ## What it does NOT own
 
-CRM conversations · BluePrint management processes and transaction execution · accounting ledger · Dproperty Select curation decisions · **custody, escrow, FX or pooled investment vehicles** (explicitly not-now)
+CRM conversations · BluePrint management processes and BlankCRM commercial execution · accounting ledger · Dproperty Select curation decisions · **custody, escrow, FX or pooled investment vehicles** (explicitly not-now)
 
 ## Files in this folder
 

@@ -3,7 +3,7 @@
 
 from brand import masthead, simple, table, glance, canvas
 
-M = "B_RealEstate<br>25 sept 2026<br>v3.0"
+M = "B_RealEstate<br>29 sept 2026<br>v3.0"
 P3 = {}
 
 # ══════════════════════════════════════════════════════════ 5 · FRANQUICIA DPROPERTY
@@ -78,7 +78,7 @@ P3["05_Dproperty_Franchise"] = dict(
      "Lo que hay que mirar con honestidad antes de firmar: <strong>cuánto más necesita vender la "
      "oficina para que la franquicia le convenga frente a seguir independiente.</strong> Ese número "
      "existe, se calcula y se conversa abiertamente en la propuesta."]),
- p2=masthead("Franquicia Dproperty", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
+ p2=masthead("Franquicia Dproperty", "Modelo de Negocio", None, "B_RealEstate<br>29 sept 2026", small=True)
  + canvas(dict(
    kp=["Operadores locales","Asesores legales por jurisdicción","Desarrolladores para inventario",
        "Cuerpos locales del sector inmobiliario"],
@@ -192,7 +192,7 @@ P3["06_B_Partner"] = dict(
      "acompañamiento. Si alguien solo quiere la plataforma, le ofrecemos la plataforma directa.",
      "Una regla que no se negocia: <strong>sus datos son suyos.</strong> Corremos sobre la misma "
      "plataforma pero su información está separada y le pertenece."]),
- p2=masthead("B_ Partner", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
+ p2=masthead("B_ Partner", "Modelo de Negocio", None, "B_RealEstate<br>29 sept 2026", small=True)
  + canvas(dict(
    kp=["Inmobiliarias establecidas con marca propia","Asesores legales por jurisdicción",
        "Proveedores de las plataformas","Consultores de implementación"],

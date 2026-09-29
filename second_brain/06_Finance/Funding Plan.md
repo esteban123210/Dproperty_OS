@@ -4,7 +4,7 @@ title: "Funding Plan"
 type: business_plan_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-09-29
 source: ChatGPT baseline vault package
 tags: [business-plan]
 ---
@@ -24,7 +24,7 @@ tags: [business-plan]
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, superseded BluePrint execution assumptions, or “physical hub as the business” framing as current.
 > Current source: [[../04_Business_Plan/B_ Business Model Reset - 2026-09-20]]
 
 # Funding Plan
@@ -69,3 +69,7 @@ Released after milestones:
 ## Why Not External Seed First?
 
 The existing owners already bring capital, brand, relationships, and business context. External investors may complicate governance too early.
+
+## Architecture cost allocation — 2026-09-29 [D]
+
+BlankCRM carries configuration/support and third-party costs for the full commercial lifecycle, including legal/approval/signature/payment/commission integrations. BluePrint carries evidence ingestion, financial reconciliation, CRM/process oversight, management governance and executive AI costs. Existing prices, rates, forecasts and formulas are unchanged assumptions, not validation of the revised scope. Requote both delivery scopes before committing budgets; do not fund a BluePrint transaction-execution engine or require BluePrint for standalone BlankCRM.

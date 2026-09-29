@@ -123,3 +123,5 @@ Prove in this order, and stop if one fails:
 VAULTED is the **highest-upside and lowest-evidence** component of the portfolio. It is the only part that could produce network-effect economics rather than linear SaaS growth — and it is entirely unproven.
 
 Present it as a **gated option with a defined first experiment**, never as a revenue line. Its presence in the portfolio is justified by the cold-start advantage of existing developer, broker and investor relationships. That advantage is real; the business is not yet.
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

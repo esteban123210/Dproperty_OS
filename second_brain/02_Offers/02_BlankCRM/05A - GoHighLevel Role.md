@@ -4,43 +4,23 @@ title: "GoHighLevel Role"
 type: crm_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-09-29
 source: ChatGPT baseline vault package
 tags: [crm, gohighlevel]
 ---
 
-> [!INFO] Channel-scoped — verified 2026-09-23
-> This folder describes the **BlankCRM** channel, not the company and not a product. B_RealEstate is a product-led software company; this is one route to market.
->
-> **Canonical name:** BlankCRM — “GoHighLevel-as-product” is a legacy alias.
-> GoHighLevel is third-party **infrastructure powering BlankCRM**, never a product in its own right and never “CRM propio”. BlankCRM owns demand up to **qualification**; BluePrint owns everything after. See [[01 - Definition and Boundaries]].
->
-> Precedence: [[../../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
-
 # GoHighLevel Role
 
-GoHighLevel should be used as the front-office CRM and marketing automation layer.
+> Architecture decision: 2026-09-29 [D]. Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 
-## Use For
+GoHighLevel is the infrastructure powering the BlankCRM product. BlankCRM is not a channel and is not proprietary CRM technology.
 
-- Landing pages.
-- Lead capture.
-- Calendar booking.
-- CRM pipeline.
-- Follow-up automations.
-- Email/SMS workflows where legally allowed.
-- Review requests.
-- Nurture campaigns.
+## Execution scope
 
-## Do Not Use As
+BlankCRM executes the full commercial lifecycle: lead capture, qualification, legal workflow, approvals, contracts, payment milestones, closing, commissions, post-sale, communications, automation and commercial dashboards. BluePrint is the CRM-agnostic back-office management, governance and intelligence layer: financial health, expected vs actual cash, expenses, budgets, variance, KPI and CRM-usage oversight, process/Glitch monitoring, audit, policies, AI executive roles and management intervention. BlankCRM operates standalone. When connected, BluePrint observes, verifies, governs and recommends; authorized teams execute sales actions in BlankCRM or their chosen CRM.
 
-- Legal source of truth.
-- Project database.
-- Commission system.
-- Private Collection control system.
-- Document archive.
-- Full Dproperty OS replacement.
+## Practical implementation boundary
 
-## Relationship to Dproperty OS
+Configure the lead-to-post-sale workflow, departmental tasks, approval routing, document/signature integrations, expected payment milestones, commission calculations and commercial reports in BlankCRM. Test what the platform can enforce; use explicit integrated or human-controlled steps where required. Do not promise native capabilities without validation.
 
-GoHighLevel captures and nurtures leads. Dproperty OS manages operational execution.
+Accounting retains the ledger; bank/payment providers settle funds; legal archives and signature providers retain authoritative evidence. BluePrint reads authorized evidence for management oversight and never substitutes for these systems or executes CRM work.

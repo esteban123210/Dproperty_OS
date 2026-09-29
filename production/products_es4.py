@@ -3,7 +3,7 @@
 
 from brand import masthead, simple, table, glance, canvas
 
-M = "B_RealEstate<br>25 sept 2026<br>v3.0"
+M = "B_RealEstate<br>29 sept 2026<br>v3.0"
 P4 = {}
 
 # ══════════════════════════════════════════════════════════ 7 · DESARROLLADORES
@@ -70,7 +70,7 @@ P4["07_Developer_Partnerships"] = dict(
      "Para nosotros este canal vale por algo más que el honorario: <strong>nos da inventario para la red, "
      "relación con desarrolladores y aprendizaje real</strong> de cómo opera una fuerza de ventas grande."]),
  p2=masthead("Alianzas con Desarrolladores", "Modelo de Negocio", None,
-             "B_RealEstate<br>25 sept 2026", small=True)
+             "B_RealEstate<br>29 sept 2026", small=True)
  + canvas(dict(
    kp=["Desarrolladores inmobiliarios","Red de corredores externos",
        "Asesores legales en materia de comisiones y licencias","Proveedores de marketing de proyecto"],
@@ -191,7 +191,7 @@ P4["08_Dproperty_Select"] = dict(
      "es siempre de la casa matriz. Esa disciplina es precisamente lo que hace valioso el programa.",
      "Por qué importa aunque no sea software: <strong>un competidor puede copiar la tecnología, pero no "
      "puede copiar años de relación con los desarrolladores.</strong>"]),
- p2=masthead("Dproperty Select", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
+ p2=masthead("Dproperty Select", "Modelo de Negocio", None, "B_RealEstate<br>29 sept 2026", small=True)
  + canvas(dict(
    kp=["Desarrolladores con proyectos de calidad","Propietarios de inmuebles de inversión",
        "Asesores legales y fiscales","Oficinas y socios de la red como distribuidores"],

@@ -4,7 +4,7 @@ title: "02_Offers — What We Sell"
 type: folder_readme
 status: Active
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [readme, navigation]
 ---
 
@@ -31,7 +31,7 @@ An **offer** is anything a customer can buy. Full portfolio view with prices, bo
 
 ## The handoff line
 
-**BlankCRM owns demand until qualification. BluePrint owns everything after qualification. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
+**BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. VAULTED owns network supply and access. Building Blocks owns capability. Accounting remains the ledger.**
 
 ## Standard skeleton
 

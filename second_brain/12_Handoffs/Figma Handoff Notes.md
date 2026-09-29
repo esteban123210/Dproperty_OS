@@ -4,13 +4,13 @@ title: "Figma Handoff Notes"
 type: product_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-29
 source: ChatGPT baseline vault package
 tags: [product]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> Design notes remain useful. Screen inventory must now include the **Transaction Spine** module.
+> Design notes remain useful. Screen inventory includes **CRM Oversight and Evidence**; deal execution screens belong in BlankCRM.
 >
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 
@@ -41,7 +41,7 @@ Translate the product specs into a clickable Figma prototype.
 9. Deal Detail.
 10. Private Collection Request.
 11. Projection Generator.
-12. Commission Tracker.
+12. Commission Liability Oversight (read-only source calculations; no approval or payout).
 13. Training Dashboard.
 
 ## Design Principles
@@ -72,3 +72,9 @@ Full platform architecture is now in [[../02_Offers/01_BluePrint/22 - Platform I
 7. Glitch Report + Glitch Feed
 
 Then extend to the remaining OS modules and back-office systems. See [[../02_Offers/01_BluePrint/23 - Platform Scenario Playbook]] for the flows each screen must support and [[../09_Data_and_AI/Roles and Access Matrix]] for what each role sees.
+
+## Product architecture acceptance — 2026-09-29 [D]
+
+BlankCRM executes lead capture, legal workflow, commercial approvals, contracts, payment milestones, closing, commissions and post-sale, with communications, automation and commercial dashboards. BluePrint provides CRM-agnostic financial health, expected-vs-actual cash, expense/budget/variance control, KPI/CRM oversight, Glitches, policies, management audit and executive AI recommendations. Commercial execution screens belong in BlankCRM; BluePrint screens show evidence, verification and management intervention. BlankCRM must operate without BluePrint. A BluePrint management decision does not execute a sales action.
+
+Spanish production copy: BlankCRM ejecuta todo el ciclo comercial: captación, calificación, gestión legal, aprobaciones, contratos, hitos de pago, cierre, comisiones y postventa; comunicaciones, automatización y tableros comerciales. Puede operar sin BluePrint. BluePrint es la capa de gestión interna, gobierno e inteligencia, independiente del CRM: salud financiera, caja esperada frente a real, gastos, presupuestos, desviaciones, KPI, supervisión del CRM, procesos y Glitches, auditoría, políticas y roles ejecutivos de IA. Observa, verifica y recomienda; no ejecuta ventas.

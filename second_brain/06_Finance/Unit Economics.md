@@ -5,7 +5,7 @@ type: business_plan_note
 status: In Review
 version: 0.7
 owner: Esteban
-last_updated: 2026-07-05
+last_updated: 2026-09-29
 source: Updated per 2026-07-05 commission-waterfall clarification
 supersedes: v0.6 (2026-07-04)
 tags: [business-plan, unit-economics]
@@ -26,7 +26,7 @@ tags: [business-plan, unit-economics]
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, superseded BluePrint execution assumptions, or “physical hub as the business” framing as current.
 > Current source: [[../01_Canon/09 - Unit Economics Registry]]
 
 # Unit Economics
@@ -78,3 +78,7 @@ Dproperty Select does **not** run through the seller/director waterfall or the e
 ## Interpretation
 
 Local sales are thinner for HQ per unit ($562) than the old headline suggested, because most of the commission is shared with co-brokers and paid out to the selling team. The scalable HQ economics come from **recurring** lines (OS fees, white-label subscriptions), **Dproperty Select** (HQ keeps $7,500/unit), and **developer revenue** — not from local royalty. Local royalty is a modest, un-gameable recurring layer on top.
+
+## Architecture cost allocation — 2026-09-29 [D]
+
+BlankCRM carries configuration/support and third-party costs for the full commercial lifecycle, including legal/approval/signature/payment/commission integrations. BluePrint carries evidence ingestion, financial reconciliation, CRM/process oversight, management governance and executive AI costs. Existing prices, rates, forecasts and formulas are unchanged assumptions, not validation of the revised scope. Requote both delivery scopes before committing budgets; do not fund a BluePrint transaction-execution engine or require BluePrint for standalone BlankCRM.

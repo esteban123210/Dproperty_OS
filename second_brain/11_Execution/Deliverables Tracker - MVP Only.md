@@ -5,12 +5,12 @@ type: tracker
 status: Active
 version: 1.0
 owner: Esteban
-last_updated: 2026-07-06
+last_updated: 2026-09-29
 tags: [deliverables, tracker, mvp, critical]
 ---
 
 > [!WARNING] Superseded — historical evidence only (reviewed 2026-09-23)
-> Filtered view of the pre-reset MVP scope, before the transaction spine was reinstated.
+> Historical tracker; current architecture assigns full commercial execution to BlankCRM and management verification/oversight to BluePrint. Use the current MVP plan for delivery gates.
 >
 > **Current instead:** [[Deliverables Tracker - Compact MD]] and [[../02_Offers/01_BluePrint/15 - MVP and Validation Plan]]
 >

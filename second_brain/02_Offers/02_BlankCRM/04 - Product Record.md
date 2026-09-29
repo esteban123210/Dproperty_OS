@@ -7,20 +7,20 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # BlankCRM — Standalone Product Record
 
 ## Executive summary
 
-BlankCRM is a managed real-estate front-office package built on GoHighLevel. It provides standardized lead capture, marketing automation, communication, appointment scheduling, early pipeline, templates, and integration to BluePrint. Its purpose is speed and adoption—not rebuilding a commodity CRM.
+BlankCRM is a managed real-estate front-office package built on GoHighLevel. It provides standardized lead capture, marketing automation, communication, appointment scheduling, full commercial pipeline, templates, and integration to BluePrint. Its purpose is speed and adoption—not rebuilding a commodity CRM.
 
-GoHighLevel or another CRM owns leads and early engagement. BluePrint becomes authoritative at the qualified handoff and never stores sensitive compliance documents in the CRM merely for convenience.
+BlankCRM owns the full commercial lifecycle and works standalone. BluePrint optionally reads authorized evidence for management verification; secure legal archives retain authoritative originals and least-privilege access.
 
 ## Offer
 
 - Workspace/sub-account setup, pipeline, fields, calendars, forms, templates and baseline automations.
-- Integration mapping, signed webhooks, retries/reconciliation, lead/opportunity deduplication and status writeback.
+- Integration mapping, signed webhooks, retries/reconciliation, lead/opportunity deduplication and read-only management ingestion.
 - Defined managed support and template updates.
 - Optional campaign setup, custom automation and migration quoted separately.
 - SMS, WhatsApp, email, phone and premium AI usage prepaid or passed through to the customer.
@@ -42,7 +42,7 @@ The standalone base model estimates expected BlankCRM ARR/customer of **$1,045.8
 | Block | Design |
 |---|---|
 | Customer | Small agencies/franchises wanting fast, managed CRM operations |
-| Value | Preconfigured real-estate workflows and clean handoff to transaction system |
+| Value | Preconfigured full commercial workflows, standalone operation and optional management oversight |
 | Channel | BluePrint implementation and franchise/partner launch |
 | Revenue | Setup, monthly management, custom services; usage passed through |
 | Partners | GoHighLevel, messaging/email/telephony providers |
@@ -50,7 +50,7 @@ The standalone base model estimates expected BlankCRM ARR/customer of **$1,045.8
 
 ## Data and system boundary
 
-Field ownership must be explicit. CRM owns contact marketing state, source/campaign, appointments, communication summaries, and early opportunity. BluePrint owns transaction stage, compliance, documents, approvals, closing and commission. Status writeback is minimal. Deletions/merges, consent, opt-out, duplicate identities, expired credentials and failed webhooks require reconciliation.
+Field ownership must be explicit. CRM owns contact marketing state, source/campaign, appointments, communication summaries, and commercial opportunity. BlankCRM owns transaction stages, legal workflow, documents, commercial approvals, payment milestones, closing, commissions and post-sale. BluePrint reads evidence and recommends management intervention; no sales-execution writeback. Deletions/merges, consent, opt-out, duplicate identities, expired credentials and failed webhooks require reconciliation.
 
 ## Risk and contingency
 
@@ -58,5 +58,5 @@ Vendor dependency, price changes, API limits, messaging policy, deliverability, 
 
 ## Gates
 
-Validate 10 managed accounts, <4 hours standard setup after templates mature, support burden within margin, clean qualified handoff, customer retention, and positive contribution after vendor/usage/support. If not, treat BlankCRM as optional referral/integration rather than a managed product.
+Validate 10 managed accounts, <4 hours standard setup after templates mature, support burden within margin, standalone lead-to-post-sale completion and read-only management evidence ingestion, customer retention, and positive contribution after vendor/usage/support. If not, treat BlankCRM as optional referral/integration rather than a managed product.
 

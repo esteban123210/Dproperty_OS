@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # SWOT, TOWS, and Five Forces
 
@@ -30,7 +30,7 @@
 
 | Force | Intensity | Why | Response |
 |---|---|---|---|
-| Rivalry | High | Many CRMs, broker tools, portals, spreadsheets and local systems | Own post-qualification transaction depth and audit, integrate rather than replace everything |
+| Rivalry | High | Many CRMs, broker tools, portals, spreadsheets and local systems | Prove management reconciliation and process intelligence; integrate with commercial execution systems |
 | Buyer power | High initially | Small agencies can churn, delay and request customization | ICP discipline, measurable ROI, annual terms after proof, standardized onboarding |
 | Supplier power | Medium–high | Cloud, AI, GHL, LMS, e-signature and messaging providers | Abstraction, pass-through usage, export, multi-provider options for critical paths |
 | New entrants | Medium | AI lowers interface/build cost; workflow/legal depth remains hard | Templates, transaction data, implementation learning, trust and partner distribution |

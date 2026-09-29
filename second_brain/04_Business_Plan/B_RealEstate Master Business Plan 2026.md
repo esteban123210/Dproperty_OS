@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # B_RealEstate Master Business Plan
 
@@ -117,7 +117,7 @@ B_ will maintain an **influence register** recording the public source, mechanis
 
 It is not a collection of five startups. It is one platform with three layers:
 
-1. **Operate:** BluePrint is the system of record and action for transactions, documents, compliance, commissions, operating controls and management truth.
+1. **Operate:** BluePrint is the management system of record for verified financial health, operating controls, policies, process intelligence and management interventions.
 2. **Standardize and distribute:** Dproperty/B_Franchising, BlankCRM and Academy create the first controlled deployments, customer acquisition, consistent behavior and proof.
 3. **Connect and transact:** VAULTED adds verified private opportunities, matching, attribution and transaction economics once the network has sufficient supply and demand.
 
@@ -228,43 +228,33 @@ Every pilot must establish a baseline for these items. “Users like the interfa
 
 | Layer | Owns | Does not own |
 |---|---|---|
-| BluePrint | Qualified opportunity handoff; transaction workspace; workflow; evidence; documents; approvals; commissions; operating controls; audit; management reporting | Lead generation, mass marketing automation, full accounting ledger, payroll, escrow or autonomous legal decisions |
-| BlankCRM | Lead capture, communication, nurturing, calendars, campaigns, pipeline and agent activity through GoHighLevel | BluePrint's transaction/compliance/commission system of record; proprietary CRM engineering |
+| BluePrint | Evidence-backed financial health, expected vs actual cash, expenses, budgets and variance; KPI and CRM-usage oversight; process/Glitch monitoring; policies, management interventions, audit and AI executive support | Lead generation, mass marketing automation, full accounting ledger, payroll, escrow or autonomous legal decisions |
+| BlankCRM | Full commercial execution from lead capture through legal, approvals, contracts, payment milestones, closing, commissions and post-sale; communications, automation and commercial dashboards through GoHighLevel | BluePrint management verification, company budgets/expenses and governance; proprietary CRM engineering |
 | Academy | Curricula, assignments, completion, certification, readiness and continuing standards | Building a new LMS; becoming a generic course marketplace |
 | VAULTED | Verified opportunity, access policy, NDA, interest, introductions, client attribution and marketplace transaction history | Public MLS/portal, custody, escrow, investment advice or indiscriminate listing volume |
 | B_Franchising | Brand license, territory/market relationship, operating playbook, launch support, QA and full-stack adoption | Being the only route to use B_ software |
 | Dproperty | Flagship brokerage/franchise brand, live operating laboratory, developer relationships, transaction proof and initial liquidity | Privileged access to independent customers' private data |
 
-### 3.2 The golden workflow
+### 3.2 Two independent, connected workflows
 
-1. A qualified opportunity enters manually or from an external CRM.
-2. BluePrint creates a canonical party, opportunity and transaction workspace.
-3. The correct workflow, tasks, document requirements and compliance controls are instantiated.
-4. Users upload evidence and generate approved documents.
-5. Required people review, approve, reject or request corrections with an audit trail.
-6. Milestones advance only when prerequisites are satisfied or an authorized exception is recorded.
-7. Closing evidence triggers a versioned commission calculation.
-8. Collection and payout statuses are tracked without moving money in the first year.
-9. Reports show verified facts, assumptions, missing data, bottlenecks and exceptions.
-10. Copilot answers from authorized sources, drafts work and proposes reversible actions subject to confirmation.
+BlankCRM executes lead capture → qualification → legal/document review → commercial approval → contract/signature → payment milestones → closing → commission calculation/approval → post-sale. Signature, settlement and accounting providers retain their source authority. This works without BluePrint.
 
-The same spine must work for three profiles: a Dproperty franchise using GoHighLevel, an independent agency using another CRM, and a small agency using manual intake.
+BluePrint reads authorized CRM lifecycle evidence plus accounting/bank actuals → verifies provenance → compares expected vs actual cash → classifies expenses and budget variance → detects CRM-usage or process Glitches → proposes management intervention → records human review → produces a management report. Commercial remediation is performed in the CRM, not by BluePrint.
+
+The management model supports BlankCRM, other CRMs and permissioned manual imports without requiring a sales-process migration.
 
 ### 3.3 BluePrint's initial modules
 
 **Required for the first paid product**
 
-- organizations, users, roles, entitlements and tenant isolation;
-- parties/opportunities and deduplication;
-- transaction workspace, stages, tasks, milestones and blockers;
-- document/template versions and controlled generation;
-- compliance requirements, evidence and review;
-- approval routes and immutable decisions;
-- commission rules, calculations, splits and snapshots;
-- management dashboards with source/verification labels;
-- audit trail and exports;
-- GoHighLevel connector plus manual/CSV fallback;
-- permission-aware Copilot with citations.
+- organization, roles, entitlements, tenant isolation and audit;
+- evidence intake, external source IDs, timestamps and verification state;
+- expected cash, actual receipts, expenses, budgets, forecasts and variance;
+- KPI definitions and CRM-usage oversight;
+- processes, Glitches, policies and management interventions;
+- management reports, period close and immutable provenance;
+- read-only GHL connector plus manual/CSV fallback and reconciliation exceptions;
+- permission-aware CEO/CFO/COO/CMO support with citations [T].
 
 **Explicitly postponed**
 
@@ -314,7 +304,7 @@ All answers must obey the user's underlying permissions, cite the records used, 
 
 ### 4.3 Product promise
 
-> BluePrint turns a fragmented agency into an auditable operating system from qualified opportunity to commission—without forcing it to replace its CRM.
+> BluePrint gives a fragmented agency evidence-backed financial health, management governance and process intelligence without replacing its CRM or executing its sales process.
 
 ### 4.4 Measurable customer outcomes
 
@@ -409,7 +399,7 @@ These terms require legal review by jurisdiction and an economic test against fr
 
 #### Phase 1 — controlled production (months 4–12)
 
-- Release transaction-spine MVP.
+- Release management reconciliation, CRM-usage oversight and Glitch MVP.
 - Deploy to Dproperty and external design partners.
 - Publish two quantified case studies.
 - Productize onboarding to under 30 days and then under 14 days.
@@ -450,7 +440,7 @@ Prices are experiments until validated through paid pilots.
 | Offer | Indicative pricing | Principle |
 |---|---:|---|
 | BluePrint Pilot | $500–$1,500/month plus setup | Charge before completeness; include success plan |
-| BluePrint Core | $399–$999/month by users/volume | Land with transaction spine |
+| BluePrint Core | $399–$999/month by users/volume | Land with financial reconciliation and management oversight |
 | BluePrint Growth | $1,250–$2,500/month | Advanced controls, entities, reporting, integrations |
 | Enterprise/network | Custom annual contract | Security, governance, service levels, configuration |
 | Implementation | $2,500–$15,000 | Recover migration/configuration cost; standardize over time |
@@ -476,7 +466,7 @@ This wedge uses Dproperty's reachable supply and existing cross-border ambition.
 2. B_ verifies identity, authority, availability, key documents, terms and access policy.
 3. Eligible agencies accept terms/NDA and register a client or request an introduction.
 4. VAULTED timestamps access, interest and attribution.
-5. A qualified deal becomes a BluePrint transaction workspace.
+5. A qualified deal becomes a BlankCRM/chosen-CRM transaction workspace.
 6. Milestones and evidence establish whether a transaction is attributable.
 7. Closing and commission evidence confirm GMV and economics.
 8. Performance history updates verified dimensions—not a simplistic public star score.
@@ -936,7 +926,7 @@ Killing a weak wedge protects the company. It does not invalidate the entire mis
 |---|---:|---|---:|
 | Founder-market insight | 8 | Real operating access and pain | 8 |
 | Problem severity | 7 | Plausible but not quantified externally | 8 |
-| Product clarity | 7 | Stronger after transaction-spine boundary | 8 |
+| Product clarity | 7 | Clear execution/governance boundary | 8 |
 | Market size | 6 | Large directionally; bottom-up proof incomplete | 8 |
 | Distribution | 7 | Franchise wedge is valuable but not scalable alone | 8 |
 | Defensibility | 5 | Architecture exists; moat not yet earned | 7 |
@@ -972,7 +962,7 @@ Killing a weak wedge protects the company. It does not invalidate the entire mis
 3. Map 10 real Dproperty transactions and quantify baseline operating pain.
 4. Interview 15 external agency principals and five operations leads.
 5. Recruit five design partners; convert three into paid pilots.
-6. Build/test the narrow transaction spine—not the full ecosystem.
+6. Build/test the management reconciliation loop alongside standalone BlankCRM commercial execution.
 7. Draft the customer data, benchmark and AI-use policy with counsel.
 8. Select one VAULTED corridor and run it concierge-style.
 9. Create a cohort model with revenue, delivery hours, support and customer outcomes.

@@ -3,7 +3,7 @@
 
 from brand import masthead, simple, table, glance, canvas
 
-M = "B_RealEstate<br>25 sept 2026<br>v3.0"
+M = "B_RealEstate<br>29 sept 2026<br>v3.0"
 
 P = {}
 
@@ -85,7 +85,7 @@ P["01_BluePrint"] = dict(
      "<strong>La meta de fondo:</strong> que cada persona dedique su tiempo a lo que mejor sabe hacer, "
      "y que la tecnología se encargue del resto."]),
  p2=masthead("BluePrint", "El Glitch Report y por qué el valor crece con el tiempo", None,
-             "B_RealEstate<br>25 sept 2026", small=True)
+             "B_RealEstate<br>29 sept 2026", small=True)
  + '<h2><span class="snum">02</span>El Glitch Report — inspirado en Four Seasons</h2>'
  + '<p class="small">Tomado del reporte de glitches del hotel <strong>Four Seasons</strong>: '
    '<strong>cualquier tropiezo, por pequeño que sea, se registra.</strong> El propósito no es señalar a '
@@ -122,14 +122,14 @@ P["01_BluePrint"] = dict(
    'la empresa: manuales, políticas, plantillas y contactos · y <strong>la mirada sobre el uso del '
    'CRM</strong>.</p></div>'
  + '<div><h3>Deja en manos de otros</h3><p class="small soft">La captación y el seguimiento comercial '
-   'previo a la calificación — eso es del CRM · el inventario de propiedades y proyectos · el libro '
+   'hasta postventa, incluida gestión legal, contratos, pagos, cierre y comisiones — eso es del CRM · el inventario de propiedades y proyectos · el libro '
    'contable oficial, los impuestos y la nómina — eso es del contador · la administración de '
    'propiedades · la entrega de cursos, que corresponde a Building Blocks · el marketplace, que '
    'corresponde a VAULTED · y el movimiento de fondos, que corresponde a la banca.</p>'
  + '<p class="small"><strong>Funciona con cualquier CRM</strong> — GoHighLevel, HubSpot, Salesforce o '
    'carga manual.</p></div>'
  + '</div>',
- p3=masthead("BluePrint", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
+ p3=masthead("BluePrint", "Modelo de Negocio", None, "B_RealEstate<br>29 sept 2026", small=True)
  + canvas(dict(
    kp=["CRM del cliente — la fuente que se acompaña","Sistemas contables",
        "Nube y proveedores de inteligencia artificial","Firma electrónica"],
@@ -181,7 +181,7 @@ P["02_BlankCRM"] = dict(
  + '<p class="small">Un buen CRM le quita fricción al vendedor: responde al prospecto en minutos, '
    'ordena el seguimiento, recuerda la próxima conversación, publica el contenido y deja registro de '
    'la actividad. <strong>Bien configurado, el equipo comercial vende más y pierde menos '
-   'oportunidades.</strong> Ese es todo su trabajo, y es un trabajo valioso.</p>'
+   'oportunidades.</strong> Incluye gestión legal, aprobaciones, contratos, hitos de pago, cierre, comisiones y postventa.</p>'
  + '<h3 class="mt">Su límite natural, dicho con honestidad</h3>'
  + '<p class="small">Lo que el CRM muestra refleja lo que el equipo alcanzó a registrar. No porque el '
    'equipo falle, sino porque <strong>su mejor tiempo está con el cliente</strong>, no llenando campos. '
@@ -190,14 +190,14 @@ P["02_BlankCRM"] = dict(
  + '<h3 class="mt">Qué acompaña</h3>'
  + '<p class="small">Prospectos y contactos · conversaciones por WhatsApp, correo y SMS · formularios, '
    'páginas y calendarios · seguimiento y maduración · el embudo comercial y la actividad del equipo · '
-   'atribución de campañas · automatizaciones que le ahorran tiempo al vendedor.</p>'
+   'atribución · gestión legal · aprobaciones · contratos · hitos de pago · cierre · comisiones · postventa · automatización y tableros comerciales.</p>'
  + '</div>'
  + glance([("Tipo","Front office comercial. Deliberadamente <em>no</em> es tecnología propia."),
            ("Trabajo","Que el equipo venda más y pierda menos oportunidades."),
            ("Modelo","Configuración inicial y suscripción por oficina. El consumo de mensajería se "
                      "traslada de forma transparente."),
            ("Motor","GoHighLevel, declarado abiertamente."),
-           ("Complemento","BluePrint acompaña su uso y completa lo que el CRM no puede garantizar.")],
+           ("Complemento","BluePrint es opcional: observa, verifica y recomienda; BlankCRM funciona solo.")],
           [("Días","Listo para operar, no semanas"),("1","Relación de soporte para todo el stack"),
            ("Fijo","El costo de plataforma no crece por cliente"),("+","Se integra con BluePrint")])
  + '</div>'
@@ -225,7 +225,7 @@ P["02_BlankCRM"] = dict(
      "está la disciplina que hace sano el negocio.",
      "Y lo importante: <strong>el CRM y BluePrint no compiten</strong>. Uno ayuda a vender, el otro "
      "ordena la empresa. Juntos, el vendedor vende y la administración funciona sola."]),
- p2=masthead("BlankCRM", "Modelo de Negocio", None, "B_RealEstate<br>25 sept 2026", small=True)
+ p2=masthead("BlankCRM", "Modelo de Negocio", None, "B_RealEstate<br>29 sept 2026", small=True)
  + canvas(dict(
    kp=["<strong>GoHighLevel</strong> — el motor","Proveedores de mensajería y voz",
        "Meta / WhatsApp Business","Proveedores de inteligencia artificial"],

@@ -5,7 +5,7 @@ type: strategy_note
 status: "v2.0 - Active Strategy"
 version: 2.0
 owner: Esteban
-last_updated: 2026-08-28
+last_updated: 2026-09-29
 tags: [strategy, business-model, revenue-architecture, infrastructure]
 ---
 
@@ -112,31 +112,18 @@ Academy, Copilot, analytics, developer programs
 
 ### What It Does
 
-BluePrint sits between the sales/CRM layer and the accounting/reporting layer:
+BluePrint reads commercial evidence and accounting/bank actuals to support management; it does not sit in the sales execution path.
 
-```
-Lead
-   ↓
-External CRM (GoHighLevel, Salesforce, HubSpot, etc.)
-   ↓
-QUALIFIED OPPORTUNITY
-   ↓
-──────────────────────────────
-        BLUEPRINT
-──────────────────────────────
-• Transaction workspace
-• Compliance gates
-• Document generation
-• Approvals + signatures
-• Commission tracking
-• Reporting + KPIs
-• Copilot assistance
-──────────────────────────────
-   ↓
-Accounting/BI/VAULTED/External Services
+```text
+BlankCRM / chosen CRM: lead -> legal -> approvals -> contracts -> payment milestones
+                      -> closing -> commissions -> post-sale
+                                  | read-only evidence
+                                  v
+BluePrint: cash / expenses / budget variance / KPIs / CRM audit / Glitches
+           -> management recommendations, policy and audit
 ```
 
-BluePrint asks: "We have a deal. Now what?"
+BlankCRM operates independently. BluePrint supports any CRM or authorized manual evidence intake. Its question is: "What is actually happening in the company, and where should management intervene?"
 
 ### Who Buys It
 

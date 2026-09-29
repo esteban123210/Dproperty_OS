@@ -5,14 +5,14 @@ type: product_constitution
 status: Canonical v4.0
 version: 4.0
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [blueprint, constitution, boundaries, management-os]
 ---
 
-> [!IMPORTANT] Amended 2026-09-23 — transaction spine reinstated
-> [[../../01_Canon/00 - Precedence and Canonical Reconciliation]] controls this folder. BluePrint's system of record now **begins at qualified opportunity** and includes the transaction file, compliance evidence, approvals, closing and **commission calculation**. The *property/project/unit inventory, listing and MLS* retirement from 2026-09-20 **stands permanently**.
+> [!IMPORTANT] Architecture corrected 2026-09-29 [D]
+> BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions. See [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].
 >
-> **Boundary in one line:** BluePrint owns *the deal as a governed management object*; it does not own *the property as inventory*.
+> **Boundary in one line:** BluePrint owns the management verification record, policies and oversight; the CRM owns deal execution and commercial records.
 
 # BluePrint Product Constitution
 
@@ -38,25 +38,14 @@ Owner/CEO/principal. BluePrint must answer: what is actually happening, what is 
 
 ## What BluePrint owns
 
-**Transaction spine — from qualified opportunity onward (the wedge):**
-- qualified-opportunity acceptance and the transaction file;
-- parties and assets **as transaction participants**, never as inventory;
-- documents, compliance checklists, evidence and retention;
-- approval policies and e-signature evidence;
-- reservation/contract milestones and closing;
-- commission rules, calculation snapshots, adjustments, receivable/payout status and exports.
+**Management evidence and commercial oversight:**
+- sourced observations of CRM lifecycle events, approvals and commercial outcomes;
+- independent verification status, provenance and reconciliation exceptions;
+- expected vs actual cash, expenses, budgets, variance and commission-liability oversight;
+- policies, process/Glitch monitoring, KPI and CRM-usage oversight;
+- management recommendations, decisions, audit and period close.
 
-**Management control:**
-- management truth and verification states;
-- budgets, management forecast and variance oversight;
-- management KPIs and reports;
-- operational incidents (“Glitches”), root causes and corrective actions;
-- SOP/process/control registry and process health;
-- management actions, decisions, approvals and strategic commitments;
-- company knowledge, governed manuals, policies and template metadata;
-- long-term audit trail and period snapshots/close;
-- integration reconciliation and exception queues;
-- permission-aware management AI.
+Commercial execution remains in BlankCRM/chosen CRM, including legal work, approvals, contracts, payment milestones, closing, commissions and post-sale. BluePrint may hold evidence references and management interpretations, never a second writable commercial master.
 
 ## What BluePrint coordinates but does not replace
 
@@ -73,7 +62,7 @@ Owner/CEO/principal. BluePrint must answer: what is actually happening, what is 
 Do not build native:
 - CRM, lead nurturing, funnels or marketing campaigns;
 - property/project/unit **inventory**, listing management or MLS;
-- the **pre-qualification** lead pipeline;
+- the full commercial lifecycle;
 - escrow/custody, money movement or FX;
 - full accounting ledger, tax, payroll or statutory filing;
 - generic ERP;
@@ -84,7 +73,7 @@ Do not build native:
 
 ## Boundary principle
 
-BluePrint owns **the deal as a governed management object**. It does not own **the property as inventory**. The transaction record exists because it is the atom of management truth for a brokerage — commissions, compliance and reporting all resolve to it. Inventory, listings and MLS belong to CRM, portal, developer systems or VAULTED.
+BluePrint owns management verification and oversight. The CRM owns commercial execution. The transaction record exists because it is the atom of management truth for a brokerage — commissions, compliance and reporting all resolve to it. Inventory, listings and MLS belong to CRM, portal, developer systems or VAULTED.
 
 ## Core product principle
 

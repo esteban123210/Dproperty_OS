@@ -116,3 +116,5 @@ Collected GCI per office by market · actual closes and average commission · ag
 - `[R]` **Direct support and field cost per office unmeasured** — HQ net contribution is unknown.
 - `[R]` Minimum-royalty floor mechanics ($750 from month 13) need contract language covering underperformance and termination.
 - `[A]` The $360,000 mature-office scenario is modelled; no office has produced it under this agreement.
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

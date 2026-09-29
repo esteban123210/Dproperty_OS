@@ -4,7 +4,7 @@ title: "BluePrint — One-Pager Executive Summary"
 type: one_pager
 status: v1.0 — ready for design
 owner: Esteban
-last_updated: 2026-09-24
+last_updated: 2026-09-29
 tags: [offer, blueprint, one-pager, proposal, exec-summary]
 ---
 
@@ -13,7 +13,7 @@ tags: [offer, blueprint, one-pager, proposal, exec-summary]
 # BluePrint
 
 **Eyebrow:** PRODUCT — PROPRIETARY CORE
-**Positioning line:** The management operating system that owns the deal from qualified opportunity through commission and audit.
+**Positioning line:** Evidence-backed back-office management, governance and intelligence alongside any CRM.
 
 ## At a glance
 
@@ -29,7 +29,7 @@ tags: [offer, blueprint, one-pager, proposal, exec-summary]
 
 ## The idea
 
-BluePrint is the back-office and transaction operating system for small and midsize real-estate organizations. It becomes authoritative the moment a lead becomes a **qualified opportunity**, and controls everything needed to move that opportunity to a documented close: parties, compliance evidence, documents, approvals, contract milestones, commissions, reporting and audit history.
+BluePrint is the CRM-agnostic back-office management, governance and intelligence system for sales-led businesses. Evidence-backed financial health, expected vs actual cash, expenses, budgets and variance; KPI and CRM-usage oversight; process/Glitch monitoring; policies, management interventions, audit and AI executive support. Commercial execution stays in BlankCRM or the chosen CRM at every stage.
 
 It is built for agencies run by strong sellers who have no appetite for back-office administration. One capable coordinator plus BluePrint should replace the management structure a growing agency would otherwise have to hire.
 
@@ -41,13 +41,13 @@ Critical information is scattered across chats, drives, spreadsheets, CRMs and i
 
 ## What it owns
 
-Qualified-opportunity intake · the transaction file · documents, compliance checklists and evidence · approval policies and e-signature evidence · contract milestones and closing · **commission rules, calculation snapshots and payout status** · management budgets, variance and KPIs · process assurance and operational incidents · period close · long-term audit trail · permission-grounded Copilot.
+Evidence-backed financial health, expected vs actual cash, expenses, budgets and variance; KPI and CRM-usage oversight; process/Glitch monitoring; policies, management interventions, audit and AI executive support. Source CRM observations are read-only and never authorize sales execution.
 
 ## What it does not own
 
-Leads, marketing automation and the pre-qualification pipeline (BlankCRM) · property, project and unit **inventory**, listings or MLS · general ledger, tax and payroll (accounting) · property management · course delivery (Building Blocks) · marketplace listings (VAULTED) · escrow, custody and money movement.
+Leads, marketing automation and the full commercial pipeline through post-sale (BlankCRM) · property, project and unit **inventory**, listings or MLS · general ledger, tax and payroll (accounting) · property management · course delivery (Building Blocks) · marketplace listings (VAULTED) · escrow, custody and money movement.
 
-**The boundary in one line:** BluePrint owns *the deal as a governed management object*. It does not own *the property as inventory*.
+**The boundary in one line:** BluePrint owns management verification and oversight, while the CRM owns commercial execution.
 
 ## Economics — for the customer
 
@@ -75,7 +75,7 @@ The case is straightforward: if BluePrint defers even one administrative hire, i
 
 ## What must be proven
 
-Five design partners and three paid conversions · one complete transaction run with **no shadow spreadsheet acting as the authority** · tenant isolation, permissions and audit tests passed · implementation under 40 hours then under 20 · weekly active target users above 60% · critical workflow completion above 70% by month 9 · observed gross margin, payback and retention by cohort.
+Five design partners and three paid conversions · one management reconciliation with **source evidence and no shadow management spreadsheet** · tenant isolation, permissions and audit tests passed · implementation under 40 hours then under 20 · weekly active target users above 60% · critical workflow completion above 70% by month 9 · observed gross margin, payback and retention by cohort.
 
 **Kill condition:** if target agencies consistently prefer a configured Odoo/GoHighLevel/accounting stack and will not pay materially for the opinionated management layer, stop or reposition before large development spend.
 
@@ -90,7 +90,7 @@ The incumbent to beat is not SkySlope or Dotloop — it is **CRM plus spreadshee
 | Block | Content |
 |---|---|
 | **Customer segments** | Boutique agencies 3–50 people · developer sales teams · Dproperty franchises · B_ Partner own-brand partners |
-| **Value proposition** | Controlled transactions, fewer failed handoffs, accurate commissions, management visibility without a management hire |
+| **Value proposition** | Verified financial health, process oversight and management intelligence without duplicating commercial execution |
 | **Channels** | Founder-led outbound · design partners · franchise and partner channel · developer relationships · Building Blocks |
 | **Customer relationships** | High-touch implementation moving toward standardized onboarding and in-product success |
 | **Revenue streams** | Setup and migration · Core/Growth subscription · usage · integrations · premium implementation |
@@ -102,3 +102,5 @@ The incumbent to beat is not SkySlope or Dotloop — it is **CRM plus spreadshee
 ## Footer disclaimer
 
 Figures marked `[A]` are unvalidated assumptions; `[M]` denotes financial-model output; `[T]` denotes targets; `[R]` denotes required evidence not yet obtained. Not an offer or an investment solicitation.
+
+Precedence: [[00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]].

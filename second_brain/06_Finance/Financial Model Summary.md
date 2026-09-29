@@ -4,7 +4,7 @@ title: "Financial Model Summary"
 type: finance_note
 status: Baseline Created
 owner: Esteban
-last_updated: 2026-07-01
+last_updated: 2026-09-29
 source: ChatGPT baseline vault package
 tags: [finance]
 ---
@@ -24,7 +24,7 @@ tags: [finance]
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]. Preserved deliberately — old thinking is evidence, not guidance.
 
 > **⚠ SUPERSEDED FOR CURRENT INVESTOR/PRODUCT WORK — 2026-09-20.**  
-> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, BluePrint transaction-spine assumptions, or “physical hub as the business” framing as current.  
+> This file preserves the pre-reset franchise-first model for historical/audit purposes. Do **not** use its TAM/SAM/SOM, five-year forecast, funding ask, superseded BluePrint execution assumptions, or “physical hub as the business” framing as current.
 > Current source: [[../04_Business_Plan/B_ Business Model Reset - 2026-09-20]] and [[../01_Canon/09 - Unit Economics Registry]]
 
 ---
@@ -34,7 +34,7 @@ type: finance_note
 status: Needs Rebuild
 version: 0.5
 owner: Esteban
-last_updated: 2026-07-02
+last_updated: 2026-09-29
 tags: [finance]
 ---
 
@@ -149,3 +149,7 @@ Every 4 percentage points of white-label Select mix is worth ~$147k of Year-5 EB
 Select attach-rate among white-label partners is arguably now the **most important operating metric in the business** — more leveraged than franchise count. It also validates Pillar 4 of the public argument from the other direction: if partners really do lift profitability by adding Select, they will attach heavily, and HQ captures 3.5% of every unit. Worth instrumenting in [OS_NAME] from day one.
 
 **Still open:** OPEX/staffing rows remain owner-unvalidated (they drive EBITDA more than any revenue line). The Phase-2 ecosystem model still does not exist.
+
+## Architecture cost allocation — 2026-09-29 [D]
+
+BlankCRM carries configuration/support and third-party costs for the full commercial lifecycle, including legal/approval/signature/payment/commission integrations. BluePrint carries evidence ingestion, financial reconciliation, CRM/process oversight, management governance and executive AI costs. Existing prices, rates, forecasts and formulas are unchanged assumptions, not validation of the revised scope. Requote both delivery scopes before committing budgets; do not fund a BluePrint transaction-execution engine or require BluePrint for standalone BlankCRM.

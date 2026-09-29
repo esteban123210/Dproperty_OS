@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Ecosystem Customer Journeys and Handoffs
 
@@ -19,17 +19,16 @@ Critical handoff: commercial promise to implementation. The signed order form, e
 
 ## Lead-to-close journey
 
-1. CRM captures source, consent, contact and early opportunity.
-2. Configured qualification trigger creates or proposes BluePrint intake.
-3. Integration deduplicates and records external identifiers/idempotency.
-4. BluePrint assigns owner and workflow; CRM remains engagement tool.
-5. Transaction proceeds through evidence, documents, approvals, contracting, closing and commission.
-6. Minimal stage/blocker/completion information returns to CRM.
-7. Final outcome updates analytics and permitted attribution.
+1. CRM captures source, consent, contact and commercial opportunity.
+2. The CRM continues qualification, legal workflow, commercial approvals, contracts, payment milestones, closing, commissions and post-sale.
+3. If BluePrint is enabled, authorized events and evidence are read throughout the lifecycle, independently of stage.
+4. BluePrint verifies management observations, reconciles expected vs actual cash, monitors usage and Glitches, and recommends intervention.
+5. Authorized teams perform commercial corrections in the CRM. BluePrint reads the result and re-verifies; it does not change source transaction status.
+6. BlankCRM-only customers complete the same commercial lifecycle without BluePrint.
 
 ## VAULTED journey
 
-Teaser → registration → profile/qualification → NDA → deal room → interest → agency/developer response → inventory validation → BluePrint transaction → close → attribution. Status returned to VAULTED is minimized by participant permissions.
+Teaser → registration → profile/qualification → NDA → deal room → interest → agency/developer response → inventory validation → BlankCRM/chosen-CRM transaction → close → attribution. Status returned to VAULTED is minimized by participant permissions.
 
 ## Learning journey
 

@@ -7,7 +7,7 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # System of Record and Event Taxonomy
 
@@ -15,16 +15,15 @@
 
 | Data | Authority | Permitted replicas |
 |---|---|---|
-| Marketing consent, campaign, appointment, early lead stage | CRM/BlankCRM | Minimal reference in BluePrint |
-| Organization, roles, entitlements, transaction and workflow | BluePrint | Analytics and limited CRM status |
-| Compliance evidence, document versions, approvals, audit | BluePrint | Secure external share/reference only |
-| Detailed course content/activity | LMS | Completion/certification summary in BluePrint |
-| Required training/readiness gate | BluePrint policy | Assignment in LMS |
-| Project/unit truth | Developer-approved project module | VAULTED/BluePrint read model |
-| VAULTED access/NDA/interest | VAULTED/shared platform | Transaction reference in BluePrint |
-| Bank receipt/payment | Accounting/bank/processor | Operational status in BluePrint |
-| Approved SOP/policy/template metadata | Second Brain/BluePrint knowledge service | Permissioned Copilot index |
-| Product analytics events | Event pipeline | Warehouse/defined reports |
+| Commercial lifecycle, legal workflow, approvals, contracts, payment milestones, closing, commissions, post-sale | BlankCRM / chosen CRM and specialist providers | Read-only sourced observations in BluePrint |
+| Management budgets, expenses/forecast views, verification, KPI definitions, Glitches, policies and interventions | BluePrint | Permissioned management reports |
+| Organization, roles and entitlements | Each product for its own tenant/access | Explicit mapped identities; no implied cross-product execution permission |
+| Bank settlement and statutory books | Bank / payment provider / accounting | Evidence-backed actuals in BluePrint |
+| Signed files and legal originals | Signature provider / legal archive | Secure evidence references |
+| Learning activity | Building Blocks / LMS | Certification observations for management oversight |
+| Inventory / marketplace | Developer / VAULTED | Authorized references |
+
+BluePrint event families are observations, verification changes, reconciliation exceptions, management decisions, Glitches and audit events. Commercial stage/approval/commission events below are consumed from the CRM, not commands BluePrint executes.
 
 ## Canonical event envelope
 

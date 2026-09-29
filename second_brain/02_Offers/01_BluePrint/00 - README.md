@@ -4,7 +4,7 @@ title: "BluePrint — Offer README"
 type: offer_readme
 status: Canonical — build priority
 owner: Esteban
-last_updated: 2026-09-25
+last_updated: 2026-09-29
 tags: [offer, readme, blueprint]
 ---
 
@@ -55,7 +55,7 @@ tags: [offer, readme, blueprint]
 
 ## What it does NOT own
 
-Leads, marketing automation and the **pre-qualification** pipeline (→ BlankCRM) · property/project/unit **inventory**, listings, MLS · **the general ledger of record**, tax filing, payroll (→ accounting) · property management · course delivery (→ Building Blocks) · marketplace listings (→ VAULTED) · escrow, custody, money movement, FX · the sales-agent prospecting workspace.
+Leads, marketing automation and the **full commercial lifecycle** (→ BlankCRM) · property/project/unit **inventory**, listings, MLS · **the general ledger of record**, tax filing, payroll (→ accounting) · property management · course delivery (→ Building Blocks) · marketplace listings (→ VAULTED) · escrow, custody, money movement, FX · the sales-agent prospecting workspace.
 
 **CRM-agnostic by design** — must work with GoHighLevel, HubSpot, Salesforce or manual intake.
 
@@ -88,7 +88,7 @@ Leads, marketing automation and the **pre-qualification** pipeline (→ BlankCRM
 
 - **`05 - Economics.md` missing.** BluePrint COGS (AI/integration/support per tenant) and gross margin are not modelled here. Summary lives in `06_Finance/Pricing Unit Economics and Revenue Policy.md`.
 - **`06 - Legal.md` missing.** No SaaS terms, DPA, SLA or IP-ownership note exists yet. `[R]` Required before any paid pilot.
-- **Transaction-spine module spec not yet written into `12 - Core Modules`** at the same depth as the management modules. The reconciliation reinstated it; the module detail is still thin.
+- Validate CRM Oversight and Evidence, expected-vs-actual cash and Glitch management against the corrected module and MVP specifications.
 - No paid external validation. Willingness to pay at $399/$799 is `[A]`.
 - **The ICP floor moved to two people, but pricing was modelled on a ~30-person agency.** Whether a two-person team supports $399/month is `[R]` unvalidated.
 - **The Glitch Report is the adoption risk.** People do not enjoy logging their own failures, and it is the dataset every agent depends on.

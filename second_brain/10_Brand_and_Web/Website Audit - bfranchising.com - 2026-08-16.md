@@ -4,7 +4,7 @@ title: "Website Audit - bfranchising.com - 2026-08-16"
 type: website_audit
 status: Completed
 owner: Esteban
-last_updated: 2026-08-16
+last_updated: 2026-09-29
 source: Live browser inspection of https://bfranchising.com
 tags: [ecosystem, website, audit]
 ---
@@ -47,7 +47,7 @@ Replace “La Plataforma” as the product name with **BluePrint**. First-use co
 
 ### 2. Correct the CRM claim
 
-`/ecosistema` calls it “CRM propio” and `/plataforma` describes CRM pipeline functions as part of one platform/database. The canonical architecture uses white-labeled GoHighLevel. Replace with transparent wording and show the handoff: GHL owns demand/communication; BluePrint owns operations.
+`/ecosistema` calls it “CRM propio” and `/plataforma` describes CRM pipeline functions as part of one platform/database. The canonical architecture uses white-labeled GoHighLevel. Replace with transparent wording and show the handoff: BlankCRM executes the full commercial lifecycle; BluePrint observes, verifies and governs company management.
 
 ### 3. Remove “one database” language
 

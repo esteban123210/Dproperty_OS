@@ -4,12 +4,12 @@ title: "BluePrint Roles and Access — v3.0 Entry"
 type: access_model
 status: Canonical pointer
 owner: Esteban
-last_updated: 2026-09-20
+last_updated: 2026-09-29
 tags: [blueprint, roles, permissions]
 ---
 
 > [!NOTE] Verified against canon 2026-09-23
-> Pointer is current. Roles must now cover transaction-spine permissions: approval authority, commission visibility and override audit.
+> Roles distinguish CRM commercial execution permissions from BluePrint management review, evidence visibility and policy/audit permissions.
 >
 > Precedence: [[../01_Canon/00 - Precedence and Canonical Reconciliation|Canonical Reconciliation and Precedence]]
 

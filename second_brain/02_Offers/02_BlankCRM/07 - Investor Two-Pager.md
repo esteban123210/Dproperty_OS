@@ -7,15 +7,15 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # BlankCRM — Investor Two-Pager
 
 ## 1. The idea in plain English
 
-BlankCRM is a managed front-office package for small real-estate agencies, built on GoHighLevel rather than as a new proprietary CRM. B_ configures the workspace, lead capture, forms, calendars, pipeline, templates, baseline automations, communications, and the qualified handoff into BluePrint.
+BlankCRM is a managed front-office package for small real-estate agencies, built on GoHighLevel rather than as a new proprietary CRM. B_ configures the workspace, lead capture, forms, calendars, pipeline, templates, baseline automations, communications, and the full commercial lifecycle, with optional read-only BluePrint oversight.
 
-The strategic logic is speed: do not spend capital rebuilding commodity CRM features. Package a proven external platform around real-estate workflows and make the handoff into the transaction system reliable.
+The strategic logic is speed: do not spend capital rebuilding commodity CRM features. Package a proven external platform around real-estate workflows and make full commercial execution repeatable and management observations reliable.
 
 ## 2. Customer, problem, and value
 
@@ -23,7 +23,7 @@ The strategic logic is speed: do not spend capital rebuilding commodity CRM feat
 
 **Problem:** leads arrive through many channels, follow-up is inconsistent, automation is poorly configured, and qualified opportunities are re-entered manually into operational tools.
 
-**Value proposition:** a ready-to-use, managed real-estate acquisition stack with a clean boundary: BlankCRM owns lead generation and early engagement; BluePrint owns transaction, compliance, documents, approvals, closing, and commission.
+**Value proposition:** a ready-to-use, managed real-estate acquisition stack with a clean boundary: BlankCRM owns full commercial execution through post-sale; BluePrint owns back-office management, verification, governance and intelligence.
 
 ## 3. Offer and boundaries
 
@@ -53,7 +53,7 @@ These margins remain highly sensitive to vendor pricing, messaging usage, suppor
 | Block | Model |
 |---|---|
 | Customer segments | Small agencies, franchise offices, own-brand partners |
-| Value proposition | Fast managed CRM deployment and reliable qualified handoff to BluePrint |
+| Value proposition | Managed full-lifecycle CRM execution, standalone operation and optional BluePrint oversight |
 | Channels | BluePrint implementation, franchise launch, partner bundles, direct referrals |
 | Relationship | Setup, managed support, template updates, usage monitoring |
 | Revenue | Setup, monthly management, custom services; vendor usage passed through |
@@ -66,7 +66,7 @@ These margins remain highly sensitive to vendor pricing, messaging usage, suppor
 
 Customers can buy GoHighLevel directly or choose real-estate CRMs such as Follow Up Boss, Lofty, kvCORE, and Propertybase. HubSpot and Salesforce compete for customers willing to configure broader platforms. Agencies can also hire a marketing-automation freelancer.
 
-BlankCRM does not have a credible standalone technology moat. Its differentiation is packaging: fast setup, real-estate templates, managed support, and a governed handoff into BluePrint. If that implementation advantage is not measurable, customers should buy the underlying tool directly.
+BlankCRM does not have a credible standalone technology moat. Its differentiation is packaging: fast setup, real-estate templates, managed support, and an optional evidence feed into BluePrint. If that implementation advantage is not measurable, customers should buy the underlying tool directly.
 
 ## 7. Defensibility and risks
 
@@ -80,7 +80,7 @@ Mitigation requires exports, configuration-as-code where practical, connector ab
 
 - Ten active managed accounts.
 - Standard setup below four hours after templates mature.
-- Clean qualified handoff and reconciliation under failure conditions.
+- Standalone full commercial lifecycle and read-only evidence reconciliation under failure conditions.
 - Positive contribution after actual vendor, usage, setup, and support costs.
 - Retention and attach rate by customer type.
 - An exit path if the underlying vendor changes terms.

@@ -4,7 +4,7 @@ title: "BlankCRM — Offer README"
 type: offer_readme
 status: Canonical — price unmodelled
 owner: Esteban
-last_updated: 2026-09-23
+last_updated: 2026-09-29
 tags: [offer, readme, blankcrm]
 ---
 
@@ -26,11 +26,11 @@ Be transparent about the engine. B_ deliberately avoids spending proprietary eng
 
 ## What it owns
 
-Lead and contact management · WhatsApp/email/SMS workflows · forms, landing pages, calendars · follow-up and nurture · **pre-qualification** sales pipeline and agent activity · campaign and source attribution · sales-team automations
+Lead and contact management · WhatsApp/email/SMS workflows · forms, landing pages, calendars · follow-up and nurture · full commercial sales pipeline and agent activity · campaign and source attribution · sales, legal and administration automations · legal workflow · commercial approvals · contracts · payment milestones · closing · commissions · post-sale · commercial dashboards
 
 ## What it does NOT own
 
-Everything after qualification — transaction file, compliance, approvals, closing, commission (→ BluePrint) · management budgets and finance control · official management truth · process assurance and Glitches · accounting · marketplace listings (→ VAULTED) · long-term management audit
+management budgets and finance control · official management truth · process assurance and Glitches · accounting · marketplace listings (→ VAULTED) · long-term management audit
 
 ## Files in this folder
 

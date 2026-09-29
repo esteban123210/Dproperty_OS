@@ -7,13 +7,13 @@
 >
 > **Naming corrections that override this folder:** **Building Blocks** (not *Academy* / *B_Academy*) · **B_ Partner** (not *White-Label*) · **Dproperty Select** (not *Private Collection*) · **Developer Partnerships** (not *Developer Sales OS*).
 >
-> **BluePrint is both halves:** the transaction/commission spine from qualified opportunity **and** the management-control layer (budgets, variance, process assurance, Glitches, period close). It never owns property/unit inventory, listings or MLS.
+> **Architecture decision — 2026-09-29 [D]:** BlankCRM owns full commercial execution through post-sale. BluePrint owns back-office management, financial verification, governance and intelligence; it observes the CRM without executing sales actions.
 
 # Dproperty Franchise — Investor Two-Pager
 
 ## 1. The idea in plain English
 
-Dproperty Franchise lets a qualified local operator open a premium real-estate brokerage under the Dproperty brand while using B_RealEstate's operating system. The franchisee receives the brand, launch playbook, BluePrint transaction workflows, optional BlankCRM, mandatory Building Blocks onboarding, approved templates, reporting, operating standards, and eligible curated inventory/network access.
+Dproperty Franchise lets a qualified local operator open a premium real-estate brokerage under the Dproperty brand while using B_RealEstate's operating system. The franchisee receives the brand, launch playbook, BlankCRM/chosen-CRM transaction workflows, optional BlankCRM, mandatory Building Blocks onboarding, approved templates, reporting, operating standards, and eligible curated inventory/network access.
 
 The offer is not a passive investment, a guaranteed territory forever, a lead guarantee, or a promise of returns. The local operator remains responsible for licenses, staff and agents, client acquisition, premises, local marketing, taxes, compliance, and service quality.
 
@@ -29,7 +29,7 @@ The promise must be measured as better economics and control: faster launch, mor
 
 ## 3. What the franchise includes—and does not
 
-Included core: Dproperty brand license; launch and activation checklist; BluePrint Core for 12 months within defined limits; transaction, compliance, document, closing, and commission workflows; essential Building Blocks onboarding; reporting standards; test transaction; approved templates; and defined HQ support.
+Included core: Dproperty brand license; launch and activation checklist; BluePrint Core for 12 months within defined limits; transaction, compliance, document, closing, and commission workflows executed in BlankCRM/chosen CRM;  essential Building Blocks onboarding; reporting standards; test transaction; approved templates; and defined HQ support.
 
 Separately charged or locally funded: office build-out, employees and agents, brokerage licenses, local legal/tax work, local advertising, travel, complex migration, custom development, premium courses, excess AI/messaging use, extra offices, and optional BlankCRM.
 
