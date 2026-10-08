@@ -64,3 +64,20 @@ For every topic, be able to answer:
 ---
 
 Parent course note: [[../Developments in International Business|Developments in International Business]]
+
+## Source coverage updated 8 October 2026
+
+The course archive is now incorporated as a Markdown knowledge layer. Session 1 files were extended in place; Sessions 2–7 have individual reading and case notes, with slides for Sessions 2–6 and links to student submissions. Two Session 7 condensed documents are labelled as study aids.
+
+- [Source register, provenance and missing material](01_Admin/Source%20Register%20and%20Import%20Audit.md)
+- [Submission tracker and feedback](05_Assignments/Submission%20Tracker%20and%20Feedback.md)
+- [Mock exam questions and study guide](06_Exam/Mock%20Exam%201%20-%20Questions%20and%20Study%20Guide.md)
+- [Canvas instructions, announcements and discussion resources](01_Admin/Canvas%20Export%20-%20Instructions%20Announcements%20and%20Resources.md)
+
+- [00 - Session 1 Source Pack](03_Readings/Session_01/00%20-%20Session%201%20Source%20Pack.md)
+- [00 - Session 2 Source Pack](03_Readings/Session_02/00%20-%20Session%202%20Source%20Pack.md)
+- [00 - Session 3 Source Pack](03_Readings/Session_03/00%20-%20Session%203%20Source%20Pack.md)
+- [00 - Session 4 Source Pack](03_Readings/Session_04/00%20-%20Session%204%20Source%20Pack.md)
+- [00 - Session 5 Source Pack](03_Readings/Session_05/00%20-%20Session%205%20Source%20Pack.md)
+- [00 - Session 6 Source Pack](03_Readings/Session_06/00%20-%20Session%206%20Source%20Pack.md)
+- [00 - Session 7 Source Pack](03_Readings/Session_07/00%20-%20Session%207%20Source%20Pack.md)

@@ -35,7 +35,7 @@ The recurring task throughout the course is to turn contextual differences acros
 6. [[Developments in International Business/02_Sessions/Session 06 - MNEs and Artificial Intelligence|MNEs and artificial intelligence]]
 7. [[Developments in International Business/02_Sessions/Session 07 - MNEs and the Environment|MNEs and the environment]]
 
-## Current focus - Session 1
+## Session 1 foundation
 The Session 1 source pack is already integrated:
 - lecture slides;
 - Ghemawat (2012), *Actually, the World Isn't Flat*;
@@ -61,3 +61,8 @@ For every topic, move through this chain:
 ---
 
 Related to: [[01_Year_1/Semester_1/Competitive & Corporate Strategy|Competitive & Corporate Strategy]] (Year 1 - global strategy context)
+
+
+## October 2026 course import
+
+The course hub now indexes newly imported Sessions 2–7 reading/case knowledge, Sessions 2–6 slides, submitted work, the Atradius guest lecture, Session 7 study aids and the mock exam. Source coverage and gaps are tracked inside the existing course workspace.

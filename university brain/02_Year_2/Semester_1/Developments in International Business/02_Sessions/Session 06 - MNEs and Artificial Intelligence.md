@@ -59,4 +59,16 @@ Understand how recent developments in big data and artificial intelligence are r
 **Framework:**  
 **Use when:**  
 **Main trade-off:**  
-**Compare with:**  
+**Compare with:**
+
+## Imported course knowledge as of 8 October 2026
+
+AI changes both international decision-making and operations. Human bounded rationality creates judgment and present-state biases; augmentation can ease information and processing constraints but introduces biased data, objectives, benefits and interaction. Governance and local data validation remain essential. Digital MNEs, born globals, direct and indirect network effects and complementors challenge assumptions about scaling while Hennart tests what existing theory already explains. Acorai links global ambitions to local validation, capital, stakeholders and institutions. The deck announces an AI guest talk for the following week; its separate slides are absent.
+
+[Canonical session source pack](../03_Readings/Session_06/00%20-%20Session%206%20Source%20Pack.md) · [Case facts and official task](../04_Cases/Session_06/Acorai%20-%20Case%20Note.md) · [Uploaded student work](../05_Assignments/Session_06/Acorai%20-%20Submitted%20Team%20B%20Deck.md)
+
+### Retrieval and application
+
+**Core claim:** AI changes both international decision-making and operations.
+
+**Use in an answer:** Identify the relevant border friction, show how the mechanism changes the strategic alternatives, and state conditions that would change your recommendation. Reading import is not evidence that the student has attended or finished preparation.

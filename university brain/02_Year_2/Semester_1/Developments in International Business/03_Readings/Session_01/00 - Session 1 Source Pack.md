@@ -97,3 +97,23 @@ The final exam draws on slides and readings rather than the debated cases. For S
 - FDI;
 - OLI / Eclectic Paradigm;
 - ability to connect the frameworks into an explanation of **why MNEs exist**.
+
+## October 2026 verified source coverage
+
+## Lecture
+
+[Session 1 Slides - Lecture Notes](Session%201%20Slides%20-%20Lecture%20Notes.md)
+
+## Readings
+
+- [Altman et al 2024 - Challenging the Deglobalization Narrative](Altman%20et%20al%202024%20-%20Challenging%20the%20Deglobalization%20Narrative.md)
+- [Zaheer 1995 - Overcoming the Liability of Foreignness](Zaheer%201995%20-%20Overcoming%20the%20Liability%20of%20Foreignness.md)
+- [Ghemawat TED transcript already in Brain; no new transcript in ZIP](Ghemawat%202012%20-%20Actually%20the%20World%20Isnt%20Flat.md)
+
+## Case and submitted work
+
+- [Bean of Africa - Case Note](../../04_Cases/Session_01/Bean%20of%20Africa%20-%20Case%20Note.md)
+
+## Coverage limits
+
+The assigned Lindner & Puck (2025) textbook chapters are not in this archive. [Source register and gaps](../../01_Admin/Source%20Register%20and%20Import%20Audit.md) lists provenance and ambiguities.

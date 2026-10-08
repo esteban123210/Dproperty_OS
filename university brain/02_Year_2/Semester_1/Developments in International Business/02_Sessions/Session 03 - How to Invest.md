@@ -61,4 +61,16 @@ Evaluate how firms choose foreign-market entry modes by assessing strategic obje
 **Framework:**  
 **Use when:**  
 **Main trade-off:**  
-**Compare with:**  
+**Compare with:**
+
+## Imported course knowledge as of 8 October 2026
+
+Choose entry modes according to control, commitment, resources and institutional fit. Non-equity modes include exporting and contractual arrangements such as licensing/franchising, turnkey projects, R&D contracts and co-marketing. Equity modes include JVs and wholly owned operations established by acquisition or greenfield investment. Separate ownership share from establishment mode. Partnerships trade control for resource access and risk sharing; local responsiveness must be coordinated with global integration.
+
+[Canonical session source pack](../03_Readings/Session_03/00%20-%20Session%203%20Source%20Pack.md) · [Case facts and official task](../04_Cases/Session_03/Popeyes%20China%20-%20Case%20Note.md) · [Uploaded student work](../05_Assignments/Session_03/Popeyes%20China%20-%20Submitted%20Team%20A%20Deck.md)
+
+### Retrieval and application
+
+**Core claim:** Choose entry modes according to control, commitment, resources and institutional fit.
+
+**Use in an answer:** Identify the relevant border friction, show how the mechanism changes the strategic alternatives, and state conditions that would change your recommendation. Reading import is not evidence that the student has attended or finished preparation.

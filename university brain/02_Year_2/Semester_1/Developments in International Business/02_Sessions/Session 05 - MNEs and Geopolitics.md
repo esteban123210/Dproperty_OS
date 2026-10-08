@@ -56,4 +56,16 @@ Understand how the re-emergence of geopolitical tensions changes the nature of p
 **Framework:**  
 **Use when:**  
 **Main trade-off:**  
-**Compare with:**  
+**Compare with:**
+
+## Imported course knowledge as of 8 October 2026
+
+Distinguish measurable risk from Knightian uncertainty requiring active strategic judgment. Weak enforcement and legitimacy of supranational institutions, populism, geopolitical blocs and security-oriented industrial policy reshape investment and supply chains. Nvidia illustrates conflicting state demands and the limits of host-country risk models. Combine corporate foreign policy, bargaining, stakeholder relationships, diversification and scenario-based triggers. Lecture cases are evidence in the supplied teaching context.
+
+[Canonical session source pack](../03_Readings/Session_05/00%20-%20Session%205%20Source%20Pack.md) · [Case facts and official task](../04_Cases/Session_05/NVIDIA%20Between%20Two%20Giants%20-%20Case%20Note.md) · [Uploaded student work](../05_Assignments/Session_05/NVIDIA%20-%20Submitted%20Discussion%20Paper.md)
+
+### Retrieval and application
+
+**Core claim:** Distinguish measurable risk from Knightian uncertainty requiring active strategic judgment.
+
+**Use in an answer:** Identify the relevant border friction, show how the mechanism changes the strategic alternatives, and state conditions that would change your recommendation. Reading import is not evidence that the student has attended or finished preparation.

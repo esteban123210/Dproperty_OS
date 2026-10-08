@@ -142,3 +142,15 @@ Ask:
 **Frameworks:** semi-globalization; LOF/FSA; transaction-cost economics; markets vs hierarchy; FDI/internalization.  
 **Use when:** explaining why a firm internationalizes, why a foreign unit underperforms, or why a firm should export/contract versus own/control foreign activities.  
 **Compare with:** Session 2 will move from 'why internationalize?' to 'where to invest?'.
+
+## Imported course knowledge as of 8 October 2026
+
+Borders create additional costs, so firms need transferable advantages and an appropriate governance arrangement. The slides connect semi-globalization, liability of foreignness, institutions, firm-specific advantages, value-chain boundaries, transaction costs, vertical integration, internalization, FDI and OLI. Use the Bean of Africa to distinguish buying through intermediaries from owning activities abroad. Existing Session 1 knowledge remains canonical.
+
+[Canonical session source pack](../03_Readings/Session_01/00%20-%20Session%201%20Source%20Pack.md) · [Case facts and official task](../04_Cases/Session_01/Bean%20of%20Africa%20-%20Case%20Note.md)
+
+### Retrieval and application
+
+**Core claim:** Borders create additional costs, so firms need transferable advantages and an appropriate governance arrangement.
+
+**Use in an answer:** Identify the relevant border friction, show how the mechanism changes the strategic alternatives, and state conditions that would change your recommendation. Reading import is not evidence that the student has attended or finished preparation.

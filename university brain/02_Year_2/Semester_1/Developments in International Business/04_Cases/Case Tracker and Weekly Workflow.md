@@ -4,12 +4,12 @@
 | Session | Case | Decision focus | Team role | Mini case | Debate prep | Post-class insight |
 |---|---|---|---|---|---|---|
 | 1 | *The Bean of Africa* | Cross-border activity and hidden frictions | Discussion | -- | -- | [ ] |
-| 2 | *IKEA India: Expansion strategy dilemma* | Where to invest / localization | TBD | [ ] | [ ] | [ ] |
-| 3 | *Popeyes in China* | How to invest / entry mode | TBD | [ ] | [ ] | [ ] |
-| 4 | *AES-Telasi* | State relations / political risk | TBD | [ ] | [ ] | [ ] |
-| 5 | *Between two giants: Nvidia...* | Geopolitical exposure | TBD | [ ] | [ ] | [ ] |
-| 6 | *Acorai AB* | AI and internationalization | TBD | [ ] | [ ] | [ ] |
-| 7 | *Shopee* | Pace and pattern of internationalization | TBD | [ ] | [ ] | [ ] |
+| 2 | *IKEA India: Expansion strategy dilemma* | Where to invest / localization | Non-debating submission | [ ] | [ ] | [ ] |
+| 3 | *Popeyes in China* | How to invest / entry mode | Team A submitted deck | [ ] | [ ] | [ ] |
+| 4 | *AES-Telasi* | State relations / political risk | Non-debating submission | [ ] | [ ] | [ ] |
+| 5 | *Between two giants: Nvidia...* | Geopolitical exposure | Non-debating submission | [ ] | [ ] | [ ] |
+| 6 | *Acorai AB* | AI and internationalization | Team B submitted deck | [ ] | [ ] | [ ] |
+| 7 | *Shopee* | Pace and pattern of internationalization | Not established in export | [ ] | [ ] | [ ] |
 
 ## Weekly case workflow
 
@@ -59,3 +59,15 @@ The cases themselves are not directly examined, but the **generalizable lessons 
 - Which fact changed the recommendation most?
 - What principle would transfer to another industry or country?
 - What comparison could appear in an exam essay?
+
+## Imported case evidence and submission status
+
+- Session 1: [Bean of Africa - Case Note](Session_01/Bean%20of%20Africa%20-%20Case%20Note.md)
+- Session 2: [IKEA India - Case Note](Session_02/IKEA%20India%20-%20Case%20Note.md) · [IKEA India - Submitted Discussion Paper](../05_Assignments/Session_02/IKEA%20India%20-%20Submitted%20Discussion%20Paper.md)
+- Session 3: [Popeyes China - Case Note](Session_03/Popeyes%20China%20-%20Case%20Note.md) · [Popeyes China - Submitted Team A Deck](../05_Assignments/Session_03/Popeyes%20China%20-%20Submitted%20Team%20A%20Deck.md)
+- Session 4: [AES Telasi - Case Note](Session_04/AES%20Telasi%20-%20Case%20Note.md) · [AES Telasi - Submitted Discussion Paper](../05_Assignments/Session_04/AES%20Telasi%20-%20Submitted%20Discussion%20Paper.md)
+- Session 5: [NVIDIA Between Two Giants - Case Note](Session_05/NVIDIA%20Between%20Two%20Giants%20-%20Case%20Note.md) · [NVIDIA - Submitted Discussion Paper](../05_Assignments/Session_05/NVIDIA%20-%20Submitted%20Discussion%20Paper.md)
+- Session 6: [Acorai - Case Note](Session_06/Acorai%20-%20Case%20Note.md) · [Acorai - Submitted Team B Deck](../05_Assignments/Session_06/Acorai%20-%20Submitted%20Team%20B%20Deck.md)
+- Session 7: [Shopee - Case Note](Session_07/Shopee%20-%20Case%20Note.md)
+
+[Submission dates, points and feedback](../05_Assignments/Submission%20Tracker%20and%20Feedback.md) records what was actually exported. Existing post-class and study checkboxes are preserved.

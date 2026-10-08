@@ -98,3 +98,25 @@ State what management should do, the trade-off accepted, and the conditions unde
 - [ ] Slides have been indexed by concept, not only by session.
 - [ ] I can answer a new case without relying on memorized course cases.
 - [ ] I can retrieve any framework in under 30 seconds.
+
+## Uploaded mock exam and evidence retrieval
+
+[Mock Exam 1 - Questions and Study Guide](Mock%20Exam%201%20-%20Questions%20and%20Study%20Guide.md) includes the official practice questions and separately labelled study guidance. No lecturer solution is in the ZIP. The practice narratives are supplied premises, not independently verified current reporting.
+
+| Practice question | Retrieval sources | Important distinction |
+|---|---|---|
+| 1. Walmart and foreignness | [Zaheer](../03_Readings/Session_01/Zaheer%201995%20-%20Overcoming%20the%20Liability%20of%20Foreignness.md); [Session 1](../03_Readings/Session_01/Session%201%20Slides%20-%20Lecture%20Notes.md) | Foreignness-related costs versus ordinary competitive weakness |
+| 2. Walmart biases and AI | [Lindner et al.](../03_Readings/Session_06/Lindner%20et%20al%202025%20-%20AI%20and%20Augmented%20Decision%20Making.md); [Moses et al.](../03_Readings/Session_06/Moses%20et%20al%202025%20-%20Data%20Accuracy%20in%20West%20African%20Markets.md); [Anwar](../03_Readings/Session_06/Anwar%202026%20-%20The%20Algorithmic%20Boardroom.md) | Easing bounded rationality versus introducing machine bias |
+| 3. BYD and institutional/geopolitical change | [Session 5](../03_Readings/Session_05/Session%205%20Slides%20-%20Lecture%20Notes.md); [Estrin and Hancke](../03_Readings/Session_05/Estrin%20and%20Hancke%202026%20-%20Geopolitics%20Geoeconomics%20and%20Organizational%20Models.md); [Chipman](../03_Readings/Session_05/Chipman%202016%20-%20Why%20Your%20Company%20Needs%20a%20Foreign%20Policy.md) | Host-country political risk versus interacting states and changing macro rules |
+| 4. BYD stakeholders and foundational IB | [Henisz et al.](../03_Readings/Session_04/Henisz%20et%20al%202014%20-%20Spinning%20Gold.md); [Dunning](../03_Readings/Session_02/Dunning%202000%20-%20The%20Eclectic%20Paradigm.md); [Session 4](../03_Readings/Session_04/Session%204%20Slides%20-%20Lecture%20Notes.md) | Owning assets versus realizing their value through stakeholder cooperation |
+
+### Further comparisons supported by the readings
+
+- [CAGE](../03_Readings/Session_02/Ghemawat%202001%20-%20Distance%20Still%20Matters.md) identifies bilateral distance; [OLI](../03_Readings/Session_02/Dunning%202000%20-%20The%20Eclectic%20Paradigm.md) explains ownership, location and governance fit.
+- [Institutional/resource entry mode](../03_Readings/Session_03/Meyer%20et%20al%202009%20-%20Institutions%20Resources%20and%20Entry%20Strategies.md) explains resource access; [JV governance](../03_Readings/Session_03/Bamford%20et%20al%202020%20-%20Joint%20Ventures%20and%20Partnerships%20in%20a%20Downturn.md) explains collaboration management.
+- [Pace by region](../03_Readings/Session_07/Kim%202020%20-%20Whats%20the%20Best%20Pace%20of%20Expansion.md) differs from [extent and S-curve performance](../03_Readings/Session_07/Lu%20and%20Beamish%202004%20-%20The%20S%20Curve%20Hypothesis.md).
+- [Digital MNE governance](../03_Readings/Session_06/Hennart%202019%20-%20Digitalized%20Service%20Multinationals.md) differs from [AI-augmented decision-making](../03_Readings/Session_06/Lindner%20et%20al%202025%20-%20AI%20and%20Augmented%20Decision%20Making.md).
+
+### Coverage status
+
+The Brain now has source text for uploaded readings and slides, individual retrieval notes, case tasks and submitted work. Session 7 slides, textbook chapters, the announced AI guest-talk material and an official mock-exam answer key remain unavailable. Keep the actual-exam rules separate from practice-sheet timing and word limits.

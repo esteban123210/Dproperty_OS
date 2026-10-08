@@ -59,4 +59,16 @@ Evaluate how firms select foreign markets by assessing home-host country distanc
 **Framework:**  
 **Use when:**  
 **Main trade-off:**  
-**Compare with:**  
+**Compare with:**
+
+## Imported course knowledge as of 8 October 2026
+
+Select markets by combining location attraction with home–host distance and firm fit. The slides connect OLI, globalization and arbitrage, CAGE, Hofstede dimensions and cultural measurement, economic freedom and institutional context, Uppsala stages, born globals, and IKEA localization. Country averages do not erase internal cultural variation. Compare the learning-based staged process with early rapid internationalization.
+
+[Canonical session source pack](../03_Readings/Session_02/00%20-%20Session%202%20Source%20Pack.md) · [Case facts and official task](../04_Cases/Session_02/IKEA%20India%20-%20Case%20Note.md) · [Uploaded student work](../05_Assignments/Session_02/IKEA%20India%20-%20Submitted%20Discussion%20Paper.md)
+
+### Retrieval and application
+
+**Core claim:** Select markets by combining location attraction with home–host distance and firm fit.
+
+**Use in an answer:** Identify the relevant border friction, show how the mechanism changes the strategic alternatives, and state conditions that would change your recommendation. Reading import is not evidence that the student has attended or finished preparation.

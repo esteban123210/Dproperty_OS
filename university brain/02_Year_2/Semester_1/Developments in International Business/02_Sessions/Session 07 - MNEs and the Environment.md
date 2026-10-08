@@ -60,4 +60,16 @@ Assess how the extent, pace, and pattern of internationalization shape MNE perfo
 **Framework:**  
 **Use when:**  
 **Main trade-off:**  
-**Compare with:**  
+**Compare with:**
+
+## Imported course knowledge as of 8 October 2026
+
+Session 7 joins pace, extent and pattern of internationalization with capability and stakeholder constraints. Kim explains speed-by-region; Lu and Beamish explain diversification extent; Henisz et al. explain how stakeholder cooperation protects realized value. Shopee allows these mechanisms to be compared, but the uploaded study aids do not substitute for the absent lecture deck.
+
+[Canonical session source pack](../03_Readings/Session_07/00%20-%20Session%207%20Source%20Pack.md) · [Case facts and official task](../04_Cases/Session_07/Shopee%20-%20Case%20Note.md)
+
+### Retrieval and application
+
+**Core claim:** Session 7 joins pace, extent and pattern of internationalization with capability and stakeholder constraints.
+
+**Use in an answer:** Identify the relevant border friction, show how the mechanism changes the strategic alternatives, and state conditions that would change your recommendation. Reading import is not evidence that the student has attended or finished preparation.

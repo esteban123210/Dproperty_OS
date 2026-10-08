@@ -55,4 +55,16 @@ Understand the government-related risks and uncertainties companies face regardi
 **Framework:**  
 **Use when:**  
 **Main trade-off:**  
-**Compare with:**  
+**Compare with:**
+
+## Imported course knowledge as of 8 October 2026
+
+Strong contracts do not eliminate political uncertainty or secure operational acceptance. The AES discussion connects location selection and timing clocks, country versus site characteristics, incentives, competitive effects and firm fit; political, economic and legal systems; government control over industry economics; supranational institutions; and bargaining. Distinguish a legal return promised by a contract from realized collection and cash flow. The deck cover incorrectly says Session 1; its filename, module and content identify Session 4.
+
+[Canonical session source pack](../03_Readings/Session_04/00%20-%20Session%204%20Source%20Pack.md) · [Case facts and official task](../04_Cases/Session_04/AES%20Telasi%20-%20Case%20Note.md) · [Uploaded student work](../05_Assignments/Session_04/AES%20Telasi%20-%20Submitted%20Discussion%20Paper.md)
+
+### Retrieval and application
+
+**Core claim:** Strong contracts do not eliminate political uncertainty or secure operational acceptance.
+
+**Use in an answer:** Identify the relevant border friction, show how the mechanism changes the strategic alternatives, and state conditions that would change your recommendation. Reading import is not evidence that the student has attended or finished preparation.
