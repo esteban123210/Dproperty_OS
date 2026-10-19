@@ -7,7 +7,7 @@ A standalone, offline study game for the uploaded Developments in International 
 Download `DIB-Quest.html` and open it in a modern browser. GitHub displays HTML source rather than running this file. No installation, account, server or network access is required for the game. Links to canonical repository notes require internet access, but their text is also embedded in the game.
 
 1. Choose a grade ambition. All tracks are selectable immediately.
-2. Open any of the seven session worlds and read its topic briefings.
+2. Open any of the seven weeks and read its topic briefings.
 3. Play a session mission or a mixed ten-question raid. Choose an answer, commit it and inspect the reasoning. Options shuffle; repeated cleared questions do not farm XP.
 4. Use Repair mistakes for wrong or hinted answers. A hinted attempt is guided practice and does not clear a quiz skill.
 5. At Mastery, write and review the topic challenges and the four practice-exam responses.
@@ -35,7 +35,7 @@ Progress and drafts stay in browser local storage when available. Changing brows
 
 ## Coverage
 
-The campaign contains 47 topics, 141 quiz questions, 51 writing challenges and 58 embedded knowledge files. Its seven worlds include readings, foundational lecture concepts and case-transfer practice. The course outline excludes direct examination of debated cases; these are labelled as transfer laboratories.
+The campaign contains 47 topics, 141 quiz questions, 51 writing challenges and 58 embedded knowledge files. Its seven weeks include readings, foundational lecture concepts and case-transfer practice. The course outline excludes direct examination of debated cases; these are labelled as transfer laboratories.
 
 Missing source material remains missing: Session 7 slides, the Lindner & Puck textbook chapters, announced AI guest-talk materials and an official mock answer key. Figure images remain in canonical repository notes; the standalone library preserves the knowledge-file text and figure references, not every image. Original publications, AI-labelled condensed aids and submitted work retain distinct provenance.
 
