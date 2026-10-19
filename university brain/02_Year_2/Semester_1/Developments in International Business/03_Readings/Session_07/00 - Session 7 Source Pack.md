@@ -23,3 +23,7 @@
 ## Coverage limits
 
 The assigned Lindner & Puck (2025) textbook chapters are not in this archive. [Source register and gaps](../../01_Admin/Source%20Register%20and%20Import%20Audit.md) lists provenance and ambiguities.
+
+## Student draft review archived 19 October 2026
+
+[Shopee assignment draft and review](../../05_Assignments/Session_07/Shopee%20-%20Draft%20and%20Review.md) preserves an anonymized summary of the supplied one-page non-presenting-team draft and its feedback. This is not evidence of final submission or an official grade. [DIB Quest](../../06_Exam/DIB%20Quest/README.md) incorporates the transferable evidence and theory distinctions into practice questions.

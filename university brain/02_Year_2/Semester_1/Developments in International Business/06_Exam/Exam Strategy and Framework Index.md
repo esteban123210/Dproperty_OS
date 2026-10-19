@@ -120,3 +120,13 @@ State what management should do, the trade-off accepted, and the conditions unde
 ### Coverage status
 
 The Brain now has source text for uploaded readings and slides, individual retrieval notes, case tasks and submitted work. Session 7 slides, textbook chapters, the announced AI guest-talk material and an official mock-exam answer key remain unavailable. Keep the actual-exam rules separate from practice-sheet timing and word limits.
+
+## Interactive exam preparation — 19 October 2026
+
+[DIB Quest](DIB%20Quest/README.md) offers selectable Foundations (5.5–6.0), Application (6.5–7.0), Analysis (7.5–8.5) and Mastery (9.0–10.0) ambitions. Higher tracks accumulate earlier skills. Quiz correctness is automatically checked; written responses use explicitly self-assessed rubrics. These are study ambitions, not predicted grades.
+
+The standalone file has 47 topic quests, 141 quizzes, 47 topic writing prompts, four mock-exam prompts, a 120-minute practice timer, mistake repair, XP/badges, local progress and text/file backups. The embedded source library works offline. Download and open the HTML in a browser; GitHub itself displays its source.
+
+[Shopee draft review](../05_Assignments/Session_07/Shopee%20-%20Draft%20and%20Review.md) provides an applied lesson in qualifying causal claims, separating aggregate and country evidence, and comparing speed with diversification extent. It is a draft review, not an official grade or final submission.
+
+Source gaps and self-assessment limitations are documented in the [coverage audit](DIB%20Quest/Coverage%20and%20Verification.md).

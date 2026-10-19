@@ -81,3 +81,12 @@ The course archive is now incorporated as a Markdown knowledge layer. Session 1 
 - [00 - Session 5 Source Pack](03_Readings/Session_05/00%20-%20Session%205%20Source%20Pack.md)
 - [00 - Session 6 Source Pack](03_Readings/Session_06/00%20-%20Session%206%20Source%20Pack.md)
 - [00 - Session 7 Source Pack](03_Readings/Session_07/00%20-%20Session%207%20Source%20Pack.md)
+
+## DIB Quest exam campaign — 19 October 2026
+
+Choose a grade ambition and study the whole available course pack with 47 topics, 141 quizzes, 51 writing challenges and an offline reference library. Progress stays in your browser; written work uses transparent self-review rather than automated grading.
+
+- [Open the study-game guide](06_Exam/DIB%20Quest/README.md)
+- [Download the standalone HTML game](06_Exam/DIB%20Quest/DIB-Quest.html)
+- [Shopee draft and feedback](05_Assignments/Session_07/Shopee%20-%20Draft%20and%20Review.md)
+- [Coverage and verification](06_Exam/DIB%20Quest/Coverage%20and%20Verification.md)
