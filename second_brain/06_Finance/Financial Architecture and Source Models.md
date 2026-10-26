@@ -47,3 +47,18 @@ Add a locked actuals import for bank/payroll/vendor/customer data; budget vs act
 ## Architecture cost allocation — 2026-09-29 [D]
 
 BlankCRM carries configuration/support and third-party costs for the full commercial lifecycle, including legal/approval/signature/payment/commission integrations. BluePrint carries evidence ingestion, financial reconciliation, CRM/process oversight, management governance and executive AI costs. Existing prices, rates, forecasts and formulas are unchanged assumptions, not validation of the revised scope. Requote both delivery scopes before committing budgets; do not fund a BluePrint transaction-execution engine or require BluePrint for standalone BlankCRM.
+
+
+
+## Dproperty Select sourcing-network scenario — 2026-10-26 [A/H]
+
+**Status:** management upside scenario, NOT adopted in the 60-month integrated base case. See [[Dproperty Select Network Sourcing Projection - 2026-10-26]] for detailed assumptions, attribution, ramps and safeguards. **Do not add this to existing forecast totals** until source models and commission/royalty overlaps have been reconciled.
+
+- [A] Mature active branded franchise originates **2–3 newly accepted Select projects per year** (midpoint 2.5).
+- [A] Network closes **40 units per accepted project** on the modeled annual run-rate; $300,000 per unit; **5% realized developer commission**.
+- [A] Net distributable Select commissions allocated **30% HQ / 20% registered originating franchise / 50% selling party or parties**, after contractually defined deductions. An originating franchise that sells the unit collects 70%; HQ-originated projects yield 50% to HQ if a partner sells.
+- Per mature franchise-originated annual project cohort: **$24M–$36M property GMV**, **$1.2M–$1.8M distributable commissions**, **$360k–$540k gross HQ Select share**, **$240k–$360k originator share**, **$600k–$900k seller pool**.
+- Midpoint **2.5 projects**: $30M GMV, $1.5M total commission, **$450k HQ**, $300k origination, $750k sales pool per mature franchise-cohort per year.
+- The assumed 40 closed units **must not be treated as guaranteed in the sourcing year**; phased sell-through, project delivery calendars, partner activation, inventory duplication and cash collection require a cohort model.
+- The network allocation is a replacement proposal for the prior Select fixed-price payout of branded franchise 2.5% sale price and B_ Partner 1.5%; those prior terms remain archived assumptions pending executed agreement changes. No extra 6% royalty on the same Select payout unless separately contracted, clearly based and reconciled.
+- The brand fund is restricted; VAT/sales tax, refunds, legal brokerage eligibility, developer agreements, partner commission splits, booking/cancellation leakage, support and servicing costs, and revenue recognition need diligence.
