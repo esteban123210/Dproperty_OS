@@ -1137,3 +1137,13 @@ The correct B_ market model is bottom-up:
 > reachable target organizations × validated ACV + completed attributable GMV × realized net take rate + separately modeled franchise and service revenue.
 
 It must be rebuilt quarterly from actual cohorts.
+
+
+
+## Dproperty Select global sourcing and distribution model — proposed 2026-10-26 [A/H]
+
+Dproperty HQ retains centralized control of Select qualification, developer contracts, compliance and commission clearing. Branded franchisees are two-sided participants: each may **originate** curated developer projects and **sell** any authorized Select project across the network. An accepted sourcing franchise earns 20% of each eligible realized project's distributable commission, the authorized selling party(ies) share 50%, and HQ earns 30%. Where the same franchise originates and sells, it earns 70%. If HQ itself sources the developer agreement and a franchise sells, HQ earns 50% and the seller 50%. Allocation rights require an approved source registration, contract term and dispute protocol. Project introductions alone do not create perpetual economics.
+
+**Mature activity assumption [A], not demonstrated conversion [F]:** each active branded franchise brings 2–3 accepted projects per year, 40 completed unit sales per project at $300k/unit, 5% total commission. Each 40-unit project yields $12M sold property volume, $600k gross commission, $180k HQ / $120k originator / $300k seller pool. At 2–3 projects: **$360k–$540k HQ Select gross commission per mature franchise-originated annual cohort** before direct costs and tax, not guaranteed annual cash revenue. This is **transaction-linked repeat revenue, not contracted ARR**.
+
+**Financial model control:** [[../06_Finance/Dproperty Select Network Sourcing Projection - 2026-10-26]] is a separately identified strategic scenario. The existing integrated 60-month capitalization model and board EBITDA numbers are **not revised** by this markdown note. Do not double-count royalties, project sourcing shares, marketing fund receipts, or revenue already present in VAULTED/developer lines. Validate sell-through and commission collections by vintage before promoting into base-case projections.
