@@ -64,3 +64,8 @@ Originators cannot:
 ## Strategic Role
 
 Dproperty Select is one of the most important moats of the branded franchise system, and a core reason branded franchises carry investment priority over white-label (higher Select payout, deeper access).
+
+
+## 2026-10-26 proposed sourcing-network update
+
+The proposed **30/20/50 split** rewards HQ network management, the approved project-originating Dproperty franchise, and the selling partner respectively, from collected distributable project commissions. This **supersedes the historic branded-project 2.5%-of-sale-price proposal for new modeled Select transactions** but requires written contractual implementation; B_ Partner terms remain undecided. Franchises participate as both project sources and international distributors; HQ retains project curation, standards and contract control. No automatic royalty layering on Select payouts. See [[../02_Offers/08_Dproperty_Select/05 - Commission Split]] and [[../06_Finance/Dproperty Select Network Sourcing Projection - 2026-10-26]].
